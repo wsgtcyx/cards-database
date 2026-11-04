@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/059",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/059",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/059",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/059",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/059",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/059",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/059",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/059",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/059"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/059/2530085d5003118f",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/059/2530085d5003118f",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/059/2530085d5003118f",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/059/2530085d5003118f",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/059/2530085d5003118f",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/059/2530085d5003118f",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/059/2530085d5003118f",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/059/2530085d5003118f",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/059/2530085d5003118f"
     },
     name: {
         en: "Riolu",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "利歐路",
     },
     illustrator: "Akira Komayama",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     hp: 70,
     types: ["Fighting"],
@@ -38,7 +38,7 @@ const card: Card = {
         'pt-br': "Eles comunicam-se uns com os outros usando suas auras.\nSão capazes de correr a noite inteira.",
         ja: "仲間同士で 波動を 出して コミュニケーションを とっている。 一晩中 走り続けられる。",
         ko: "파동을 내서\n동료끼리 의사소통을 한다.\n밤새도록 계속 달릴 수 있다.",
-        "zh-tw": "他們使用自己的方式相互交流\n光環。他們能夠整夜奔跑。"
+        "zh-tw": "夥伴們之間會透過發出波導來與彼此溝通。跑步可以跑上一整晚。"
     },
     stage: "Basic",
     attacks: [{
@@ -51,7 +51,7 @@ const card: Card = {
                 'pt-br': "Soco",
                 ja: "パンチ",
                 ko: "펀치",
-                "zh-tw": "沖床"
+                "zh-tw": "出拳"
             },
             cost: ["Fighting", "Fighting"],
             damage: 40

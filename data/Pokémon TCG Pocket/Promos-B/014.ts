@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/014",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/014",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/014",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/014",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/014",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/014",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/014",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/014",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/014"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/014/21515f5e719f544f",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/014/21515f5e719f544f",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/014/21515f5e719f544f",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/014/21515f5e719f544f",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/014/21515f5e719f544f",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/014/21515f5e719f544f",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/014/21515f5e719f544f",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/014/21515f5e719f544f",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/014/21515f5e719f544f"
     },
     name: {
         en: "Magikarp",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "コイキング"
     },
     illustrator: "sui",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     hp: 30,
     types: ["Water"],
@@ -34,12 +34,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
-        fr: "La puissance de cette créature a beaucoup régressé\nau fil des siècles.",
+        fr: "Il paraît que ses lointains ancêtres étaient assez puissants, mais les spécimens d'aujourd'hui sont extrêmement faibles.",
         es: "En un pasado lejano, era más fuerte de lo que hoy\nson sus débiles descendientes.",
-        it: "Anticamente era molto più forte dell’odierno\ndiscendente, che è debolissimo.",
-        de: "Die urzeitlichen Vorfahren dieses Pokémon waren\nsehr viel stärker als ihre heutigen Nachkommen.",
+        it: "Pare che anticamente fosse un tantino più forte. Oggi è così debole da fare quasi pena.",
+        de: "Die urzeitlichen Vorfahren dieses Pokémon waren etwas stärker als ihre heutigen, kümmerlichen Nachkommen.",
         "pt-br": "No passado distante, era um pouco mais forte do que os descendentes terrivelmente fracos que existem hoje.",
-        "zh-tw": "在遙遠的過去，它比現在弱小的後裔要強一些。",
+        "zh-tw": "很久以前的鯉魚王好像比現在強上一些，但是現在卻弱得可憐。",
         ja: "大昔は まだ もう少し 強かったらしい。しかし 今は 悲しいくらいに 弱いのだ。",
         ko: "아주 먼 옛날에는 좀 더\n강했던 것 같다. 그러나 지금은\n안쓰러울 정도로 약하다."
     },
@@ -59,12 +59,12 @@ const card: Card = {
             },
             effect: {
                 en: "Flip 2 coins. If both of them are heads, this attack does 20 more damage.",
-                fr: "Lancez 2 pièces. Si les deux sont face, cette attaque inflige 20 dégâts supplémentaires.",
-                es: "Lanza 2 monedas. Si ambos son cara, este ataque hace 20 puntos de daño más.",
-                it: "Lancia 2 monete. Se entrambi escono testa, questo attacco infligge 20 danni in più.",
-                de: "Wirf 2 Münzen. Wenn beide Köpfe sind, fügt dieser Angriff 20 Schadenspunkte mehr zu.",
-                "pt-br": "Jogue 2 moedas. Se ambos derem cara, este ataque causa 20 de dano a mais.",
-                "zh-tw": "翻轉 2 個硬幣。如果兩人都是正面，這次攻擊會造成額外 20 點傷害。",
+                fr: "Lancez 2 pièces. Si toutes sont côté face, cette attaque inflige 20 dégâts de plus.",
+                es: "Lanza 2 monedas. Si en las dos sale cara, este ataque hace 20 puntos de daño más.",
+                it: "Lancia 2 volte una moneta. Se esce testa entrambe le volte, questo attacco infligge 20 danni in più.",
+                de: "Wirf 2 Münzen. Zeigen beide Münzen Kopf, fügt diese Attacke 20 Schadenspunkte mehr zu.",
+                "pt-br": "Jogue 2 moedas. Se as duas saírem cara, este ataque causará 20 pontos de dano a mais.",
+                "zh-tw": "擲2次硬幣,若全部為正面,則增加20點傷害。",
                 ja: "コインを2回投げ、すべてオモテなら、20ダメージ追加。",
                 ko: "동전을 2번 던져서 모두 앞면이 나오면 20데미지를 추가한다."
             },

@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/031",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/031",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/031",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/031",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/031",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/031",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/031",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/031",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/031"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/031/cfb3088e017742b7",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/031/cfb3088e017742b7",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/031/cfb3088e017742b7",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/031/cfb3088e017742b7",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/031/cfb3088e017742b7",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/031/cfb3088e017742b7",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/031/cfb3088e017742b7",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/031/cfb3088e017742b7",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/031/cfb3088e017742b7"
     },
     name: {
         en: "Cinderace",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "エースバーン"
     },
     illustrator: "Shin Nagasawa",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     hp: 130,
     types: ["Fire"],
@@ -45,12 +45,12 @@ const card: Card = {
     stage: "Stage2",
     description: {
         en: "Using a ball that it made out of flames, Cinderace blinds its opponents and keeps them at bay.",
-        fr: "À l'aide d'une balle qu'il a fabriquée avec des flammes, Pyrobut aveugle ses adversaires et les tient à distance.",
-        es: "Usando una bola que hizo con llamas, Cinderace ciega a sus oponentes y los mantiene a raya.",
-        it: "Usando una palla creata con le fiamme, Cinderace acceca i suoi avversari e li tiene a bada.",
-        de: "Mit einem aus Flammen geformten Ball blendet Liberlo seine Gegner und hält sie auf Distanz.",
-        "pt-br": "Usando uma bola feita de chamas, Cinderace cega seus oponentes e os mantém afastados.",
-        "zh-tw": "閃焰王牌 使用由​​火焰製成的球來蒙蔽對手並將其拒之門外。",
+        fr: "Il crée des ballons de flammes et s'en sert pour tenir ses adversaires à distance ou pour les aveugler.",
+        es: "Maneja los balones de fuego que crea para mantener a raya a sus adversarios o cegarlos.",
+        it: "Adopera la sua palla di fuoco per tenere a bada l'avversario e accecarlo.",
+        de: "Es erschafft einen Ball aus Flammen, mit dem es seine Gegner blendet und in Schach hält.",
+        "pt-br": "Com a sua bola de fogo, Cinderace cega os oponentes e os mantém bem longe.",
+        "zh-tw": "會控制火焰做成的球來牽制對手，或將球用在障眼法上。",
         ja: "炎で 作った ボールを 操って 相手を 牽制したり 目くらましに 使ったりする。",
         ko: "불꽃으로 만든 볼을 움직여\n상대를 견제하거나\n눈속임에 사용하거나 한다."
     },
@@ -70,12 +70,12 @@ const card: Card = {
             },
             effect: {
                 en: "During your next turn, this Pokémon can't attack.",
-                fr: "Lors de votre prochain tour, ce Pokémon ne peut pas attaquer.",
+                fr: "Pendant votre prochain tour, ce Pokémon ne peut pas attaquer.",
                 es: "Durante tu próximo turno, este Pokémon no puede atacar.",
                 it: "Durante il tuo prossimo turno, questo Pokémon non può attaccare.",
                 de: "Während deines nächsten Zuges kann dieses Pokémon nicht angreifen.",
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá atacar.",
-                "zh-tw": "在你的下一個回合中，這隻寶可夢無法攻擊。",
+                "zh-tw": "在下個自己的回合,這隻寶可夢無法使用招式。",
                 ja: "次の自分の番、このポケモンはワザが使えない。",
                 ko: "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
             },

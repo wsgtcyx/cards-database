@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/068",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/068",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/068",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/068",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/068",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/068",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/068",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/068",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/068"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/068/221f3d26c4f2a36b",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/068/221f3d26c4f2a36b",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/068/221f3d26c4f2a36b",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/068/221f3d26c4f2a36b",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/068/221f3d26c4f2a36b",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/068/221f3d26c4f2a36b",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/068/221f3d26c4f2a36b",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/068/221f3d26c4f2a36b",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/068/221f3d26c4f2a36b"
     },
     name: {
         en: "Lycanroc",
@@ -49,7 +49,7 @@ const card: Card = {
         'pt-br': "Lycanroc ataca suas presas com seus caninos\ne garras afiadas. Obedece lealmente às instruções\nde um Treinador em quem confia.",
         ja: "鋭い ツメや キバで 獲物を 襲う。 信頼する トレーナーの 指示には 忠実に 従う。",
         ko: "날카로운 발톱과 이빨로 먹이를 공격한다.\n신뢰하는 트레이너의 지시에는\n충실히 따른다.",
-        "zh-tw": "狼人用其攻擊獵物\n鋒利的爪子和尖牙。它忠實地服從\n它信任的培訓師的指示。"
+        "zh-tw": "會用尖牙和利爪襲擊獵物。只要是信賴的訓練家下的指令，牠都會忠實地聽從。"
     },
     stage: "Stage1",
     attacks: [{
@@ -62,7 +62,7 @@ const card: Card = {
                 'pt-br': "Mastigada",
                 ja: "かみくだく",
                 ko: "깨물어부수기",
-                "zh-tw": "緊縮"
+                "zh-tw": "咬碎"
             },
             damage: 80,
             cost: ["Fighting", "Fighting", "Colorless"],
@@ -75,7 +75,7 @@ const card: Card = {
                 'pt-br': "Jogue uma moeda. Se sair cara, descarte 1 Energia aleatória do Pokémon Ativo do seu oponente.",
                 ja: "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에서 에너지를 랜덤으로 1개 트래쉬한다.",
-                "zh-tw": "拋一枚硬幣。如果出現正面，則丟棄對手的活躍神奇寶貝中的隨機能量。"
+                "zh-tw": "擲1次硬幣若為正面,則將對手的戰鬥寶可夢身上的隨機1個能量丟棄。"
             }
         }],
     weaknesses: [{

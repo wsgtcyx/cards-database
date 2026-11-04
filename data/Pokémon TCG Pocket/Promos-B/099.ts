@@ -71,15 +71,15 @@ const card: Card = {
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/099",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/099",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/099",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/099",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/099",
-        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/099",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/099",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/099",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/099"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/099/36a844ef18423797",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/099/36a844ef18423797",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/099/36a844ef18423797",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/099/36a844ef18423797",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/099/36a844ef18423797",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/099/36a844ef18423797",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/099/36a844ef18423797",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/099/36a844ef18423797",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/099/36a844ef18423797"
     },
     boosters: [
         "vol13"

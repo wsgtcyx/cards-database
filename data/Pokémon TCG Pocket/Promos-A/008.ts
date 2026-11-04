@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/008",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/008",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/008",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/008",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/008",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/008",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/008",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/008",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/008"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/008/b4787dd9e9c5a678",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/008/b4787dd9e9c5a678",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/008/b4787dd9e9c5a678",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/008/b4787dd9e9c5a678",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/008/b4787dd9e9c5a678",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/008/b4787dd9e9c5a678",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/008/b4787dd9e9c5a678",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/008/b4787dd9e9c5a678",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/008/b4787dd9e9c5a678"
     },
     name: {
         en: "Pokédex",
@@ -25,18 +25,18 @@ const card: Card = {
         "zh-tw": "寶可夢圖鑑"
     },
     illustrator: "Yuu Nishida",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Trainer",
     effect: {
         en: "Look at the top 3 cards of your deck.",
-        fr: "Regardez la première carte du dessus de votre deck.",
-        es: "Mira la primera carta de tu baraja.",
-        it: "Guarda la prima carta del tuo mazzo.",
-        de: "Schau dir die oberste Karte deines Decks an.",
-        'pt-br': "Olhe a 1 carta de cima do seu baralho.",
+        fr: "Regardez les 3 premières cartes du dessus de votre deck.",
+        es: "Mira las 3 primeras cartas de tu baraja.",
+        it: "Guarda le prime 3 carte del tuo mazzo.",
+        de: "Schau dir die obersten 3 Karten deines Decks an.",
+        'pt-br': "Olhe as 3 cartas de cima do seu baralho.",
         ja: "自分の山札を上から3枚見て、もとにもどす。",
         ko: "자신의 덱을 위에서부터 3장 보고 원래대로 되돌린다.",
-        "zh-tw": "查看你牌組頂的 3 張牌。"
+        "zh-tw": "查看自己的牌庫上方3張卡,回復原樣。"
     },
     trainerType: "Item",
     boosters: []

@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/027",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/027",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/027",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/027",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/027",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/027",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/027",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/027",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/027"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/027/bf2942a737d94f94",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/027/bf2942a737d94f94",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/027/bf2942a737d94f94",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/027/bf2942a737d94f94",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/027/bf2942a737d94f94",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/027/bf2942a737d94f94",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/027/bf2942a737d94f94",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/027/bf2942a737d94f94",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/027/bf2942a737d94f94"
     },
     name: {
         en: "Plusle",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "プラスル"
     },
     illustrator: "Yuka Morii",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     hp: 70,
     types: ["Lightning"],
@@ -34,12 +34,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "This Pokémon absorbs electricity from telephone poles. It shorts out the electricity stored inside its body to create noises.",
-        fr: "Ce Pokémon absorbe l'électricité des poteaux téléphoniques. Il court-circuite l’électricité stockée à l’intérieur de son corps pour créer des bruits.",
-        es: "Este Pokémon absorbe electricidad de los postes telefónicos. Corta la electricidad almacenada dentro de su cuerpo para crear ruidos.",
-        it: "Questo Pokémon assorbe l'elettricità dai pali del telefono. Mette in cortocircuito l'elettricità immagazzinata nel suo corpo per creare rumori.",
-        de: "Dieses Pokémon absorbiert Elektrizität von Telefonmasten. Es schließt die in seinem Körper gespeicherte Elektrizität kurz und erzeugt Geräusche.",
-        "pt-br": "Este Pokémon absorve eletricidade de postes telefônicos. Ele causa um curto-circuito na eletricidade armazenada dentro de seu corpo para criar ruídos.",
-        "zh-tw": "這隻寶可夢從電線桿吸收電力。它使體內儲存的電流短路，從而產生噪音。",
+        fr: "Il absorbe l'énergie des poteaux électriques et court-circuite celle qui est emmagasinée dans son corps pour produire des sons.",
+        es: "Absorbe electricidad de los postes de teléfono. La almacena y crea cortocircuitos en su cuerpo para producir sonidos.",
+        it: "Assorbe elettricità dai pali della luce, la accumula e poi crea dei rumorosi cortocircuiti.",
+        de: "Es saugt Elektrizität aus Strommasten. Erzeugt es mit dem im Körper gespeicherten Strom einen Kurzschluss, erklingt ein Geräusch.",
+        "pt-br": "Este Pokémon absorve eletricidade de postes telefônicos e descarrega a energia armazenada em seu corpo em forma de sons.",
+        "zh-tw": "能從電線桿上吸取電力。會透過讓體內儲存的電流短路來發出聲音。",
         ja: "電柱から 電気を 吸い取る。 体に 溜めた 電気を ショートさせて 音を 出す。",
         ko: "전신주에서 전기를 흡수한다.\n몸에 모은 전기를\n합선시켜 소리를 낸다."
     },
@@ -59,12 +59,12 @@ const card: Card = {
             },
             effect: {
                 en: "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
-                fr: "Lancez une pièce de monnaie. Si c'est face, le Pokémon Actif de votre adversaire est désormais Paralysé.",
-                es: "Lanza una moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado.",
-                it: "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario è paralizzato.",
-                de: "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
-                "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
-                "zh-tw": "拋一枚硬幣。如果正面，則對手的戰鬥寶可夢現在處於麻痺狀態。",
+                fr: "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+                es: "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado.",
+                it: "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene paralizzato.",
+                de: "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.",
+                "pt-br": "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Paralisado.",
+                "zh-tw": "擲1次硬幣若為正面,則將對手的戰鬥寶可夢麻痺。",
                 ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
             },

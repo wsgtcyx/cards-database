@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/056",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/056",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/056",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/056",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/056",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/056",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/056",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/056",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/056"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/056/350e70cd31f6324f",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/056/350e70cd31f6324f",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/056/350e70cd31f6324f",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/056/350e70cd31f6324f",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/056/350e70cd31f6324f",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/056/350e70cd31f6324f",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/056/350e70cd31f6324f",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/056/350e70cd31f6324f",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/056/350e70cd31f6324f"
     },
     name: {
         en: "Ekans",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "阿柏蛇",
     },
     illustrator: "Krgc",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     hp: 60,
     types: ["Darkness"],
@@ -38,7 +38,7 @@ const card: Card = {
         'pt-br': "Desloca a própria mandíbula para engolir presas\nmaiores que si mesmo. Depois de uma refeição,\nse enrosca e descansa.",
         ja: "顎を 外すことで 自分より 大きな 獲物も 丸呑みに する。 食後は 身体を 丸め 休む。",
         ko: "턱을 빼 자신보다\n큰 먹이를 통째로 삼킨다.\n식후에는 몸을 둥글게 하고 쉰다.",
-        "zh-tw": "通過使下巴脫臼，它可以吞下更大的獵物\n比它本身。吃完飯後，它會蜷縮起來休息。"
+        "zh-tw": "會藉由讓下顎脫臼來吞食比自己更大的獵物。進食之後會蜷縮起身子休息。"
     },
     stage: "Basic",
     attacks: [{
@@ -51,7 +51,7 @@ const card: Card = {
                 'pt-br': "Ferrão Venenoso",
                 ja: "どくばり",
                 ko: "독침",
-                "zh-tw": "毒刺"
+                "zh-tw": "毒針"
             },
             cost: ["Darkness"],
             effect: {
@@ -63,7 +63,7 @@ const card: Card = {
                 ja: "相手のバトルポケモンをどくにする。",
                 ko: "상대의 배틀 포켓몬을 독으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Envenenado.",
-                "zh-tw": "你對手的主動神奇寶貝現在中毒了。"
+                "zh-tw": "將對手的戰鬥寶可夢中毒。"
             }
         }],
     weaknesses: [{

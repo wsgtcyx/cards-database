@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "decisions": [
+    {
+      "cardId": "P-A-005",
+      "locale": "en",
+      "path": "effect",
+      "expectedCurrent": "Put a random Basic Pokémon from your deck into your hand.",
+      "value": "Put 1 random Basic Pokémon from your deck into your hand.",
+      "review": "Native rules text and energy icons visually compared in labeled body contact sheets",
+      "sourceImageSha256": "5a22bca5dbda36b28a3d42c5be739b7e5e9d3332c6012bca279f725c87cb05d2",
+      "sourceImageBytes": 189080,
+      "file": "data/Pokémon TCG Pocket/Promos-A/005.ts",
+      "evidence": {
+        "sourceImageSha256": "5a22bca5dbda36b28a3d42c5be739b7e5e9d3332c6012bca279f725c87cb05d2",
+        "sourceImageBytes": 189080,
+        "review": "Native rules text and energy icons visually compared in labeled body contact sheets"
+      }
+    }
+  ]
+}

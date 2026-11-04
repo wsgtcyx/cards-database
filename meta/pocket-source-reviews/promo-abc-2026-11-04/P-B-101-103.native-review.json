@@ -1,0 +1,3235 @@
+[
+  {
+    "cardId": "P-B-101",
+    "locale": "en",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/101_en.png",
+    "sourceImageSha256": "291acfe0ccd3d771a1f295c0430a66cda67e63300e9032659e2d4366397a8dd4",
+    "sourceImageBytes": 285607,
+    "sourceSize": [
+      367,
+      512
+    ],
+    "review": "Manually compared all chosen text and mechanical values to the native card face; OCR is advisory.",
+    "chosen": {
+      "name": "Charmander",
+      "illustrator": "Sachiko Adachi",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "name": "Flame Tail",
+          "damage": 30
+        }
+      ],
+      "description": "If Charmander is healthy, the flame on the tip of its tail will burn vigorously and won’t go out even if it gets a bit wet."
+    },
+    "ocr": [
+      {
+        "text": "Charmander",
+        "bbox": [
+          64,
+          20,
+          213,
+          44
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "",
+        "bbox": [
+          12,
+          23,
+          361,
+          509
+        ],
+        "label": "image"
+      },
+      {
+        "text": "NO. 0004 Lizard Pokémon HT: 2' WT: 18.7 lbs.",
+        "bbox": [
+          109,
+          245,
+          258,
+          256
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Illus. Sochiko Adochi",
+        "bbox": [
+          25,
+          457,
+          96,
+          467
+        ],
+        "label": "text"
+      },
+      {
+        "text": "If Charmander is healthy, the flame on the tip of its tail will burn vigorously and won't go out even if he gets a bit wet.",
+        "bbox": [
+          156,
+          459,
+          343,
+          494
+        ],
+        "label": "text"
+      }
+    ]
+  },
+  {
+    "cardId": "P-B-101",
+    "locale": "fr",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/101_fr.png",
+    "sourceImageSha256": "1328202e39be813181f54c0bef4df8a8d9ce3b674c68ae59bca07d1fe9ed20db",
+    "sourceImageBytes": 286967,
+    "sourceSize": [
+      367,
+      512
+    ],
+    "review": "Manually compared all chosen text and mechanical values to the native card face; OCR is advisory.",
+    "chosen": {
+      "name": "Salamèche",
+      "illustrator": "Sachiko Adachi",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "name": "Queue de Flammes",
+          "damage": 30
+        }
+      ],
+      "description": "Quand il est en bonne santé, la flamme au bout de sa queue continue de flamboyer même si elle est légèrement aspergée d’eau."
+    },
+    "ocr": [
+      {
+        "text": "Salamèche",
+        "bbox": [
+          65,
+          20,
+          188,
+          44
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "",
+        "bbox": [
+          275,
+          18,
+          350,
+          44
+        ],
+        "label": "header_image"
+      },
+      {
+        "text": "",
+        "bbox": [
+          26,
+          49,
+          349,
+          241
+        ],
+        "label": "image"
+      },
+      {
+        "text": "N° 0004 Pokémon Légard Taille : 0,6 m Poids : 8,5 kg",
+        "bbox": [
+          101,
+          245,
+          267,
+          256
+        ],
+        "label": "vision_footnote"
+      },
+      {
+        "text": "",
+        "bbox": [
+          22,
+          335,
+          67,
+          359
+        ],
+        "label": "image"
+      },
+      {
+        "text": "Queue de Flammes",
+        "bbox": [
+          111,
+          338,
+          287,
+          358
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "30",
+        "bbox": [
+          315,
+          335,
+          343,
+          357
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Faiblesse\n+20",
+        "bbox": [
+          52,
+          442,
+          89,
+          452
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          102,
+          438,
+          150,
+          455
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Illus. Sochiko Adochi",
+        "bbox": [
+          25,
+          457,
+          97,
+          467
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Retraite",
+        "bbox": [
+          206,
+          441,
+          241,
+          453
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "",
+        "bbox": [
+          251,
+          440,
+          268,
+          455
+        ],
+        "label": "image"
+      },
+      {
+        "text": "Quand il est en bonne santé, la flamme\nau bout de sa queue continue de flamboyer\nmême si elle est légèrement aspergée deau.",
+        "bbox": [
+          176,
+          460,
+          343,
+          495
+        ],
+        "label": "text"
+      }
+    ]
+  },
+  {
+    "cardId": "P-B-101",
+    "locale": "es",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/101_es.png",
+    "sourceImageSha256": "241991b9665f3e35e1b9385ca44aff03348d6dc57b8557a615dd0f2a044fe1af",
+    "sourceImageBytes": 286107,
+    "sourceSize": [
+      367,
+      512
+    ],
+    "review": "Manually compared all chosen text and mechanical values to the native card face; OCR is advisory.",
+    "chosen": {
+      "name": "Charmander",
+      "illustrator": "Sachiko Adachi",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "name": "Cola de Fuego",
+          "damage": 30
+        }
+      ],
+      "description": "Si está sano, la llama de la punta de su cola arderá vigorosamente, aunque se le moje un poco."
+    },
+    "ocr": [
+      {
+        "text": "Charmander",
+        "bbox": [
+          65,
+          20,
+          213,
+          44
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "",
+        "bbox": [
+          0,
+          50,
+          367,
+          510
+        ],
+        "label": "image"
+      },
+      {
+        "text": "N.° 0004 Pokémon Lagartija Altura: 0.6 m Pesok: 8.5 kg",
+        "bbox": [
+          99,
+          245,
+          268,
+          256
+        ],
+        "label": "vision_footnote"
+      },
+      {
+        "text": "Cola de Fuego",
+        "bbox": [
+          111,
+          337,
+          241,
+          360
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "Debilidad +20",
+        "bbox": [
+          51,
+          441,
+          90,
+          453
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          102,
+          438,
+          151,
+          455
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Jus. Sachiko Adachi",
+        "bbox": [
+          25,
+          457,
+          95,
+          467
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Retirada",
+        "bbox": [
+          206,
+          441,
+          241,
+          453
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Si está sano, la llama de la punta de su cola ardera\nvigorosamente, aunque se le moje un poco.",
+        "bbox": [
+          155,
+          465,
+          343,
+          490
+        ],
+        "label": "text"
+      }
+    ]
+  },
+  {
+    "cardId": "P-B-101",
+    "locale": "it",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/101_it.png",
+    "sourceImageSha256": "6323aa37857d5123bb1b3641434971459b89dfd94a200c38bf0dee85a63c00e4",
+    "sourceImageBytes": 286066,
+    "sourceSize": [
+      367,
+      512
+    ],
+    "review": "Manually compared all chosen text and mechanical values to the native card face; OCR is advisory.",
+    "chosen": {
+      "name": "Charmander",
+      "illustrator": "Sachiko Adachi",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "name": "Codafiamma",
+          "damage": 30
+        }
+      ],
+      "description": "Se è in forma, la fiamma che ha sulla punta della coda brucia con forza e non si spegne neanche se la coda si bagna un po’."
+    },
+    "ocr": [
+      {
+        "text": "Charmander",
+        "bbox": [
+          64,
+          20,
+          214,
+          44
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "",
+        "bbox": [
+          12,
+          18,
+          361,
+          509
+        ],
+        "label": "image"
+      },
+      {
+        "text": "N° 0004 Pokémon Lucertola Altezza: 0.6 m Peso: 8.5 kg",
+        "bbox": [
+          92,
+          245,
+          274,
+          256
+        ],
+        "label": "vision_footnote"
+      },
+      {
+        "text": "Codafiamma",
+        "bbox": [
+          111,
+          337,
+          228,
+          358
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "debolezza\n+20",
+        "bbox": [
+          51,
+          442,
+          91,
+          453
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          102,
+          438,
+          150,
+          455
+        ],
+        "label": "text"
+      },
+      {
+        "text": "III. Sochiko Adochi",
+        "bbox": [
+          25,
+          457,
+          90,
+          467
+        ],
+        "label": "text"
+      },
+      {
+        "text": "ritirata",
+        "bbox": [
+          209,
+          442,
+          239,
+          453
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Se é in forma, la fiamma che ha sulla punta della coda brucia\ncon forza e non si spegne neanche se la coda si bagna un po'",
+        "bbox": [
+          121,
+          466,
+          343,
+          490
+        ],
+        "label": "text"
+      }
+    ]
+  },
+  {
+    "cardId": "P-B-101",
+    "locale": "de",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/101_de.png",
+    "sourceImageSha256": "58380ba556fe00fc538f006760379d629ae41c8ae754f2649b0fd7dad9d6d3b7",
+    "sourceImageBytes": 287196,
+    "sourceSize": [
+      367,
+      512
+    ],
+    "review": "Manually compared all chosen text and mechanical values to the native card face; OCR is advisory.",
+    "chosen": {
+      "name": "Glumanda",
+      "illustrator": "Sachiko Adachi",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "name": "Flammenschweif",
+          "damage": 30
+        }
+      ],
+      "description": "Ist es gesund, strahlt die Flamme an seiner Schwanzspitze leuchtend hell und erlischt selbst dann nicht, wenn sie ein wenig nass wird."
+    },
+    "ocr": [
+      {
+        "text": "BASIS",
+        "bbox": [
+          17,
+          25,
+          55,
+          35
+        ],
+        "label": "header"
+      },
+      {
+        "text": "Glumanda",
+        "bbox": [
+          65,
+          20,
+          185,
+          43
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "",
+        "bbox": [
+          275,
+          18,
+          350,
+          45
+        ],
+        "label": "header_image"
+      },
+      {
+        "text": "",
+        "bbox": [
+          26,
+          49,
+          352,
+          242
+        ],
+        "label": "image"
+      },
+      {
+        "text": "Nr. 0004 Echsen-Pokémon Größe: 0,6 m Gewicht: 8,5 kg",
+        "bbox": [
+          94,
+          245,
+          273,
+          256
+        ],
+        "label": "vision_footnote"
+      },
+      {
+        "text": "",
+        "bbox": [
+          22,
+          335,
+          67,
+          359
+        ],
+        "label": "image"
+      },
+      {
+        "text": "Flammenschweif",
+        "bbox": [
+          111,
+          337,
+          264,
+          358
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "30",
+        "bbox": [
+          315,
+          335,
+          343,
+          357
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Schwäche +20",
+        "bbox": [
+          50,
+          441,
+          91,
+          453
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          102,
+          438,
+          150,
+          455
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Ilustr. Sochiko Adochi",
+        "bbox": [
+          25,
+          457,
+          101,
+          467
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Rückzug",
+        "bbox": [
+          206,
+          441,
+          242,
+          454
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "",
+        "bbox": [
+          250,
+          440,
+          268,
+          455
+        ],
+        "label": "image"
+      },
+      {
+        "text": "ist es gesund, strahlt die Flamme an seiner\nSchwanzspitze leuchtend hell und erlischt selbst\ndann nicht, wenn sie ein wenig nass wird.",
+        "bbox": [
+          161,
+          460,
+          343,
+          495
+        ],
+        "label": "text"
+      }
+    ]
+  },
+  {
+    "cardId": "P-B-101",
+    "locale": "pt-br",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/101_ptbr.png",
+    "sourceImageSha256": "94cf44de289c5226d436423e909b67a2dab8f292cd58b178c4da7fd9b8c3cb46",
+    "sourceImageBytes": 287515,
+    "sourceSize": [
+      367,
+      512
+    ],
+    "review": "Manually compared all chosen text and mechanical values to the native card face; OCR is advisory.",
+    "chosen": {
+      "name": "Charmander",
+      "illustrator": "Sachiko Adachi",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "name": "Cauda de Chamas",
+          "damage": 30
+        }
+      ],
+      "description": "Se Charmander estiver saudável, a chama na ponta da sua cauda queimará vigorosamente e não apagará mesmo que fique um pouco molhada."
+    },
+    "ocr": [
+      {
+        "text": "Charmander",
+        "bbox": [
+          65,
+          20,
+          213,
+          43
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "",
+        "bbox": [
+          321,
+          16,
+          349,
+          44
+        ],
+        "label": "header_image"
+      },
+      {
+        "text": "",
+        "bbox": [
+          26,
+          48,
+          351,
+          242
+        ],
+        "label": "image"
+      },
+      {
+        "text": "N° 0004 Pokémon Lagarto Altura: 0.6 m Peto: 8.5 kg",
+        "bbox": [
+          101,
+          245,
+          266,
+          256
+        ],
+        "label": "vision_footnote"
+      },
+      {
+        "text": "",
+        "bbox": [
+          22,
+          335,
+          67,
+          359
+        ],
+        "label": "image"
+      },
+      {
+        "text": "Cauda de Chamas",
+        "bbox": [
+          111,
+          338,
+          274,
+          358
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "30",
+        "bbox": [
+          315,
+          334,
+          343,
+          357
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Fraqueza\n+20",
+        "bbox": [
+          52,
+          442,
+          89,
+          453
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          102,
+          438,
+          150,
+          455
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Just Sachiko Adochi",
+        "bbox": [
+          25,
+          457,
+          97,
+          467
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Recuo",
+        "bbox": [
+          209,
+          441,
+          238,
+          453
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Se Charmander estiver saudável, a chama na ponta da\nsua cauda queimará vigorosamente e não apagará mesmo\nque fique um pouco molhada.",
+        "bbox": [
+          124,
+          459,
+          343,
+          495
+        ],
+        "label": "text"
+      }
+    ]
+  },
+  {
+    "cardId": "P-B-101",
+    "locale": "zh-tw",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/101_zh.png",
+    "sourceImageSha256": "672b988b26864b53687c2a92b474be0278e5e3f201ee08249e18a059e16436dd",
+    "sourceImageBytes": 285230,
+    "sourceSize": [
+      367,
+      512
+    ],
+    "review": "Manually compared all chosen text and mechanical values to the native card face; OCR is advisory.",
+    "chosen": {
+      "name": "小火龍",
+      "illustrator": "Sachiko Adachi",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "name": "火之尾",
+          "damage": 30
+        }
+      ],
+      "description": "如果小火龍的活力十足，那麼尾巴前端的火焰即使稍微淋濕也會熊熊燃燒，不會熄滅。"
+    },
+    "ocr": [
+      {
+        "text": "小火龍",
+        "bbox": [
+          65,
+          20,
+          134,
+          45
+        ],
+        "label": "header"
+      },
+      {
+        "text": "",
+        "bbox": [
+          275,
+          18,
+          350,
+          45
+        ],
+        "label": "header_image"
+      },
+      {
+        "text": "",
+        "bbox": [
+          18,
+          49,
+          353,
+          496
+        ],
+        "label": "image"
+      },
+      {
+        "text": "如果小火龍的活力十足\n那麼尾巴萌的火焰即使稍微\n淵溫也會賴賴燃燒，不會熄滅",
+        "bbox": [
+          227,
+          459,
+          343,
+          495
+        ],
+        "label": "footer"
+      }
+    ]
+  },
+  {
+    "cardId": "P-B-101",
+    "locale": "ja",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/101_ja.png",
+    "sourceImageSha256": "2256088783765e541b8ac077e855a5e8cab2586e2673d1db59392c2d08d1a125",
+    "sourceImageBytes": 286339,
+    "sourceSize": [
+      367,
+      512
+    ],
+    "review": "Manually compared all chosen text and mechanical values to the native card face; OCR is advisory.",
+    "chosen": {
+      "name": "ヒトカゲ",
+      "illustrator": "Sachiko Adachi",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "name": "ほのおのしっぽ",
+          "damage": 30
+        }
+      ],
+      "description": "尻尾の 先の 炎は 元気なら 少しくらい 濡れても 消えることなく 燃え盛る。"
+    },
+    "ocr": [
+      {
+        "text": "たねヒトカゲ",
+        "bbox": [
+          18,
+          19,
+          158,
+          44
+        ],
+        "label": "header"
+      },
+      {
+        "text": "",
+        "bbox": [
+          274,
+          17,
+          350,
+          45
+        ],
+        "label": "header_image"
+      },
+      {
+        "text": "",
+        "bbox": [
+          13,
+          30,
+          362,
+          508
+        ],
+        "label": "image"
+      },
+      {
+        "text": "全国図書NO.0004 とかげボケモン 高さ：0.6m 重さ：8.5kg",
+        "bbox": [
+          71,
+          244,
+          297,
+          256
+        ],
+        "label": "vision_footnote"
+      },
+      {
+        "text": "ほのおのしっぽ",
+        "bbox": [
+          110,
+          336,
+          231,
+          359
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "民の先炎は元気なら少しくらい漬れても消えることなく燃え盛る。",
+        "bbox": [
+          218,
+          459,
+          343,
+          495
+        ],
+        "label": "text"
+      }
+    ]
+  },
+  {
+    "cardId": "P-B-101",
+    "locale": "ko",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/101_ko.png",
+    "sourceImageSha256": "21b80c15a2d73c1ee09c6f6ffc3c61be35ab3cd2dcdbdf916f7aea8c6bd895b7",
+    "sourceImageBytes": 284079,
+    "sourceSize": [
+      367,
+      512
+    ],
+    "review": "Manually compared all chosen text and mechanical values to the native card face; OCR is advisory.",
+    "chosen": {
+      "name": "파이리",
+      "illustrator": "Sachiko Adachi",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "name": "불꽃 꼬리",
+          "damage": 30
+        }
+      ],
+      "description": "꼬리 끝의 불꽃은 건강할 때라면 조금 젖어도 꺼지지 않고 활활 타오른다."
+    }
+  },
+  {
+    "cardId": "P-B-102",
+    "locale": "en",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/102_en.png",
+    "sourceImageSha256": "8fce66d3e1be9d0c06384f1ef48f5ffe6d2ff9b5ba6edf1eb63d28c6dba65b6c",
+    "sourceImageBytes": 289194,
+    "sourceSize": [
+      367,
+      512
+    ],
+    "review": "Manually compared all chosen text and mechanical values to the native card face; OCR is advisory.",
+    "chosen": {
+      "name": "Drampa",
+      "illustrator": "match",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Power Blast",
+          "effect": "Discard a random Energy from this Pokémon.",
+          "damage": 70
+        }
+      ],
+      "description": "Drampa is a kind and friendly Pokémon—up until it’s angered. When that happens, it stirs up a gale and flattens everything around."
+    },
+    "ocr": [
+      {
+        "text": "",
+        "bbox": [
+          16,
+          24,
+          57,
+          37
+        ],
+        "label": "header_image"
+      },
+      {
+        "text": "Drampa",
+        "bbox": [
+          66,
+          22,
+          162,
+          46
+        ],
+        "label": "header"
+      },
+      {
+        "text": "HP 100",
+        "bbox": [
+          263,
+          18,
+          349,
+          45
+        ],
+        "label": "header"
+      },
+      {
+        "text": "",
+        "bbox": [
+          28,
+          50,
+          345,
+          242
+        ],
+        "label": "image"
+      },
+      {
+        "text": "NO. 0780 Placid Pokémon HT: 9'10\" WT: 407.9 lbs.",
+        "bbox": [
+          102,
+          245,
+          264,
+          256
+        ],
+        "label": "vision_footnote"
+      },
+      {
+        "text": "",
+        "bbox": [
+          22,
+          328,
+          67,
+          349
+        ],
+        "label": "image"
+      },
+      {
+        "text": "Power Blast",
+        "bbox": [
+          111,
+          330,
+          223,
+          349
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "Discard a random Energy from this Pokémon.",
+        "bbox": [
+          24,
+          351,
+          293,
+          368
+        ],
+        "label": "text"
+      },
+      {
+        "text": "weakness",
+        "bbox": [
+          51,
+          442,
+          90,
+          452
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Illus. match",
+        "bbox": [
+          25,
+          457,
+          65,
+          467
+        ],
+        "label": "text"
+      },
+      {
+        "text": "retreat",
+        "bbox": [
+          208,
+          443,
+          239,
+          453
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          251,
+          440,
+          268,
+          455
+        ],
+        "label": "image"
+      },
+      {
+        "text": "Drampa is a kind and friendly Pokémon—up until it's angered. When that happens, it stirs up a gale and flattens everything around.",
+        "bbox": [
+          156,
+          459,
+          343,
+          495
+        ],
+        "label": "text"
+      }
+    ]
+  },
+  {
+    "cardId": "P-B-102",
+    "locale": "fr",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/102_fr.png",
+    "sourceImageSha256": "cd231801ffa1249cea21c611e86b3af660b1038195d645f9001b34d470041aab",
+    "sourceImageBytes": 290394,
+    "sourceSize": [
+      367,
+      512
+    ],
+    "review": "Manually compared all chosen text and mechanical values to the native card face; OCR is advisory.",
+    "chosen": {
+      "name": "Draïeul",
+      "illustrator": "match",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Violente Déflagration",
+          "effect": "Défaussez une Énergie au hasard de ce Pokémon.",
+          "damage": 70
+        }
+      ],
+      "description": "Il est d’un naturel sociable et aimable, mais quand\nil se met en colère, il déchaîne des bourrasques\nqui emportent tout sur leur passage."
+    },
+    "ocr": [
+      {
+        "text": "BASE",
+        "bbox": [
+          18,
+          25,
+          54,
+          36
+        ],
+        "label": "header"
+      },
+      {
+        "text": "Draïeul",
+        "bbox": [
+          66,
+          20,
+          151,
+          43
+        ],
+        "label": "header"
+      },
+      {
+        "text": "PV 100",
+        "bbox": [
+          263,
+          18,
+          349,
+          44
+        ],
+        "label": "header"
+      },
+      {
+        "text": "",
+        "bbox": [
+          28,
+          50,
+          344,
+          241
+        ],
+        "label": "image"
+      },
+      {
+        "text": "N° 0780 Pokémon Nonchalant Taille : 3,0 m Poids : 185,0 kg",
+        "bbox": [
+          90,
+          246,
+          277,
+          256
+        ],
+        "label": "vision_footnote"
+      },
+      {
+        "text": "*** Violente Déflagration 70\nDéfaussez une Énergie au hasard de ce Pokémon.",
+        "bbox": [
+          22,
+          328,
+          342,
+          368
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "Faiblesse",
+        "bbox": [
+          53,
+          442,
+          89,
+          452
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Illus. match",
+        "bbox": [
+          25,
+          457,
+          65,
+          467
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Retraite",
+        "bbox": [
+          206,
+          442,
+          240,
+          453
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          251,
+          440,
+          268,
+          455
+        ],
+        "label": "image"
+      },
+      {
+        "text": "Il est d'un naturel sociable et aimable, mais quand\nil se met en colère, il déchaîne des bourrasques\nqui emportent tout sur leur passage.",
+        "bbox": [
+          156,
+          460,
+          343,
+          495
+        ],
+        "label": "text"
+      }
+    ]
+  },
+  {
+    "cardId": "P-B-102",
+    "locale": "es",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/102_es.png",
+    "sourceImageSha256": "255f777ddb9c25712ec56529039b7fb88b4e93b8a0c0a944d56ce20f1fbcb983",
+    "sourceImageBytes": 290509,
+    "sourceSize": [
+      367,
+      512
+    ],
+    "review": "Manually compared all chosen text and mechanical values to the native card face; OCR is advisory.",
+    "chosen": {
+      "name": "Drampa",
+      "illustrator": "match",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Estallido Vigoroso",
+          "effect": "Descarta 1 Energía aleatoria de este Pokémon.",
+          "damage": 70
+        }
+      ],
+      "description": "Es de naturaleza mansa y amable, pero, si se\nenfurece, puede desatar fuertes vientos capaces\nde llevarse cualquier cosa por delante."
+    },
+    "ocr": [
+      {
+        "text": "",
+        "bbox": [
+          13,
+          24,
+          60,
+          37
+        ],
+        "label": "header_image"
+      },
+      {
+        "text": "Drampa",
+        "bbox": [
+          66,
+          22,
+          161,
+          46
+        ],
+        "label": "header"
+      },
+      {
+        "text": "PS 100",
+        "bbox": [
+          264,
+          18,
+          349,
+          45
+        ],
+        "label": "header"
+      },
+      {
+        "text": "",
+        "bbox": [
+          28,
+          50,
+          346,
+          242
+        ],
+        "label": "image"
+      },
+      {
+        "text": "N° 0780 Pokémon Sosiego Altura: 3,0 m Peso: 185,0 kg",
+        "bbox": [
+          96,
+          245,
+          270,
+          256
+        ],
+        "label": "vision_footnote"
+      },
+      {
+        "text": "",
+        "bbox": [
+          22,
+          328,
+          66,
+          349
+        ],
+        "label": "image"
+      },
+      {
+        "text": "Estallido Vigoroso",
+        "bbox": [
+          112,
+          330,
+          275,
+          350
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "Descarta 1 Energía aleatoria de este Pokémon.",
+        "bbox": [
+          24,
+          351,
+          298,
+          368
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "Debilidad",
+        "bbox": [
+          52,
+          442,
+          90,
+          452
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "Hus. match",
+        "bbox": [
+          25,
+          457,
+          64,
+          467
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Retirada",
+        "bbox": [
+          206,
+          442,
+          241,
+          453
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "",
+        "bbox": [
+          251,
+          440,
+          268,
+          455
+        ],
+        "label": "image"
+      },
+      {
+        "text": "Es de naturaleza mansa y amable, pero,\nsi se enfurece, puede desatar fuertes vientos\ncapaces de llevarse cualquier cosa por delante.",
+        "bbox": [
+          167,
+          460,
+          343,
+          495
+        ],
+        "label": "text"
+      }
+    ]
+  },
+  {
+    "cardId": "P-B-102",
+    "locale": "it",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/102_it.png",
+    "sourceImageSha256": "c18873f666d691f745e8857b57e98f63d53d1b57ea7d15c864fad4c153c1b896",
+    "sourceImageBytes": 288247,
+    "sourceSize": [
+      367,
+      512
+    ],
+    "review": "Manually compared all chosen text and mechanical values to the native card face; OCR is advisory.",
+    "chosen": {
+      "name": "Drampa",
+      "illustrator": "match",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Forzacolpo",
+          "effect": "Rimuovi un’Energia a caso da questo Pokémon.",
+          "damage": 70
+        }
+      ],
+      "description": "È socievole e di indole gentile ma quando\nsi arrabbia provoca venti dalla terribile\nforza distruttiva."
+    },
+    "ocr": [
+      {
+        "text": "BASE",
+        "bbox": [
+          18,
+          25,
+          54,
+          36
+        ],
+        "label": "header"
+      },
+      {
+        "text": "Drampa",
+        "bbox": [
+          66,
+          22,
+          162,
+          46
+        ],
+        "label": "header"
+      },
+      {
+        "text": "PS 100",
+        "bbox": [
+          264,
+          17,
+          349,
+          45
+        ],
+        "label": "header"
+      },
+      {
+        "text": "",
+        "bbox": [
+          28,
+          50,
+          345,
+          242
+        ],
+        "label": "image"
+      },
+      {
+        "text": "N° 0780 Pokémon Tuttacalma Alezza: 3.0 m Peso: 185.0 kg",
+        "bbox": [
+          87,
+          245,
+          280,
+          256
+        ],
+        "label": "vision_footnote"
+      },
+      {
+        "text": "",
+        "bbox": [
+          22,
+          328,
+          67,
+          349
+        ],
+        "label": "image"
+      },
+      {
+        "text": "Forzacolpo",
+        "bbox": [
+          111,
+          330,
+          214,
+          350
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "Rimuovi un'Energia a caso da questo Pokémon.",
+        "bbox": [
+          24,
+          350,
+          301,
+          369
+        ],
+        "label": "text"
+      },
+      {
+        "text": "debolezza",
+        "bbox": [
+          51,
+          442,
+          91,
+          453
+        ],
+        "label": "text"
+      },
+      {
+        "text": "ritirata",
+        "bbox": [
+          209,
+          442,
+          239,
+          453
+        ],
+        "label": "text"
+      },
+      {
+        "text": "II. match",
+        "bbox": [
+          25,
+          457,
+          59,
+          467
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          250,
+          440,
+          268,
+          455
+        ],
+        "label": "image"
+      },
+      {
+        "text": "É socievole e di indole gentile ma quando si arrabbia\nprovoca venti dalla terribile forza distruttiva.",
+        "bbox": [
+          145,
+          465,
+          343,
+          490
+        ],
+        "label": "text"
+      }
+    ]
+  },
+  {
+    "cardId": "P-B-102",
+    "locale": "de",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/102_de.png",
+    "sourceImageSha256": "d8714882e0633cd92fe7bbe44775f125dbafdc4835f310a676aec113aed84558",
+    "sourceImageBytes": 290948,
+    "sourceSize": [
+      367,
+      512
+    ],
+    "review": "Manually compared all chosen text and mechanical values to the native card face; OCR is advisory.",
+    "chosen": {
+      "name": "Sen-Long",
+      "illustrator": "match",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Powerschuss",
+          "effect": "Lege 1 zufällige Energie von diesem Pokémon ab.",
+          "damage": 70
+        }
+      ],
+      "description": "Ein zutrauliches und gutmütiges Pokémon. Wird\nes jedoch wütend, beschwört es heftige Stürme\nherauf, die alles und jeden davonfegen."
+    },
+    "ocr": [
+      {
+        "text": "BASIS",
+        "bbox": [
+          17,
+          25,
+          56,
+          36
+        ],
+        "label": "header"
+      },
+      {
+        "text": "Sen-Long",
+        "bbox": [
+          65,
+          20,
+          176,
+          46
+        ],
+        "label": "header"
+      },
+      {
+        "text": "KP 100",
+        "bbox": [
+          263,
+          17,
+          349,
+          45
+        ],
+        "label": "header"
+      },
+      {
+        "text": "",
+        "bbox": [
+          28,
+          50,
+          343,
+          242
+        ],
+        "label": "image"
+      },
+      {
+        "text": "Nr. 0780 Gelassenheits-Pokémon Größe: 3,0 m Gewicht: 185,0 kg",
+        "bbox": [
+          81,
+          246,
+          286,
+          256
+        ],
+        "label": "vision_footnote"
+      },
+      {
+        "text": "",
+        "bbox": [
+          22,
+          328,
+          67,
+          349
+        ],
+        "label": "image"
+      },
+      {
+        "text": "Powerschuss",
+        "bbox": [
+          111,
+          330,
+          230,
+          349
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "70",
+        "bbox": [
+          315,
+          327,
+          342,
+          349
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Lege 1 zufällige Energie von diesem Pokémon ab.",
+        "bbox": [
+          24,
+          350,
+          310,
+          369
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Schwäche",
+        "bbox": [
+          51,
+          442,
+          90,
+          453
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Illustr. match",
+        "bbox": [
+          25,
+          457,
+          69,
+          467
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Rückzug",
+        "bbox": [
+          206,
+          441,
+          241,
+          454
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          251,
+          440,
+          268,
+          455
+        ],
+        "label": "image"
+      },
+      {
+        "text": "Ein zutrauliches und gutmögiges Pokémon.\nWird es jedoch wühend, beschwört es heftige\nStürme herauf, die alles und jeden davonfegen.",
+        "bbox": [
+          167,
+          460,
+          343,
+          495
+        ],
+        "label": "text"
+      }
+    ]
+  },
+  {
+    "cardId": "P-B-102",
+    "locale": "pt-br",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/102_ptbr.png",
+    "sourceImageSha256": "59d41a0b747a7bad027251636c34b6eca9d02e4fceb2471f0cd6cb19f01ff49d",
+    "sourceImageBytes": 290103,
+    "sourceSize": [
+      367,
+      512
+    ],
+    "review": "Manually compared all chosen text and mechanical values to the native card face; OCR is advisory.",
+    "chosen": {
+      "name": "Drampa",
+      "illustrator": "match",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Explosão Poderosa",
+          "effect": "Descarte 1 Energia aleatória deste Pokémon.",
+          "damage": 70
+        }
+      ],
+      "description": "Drampa é um Pokémon gentil e amigável... até se irritar. Quando isso acontece, evoca um vendaval e devasta tudo ao redor."
+    }
+  },
+  {
+    "cardId": "P-B-102",
+    "locale": "zh-tw",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/102_zh.png",
+    "sourceImageSha256": "9b574b70b0a28683a30b209b98b34ea7af569d62b712366f2b8674ad99ccf01a",
+    "sourceImageBytes": 287137,
+    "sourceSize": [
+      367,
+      512
+    ],
+    "review": "Manually compared all chosen text and mechanical values to the native card face; OCR is advisory.",
+    "chosen": {
+      "name": "老翁龍",
+      "illustrator": "match",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "力量爆破",
+          "effect": "將這隻寶可夢身上的隨機1個能量丟棄。",
+          "damage": 70
+        }
+      ],
+      "description": "心地善良愛親近人，\n但只要生氣就會\n颳起強風吹倒一切。"
+    },
+    "ocr": [
+      {
+        "text": "",
+        "bbox": [
+          22,
+          25,
+          51,
+          37
+        ],
+        "label": "header_image"
+      },
+      {
+        "text": "老翁龍",
+        "bbox": [
+          65,
+          20,
+          134,
+          45
+        ],
+        "label": "header"
+      },
+      {
+        "text": "HP 100",
+        "bbox": [
+          263,
+          18,
+          349,
+          45
+        ],
+        "label": "header"
+      },
+      {
+        "text": "",
+        "bbox": [
+          14,
+          49,
+          364,
+          503
+        ],
+        "label": "image"
+      },
+      {
+        "text": "全国面幅NO.0780 综避寶可夢 身高：3.0m 體質：185.0kg",
+        "bbox": [
+          81,
+          245,
+          286,
+          256
+        ],
+        "label": "vision_footnote"
+      },
+      {
+        "text": "力量爆破",
+        "bbox": [
+          112,
+          329,
+          182,
+          349
+        ],
+        "label": "text"
+      },
+      {
+        "text": "將這隻寶可夢身上的隨機1個能量丟棄。",
+        "bbox": [
+          24,
+          351,
+          227,
+          366
+        ],
+        "label": "text"
+      },
+      {
+        "text": "鰮霙",
+        "bbox": [
+          57,
+          442,
+          84,
+          452
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Illus. match",
+        "bbox": [
+          25,
+          457,
+          65,
+          467
+        ],
+        "label": "text"
+      },
+      {
+        "text": "微调",
+        "bbox": [
+          210,
+          442,
+          237,
+          453
+        ],
+        "label": "text"
+      },
+      {
+        "text": "心地善良瑩親近人\n但只要生氣就會\n閣起強風吹倒一切",
+        "bbox": [
+          267,
+          460,
+          341,
+          494
+        ],
+        "label": "footer"
+      }
+    ]
+  },
+  {
+    "cardId": "P-B-102",
+    "locale": "ja",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/102_ja.png",
+    "sourceImageSha256": "c9192ddcaf2822d4cf7f289733decd55bc7c2d9c0db9ea6261fa2d6f46c22cf6",
+    "sourceImageBytes": 289577,
+    "sourceSize": [
+      367,
+      512
+    ],
+    "review": "Manually compared all chosen text and mechanical values to the native card face; OCR is advisory.",
+    "chosen": {
+      "name": "ジジーロン",
+      "illustrator": "match",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "パワーブラスト",
+          "effect": "このポケモンからエネルギーをランダムに1個トラッシュ。",
+          "damage": 70
+        }
+      ],
+      "description": "人懐っこく 心優しいが ひとたび 怒ると 強風を 巻き起こし すべてを なぎ倒す。"
+    }
+  },
+  {
+    "cardId": "P-B-102",
+    "locale": "ko",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/102_ko.png",
+    "sourceImageSha256": "251ecef852dfb86304d2847d03156479ea1ef976ffa89d7595b95b23d1ba00fe",
+    "sourceImageBytes": 287810,
+    "sourceSize": [
+      367,
+      512
+    ],
+    "review": "Manually compared all chosen text and mechanical values to the native card face; OCR is advisory.",
+    "chosen": {
+      "name": "할비롱",
+      "illustrator": "match",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "파워블라스트",
+          "effect": "이 포켓몬에서 에너지를 랜덤으로 1개 트래쉬한다.",
+          "damage": 70
+        }
+      ],
+      "description": "사람을 잘 따르고 마음이 착하지만\n한번 화가 나면 강풍을 일으켜\n모든 것을 쓰러뜨려 버린다."
+    },
+    "ocr": [
+      {
+        "text": "기본",
+        "bbox": [
+          21,
+          24,
+          51,
+          37
+        ],
+        "label": "header"
+      },
+      {
+        "text": "할비롱",
+        "bbox": [
+          64,
+          19,
+          136,
+          45
+        ],
+        "label": "header"
+      },
+      {
+        "text": "HP 100",
+        "bbox": [
+          263,
+          18,
+          349,
+          45
+        ],
+        "label": "header"
+      },
+      {
+        "text": "",
+        "bbox": [
+          28,
+          50,
+          343,
+          242
+        ],
+        "label": "image"
+      },
+      {
+        "text": "전국도감No. 0780 느긋누긋보렛몬 키 : 3.0m 몸무게 : 185.0kg",
+        "bbox": [
+          84,
+          245,
+          283,
+          256
+        ],
+        "label": "vision_footnote"
+      },
+      {
+        "text": "",
+        "bbox": [
+          22,
+          329,
+          67,
+          349
+        ],
+        "label": "image"
+      },
+      {
+        "text": "파워블라스트",
+        "bbox": [
+          110,
+          328,
+          218,
+          349
+        ],
+        "label": "text"
+      },
+      {
+        "text": "70",
+        "bbox": [
+          315,
+          328,
+          343,
+          349
+        ],
+        "label": "text"
+      },
+      {
+        "text": "이 포켓몬에서 에너지를 랜덤으로 1개 트래쉬한다.",
+        "bbox": [
+          24,
+          350,
+          275,
+          367
+        ],
+        "label": "text"
+      },
+      {
+        "text": "약 점",
+        "bbox": [
+          56,
+          441,
+          85,
+          453
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Illus. match",
+        "bbox": [
+          25,
+          457,
+          66,
+          467
+        ],
+        "label": "text"
+      },
+      {
+        "text": "후 뒤",
+        "bbox": [
+          209,
+          441,
+          239,
+          453
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          251,
+          440,
+          268,
+          455
+        ],
+        "label": "image"
+      },
+      {
+        "text": "사람을 잘 따르고 마음이 착하지만\n한번 화가 나면 강릉을 일으켜\n모든 것을 쓰러뜨려 버린다.",
+        "bbox": [
+          221,
+          459,
+          343,
+          494
+        ],
+        "label": "text"
+      }
+    ]
+  },
+  {
+    "cardId": "P-B-103",
+    "locale": "en",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/103_en.png",
+    "sourceImageSha256": "a96bef29c1b12dfa109efbf70bab61275f6e8d3db1f813b51ef9bde9c73128bb",
+    "sourceImageBytes": 274225,
+    "sourceSize": [
+      367,
+      512
+    ],
+    "review": "Manually compared all chosen text and mechanical values to the native card face; OCR is advisory.",
+    "chosen": {
+      "name": "Pikachu ex",
+      "illustrator": "YOSHIROTTEN",
+      "attacks": [
+        {
+          "name": "Thunderbolt",
+          "damage": 150,
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "effect": "Discard all Energy from this Pokémon."
+        }
+      ]
+    },
+    "ocr": [
+      {
+        "text": "BASIC",
+        "bbox": [
+          16,
+          24,
+          56,
+          36
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Pikachu EX",
+        "bbox": [
+          65,
+          19,
+          201,
+          46
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "HP 120",
+        "bbox": [
+          261,
+          19,
+          346,
+          46
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Discard all Energy from this Pokémon.\n150",
+        "bbox": [
+          24,
+          350,
+          251,
+          369
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          306,
+          327,
+          344,
+          351
+        ],
+        "label": "text"
+      },
+      {
+        "text": "weakness\n+20",
+        "bbox": [
+          51,
+          442,
+          90,
+          453
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          102,
+          438,
+          151,
+          455
+        ],
+        "label": "text"
+      },
+      {
+        "text": "retreat",
+        "bbox": [
+          208,
+          443,
+          239,
+          453
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Ilma KOSHROYEN\nexrule When your Pokémon ex is\nKnocked Out, your opponent gets 2 points.",
+        "bbox": [
+          24,
+          456,
+          94,
+          467
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          129,
+          465,
+          311,
+          490
+        ],
+        "label": "text"
+      }
+    ]
+  },
+  {
+    "cardId": "P-B-103",
+    "locale": "fr",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/103_fr.png",
+    "sourceImageSha256": "e544673bc010f2133fcddae877f39ab89064ef1815c3c1144fa380854f0630f9",
+    "sourceImageBytes": 274836,
+    "sourceSize": [
+      367,
+      512
+    ],
+    "review": "Manually compared all chosen text and mechanical values to the native card face; OCR is advisory.",
+    "chosen": {
+      "name": "Pikachu-ex",
+      "illustrator": "YOSHIROTTEN",
+      "attacks": [
+        {
+          "name": "Tonnerre",
+          "damage": 150,
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "effect": "Défaussez toutes les Énergies de ce Pokémon."
+        }
+      ]
+    },
+    "ocr": [
+      {
+        "text": "Pikachu",
+        "bbox": [
+          64,
+          19,
+          201,
+          46
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "PV 120",
+        "bbox": [
+          261,
+          19,
+          346,
+          46
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          0,
+          6,
+          364,
+          349
+        ],
+        "label": "image"
+      },
+      {
+        "text": "150",
+        "bbox": [
+          306,
+          327,
+          344,
+          350
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Défaussez toutes les Énergies de ce Pokémon.",
+        "bbox": [
+          23,
+          351,
+          297,
+          368
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          56,
+          388,
+          135,
+          439
+        ],
+        "label": "image"
+      },
+      {
+        "text": "Faiblesse\n+20",
+        "bbox": [
+          53,
+          442,
+          89,
+          452
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          102,
+          438,
+          150,
+          455
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          179,
+          386,
+          226,
+          432
+        ],
+        "label": "image"
+      },
+      {
+        "text": "Retraite",
+        "bbox": [
+          206,
+          442,
+          241,
+          453
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Пара, КОНИРОЛЕН",
+        "bbox": [
+          24,
+          456,
+          94,
+          467
+        ],
+        "label": "footer"
+      },
+      {
+        "text": "Régle EX Quand votre Pokémon-EX est mis\nK.O., votre adversaire gagne 2 points.",
+        "bbox": [
+          129,
+          465,
+          337,
+          489
+        ],
+        "label": "text"
+      }
+    ]
+  },
+  {
+    "cardId": "P-B-103",
+    "locale": "es",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/103_es.png",
+    "sourceImageSha256": "a1ac97434f1718be591c67f420a8d626dab1a589d95c9bacf38bdb50b3ec6214",
+    "sourceImageBytes": 275468,
+    "sourceSize": [
+      367,
+      512
+    ],
+    "review": "Manually compared all chosen text and mechanical values to the native card face; OCR is advisory.",
+    "chosen": {
+      "name": "Pikachu ex",
+      "illustrator": "YOSHIROTTEN",
+      "attacks": [
+        {
+          "name": "Rayo",
+          "damage": 150,
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "effect": "Descarta todas las Energías de este Pokémon."
+        }
+      ]
+    },
+    "ocr": [
+      {
+        "text": "BÁSICO",
+        "bbox": [
+          12,
+          24,
+          60,
+          37
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Pikachu",
+        "bbox": [
+          64,
+          19,
+          202,
+          46
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "PS 120",
+        "bbox": [
+          262,
+          19,
+          346,
+          46
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          0,
+          10,
+          364,
+          351
+        ],
+        "label": "image"
+      },
+      {
+        "text": "Rayo",
+        "bbox": [
+          110,
+          329,
+          160,
+          350
+        ],
+        "label": "text"
+      },
+      {
+        "text": "150",
+        "bbox": [
+          306,
+          327,
+          344,
+          350
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Descarta todas las Energias de este Pokémon.",
+        "bbox": [
+          23,
+          351,
+          295,
+          368
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          56,
+          388,
+          134,
+          439
+        ],
+        "label": "image"
+      },
+      {
+        "text": "Debilidad\n+20",
+        "bbox": [
+          52,
+          442,
+          90,
+          453
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          103,
+          438,
+          150,
+          455
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          178,
+          382,
+          250,
+          432
+        ],
+        "label": "image"
+      },
+      {
+        "text": "Retirada",
+        "bbox": [
+          206,
+          441,
+          241,
+          453
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Das 705mKrehen",
+        "bbox": [
+          24,
+          456,
+          92,
+          467
+        ],
+        "label": "footer"
+      },
+      {
+        "text": "Regla EX Cuando tu Pokémon ex queda\nFuera de Combate, tu rival consigue 2 puntos.",
+        "bbox": [
+          129,
+          465,
+          325,
+          489
+        ],
+        "label": "footer"
+      }
+    ]
+  },
+  {
+    "cardId": "P-B-103",
+    "locale": "it",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/103_it.png",
+    "sourceImageSha256": "717d202ca8116c89dddeb2027093bf4091d77aa6e3f6140fb9d77c6ab45e8ec8",
+    "sourceImageBytes": 275844,
+    "sourceSize": [
+      367,
+      512
+    ],
+    "review": "Manually compared all chosen text and mechanical values to the native card face; OCR is advisory.",
+    "chosen": {
+      "name": "Pikachu-ex",
+      "illustrator": "YOSHIROTTEN",
+      "attacks": [
+        {
+          "name": "Fulmine",
+          "damage": 150,
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "effect": "Rimuovi tutte le Energie assegnate a questo Pokémon."
+        }
+      ]
+    },
+    "ocr": [
+      {
+        "text": "BASE",
+        "bbox": [
+          18,
+          24,
+          55,
+          36
+        ],
+        "label": "text"
+      },
+      {
+        "text": "PS 120",
+        "bbox": [
+          262,
+          19,
+          346,
+          46
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          0,
+          8,
+          366,
+          351
+        ],
+        "label": "image"
+      },
+      {
+        "text": "Fulmine",
+        "bbox": [
+          110,
+          329,
+          186,
+          349
+        ],
+        "label": "text"
+      },
+      {
+        "text": "150\nRimuovi tutte le Energie assegnate a questo Pokémon.",
+        "bbox": [
+          307,
+          327,
+          344,
+          349
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          23,
+          351,
+          343,
+          369
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          56,
+          388,
+          134,
+          439
+        ],
+        "label": "image"
+      },
+      {
+        "text": "debolezza\n+20",
+        "bbox": [
+          51,
+          442,
+          91,
+          453
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          103,
+          438,
+          150,
+          455
+        ],
+        "label": "text"
+      },
+      {
+        "text": "nitirata",
+        "bbox": [
+          209,
+          442,
+          239,
+          453
+        ],
+        "label": "text"
+      },
+      {
+        "text": "II. КОНИРОНЕН",
+        "bbox": [
+          24,
+          456,
+          87,
+          468
+        ],
+        "label": "footer"
+      },
+      {
+        "text": "Regola EX Il tuo avversario guadagna 2 punti ogni volta che uno dei tuoi Pokémon-ex va KO.",
+        "bbox": [
+          129,
+          465,
+          331,
+          490
+        ],
+        "label": "text"
+      }
+    ]
+  },
+  {
+    "cardId": "P-B-103",
+    "locale": "de",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/103_de.png",
+    "sourceImageSha256": "4c804778776fd07ac6d24fc866f6ebe18faf6f06659fe7c7ad25aed12d55dfee",
+    "sourceImageBytes": 274923,
+    "sourceSize": [
+      367,
+      512
+    ],
+    "review": "Manually compared all chosen text and mechanical values to the native card face; OCR is advisory.",
+    "chosen": {
+      "name": "Pikachu-ex",
+      "illustrator": "YOSHIROTTEN",
+      "attacks": [
+        {
+          "name": "Donnerblitz",
+          "damage": 150,
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "effect": "Lege alle Energien von diesem Pokémon ab."
+        }
+      ]
+    },
+    "ocr": [
+      {
+        "text": "BASIS",
+        "bbox": [
+          17,
+          24,
+          56,
+          36
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Pikachu EX",
+        "bbox": [
+          64,
+          19,
+          201,
+          47
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "",
+        "bbox": [
+          0,
+          3,
+          367,
+          474
+        ],
+        "label": "image"
+      },
+      {
+        "text": "KP 120",
+        "bbox": [
+          261,
+          19,
+          346,
+          46
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Donnerblitz",
+        "bbox": [
+          110,
+          329,
+          223,
+          349
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "150",
+        "bbox": [
+          306,
+          327,
+          344,
+          350
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Lege alle Energien von diesem Pokémon ab.",
+        "bbox": [
+          23,
+          350,
+          282,
+          370
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Schwäche\n+20",
+        "bbox": [
+          51,
+          442,
+          91,
+          453
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          103,
+          438,
+          150,
+          455
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Rückzug",
+        "bbox": [
+          206,
+          441,
+          242,
+          454
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Wald Yoshirohten",
+        "bbox": [
+          24,
+          456,
+          98,
+          467
+        ],
+        "label": "footer"
+      },
+      {
+        "text": "EX-Regel Wenn dein Pokemon-ex kampfunfähig ist, erhält dein Gegner 2 Punkte.",
+        "bbox": [
+          129,
+          464,
+          321,
+          490
+        ],
+        "label": "text"
+      }
+    ]
+  },
+  {
+    "cardId": "P-B-103",
+    "locale": "pt-br",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/103_ptbr.png",
+    "sourceImageSha256": "7b82312041f2d11910906b1a0eceaf9c3fd2665ecb387120f75716d1f8e87ab3",
+    "sourceImageBytes": 275213,
+    "sourceSize": [
+      367,
+      512
+    ],
+    "review": "Manually compared all chosen text and mechanical values to the native card face; OCR is advisory.",
+    "chosen": {
+      "name": "Pikachu ex",
+      "illustrator": "YOSHIROTTEN",
+      "attacks": [
+        {
+          "name": "Relâmpago",
+          "damage": 150,
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "effect": "Descarte todas as Energias deste Pokémon."
+        }
+      ]
+    },
+    "ocr": [
+      {
+        "text": "BASICO",
+        "bbox": [
+          12,
+          24,
+          60,
+          36
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Pikachu EX",
+        "bbox": [
+          65,
+          19,
+          201,
+          46
+        ],
+        "label": "paragraph_title"
+      },
+      {
+        "text": "PS 120",
+        "bbox": [
+          262,
+          19,
+          346,
+          46
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          0,
+          7,
+          366,
+          356
+        ],
+        "label": "image"
+      },
+      {
+        "text": "Relâmpago",
+        "bbox": [
+          110,
+          329,
+          214,
+          351
+        ],
+        "label": "text"
+      },
+      {
+        "text": "150",
+        "bbox": [
+          307,
+          327,
+          344,
+          350
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Descarte todas as Energias deste Pokémon.",
+        "bbox": [
+          24,
+          351,
+          281,
+          368
+        ],
+        "label": "text"
+      },
+      {
+        "text": "",
+        "bbox": [
+          56,
+          388,
+          134,
+          440
+        ],
+        "label": "image"
+      },
+      {
+        "text": "Fraqueza",
+        "bbox": [
+          53,
+          442,
+          89,
+          453
+        ],
+        "label": "vision_footnote"
+      },
+      {
+        "text": " $ ^{48} $+20",
+        "bbox": [
+          103,
+          438,
+          150,
+          455
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Recuo",
+        "bbox": [
+          209,
+          442,
+          238,
+          453
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Под: YOSHIROHEY",
+        "bbox": [
+          24,
+          456,
+          94,
+          467
+        ],
+        "label": "footer"
+      },
+      {
+        "text": "RegraEX Quando seu Pokémon ex é\nNocauteado, seu oponente recebe 2 pontos.",
+        "bbox": [
+          129,
+          465,
+          312,
+          490
+        ],
+        "label": "footer"
+      }
+    ]
+  },
+  {
+    "cardId": "P-B-103",
+    "locale": "zh-tw",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/103_zh.png",
+    "sourceImageSha256": "30e3a6b07f5c5c30af3bf0fdccb7c66f28c9168a4f4aae1bc985209150f4bbcc",
+    "sourceImageBytes": 272718,
+    "sourceSize": [
+      367,
+      512
+    ],
+    "review": "Manually compared all chosen text and mechanical values to the native card face; OCR is advisory.",
+    "chosen": {
+      "name": "皮卡丘ex",
+      "illustrator": "YOSHIROTTEN",
+      "attacks": [
+        {
+          "name": "十萬伏特",
+          "damage": 150,
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "effect": "將這隻寶可夢身上的能量全部丟棄。"
+        }
+      ]
+    },
+    "ocr": [
+      {
+        "text": "",
+        "bbox": [
+          0,
+          0,
+          367,
+          504
+        ],
+        "label": "image"
+      }
+    ]
+  },
+  {
+    "cardId": "P-B-103",
+    "locale": "ja",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/103_ja.png",
+    "sourceImageSha256": "b0447f4ce55f64ee638f064bbaebc5dfa93662b89eda1c3beaffab097d8f2d2b",
+    "sourceImageBytes": 275753,
+    "sourceSize": [
+      367,
+      512
+    ],
+    "review": "Manually compared all chosen text and mechanical values to the native card face; OCR is advisory.",
+    "chosen": {
+      "name": "ピカチュウex",
+      "illustrator": "YOSHIROTTEN",
+      "attacks": [
+        {
+          "name": "10まんボルト",
+          "damage": 150,
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "effect": "このポケモンからエネルギーをすべてトラッシュ。"
+        }
+      ]
+    },
+    "ocr": [
+      {
+        "text": "HP 120",
+        "bbox": [
+          261,
+          19,
+          346,
+          46
+        ],
+        "label": "text"
+      },
+      {
+        "text": "150",
+        "bbox": [
+          306,
+          327,
+          344,
+          351
+        ],
+        "label": "text"
+      },
+      {
+        "text": "このボケモンからエネルギーをすべてトラッシュ。",
+        "bbox": [
+          23,
+          351,
+          288,
+          367
+        ],
+        "label": "text"
+      },
+      {
+        "text": "弱点",
+        "bbox": [
+          56,
+          441,
+          85,
+          452
+        ],
+        "label": "text"
+      },
+      {
+        "text": " $ ^{48} $+20",
+        "bbox": [
+          103,
+          438,
+          150,
+          455
+        ],
+        "label": "text"
+      },
+      {
+        "text": "にげる",
+        "bbox": [
+          209,
+          441,
+          238,
+          453
+        ],
+        "label": "text"
+      },
+      {
+        "text": "Пара Хозяйствен",
+        "bbox": [
+          24,
+          456,
+          93,
+          467
+        ],
+        "label": "footer"
+      },
+      {
+        "text": "eメルール",
+        "bbox": [
+          135,
+          464,
+          181,
+          476
+        ],
+        "label": "text"
+      },
+      {
+        "text": "ボケモンexがきぜつしたとき、相手は2ポイントとる。",
+        "bbox": [
+          129,
+          478,
+          334,
+          489
+        ],
+        "label": "text"
+      }
+    ]
+  },
+  {
+    "cardId": "P-B-103",
+    "locale": "ko",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/103_ko.png",
+    "sourceImageSha256": "2bcbecc166af047f8429c31c6c28ec5cd0b382c5e92c682ff40441b96ef5f9db",
+    "sourceImageBytes": 271829,
+    "sourceSize": [
+      367,
+      512
+    ],
+    "review": "Manually compared all chosen text and mechanical values to the native card face; OCR is advisory.",
+    "chosen": {
+      "name": "피카츄 ex",
+      "illustrator": "YOSHIROTTEN",
+      "attacks": [
+        {
+          "name": "10만볼트",
+          "damage": 150,
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "effect": "이 포켓몬에서 에너지를 모두 트래쉬한다."
+        }
+      ]
+    }
+  }
+]

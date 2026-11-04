@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/034",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/034",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/034",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/034",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/034",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/034",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/034",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/034",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/034"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/034/40e9757d25724379",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/034/40e9757d25724379",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/034/40e9757d25724379",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/034/40e9757d25724379",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/034/40e9757d25724379",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/034/40e9757d25724379",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/034/40e9757d25724379",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/034/40e9757d25724379",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/034/40e9757d25724379"
     },
     name: {
         en: "Piplup",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "波加曼",
     },
     illustrator: "Kariya",
-    rarity: "None",
+    rarity: "One Star",
     category: "Pokemon",
     hp: 60,
     types: ["Water"],
@@ -38,7 +38,7 @@ const card: Card = {
         'pt-br': "Estes Pokémon não gostam que tomem conta deles.\nÉ muito difícil criar laços com eles,\npois não costumam obedecer aos seus Treinadores.",
         ja: "世話を 焼かれる ことが 大嫌い。 トレーナーの 指示を 聞かないので 仲良く なるのが 難しい。",
         ko: "신세를 지는 것을 싫어한다.\n트레이너의 지시를 듣지 않아\n친해지기 어렵다.",
-        "zh-tw": "它不喜歡被照顧。很難\n與它建立聯繫，因為它不聽它的訓練師的話。"
+        "zh-tw": "討厭被別人照顧。因為常常無視訓練家的指示，要和牠變得親密是很困難的。"
     },
     stage: "Basic",
     attacks: [{
@@ -51,7 +51,7 @@ const card: Card = {
                 'pt-br': "Soneca",
                 ja: "ひとやすみ",
                 ko: "잠시 쉬기",
-                "zh-tw": "午睡"
+                "zh-tw": "小憩"
             },
             cost: ["Colorless"],
             effect: {
@@ -63,7 +63,7 @@ const card: Card = {
                 'pt-br': "Cure 20 pontos de dano deste Pokémon.",
                 ja: "このポケモンのHPを20回復。",
                 ko: "이 포켓몬의 HP를 20회복.",
-                "zh-tw": "治療該神奇寶貝造成的 20 點傷害。"
+                "zh-tw": "將這隻寶可夢恢復20HP。"
             }
         }],
     weaknesses: [{

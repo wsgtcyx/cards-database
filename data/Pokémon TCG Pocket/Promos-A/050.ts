@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/050",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/050",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/050",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/050",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/050",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/050",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/050",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/050",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/050"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/050/413c613df37cccdf",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/050/413c613df37cccdf",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/050/413c613df37cccdf",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/050/413c613df37cccdf",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/050/413c613df37cccdf",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/050/413c613df37cccdf",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/050/413c613df37cccdf",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/050/413c613df37cccdf",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/050/413c613df37cccdf"
     },
     name: {
         en: "Mewtwo ex",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "超夢ex",
     },
     illustrator: "PLANETA Mochizuki",
-    rarity: "None",
+    rarity: "Two Shiny",
     category: "Pokemon",
     hp: 150,
     types: ["Psychic"],
@@ -42,7 +42,7 @@ const card: Card = {
                 'pt-br': "Esfera Psíquica",
                 ja: "ねんどうだん",
                 ko: "염동탄",
-                "zh-tw": "心靈領域"
+                "zh-tw": "念動彈"
             },
             damage: 50
         }, {
@@ -56,7 +56,7 @@ const card: Card = {
                 'pt-br': "Controle Psíquico",
                 ja: "サイコドライブ",
                 ko: "사이코 드라이브",
-                "zh-tw": "心靈驅動器"
+                "zh-tw": "精神衝鋒"
             },
             effect: {
                 en: "Discard 2 {P} Energy from this Pokémon.",
@@ -67,7 +67,7 @@ const card: Card = {
                 'pt-br': "Descarte 2 Energias {P} deste Pokémon.",
                 ja: "このポケモンから{P}エネルギーを2個トラッシュ。",
                 ko: "이 포켓몬에서 {P}에너지를 2개 트래쉬한다.",
-                "zh-tw": "丟棄該神奇寶貝的 2 個 {P} 能量。"
+                "zh-tw": "將這隻寶可夢身上的2個{P}能量丟棄。"
             },
             damage: 150
         }],

@@ -1,0 +1,1792 @@
+[
+  {
+    "cardId": "P-A-009",
+    "locale": "de",
+    "path": "description",
+    "value": "Ist es wütend, entlädt sich augenblicklich die\nElektrizität, die es in seinen Backentaschen\ngespeichert hat.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "8ff4159ce0a29f5cdf10bcbf9364674527d0949942937c676a9c0756868c40e3",
+    "sourceImageBytes": 313424
+  },
+  {
+    "cardId": "P-A-010",
+    "locale": "de",
+    "path": "description",
+    "value": "Dieses Pokémon ist das Resultat eines jahrelangen\nund skrupellosen Experimentes.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "172143ca6595208f34ca05f7b8b3b6dbdc0f14a20e1144a168a5454905216fa5",
+    "sourceImageBytes": 320773
+  },
+  {
+    "cardId": "P-A-011",
+    "locale": "de",
+    "path": "description",
+    "value": "Ein freundliches Pokémon, das nahrhafte Eier\nlegt, um diese mit verletzten Pokémon und\nMenschen zu teilen.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "20b8f3a5f891b6c5f3479e4fd587edec9b91f578dc55c2cb9a44af2c989969b4",
+    "sourceImageBytes": 299310
+  },
+  {
+    "cardId": "P-A-012",
+    "locale": "de",
+    "path": "description",
+    "value": "Es schläft den ganzen Tag. Nachts patrouilliert es\nsein Revier mit glühenden Augen.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "5d696ba522667555ddd0a6a24bcd2c28aaa90f62619727ff83d067ecb8050815",
+    "sourceImageBytes": 267288
+  },
+  {
+    "cardId": "P-A-013",
+    "locale": "de",
+    "path": "description",
+    "value": "Wenn es sehr schnell mit den Flügeln schlägt,\nsetzt es hochgiftigen Flügelstaub frei.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "8499fbc7fae4ce43eb1a98e952f70e282f4f26b13c73898dc2ddad1ead03b0c0",
+    "sourceImageBytes": 271752
+  },
+  {
+    "cardId": "P-A-015",
+    "locale": "de",
+    "path": "description",
+    "value": "Ist es wütend, entlädt sich augenblicklich die\nElektrizität, die es in seinen Backentaschen\ngespeichert hat.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "0865aa0863aa762936b2d7bae2b9ea4632fdb6f411d519f85765c75f3e530afe",
+    "sourceImageBytes": 227858
+  },
+  {
+    "cardId": "P-A-016",
+    "locale": "de",
+    "path": "description",
+    "value": "Eine Ansammlung von Piepi bei Vollmond tanzen\nzu sehen, soll ein glückliches Leben verheißen.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "e9ed8aaa60410fc4ef419ed0523fbf7bd12744290a12032d5bd6f4eaee23bc3b",
+    "sourceImageBytes": 272158
+  },
+  {
+    "cardId": "P-A-017",
+    "locale": "de",
+    "path": "description",
+    "value": "Es lebt mit Artgenossen in Baumkronen.\nVerliert es sie aus den Augen, wird es\nvor Einsamkeit sofort zornig.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "87b106319df8539f3f24c983287afa161f5b7207cb1765ef2ac511e22b9007c1",
+    "sourceImageBytes": 300363
+  },
+  {
+    "cardId": "P-A-018",
+    "locale": "de",
+    "path": "description",
+    "value": "Es nutzt Solarenergie als Nahrung und\nbringt so seine große Blume zum Blühen.\nEs geht dorthin, wo die Sonne scheint.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "52d1f6527bf555baaa2d73a2a41a3839fffcf9396ab7147e465e4c0321a6db17",
+    "sourceImageBytes": 411145
+  },
+  {
+    "cardId": "P-A-019",
+    "locale": "de",
+    "path": "description",
+    "value": "Es stellt Wurfsterne aus komprimiertem Wasser\nher, die durch ihre hohe Drehgeschwindigkeit\nbeim Werfen sogar Metall durchtrennen.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "1de47c7ad1543d68f98fb56c9d26414dd943674d513c7274fe5e90ddfb45a3a9",
+    "sourceImageBytes": 328635
+  },
+  {
+    "cardId": "P-A-020",
+    "locale": "de",
+    "path": "description",
+    "value": "Es lauert gern im Dunkeln und tippt Leuten mit\nseiner gasförmigen Hand auf die Schulter.\nSeine Berührung erzeugt endloses Schaudern.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "7f12af5954d593aafbbe593543e1241847561eb67fa081b99b40fdcf4c69a2cf",
+    "sourceImageBytes": 249372
+  },
+  {
+    "cardId": "P-A-021",
+    "locale": "de",
+    "path": "description",
+    "value": "Wenn es sich durch die Erde gräbt,\nnimmt es viele harte Gegenstände auf,\ndie seinen Körper erhärten.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "c1a6f4aa1c9172e51a0adac20c9a4a9bc13c10e90b095b6e1e843cef4f4f2f0d",
+    "sourceImageBytes": 318212
+  },
+  {
+    "cardId": "P-A-022",
+    "locale": "de",
+    "path": "description",
+    "value": "Wenn seine Kulleraugen zu flackern beginnen,\nsingt es ein mysteriöses, wohlklingendes Lied,\ndas Zuhörer in Schlaf versetzt.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "43ce5d52e078ff3dd0e699d1161d8278668d753a297487a8c6c256c41d6a57a5",
+    "sourceImageBytes": 258203
+  },
+  {
+    "cardId": "P-A-023",
+    "locale": "de",
+    "path": "description",
+    "value": "Dieses Pokémon trägt von Geburt an einen\nSamen auf dem Rücken, der im Laufe der Zeit\nkeimt und wächst.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "59173d9e75ada361f26a46716f2ded0e80a7c50f280ac8a739bc787ce1d969d8",
+    "sourceImageBytes": 262881
+  },
+  {
+    "cardId": "P-A-024",
+    "locale": "de",
+    "path": "description",
+    "value": "Die seitlichen Module halten es in der Luft,\nindem sie mit elektromagnetischen Wellen\ndie Schwerkraft überlisten.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "af7c0731f0f43b36487f14e83520ece80abc864b7d271d81b48f2ac77b730d84",
+    "sourceImageBytes": 205010
+  },
+  {
+    "cardId": "P-A-026",
+    "locale": "de",
+    "path": "description",
+    "value": "Ist es wütend, entlädt sich augenblicklich die\nElektrizität, die es in seinen Backentaschen\ngespeichert hat.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "248a77fbc55dad79af78244c34e87d18f920a2a19c5e6dd5c11f453a38ad5ea7",
+    "sourceImageBytes": 299113
+  },
+  {
+    "cardId": "P-A-027",
+    "locale": "de",
+    "path": "description",
+    "value": "Im Sonnenlicht erhöht sich das Tempo\nseiner Bewegungen. Es ist mit seinen\nSchlingen geschickter als mit den Händen.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "d1a8bcf562c88c6e8bd022f57091b3f0679cbf60326d5369f6f60e7da8018831",
+    "sourceImageBytes": 282482
+  },
+  {
+    "cardId": "P-A-028",
+    "locale": "de",
+    "path": "description",
+    "value": "In heißen Gebieten ist sein brennender Körper\nunbeliebt, aber in kalten Gegenden wird es als\nVerkörperung der Sonne verehrt.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "93f6884c903b2416af9e793898d5d088f7179370248e316d764ecdfba9e6c4d4",
+    "sourceImageBytes": 284358
+  },
+  {
+    "cardId": "P-A-029",
+    "locale": "de",
+    "path": "description",
+    "value": "Es begräbt seine Gegner mit seinem enormen\nKörpergewicht. Wenn es in einer aussichtslosen\nLage steckt, zieht es sich in seinen Panzer zurück.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "e518e1c1cdc0546f25832e092093acb6631352ebd32d7068201aed1183c8d7b6",
+    "sourceImageBytes": 367931
+  },
+  {
+    "cardId": "P-A-030",
+    "locale": "de",
+    "path": "description",
+    "value": "Um sich jeder Umgebung perfekt anpassen zu\nkönnen, ist es in der Lage, sich zu verschiedenen\nPokémon zu entwickeln.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "9f0792c69e6e9e2273241e70c638d9a3d22106deacc6200f66ef851b52afa591",
+    "sourceImageBytes": 279850
+  },
+  {
+    "cardId": "P-A-031",
+    "locale": "de",
+    "path": "description",
+    "value": "Es ist sehr reinlich und duldet nicht mal das\nkleinste Staubkorn. Es beschichtet sein Nest\nmit dem Öl, das sein Körper absondert.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "b528d71af1965c1d08c1f22ff1ac8b17b5cd0d98dec6eebe3c5c0a9af9aaa2fa",
+    "sourceImageBytes": 253697
+  },
+  {
+    "cardId": "P-A-032",
+    "locale": "de",
+    "path": "description",
+    "value": "Dieses Pokémon bevorzugt heiße Dinge.\nBei Regen soll seine Schwanzspitze dampfen.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "596eb52216142860eb76b9b9c3410852a50a29cd0794950a01a10d9cedb94a33",
+    "sourceImageBytes": 299313
+  },
+  {
+    "cardId": "P-A-033",
+    "locale": "de",
+    "path": "description",
+    "value": "Zieht es seinen langen Hals in seinen Panzer\nzurück, verspritzt es Wasser mit unbändiger Kraft.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "696c34c550402d08cd6bda05ced97748f69034f2f7e98d9309d3fe3547c65ca8",
+    "sourceImageBytes": 289219
+  },
+  {
+    "cardId": "P-A-034",
+    "locale": "de",
+    "path": "description",
+    "value": "Einmischung kann es gar nicht leiden. Es ist bockig\nund fasst nur schwer Zutrauen zu seinem Trainer.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "742890f6c85264fea3aa04f378dde1ce5d94ce94bce9252bd5f9cb5b8c0e51c3",
+    "sourceImageBytes": 339439
+  },
+  {
+    "cardId": "P-A-035",
+    "locale": "de",
+    "path": "description",
+    "value": "Es badet im Sonnenlicht und betreibt dabei mit\ndem ganzen Körper Fotosynthese. Sein Panzer\nbesteht aus hartem Lehm.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "6ad89b510af091a09f678810e349f5b019b546d24f0cdc84aa900482af644dc3",
+    "sourceImageBytes": 256354
+  },
+  {
+    "cardId": "P-A-036",
+    "locale": "de",
+    "path": "description",
+    "value": "Wie viel Strom es erzeugt, ist abhängig von\nseinem Puls. Im Kampf steigt Elevolteks\nelektrische Spannung schlagartig an.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "fd8eccceca1b614652b141c5e9102fa36a054902b72b01a2fb2ef9e837a84bb7",
+    "sourceImageBytes": 245803
+  },
+  {
+    "cardId": "P-A-038",
+    "locale": "de",
+    "path": "description",
+    "value": "Ein Pokémon, das Menschen mitten in der Nacht\nerschreckt. Es sammelt die Angst als seine Energie.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "a064ece30fbfcb4c0cf84001587dc19b252331a86e4e390f12bf763ffc33145e",
+    "sourceImageBytes": 261894
+  },
+  {
+    "cardId": "P-A-039",
+    "locale": "de",
+    "path": "description",
+    "value": "Es wird gern als Vorlage für Wappenmotive\ngenutzt, da aus den Federn, die ihm ausfallen,\nSchwerter hergestellt werden.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "8b55faf469232a5a3e96744fcded6d5b14a5877cdcc7cec75e499d8851455881",
+    "sourceImageBytes": 320079
+  },
+  {
+    "cardId": "P-A-040",
+    "locale": "de",
+    "path": "description",
+    "value": "Das Feuer an seinem Hinterteil wird durch Gase\nim Bauch genährt. Selbst Regen löscht es nicht.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "c91d09df1bb21a6eaf984e270a7403a979e4468ec3b87c454863c9b4c41f1c09",
+    "sourceImageBytes": 284205
+  },
+  {
+    "cardId": "P-A-041",
+    "locale": "de",
+    "path": "description",
+    "value": "Seine Schale ist voll von Freude. Es heißt,\nwenn man es freundlich und gut behandelt,\nteile es sein Glück.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "6200efb4f978580659d8a414c05c072cdde75a12e38d3ff5cb69195f1a4b0461",
+    "sourceImageBytes": 296369
+  },
+  {
+    "cardId": "P-A-043",
+    "locale": "de",
+    "path": "description",
+    "value": "Diese Form nimmt Kinoso an, wenn es viel Sonne\ngetankt und dadurch seine Energie aufgefüllt hat.\nEs bleibt bis zum Sonnenuntergang aktiv.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "2d3fb6ab99aeb38abb569209184901ff0e42745530f5d4ef63e373c2c5a2f115",
+    "sourceImageBytes": 233131
+  },
+  {
+    "cardId": "P-A-044",
+    "locale": "de",
+    "path": "description",
+    "value": "Mithilfe seines Schweifs entlädt es Elektrizität\nin den Boden, um sich auf diese Weise vor\nelektrischen Schlägen zu schützen.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "bd5f4f1898d1480a3732823a97b4a40fd1fe64292d2cf29a47476c71f82adb05",
+    "sourceImageBytes": 312975
+  },
+  {
+    "cardId": "P-A-045",
+    "locale": "de",
+    "path": "description",
+    "value": "Es bewegt sich nur 1 cm pro Jahr, aber in\nNotlagen bohrt es sich mit seinem Körper\nblitzschnell in den Boden.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "4422447c45a200badeb904704fa9062bff418ae5bc1488eef0c3fb60215ba341",
+    "sourceImageBytes": 330786
+  },
+  {
+    "cardId": "P-A-046",
+    "locale": "de",
+    "path": "description",
+    "value": "Es verbirgt sich in kleinen Höhlen, aus denen es\nherausspringt und vorbeilaufende Gegner oder\nBeute beißt. Manchmal bricht dabei ein Zahn ab.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "25517f14ba117652cc3f8370cc76963a010919138f6786c46e5f55a534b53f9b",
+    "sourceImageBytes": 339592
+  },
+  {
+    "cardId": "P-A-047",
+    "locale": "de",
+    "path": "description",
+    "value": "Entwickelt sich Staravia zu Staraptor, verlässt es\nden Schwarm und lebt allein. Die Spannweite\nseiner Flügel ist gigantisch.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "ea4806b78146459a072028494e8f966cb778bf177f3ca4bf691ea3f7dede0e6d",
+    "sourceImageBytes": 319170
+  },
+  {
+    "cardId": "P-A-048",
+    "locale": "de",
+    "path": "description",
+    "value": "Es wird mit einer wundersamen Kraft geboren,\ndie eine Bindung zu jedem anderen Pokémon\nmöglich macht.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "671c28e7a13171b99ac5240336c40bdedf38e06b9f6d73ab339924e20fc249bf",
+    "sourceImageBytes": 301579
+  },
+  {
+    "cardId": "P-A-049",
+    "locale": "de",
+    "path": "description",
+    "value": "Es muss über 400 kg Nahrung am Tag fressen,\num satt zu werden. Ist es mit dem Essen fertig,\nschläft es sofort ein.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "28d2ccd3d522572d6f0932d2d94a995f9f9a74f7c1bc8e72aa74b924a8ce8edc",
+    "sourceImageBytes": 274046
+  },
+  {
+    "cardId": "P-A-051",
+    "locale": "de",
+    "path": "description",
+    "value": "Seit uralten Zeiten soll es Menschen auf seinem\nRücken reiten lassen. Darstellungen davon finden\nsich auf 10 000 Jahre alten Wandmalereien.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "bd6b8ff828b29c58e7942747a44faf446d92dfaa81fd598b20176c51c4b6b944",
+    "sourceImageBytes": 321911
+  },
+  {
+    "cardId": "P-A-052",
+    "locale": "de",
+    "path": "description",
+    "value": "Die Zusammensetzung seines weichen Fells ähnelt\nder von Pflanzen. Es reinigt penibel sein Gesicht,\num zu verhindern, dass dieses austrocknet.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "e1652ea868ef9bcdf6e71abbf2ddf6b51e91dbe460109916e78fb7111e388a53",
+    "sourceImageBytes": 222985
+  },
+  {
+    "cardId": "P-A-053",
+    "locale": "de",
+    "path": "description",
+    "value": "Mit gefüllter Schwimmblase kann es Menschen\nauf seinem Rücken tragen. Lässt es Luft aus ihr\nheraus, taucht es unter.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "955cffcfbfce2342fafde0d7a93bbb282b520760d23c537d43b535aff31c915c",
+    "sourceImageBytes": 293069
+  },
+  {
+    "cardId": "P-A-054",
+    "locale": "de",
+    "path": "description",
+    "value": "Dieses Pokémon ist für gewöhnlich sehr gelassen,\ndoch sobald ein Kampf beginnt, streckt es den Gegner\nmit blitzschnellen Bewegungen zu Boden.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "da3d2ac9a35e130baaad336660570924988e8a9a2bd1c7b7da7612527e22a58e",
+    "sourceImageBytes": 376003
+  },
+  {
+    "cardId": "P-A-055",
+    "locale": "de",
+    "path": "description",
+    "value": "Es verwendet seine vier Arme, um seine\nGegner unermüdlich mit schnellen Schlägen\naus allen Winkeln einzudecken.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "5687fd9eaa0fe9b900cf15f7d43525f2ea694f21f98d7fc70bfcc1f0e8a48ae4",
+    "sourceImageBytes": 325897
+  },
+  {
+    "cardId": "P-A-056",
+    "locale": "de",
+    "path": "description",
+    "value": "Es hängt seinen Kiefer aus und verschlingt so\nselbst größere Beute am Stück. Danach rollt\nes sich zusammen und ruht sich aus.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "9114252ed87ba69bb592f17bb4b6397491338d23d1ca6f19740cc350a85bb828",
+    "sourceImageBytes": 290623
+  },
+  {
+    "cardId": "P-A-057",
+    "locale": "de",
+    "path": "description",
+    "value": "Es hat Nerven wie Drahtseile, nichts kann es erschüttern.\nEs ist agiler und aktiver, als es scheint.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "c1f389f0907d32dee26bff283756ea6f61f54457a5d38ed7ada7aa7f024db408",
+    "sourceImageBytes": 311984
+  },
+  {
+    "cardId": "P-A-058",
+    "locale": "de",
+    "path": "description",
+    "value": "Pachirisu ist eines der Pokémon, die mit ihren\nBackentaschen Elektrizität erzeugen. Den so\ngesammelten Strom gibt es über den Schweif ab.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "63c64b1699620ca319bfaf7117d0474315819819d577f037cb63590c17004846",
+    "sourceImageBytes": 232423
+  },
+  {
+    "cardId": "P-A-059",
+    "locale": "de",
+    "path": "description",
+    "value": "Dieses Pokémon nutzt seine Aura, um mit seinen\nArtgenossen zu kommunizieren. Es kann eine\nganze Nacht lang laufen.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "94d49282f58883d8d12be96e71fe6d14a1993440ba76d5c974e0d3d241fb5720",
+    "sourceImageBytes": 304009
+  },
+  {
+    "cardId": "P-A-060",
+    "locale": "de",
+    "path": "description",
+    "value": "Owei mag zwar Eiern ähneln, ist aber ein echtes\nPokémon, das aus sechs Individuen besteht, die\nwohl telepathisch miteinander kommunizieren.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "4d16313518f14ac0f59c1a8024ef16364bc8a8a5d14e5113ae3f93270db78cd4",
+    "sourceImageBytes": 289151
+  },
+  {
+    "cardId": "P-A-061",
+    "locale": "de",
+    "path": "description",
+    "value": "Es stößt aus Brust und Rücken elastische Blasen aus,\nmit denen es gegnerische Angriffe abfängt und so\nden erlittenen Schaden verringert.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "1cf3830e42174cbbc6169c8cea01e74e8a807748b4c7930614c30c32e90db92f",
+    "sourceImageBytes": 290708
+  },
+  {
+    "cardId": "P-A-062",
+    "locale": "de",
+    "path": "description",
+    "value": "Unter seinem Flügel trägt es eine Lauchstange,\ndie es wie ein Schwert gegen Feinde einsetzt und\nwelche ihm im Bedarfsfall auch als Nahrung dient.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "6d30dbcd813182eee582603ed0bbeafff2ae01c5656a39eee3c67c133b2f1314",
+    "sourceImageBytes": 296643
+  },
+  {
+    "cardId": "P-A-063",
+    "locale": "de",
+    "path": "description",
+    "value": "Es lebt in der Ozonschicht hoch über den Wolken\nund kann vom Boden aus nicht gesehen werden.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "ff1669fcf855296f6597247bc68b0100525e1b85ff1473a15b21b847b58d5a08",
+    "sourceImageBytes": 327996
+  },
+  {
+    "cardId": "P-A-066",
+    "locale": "de",
+    "path": "description",
+    "value": "Es lebt an dunklen Orten ohne Sonnenlicht.\nMenschen zeigt es sich nur, wenn es mit einem\nLumpen bedeckt ist, der aussieht wie ein Pikachu.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "83464eded728166727022864caeaf4d18da5c08c3ee0ee30e111ba210a00be91",
+    "sourceImageBytes": 337300
+  },
+  {
+    "cardId": "P-A-067",
+    "locale": "de",
+    "path": "description",
+    "value": "Da sein Körper aus Gas besteht, kann es schon\nvon einem leichten Luftzug weggeweht werden.\nAber das scheint ihm nichts auszumachen.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "ced87968750244efc3665f8c336fa622131411773b5af3d996903183eb3b007e",
+    "sourceImageBytes": 290007
+  },
+  {
+    "cardId": "P-A-068",
+    "locale": "de",
+    "path": "description",
+    "value": "Es greift seine Beute mit scharfen Fangzähnen\nund Krallen an. Vertraut es einem Trainer,\nbefolgt es treu dessen Anweisungen.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "200529a3ecff49d09dd5fe4e9056682f7a99beebada7b6027e3271a6c5177c88",
+    "sourceImageBytes": 309620
+  },
+  {
+    "cardId": "P-A-069",
+    "locale": "de",
+    "path": "description",
+    "value": "Durch starke Sonneneinstrahlung wurden seine\neigentlichen Kräfte und seine wahre Gestalt freigesetzt.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "ee5a83ccc7fc70123699e1cf30d836d35f04db46038a3456b2634b51a8a8195e",
+    "sourceImageBytes": 300798
+  },
+  {
+    "cardId": "P-A-070",
+    "locale": "de",
+    "path": "description",
+    "value": "Einst lebte es auf einem schneebedeckten Berg,\nder auch die Heimat einer Gottheit war, weshalb\nes als deren Verkörperung verehrt wurde.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "14f72f85b639d5da9210cf1013770225778c7c5ce4b381bc21105697f4cd2391",
+    "sourceImageBytes": 376442
+  },
+  {
+    "cardId": "P-A-071",
+    "locale": "de",
+    "path": "description",
+    "value": "Dieses Pokémon boxt Bäume und frisst dann die Beeren,\ndie von ihnen herabfallen. So gelangt es an Nahrung und\nkann gleichzeitig trainieren.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "3bf776397399dcf4126ad1b6792c24071d546e9539d182cc29b0215b53885276",
+    "sourceImageBytes": 272958
+  },
+  {
+    "cardId": "P-A-072",
+    "locale": "de",
+    "path": "description",
+    "value": "Die Müllanlagen Alolas beherbergen rund hundert\nExemplare dieses Pokémon. Sie sind fleißig dabei,\nriesige Mengen an Müll zu vertilgen.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "fed77df38a7adf34c0ff15a84bdb5562635e5b0a682953e18024dcfe31f4ac24",
+    "sourceImageBytes": 275042
+  },
+  {
+    "cardId": "P-A-073",
+    "locale": "de",
+    "path": "description",
+    "value": "Sie kommunizieren miteinander, indem sie ihre\nSchnäbel gegeneinanderschlagen. Stärke und\nAnzahl der Schläge übermitteln ihre Gefühle.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "064253e7547868b162609bcfce9ec8f18195841d9c1b709f5ddd158043d64512",
+    "sourceImageBytes": 293769
+  },
+  {
+    "cardId": "P-A-074",
+    "locale": "de",
+    "path": "description",
+    "value": "Mit seinen elektrisierten Krallen reißt es Gegner in Stücke. Selbst wenn sie ausweichen, werden sie von elektrisch geladenen Funken gegrillt.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "73a236a8b8bb4930eebc8dd6ce41e5be9c4e52a4f606ac2a524e675071d9ee2b",
+    "sourceImageBytes": 321551
+  },
+  {
+    "cardId": "P-A-075",
+    "locale": "de",
+    "path": "description",
+    "value": "Der Körper dieser Ultrabestie ist dünn wie Papier und so scharfkantig wie eine geschliffene Klinge.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "f54ae6ac52e525358a7e3575a0a206b228a932d1358cb771361e408c1d58208f",
+    "sourceImageBytes": 279649
+  },
+  {
+    "cardId": "P-A-076",
+    "locale": "de",
+    "path": "description",
+    "value": "Dieses Wesen ist vermutlich eine Ultrabestie. Es nähert sich Menschen tänzelnd, nur um dann plötzlich seinen Kopf explodieren zu lassen.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "68fcf9cad574ccdd5a487d88297dabe10bb1fce9e407007d7eb7b5878b92fc05",
+    "sourceImageBytes": 293401
+  },
+  {
+    "cardId": "P-A-077",
+    "locale": "de",
+    "path": "description",
+    "value": "In dieser Welt wirkt sein Aussehen gefährlich und fremdartig, doch in seiner ursprünglichen Welt ist es ein ganz gewöhnliches Lebewesen.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "d0c73c161a4086c849e5b6eeb23cbaebd24bf75e74be824c1e9a8879ead970de",
+    "sourceImageBytes": 257743
+  },
+  {
+    "cardId": "P-A-078",
+    "locale": "de",
+    "path": "description",
+    "value": "In dieser Form unterliegt Lunala gänzlich Necrozmas Kontrolle, es hat keinen eigenen Willen mehr. Seine Energie fließt ungehindert aus.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "54676cdd2d95d28903224b6edd354084b733a3a624acc2aba06214d34abcb325",
+    "sourceImageBytes": 308908
+  },
+  {
+    "cardId": "P-A-079",
+    "locale": "de",
+    "path": "description",
+    "value": "Necrozma nimmt diese Form an, wenn es das Licht von Solgaleo verschlingt. Es schlitzt Gegner mit seinen vielen scharfen Krallen auf.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "a9ef3a33ad4f049e15b83e54181859700058fefab0f5969e62cc699201527751",
+    "sourceImageBytes": 322413
+  },
+  {
+    "cardId": "P-A-080",
+    "locale": "de",
+    "path": "description",
+    "value": "Diese Kreatur kam durch eine Ultrapforte. Sie besteht anscheinend aus mehreren aufeinandergestapelten Wesen.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "bf6406eb4e88af941c161d8c5089d4845ba1a4f75f0dfa116260c453cd9afb3a",
+    "sourceImageBytes": 302541
+  },
+  {
+    "cardId": "P-A-082",
+    "locale": "de",
+    "path": "description",
+    "value": "Diese Ultrabestie wird in der Welt, aus der sie kommt, so gemocht, dass sie oft als Partner für Reisen gewählt wird.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "cc94ade9ac216ec239ce42fd6897fbddc56fa4261f88f0520469a92b74b14e0d",
+    "sourceImageBytes": 317805
+  },
+  {
+    "cardId": "P-A-083",
+    "locale": "de",
+    "path": "description",
+    "value": "Sein Pelz ist wunderbar flauschig. Wagt man es jedoch, diesen zu berühren, setzt es sich ohne Rücksicht auf Verluste zur Wehr.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "dea40172d9f3f6b38e81102c1db51a7de088c94ded477d6a447dd9075863b694",
+    "sourceImageBytes": 272284
+  },
+  {
+    "cardId": "P-A-085",
+    "locale": "de",
+    "path": "description",
+    "value": "Gelatini kann nicht an warmen Orten leben. Es erzeugt Schnee, indem es kalte Luft ausatmet, und vergräbt sich dann darin, um zu schlafen.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "944d08d6235d9606ac275e34ad81771ba8d14d5cbaf0ebfa0e89619182584a77",
+    "sourceImageBytes": 244581
+  },
+  {
+    "cardId": "P-A-086",
+    "locale": "de",
+    "path": "description",
+    "value": "Es sammelt die schwache elektrische Energie, die von seinen Zellen ausgeht, und feuert starke Blitze ab.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "557516df0be7d49d7c66d9cccd5521e5257ab6202166a024e76fcccdb4481116",
+    "sourceImageBytes": 229295
+  },
+  {
+    "cardId": "P-A-087",
+    "locale": "de",
+    "path": "description",
+    "value": "Es macht einem Trainer, dem es vertraut, mit Beeren samt Sahnedekoration eine Freude.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "133e2042ab3a2668e64b6c64f3ad0d129d9cb22ba588da300f984e07061f384f",
+    "sourceImageBytes": 321510
+  },
+  {
+    "cardId": "P-A-088",
+    "locale": "de",
+    "path": "description",
+    "value": "Man sagt, wenn sein ganzer Körper eine Aura ausstrahle, ändere sich augenblicklich das Wetter in seiner Umgebung.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "501c0bfcf72bfc1725ca223342ca154893fc1c4cfbf9c1cec78aa9a26465e056",
+    "sourceImageBytes": 276367
+  },
+  {
+    "cardId": "P-A-089",
+    "locale": "de",
+    "path": "description",
+    "value": "Berührt dieses herzensgute Pokémon jemanden mit seinen Fühlern, kann es dessen körperliche Verfassung und Gemütszustand ertasten.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "fae829330ae5c6ab8054f8af28b4ecd8bec4ec4ede53274e1317939b866a663a",
+    "sourceImageBytes": 246264
+  },
+  {
+    "cardId": "P-A-090",
+    "locale": "de",
+    "path": "description",
+    "value": "Der Schweif an seinem Rücken absorbiert Blitze und Angriffe von Elektro-Pokémon. Es speichert den so gewonnenen Strom in Elektrotaschen.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "9e3ef118c3ed573e34d9a15d3bd9128802501723b65a22ddb68273cb664a5d62",
+    "sourceImageBytes": 328890
+  },
+  {
+    "cardId": "P-A-091",
+    "locale": "de",
+    "path": "description",
+    "value": "Sein Schweif ist etwa doppelt so lang wie sein Körper. Es umwickelt damit von Bäumen gefallene Beeren und trägt sie mit sich fort.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "3e27e7d12d29e80f53ce7a587e0bc1b6e9661f0a367e9705f6db935ce0e42407",
+    "sourceImageBytes": 288529
+  },
+  {
+    "cardId": "P-A-092",
+    "locale": "de",
+    "path": "description",
+    "value": "Um sich jeder Umgebung perfekt anpassen zu können, ist es in der Lage, sich zu verschiedenen Pokémon zu entwickeln.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "673fa2ff28691c96eb1c70d5c887d26357882b12e4b46ad77b9b63b4b5629200",
+    "sourceImageBytes": 292606
+  },
+  {
+    "cardId": "P-A-093",
+    "locale": "de",
+    "path": "description",
+    "value": "Man erzählt sich, dass überall dort besonders häufig Pii anzutreffen seien, wo einst eine Sternschnuppe eingeschlagen sei.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "63a1341e8012c94375b9caf17d51253c57c2ddad69152f7d86c1b1694bf9acf8",
+    "sourceImageBytes": 252133
+  },
+  {
+    "cardId": "P-A-094",
+    "locale": "de",
+    "path": "description",
+    "value": "Es lebt in Meeren mit ruhigem Gezeitenstrom. Wird es angegriffen, versprüht es tiefschwarze Tinte und ergreift daraufhin die Flucht.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "332112248bc0476f3fa9d46f5e9bb54561ab81db037049a0f1c9a1c500548c17",
+    "sourceImageBytes": 280483
+  },
+  {
+    "cardId": "P-A-095",
+    "locale": "de",
+    "path": "description",
+    "value": "Seine Antennen haben sich aus Flossen entwickelt und sind sowohl positiv als auch negativ geladen.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "2fb2109aa6d8e4922bd6aea7e59451c64a7206f24d2cc41a419d89e676df8f69",
+    "sourceImageBytes": 245214
+  },
+  {
+    "cardId": "P-A-096",
+    "locale": "de",
+    "path": "description",
+    "value": "Wird man von den Flammen getroffen, die es aus seinem Maul schießt, so erleidet man eine Brandwunde, deren Schmerz nie nachlässt.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "6b5442bdd85545a3536e55999e8bb9c452f560e6eabfbd7fa6fd8339ca1112d2",
+    "sourceImageBytes": 307978
+  },
+  {
+    "cardId": "P-A-097",
+    "locale": "de",
+    "path": "description",
+    "value": "Obwohl es sein Junges im Beutel trägt, bewegt sich dieses Pokémon äußerst leichtfüßig. Gegner schreckt Kangama mit blitzschnellen Schlägen ab.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "95ac8c14974ba5355a1cfbefb3ee76ef6ee76c8a9910ab4428321dcaf8b44d66",
+    "sourceImageBytes": 318315
+  },
+  {
+    "cardId": "P-A-099",
+    "locale": "de",
+    "path": "description",
+    "value": "Sein Fell ist von Natur aus wasserabweisend. Es bleibt trocken, auch wenn es im Wasser spielt.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "a778d9e329b7ceb1a55b64d219c70f2497e778627c4200b3e35041702777458b",
+    "sourceImageBytes": 295260
+  },
+  {
+    "cardId": "P-A-100",
+    "locale": "de",
+    "path": "description",
+    "value": "Snibunna wurde durch seine Entwicklung noch verschlagener. Es kommuniziert durch in Felsen gekratzte Zeichen.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "2b3314a360257b62767af9f35178bfe174fcf0a2d4318f147aee2671e4a071a1",
+    "sourceImageBytes": 307464
+  },
+  {
+    "cardId": "P-A-101",
+    "locale": "de",
+    "path": "description",
+    "value": "Es kommuniziert durch Telepathie. Sein Daunenkleid bricht das Licht, sodass es unsichtbar wird.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "f400d3d220f4781ad80fb156cd2d12e487f131d8de4b94d1498341b1acd65dff",
+    "sourceImageBytes": 337578
+  },
+  {
+    "cardId": "P-A-102",
+    "locale": "de",
+    "path": "description",
+    "value": "Es lebt im tropischen Dschungel. Die süßen, leckeren Früchte an seinem Hals wachsen zweimal im Jahr.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "1b8e806179d110272f8a227002a57b733c70f514c4b2818f44e335e8b8e599f4",
+    "sourceImageBytes": 291391
+  },
+  {
+    "cardId": "P-A-103",
+    "locale": "de",
+    "path": "description",
+    "value": "Quapsel kann besser schwimmen als laufen. Das Spiralmuster auf seinem Bauch ist ein Teil seiner Innereien, der durch die Haut sichtbar ist.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "e2ce1957650106c551d597266b4ee2d868f1506a14e776194f0558e9f40f5072",
+    "sourceImageBytes": 265907
+  },
+  {
+    "cardId": "P-A-104",
+    "locale": "de",
+    "path": "description",
+    "value": "Milotic soll das schönste aller Pokémon sein. Es hat schon so manchem Künstler als Quelle der Inspiration gedient.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "84bf61dee1d3101d3b03dfba51332afcd877588cb36f23cfe61a0fbd05da5e4e",
+    "sourceImageBytes": 319191
+  },
+  {
+    "cardId": "P-A-105",
+    "locale": "de",
+    "path": "description",
+    "value": "Es übertölpelt andere, indem es deren Gestalt annimmt. Angeblich tarnt es sich oft als wortkarges Kind.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "814c4ae4941d89d855085e84b3cd9f033566773ea6e0a9251a33543b67de826b",
+    "sourceImageBytes": 315110
+  },
+  {
+    "cardId": "P-A-106",
+    "locale": "de",
+    "path": "description",
+    "value": "Es heißt, Zoroark verbanne jeden, der es zu fangen versucht, zur Strafe in eine Welt der Illusionen.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "bfccec123c33fe617fe614f6fc0dd487d488e5332ed3610fc9c50ee61067f378",
+    "sourceImageBytes": 325819
+  },
+  {
+    "cardId": "P-A-107",
+    "locale": "de",
+    "path": "description",
+    "value": "Dank seiner äußerst nährstoffreichen Milch trägt Miltank seit langer Zeit zum Wohl von Menschen und Pokémon bei.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "46be5514a006a81b1a7b77e5dc7f2d025e50e050f40edbf3e290819c3fb89178",
+    "sourceImageBytes": 289129
+  },
+  {
+    "cardId": "P-A-108",
+    "locale": "de",
+    "path": "description",
+    "value": "Es lebt in Nestern, die es an Flussufern baut. Nach dem Spielen im Schlamm muss es sich erst waschen, um sich wohlzufühlen.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "6d1731209d112f07f1059eb22d12e912dd49a355dd43a68e340128fe637ec496",
+    "sourceImageBytes": 305999
+  },
+  {
+    "cardId": "P-A-111",
+    "locale": "de",
+    "path": "description",
+    "value": "Ist es wütend, entlädt sich augenblicklich die\nElektrizität, die es in seinen Backentaschen\ngespeichert hat.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "b6755783807f8ff21bb8731913129921b85b77d4765e239fce85a210fcf1acb4",
+    "sourceImageBytes": 221279
+  },
+  {
+    "cardId": "P-A-113",
+    "locale": "de",
+    "path": "description",
+    "value": "Es lebt an dunklen Orten ohne Sonnenlicht. Menschen zeigt es sich nur, wenn es mit einem Lumpen bedeckt ist, der aussieht wie ein Pikachu.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "c7375c55e4b6766e7bb38bc6025ffec12f2b0214f75a9c40a25146c3b14807a2",
+    "sourceImageBytes": 291127
+  },
+  {
+    "cardId": "P-A-114",
+    "locale": "de",
+    "path": "description",
+    "value": "Es verwendet seine vier Arme, um seine\nGegner unermüdlich mit schnellen Schlägen\naus allen Winkeln einzudecken.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "182750485002970ee412d8ac7ab4814d68666d9466b8f70fe5b2dd512f261638",
+    "sourceImageBytes": 307724
+  },
+  {
+    "cardId": "P-A-115",
+    "locale": "de",
+    "path": "description",
+    "value": "Man sagt, es habe Pokémon aus einem Eisberg,\nFelsen und Magma nach seinem Abbild geschaffen.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "4d5f7e6edf9e4452e62fcaeb284fae0500d44fef7316f01117d5e673b6771e16",
+    "sourceImageBytes": 283206
+  },
+  {
+    "cardId": "P-A-116",
+    "locale": "de",
+    "path": "description",
+    "value": "Es kann die Luft von Giften reinigen und Ödland\nin ein üppig blühendes Blumenfeld verwandeln.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "e933fe94bd9a2d0d0384a1bc3a5891efa8987e0249982735250016f4fab2e2be",
+    "sourceImageBytes": 295876
+  },
+  {
+    "cardId": "P-A-117",
+    "locale": "de",
+    "path": "description",
+    "value": "Schnell wie der Wind rauscht es über Felder und Berge. Sein gebogenes Horn ist sehr sensibel gegenüber herannahenden Naturkatastrophen.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "ddb16a715b92bf85f897db9f228330d6cf95c3e3575665d0a0ae5dc9ca8387fb",
+    "sourceImageBytes": 304754
+  },
+  {
+    "cardId": "P-B-001",
+    "locale": "de",
+    "path": "description",
+    "value": "Ist es wütend, entlädt sich augenblicklich die\nElektrizität, die es in seinen Backentaschen\ngespeichert hat.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "acc2691f8bfaa8c2edeccf4cc3deb5c306d94c4f75ae38ed6611d86e54accd11",
+    "sourceImageBytes": 280292
+  },
+  {
+    "cardId": "P-B-002",
+    "locale": "de",
+    "path": "description",
+    "value": "Wenn man ab und zu seine Blätter schneidet, wächst sein Körper rund und prächtig heran.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "fdf0b1a9ea94f8984d576ef46a899fab8a13b1fc674257d1caa75d586c8f9a16",
+    "sourceImageBytes": 288007
+  },
+  {
+    "cardId": "P-B-003",
+    "locale": "de",
+    "path": "description",
+    "value": "Es schützt seine Haut mit feinen Blasen, die seinen\nKörper umhüllen. Es mag unbekümmert aussehen,\nbehält die Umgebung aber immer aufmerksam im Auge.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "70385baab97af3a2b10d5ad8b98b558e1f09e9da9d073095bcd1dc0b11cba473",
+    "sourceImageBytes": 282914
+  },
+  {
+    "cardId": "P-B-004",
+    "locale": "de",
+    "path": "description",
+    "value": "Beim Aufspüren von Gefahren ist Luxtras Röntgenblick äußerst hilfreich.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "6a661998acb0aa35563c94b9b1bd997f03d534d426af7514ae6487a36f85f612",
+    "sourceImageBytes": 244734
+  },
+  {
+    "cardId": "P-B-005",
+    "locale": "de",
+    "path": "description",
+    "value": "Reizt man dieses an sich gutmütige Pokémon,\nwehrt es sich wütend.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "dac2b08e7c701cd72c6eefa9425b6d3ac73f966a8cfed8e99d86485e999fdf0c",
+    "sourceImageBytes": 281946
+  },
+  {
+    "cardId": "P-B-007",
+    "locale": "de",
+    "path": "description",
+    "value": "In seinem Inneren lodert ein Feuer. Es schleudert\n1 000 °C heiße Feuerbälle.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "b048c5106248bad2eec0a193a6e549697b02a072746e29428ae4163ab4758962",
+    "sourceImageBytes": 244453
+  },
+  {
+    "cardId": "P-B-008",
+    "locale": "de",
+    "path": "description",
+    "value": "Wenn seine chronischen Kopfschmerzen stärker werden, kann es mysteriöse Kräfte entfalten. Danach erinnert es sich anscheinend nicht daran.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "ce14861d081a736a12d276c3a0c46d9f84407bff70ea1817f127d5ee037cd921",
+    "sourceImageBytes": 296710
+  },
+  {
+    "cardId": "P-B-010",
+    "locale": "de",
+    "path": "description",
+    "value": "Es transportiert Menschen und Pokémon. Wohin sie fliegen, bestimmt jedoch ganz alleine die Windrichtung.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "3793b66714502800d2acd9e9a427fb9f68b0e07d66780259e64332840a7a45d7",
+    "sourceImageBytes": 265959
+  },
+  {
+    "cardId": "P-B-011",
+    "locale": "de",
+    "path": "description",
+    "value": "Das Erbmaterial von Evoli ist anomal. Die Strahlung von besonderen Steinen lässt es mutieren.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "a1860a65aced784e3cefc4fd290af0f9d95babb00189e2c8e07f9bddf91d1873",
+    "sourceImageBytes": 294727
+  },
+  {
+    "cardId": "P-B-012",
+    "locale": "de",
+    "path": "description",
+    "value": "Es kann seine eigene Zellstruktur frei zusammensetzen\nund sich in jede andere Lebensform verwandeln.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "d794e6e8a5666fa2abe7d68fe49cbf4079d174c5b9b9c071a85466e606bf2418",
+    "sourceImageBytes": 313294
+  },
+  {
+    "cardId": "P-B-013",
+    "locale": "de",
+    "path": "description",
+    "value": "Sein imposantes Bellen klingt so majestätisch, dass sich jeder, der es vernimmt, unwillkürlich zu Boden wirft.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "a968349fe5f7e71dc8c9980678c64f0fd1d861748bbe102aeaa4c9615a47b439",
+    "sourceImageBytes": 278301
+  },
+  {
+    "cardId": "P-B-014",
+    "locale": "de",
+    "path": "description",
+    "value": "Die urzeitlichen Vorfahren dieses Pokémon waren etwas stärker als ihre heutigen, kümmerlichen Nachkommen.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "c36a257f03e5a4863604113f58170c1cc934027ffac16f3dd9e871cfc337f6d6",
+    "sourceImageBytes": 305799
+  },
+  {
+    "cardId": "P-B-015",
+    "locale": "de",
+    "path": "description",
+    "value": "Sein Fell wächst ständig. Im Sommer wirft es sein ganzes Fell ab, aber dieses wächst binnen einer Woche wieder nach.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "6411b506d0bc43d5c3e003f9ef36ef28dfdd2d86f79c0373ec6be178cd1a033a",
+    "sourceImageBytes": 204521
+  },
+  {
+    "cardId": "P-B-016",
+    "locale": "de",
+    "path": "description",
+    "value": "Seine Augen sind so außergewöhnlich, dass es\nsogar in einem Sandsturm kleinste Beute aus\n50 km Entfernung entdecken kann.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "4ea99e5aa388b0aae986dfe4e0a81da672fee050fc17240bf72d3eee6e401bc5",
+    "sourceImageBytes": 293725
+  },
+  {
+    "cardId": "P-B-017",
+    "locale": "de",
+    "path": "description",
+    "value": "Es kann nicht entspannen, solange es selbst oder seine Umgebung dreckig sind. Wenn es Schmutz bemerkt, wischt es diesen mit seinen Flügeln weg.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "a483a2400aad09bb79c57c3d46ef8f8a63686673b0b0908bbedabda59ed0a89e",
+    "sourceImageBytes": 286575
+  },
+  {
+    "cardId": "P-B-018",
+    "locale": "de",
+    "path": "description",
+    "value": "Stellt es seine kragenartigen Hautlappen auf und\nabsorbiert damit Sonnenlicht, kann ein Elezard\ngenug Strom für eine Großstadt produzieren.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "45345fd0c6de15e2d668271e4b70694ef0df9935b92c0f10859b61e353b882c6",
+    "sourceImageBytes": 228655
+  },
+  {
+    "cardId": "P-B-019",
+    "locale": "de",
+    "path": "description",
+    "value": "Es greift an, indem es seine Ohren aufrollt und\nmit viel Schwung wieder entrollt. Durch Training\nkann Haspiror die Kraft dieser Attacke steigern.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "f55689e09e6eb8ab2fb0f42564f3d3d30f5b5699a4f0c0ac2460765ab3767ac4",
+    "sourceImageBytes": 285827
+  },
+  {
+    "cardId": "P-B-020",
+    "locale": "de",
+    "path": "description",
+    "value": "Steigert es sich in einen Kampf hinein, spuckt es\nFlammen, die alles in seiner Umgebung\nniederbrennen.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "18a8539d7137f67a8fc45d9d957884da72d82ed559c039ab90f5c95cc663d492",
+    "sourceImageBytes": 294837
+  },
+  {
+    "cardId": "P-B-021",
+    "locale": "de",
+    "path": "description",
+    "value": "Es bohrt sich mit 80 km/h durch das Erdreich,\nindem es seinen massiven, rauen Körper dreht\nund windet.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "12b555188fb243175e99d56c80c6330d91b13026552342eccf307dd3eb45e1da",
+    "sourceImageBytes": 291598
+  },
+  {
+    "cardId": "P-B-022",
+    "locale": "de",
+    "path": "description",
+    "value": "Resladero lebt friedlich für sich allein. Unentwegt kämpft es gegen seine natürlichen Feinde: Rasaff, die in Gruppen randalieren.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "080eacf4025f50ea791dd29e20334c29111c8027ee2c6511513e9716601c268e",
+    "sourceImageBytes": 299548
+  },
+  {
+    "cardId": "P-B-023",
+    "locale": "de",
+    "path": "description",
+    "value": "Es lebte vor 300 Millionen Jahren. Team Plasma modifizierte es und pflanzte ihm am Rücken eine Kanone ein.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "976cb3ab82991ec00d78f1f9f03c9e7b96cf1eef601b603636e94d671dc8ee6d",
+    "sourceImageBytes": 301306
+  },
+  {
+    "cardId": "P-B-025",
+    "locale": "de",
+    "path": "description",
+    "value": "Man sagt, es kann alle 1 000 Jahre für eine Woche\njeden Wunsch erfüllen.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "5a3923d64239366da3e9a30d37af08024bdc8e4907aed44c265f08973919b0bc",
+    "sourceImageBytes": 389517
+  },
+  {
+    "cardId": "P-B-026",
+    "locale": "de",
+    "path": "description",
+    "value": "Wenn es seine große Schwanzflosse einsetzt, kann es im Wasser schnell beschleunigen. Es ist überraschend stark für seine geringe Größe.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "d19e361d938718cb9b07805f7da293903bc2763972952f7a5c61c960d9f17583",
+    "sourceImageBytes": 280529
+  },
+  {
+    "cardId": "P-B-027",
+    "locale": "de",
+    "path": "description",
+    "value": "Es saugt Elektrizität aus Strommasten. Erzeugt es mit dem im Körper gespeicherten Strom einen Kurzschluss, erklingt ein Geräusch.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "c9a936490cc22c84a918ef415c0fc89660599389746e3c02fcbccab6aa24bbec",
+    "sourceImageBytes": 248685
+  },
+  {
+    "cardId": "P-B-028",
+    "locale": "de",
+    "path": "description",
+    "value": "Es hat ein feines Gespür für die Gefühle der\nMenschen und Pokémon. Wenn es Feindseligkeit\nwahrnimmt, versteckt es sich.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "d8e424bcef685f3f895441f5532fc1803a4137d741a5db38418746f52eae4e07",
+    "sourceImageBytes": 299205
+  },
+  {
+    "cardId": "P-B-030",
+    "locale": "de",
+    "path": "description",
+    "value": "Mit der Energie aus seiner Rute erzeugt es wilde Stürme,\ndie stark genug sind, um ganze Wohnhäuser davonzuwehen.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "24256fcf975345a037dc73bfc94c1685fd817cd0385aae2e7da86bb8b2a959d0",
+    "sourceImageBytes": 296388
+  },
+  {
+    "cardId": "P-B-031",
+    "locale": "de",
+    "path": "description",
+    "value": "Es erschafft einen Ball aus Flammen, mit dem es seine Gegner blendet und in Schach hält.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "a9342615711740d121ce96ebcd40cd96b56008a648c9d8093f1501e7df4bebad",
+    "sourceImageBytes": 289937
+  },
+  {
+    "cardId": "P-B-032",
+    "locale": "de",
+    "path": "description",
+    "value": "Bei heißem Wetter erzeugt es mit seinen sechs Schweifen Kiesel aus Eis. Diese verteilt es in der Nähe, um seinen Körper abzukühlen.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "b8ad4c90cf17b7830cc7cd6f8964dd27b4ddd4fa6dd54d4987af5e206c9355b8",
+    "sourceImageBytes": 303202
+  },
+  {
+    "cardId": "P-B-033",
+    "locale": "de",
+    "path": "description",
+    "value": "Seine Beine sind so kräftig, dass es auch in Flüssen mit starker Strömung frei schwimmen kann. Es ist ordnungsliebend und sorgfältig.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "72bd3647646ae7b84c5d8a9d9fa940218f1f80170aa5b4d1e8fd905a4e8a5a50",
+    "sourceImageBytes": 331040
+  },
+  {
+    "cardId": "P-B-034",
+    "locale": "de",
+    "path": "description",
+    "value": "Olini wandelt Nährstoffe in Öl um, welches es in der Frucht auf seinem Kopf speichert. Es kommt mühelos eine Woche ohne Essen und Trinken aus.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "ecefac248bd002d464e00dafe5f796e4f91df06323540b39ce2b9c2c4576db10",
+    "sourceImageBytes": 277443
+  },
+  {
+    "cardId": "P-B-035",
+    "locale": "de",
+    "path": "description",
+    "value": "Im Kampf erreichen seine Flammen Temperaturen von bis zu 1000 °C. Es hat eine Vorliebe für Beeren mit hohem Fettgehalt.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "311829e380ba937f6c70be6b650b33e19fa7ed44230a5ffeb42d3bd7c8792f79",
+    "sourceImageBytes": 296319
+  },
+  {
+    "cardId": "P-B-036",
+    "locale": "de",
+    "path": "description",
+    "value": "Dieses äußerst gerissene Pokémon gibt vor, geschwächt zu sein, um so Beute anzulocken, die sein Partner daraufhin angreift.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "de44db4a01c72387ec5f3b6298032b40c358063bd584973c876e29501cc1e38b",
+    "sourceImageBytes": 331150
+  },
+  {
+    "cardId": "P-B-037",
+    "locale": "de",
+    "path": "description",
+    "value": "Es lebt in Wäldern und Felsgebieten. Mit der Kraft seiner Rückenflosse kühlt es sein Nest wie eine Gefriertruhe herunter.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "13aa4b337d06924d366deb42164357bbde6a64252a5e904bd8d18ad42158c3f0",
+    "sourceImageBytes": 284050
+  },
+  {
+    "cardId": "P-B-038",
+    "locale": "de",
+    "path": "description",
+    "value": "Granforgita schwingt den über 100 kg schweren Hammer mühelos umher. Es schleppt alles mit sich nach Hause, was ihm gefällt.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "2a95f336d329cd93583372c4f96cd8385292a0156ab069cd1bc7b179bfe97e11",
+    "sourceImageBytes": 303516
+  },
+  {
+    "cardId": "P-B-039",
+    "locale": "de",
+    "path": "description",
+    "value": "Seine Pfotenballen sind Organe zur elektrischen Entladung. Gelingt es ihm, auf den Hinterbeinen zu stehen, schießt es Strom aus den Vorderpfoten.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "7da99425917207a5b380b7bf288d6918e3125625cfb1d47086bf14bfedc4a096",
+    "sourceImageBytes": 262005
+  },
+  {
+    "cardId": "P-B-040",
+    "locale": "de",
+    "path": "description",
+    "value": "Es lebt auf dem Grund von Teichen und Sümpfen. Man kann beobachten, wie es Felino auf seinem Rücken von einem Ufer zum anderen befördert.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "3d7a3ee946fdcea6f325c2f3425d11289a84dcd81538c4fef31b2b158eb94d60",
+    "sourceImageBytes": 287905
+  },
+  {
+    "cardId": "P-B-042",
+    "locale": "de",
+    "path": "description",
+    "value": "Flegmon ist stets in Gedanken versunken, aber niemand weiß, worüber es nachdenkt. Seine Rute nutzt es geschickt zum Angeln.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "c850c4d02ed2fc1feb613e71d7ae76eee6cfeeae21a93e419287795faddc8a67",
+    "sourceImageBytes": 227549
+  },
+  {
+    "cardId": "P-B-043",
+    "locale": "de",
+    "path": "description",
+    "value": "Es speichert statische Elektrizität in seinem Fell.\nIn Jahreszeiten mit trockener Luft sprüht sein\nganzer Körper Funken.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "e723e9b9a900b33237fc556492f63364ce63a3d82f71970c3fa73b45d7ff1eba",
+    "sourceImageBytes": 224774
+  },
+  {
+    "cardId": "P-B-044",
+    "locale": "de",
+    "path": "description",
+    "value": "Der stählerne Teil ist sein eigentlicher Körper. Es heftet sich an Felsen, um deren Bestandteile in Energie für sich selbst umzuwandeln.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "a203c55b38eb9bdb0e6253bb1721a61b958d58fc668d7da053b2fe027d8b0dd3",
+    "sourceImageBytes": 278797
+  },
+  {
+    "cardId": "P-B-045",
+    "locale": "de",
+    "path": "description",
+    "value": "Die Stoßzähne, mit denen es Feinde überwältigt, sind so scharf, dass sie Hochspannungsmasten mit einem Streich zerteilen. Sie sind sein ganzer Stolz.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "5da44b925df91d61778c17940bcb09379f4fa0cec924a5e7832ee3dca072eff8",
+    "sourceImageBytes": 301365
+  },
+  {
+    "cardId": "P-B-046",
+    "locale": "de",
+    "path": "description",
+    "value": "Es kann die menschliche Sprache nachahmen.\nVersammeln sie sich, bringen sich alle dasselbe bei.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "7a0ca31fa2d3d9c52e349f382087ee344bcbda1b366953794d7c2de071f0b79e",
+    "sourceImageBytes": 273860
+  },
+  {
+    "cardId": "P-B-047",
+    "locale": "de",
+    "path": "description",
+    "value": "Mit seinem gasförmigen Körper kann es Gegner jeder Größe einhüllen und ersticken.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "a8571eb3220431b7df40ea6880dbe3f068805f9a4778ebb76c73e8fc3cf6c298",
+    "sourceImageBytes": 292518
+  },
+  {
+    "cardId": "P-B-048",
+    "locale": "de",
+    "path": "description",
+    "value": "Sein dichtes, flauschiges Fell fühlt sich so toll an, dass man nicht aufhören kann, es anzufassen.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "ad045ea2836bed5e62185650c2f4aa5ea93006d77ba7a6489593797b86c9430f",
+    "sourceImageBytes": 283462
+  },
+  {
+    "cardId": "P-B-049",
+    "locale": "de",
+    "path": "description",
+    "value": "Jeder, dem Victini seine grenzenlose Energie zuteilwerden\nlässt, strotzt nur so vor Kraft.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "a0cb355465ca5d70f6655cdc936db328630c577b5e8991b4f380f219fe814ee2",
+    "sourceImageBytes": 304322
+  },
+  {
+    "cardId": "P-B-050",
+    "locale": "de",
+    "path": "description",
+    "value": "Wer die Melodie hört, die es in einer speziellen Stimmlage\nvon sich gibt, steht voll in seinem Bann.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "b7b608d712151345924fadbcbec162a58c77b7c5355d7c24d36f720a169a5c58",
+    "sourceImageBytes": 273824
+  },
+  {
+    "cardId": "P-B-051",
+    "locale": "de",
+    "path": "description",
+    "value": "Diese Form nimmt es an, wenn 10 % seiner Zellen gesammelt wurden. Das Spezialgebiet von diesem Pokémon ist der Nahkampf.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "7356305ef87d980d5c3b9e7d7b299afc8756eac87fc12b2f70a7db4bf9197d57",
+    "sourceImageBytes": 273811
+  },
+  {
+    "cardId": "P-B-052",
+    "locale": "de",
+    "path": "description",
+    "value": "Im Kampf gegen all jene, die das Ökosystem in\nGefahr bringen, nimmt es angeblich eine noch\nmächtigere Form an.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "3746d81591502c6d1108a32a4eaa411ee8016f4a9b46b0982d11df4dc98cbc33",
+    "sourceImageBytes": 300275
+  },
+  {
+    "cardId": "P-B-054",
+    "locale": "de",
+    "path": "description",
+    "value": "Das Erbmaterial von Evoli ist anomal. Die Strahlung von besonderen Steinen lässt es mutieren.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "a57a7a4eb9900ab49e7bbf64dbe158085bcdc873cc5cf1345e2527eb710ade78",
+    "sourceImageBytes": 264674
+  },
+  {
+    "cardId": "P-B-057",
+    "locale": "de",
+    "path": "description",
+    "value": "Diese Gestalt nimmt Formeo bei einem heißen Sonnenbad an. Sein glühender Körper fühlt sich sehr trocken an.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "ec162b979555d9f8fd1329874ad5f2c99c9e5734463201496ac2070e40149c23",
+    "sourceImageBytes": 271341
+  },
+  {
+    "cardId": "P-B-058",
+    "locale": "de",
+    "path": "description",
+    "value": "Dieser gierige Nimmersatt spürt Nahrung mit seinem ausgezeichneten Geruchssinn auf und röstet diese, bevor er sie verspeist.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "322b2cc65da133ab49571c0405b285429afe607dd6fc9f084a03b94180309199",
+    "sourceImageBytes": 272831
+  },
+  {
+    "cardId": "P-B-059",
+    "locale": "de",
+    "path": "description",
+    "value": "Wenn es keinen Stein findet, der sich als Haus\neignet, lässt es sich manchmal in den Öffnungen\nim Körper eines Hippoterus’ nieder.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "c04c8d3fff1d38043add59b7d9c6b0ae344d4eb26d905a7d185e42db172aaf3c",
+    "sourceImageBytes": 279620
+  },
+  {
+    "cardId": "P-B-060",
+    "locale": "de",
+    "path": "description",
+    "value": "Reißen die an seinem Körper wachsenden Ranken\nab, werden sie zu Nährstoffen für den Boden,\nwas den Pflanzen im Wald zum Wachstum verhilft.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "c37dccf36174614fe3203f8811944dd457e8cb613bc2b27bc18a78e9dd93e90e",
+    "sourceImageBytes": 317754
+  },
+  {
+    "cardId": "P-B-061",
+    "locale": "de",
+    "path": "description",
+    "value": "Es kann selbst Wände blitzschnell emporklettern. Mit seinem Schwanz misst es die Luftfeuchtigkeit, um das Wetter des nächsten Tages vorherzusagen.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "d614dd7b0c0651aeab4833cd0aa1c6619085e90f7bef2581c77d04ca538a8765",
+    "sourceImageBytes": 285672
+  },
+  {
+    "cardId": "P-B-062",
+    "locale": "de",
+    "path": "description",
+    "value": "Will es jemanden beschützen, verlängert es seine Ellbogen, um sie wie Schwerter zu nutzen, und kämpft auf wilde Art.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "fa70f8b9da37b68e55fd55bbebb0108cec85de272fac90795fad0ae72e392c4b",
+    "sourceImageBytes": 313462
+  },
+  {
+    "cardId": "P-B-064",
+    "locale": "de",
+    "path": "description",
+    "value": "Im Kampf erreichen seine Flammen Temperaturen von bis zu 1000 °C. Es hat eine Vorliebe für Beeren mit hohem Fettgehalt.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "75ce6c53218c1a05ae74dda6497ce1ed801cbba45aa5660af7b284949b424954",
+    "sourceImageBytes": 273606
+  },
+  {
+    "cardId": "P-B-065",
+    "locale": "de",
+    "path": "description",
+    "value": "Seine Zellstruktur ist der von Wassermolekülen ähnlich. Daher kann es mit Wasser verschmelzen und so unsichtbar werden.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "8d70df673422c29251acb97a91bcbf501abf328eda8afdfaeb66c9bfabbbcaa2",
+    "sourceImageBytes": 308602
+  },
+  {
+    "cardId": "P-B-067",
+    "locale": "de",
+    "path": "description",
+    "value": "Nach jedem Kampf pflegt es seine Klingen sorgfältig mit seinem Lieblingswetzstein. Schartige Klingen könnten seinen Tod bedeuten.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "cac771a52a72a6ff664f884620f4bad34169bc9771efced5789870751ef36e5e",
+    "sourceImageBytes": 322816
+  },
+  {
+    "cardId": "P-B-068",
+    "locale": "de",
+    "path": "description",
+    "value": "Es vertreibt Feinde aus seinem Nest, indem es große Mengen Luft in seine lange, schmale Lunge saugt und eine mächtige Druckwelle ausstößt.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "8d94c068c2d75e6a976b6115804c2def39a4c01ff3aa215b87f3be4e5d376e71",
+    "sourceImageBytes": 297341
+  },
+  {
+    "cardId": "P-B-069",
+    "locale": "de",
+    "path": "description",
+    "value": "Die Geschmeidigkeit seines Fells ändert sich je nach Laune des Pokémon. Macht es sich für den Kampf bereit, wird das Fell so spitz wie Nadeln.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "ec9759ea1e66d0058f69b651e10b011c18fa41bfaed0d5d930162085dff8edc3",
+    "sourceImageBytes": 283922
+  },
+  {
+    "cardId": "P-B-070",
+    "locale": "de",
+    "path": "description",
+    "value": "Die Substanzen der Edelsteine, die es frisst,\nverfestigen sich an seiner Körperoberfläche,\nwobei unendlich viele Musterungen entstehen.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "618f0c51ae197930e1dadc84aae4ff9f27564090779fac5c87ebb85e7d4558ca",
+    "sourceImageBytes": 304839
+  },
+  {
+    "cardId": "P-B-071",
+    "locale": "de",
+    "path": "description",
+    "value": "Wenn seine chronischen Kopfschmerzen stärker werden, kann es mysteriöse Kräfte entfalten. Danach erinnert es sich anscheinend nicht daran.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "566bcd6930d974fd3bf54ba4241a5bc78e26fa581683c5e6a8c5573ad7e20ac6",
+    "sourceImageBytes": 291969
+  },
+  {
+    "cardId": "P-B-072",
+    "locale": "de",
+    "path": "description",
+    "value": "Das schäbigste Pokémon von allen. Es lebt in großen Gruppen auf dem Grund von Flüssen, wo viele Wasserpflanzen wachsen.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "463a6c145fa9148391d70a732dbbd47f6a1117124ec6b96bd69eee7470293e1e",
+    "sourceImageBytes": 333409
+  },
+  {
+    "cardId": "P-B-073",
+    "locale": "de",
+    "path": "description",
+    "value": "Sein −50 °C kalter Atem friert Beute ein. Es soll diese dann an geheimen Orten ausstellen.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "cf63595902deb2859d5fa1859dec0bb9f66f3ec082b258041ef2d9d019ab5caf",
+    "sourceImageBytes": 317803
+  },
+  {
+    "cardId": "P-B-074",
+    "locale": "de",
+    "path": "description",
+    "value": "Wenn seine Backentaschen voll aufgeladen sind, stehen seine beiden Ohren senkrecht nach oben.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "d160f3d8fe02798bc2b4be2cbf1f24f76fbcf5fe83d048ca3c5ae8b56e1f79d5",
+    "sourceImageBytes": 215664
+  },
+  {
+    "cardId": "P-B-075",
+    "locale": "de",
+    "path": "description",
+    "value": "Dieses unbekümmerte Pokémon stößt beim Schwimmen oft mit dem Kopf gegen Felsen im Flussbett oder gegen Schiffsrümpfe.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "ddc77e84391b149569eaacd897759c4a1ed1ef8f48228f579fbcddb1c05d37aa",
+    "sourceImageBytes": 306436
+  },
+  {
+    "cardId": "P-B-076",
+    "locale": "de",
+    "path": "description",
+    "value": "Eine verstorbene Seele, die in Hisui zu neuem Leben erwachte. Groll verleiht ihm Kraft und quillt aus seinem Kopf, um als Ventil für den eigenen Hass die Gestalt seiner Feinde anzunehmen.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "12caa98cd2e302006f3e5e2f15f4ca6f72ee07f7ed98d58b80a79c674fecd202",
+    "sourceImageBytes": 294672
+  },
+  {
+    "cardId": "P-B-077",
+    "locale": "de",
+    "path": "description",
+    "value": "Es ist sehr freundlich und treu. Durch Bellen und Beißen versucht es, Feinde zu verscheuchen.",
+    "decision": "corrected-to-native",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "950d3656dda7deaf4289e4054c1762c6ff90e1828b57122b760e5bfe716b9a4e",
+    "sourceImageBytes": 298587
+  },
+  {
+    "cardId": "P-B-078",
+    "locale": "de",
+    "path": "description",
+    "value": "Emolga liebt süße Beeren. Manchmal hortet es\nso viel Futter in seinen Backentaschen, dass es\nnicht mehr richtig fliegen kann.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "c3eeec632350ae1ad49e75210f33274b9aaf696fbc43974b0e5ca352c0c45b8c",
+    "sourceImageBytes": 228197
+  },
+  {
+    "cardId": "P-B-081",
+    "locale": "de",
+    "path": "description",
+    "value": "Es verfügt über äußerst spitze Zähne und kräftige\nKiefer. Seefahrer meiden die Lebensräume von\nKanivanha um jeden Preis.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "3cdb6458b483aed5c9a078c1d140a8442f42066bb713e74b17dc91b0d979f5e5",
+    "sourceImageBytes": 308081
+  },
+  {
+    "cardId": "P-B-088",
+    "locale": "de",
+    "path": "description",
+    "value": "Die scharfen Sicheln an den Unterarmen werden durch das Schneiden harter Objekte noch schärfer.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "751ba308df4f45c40b2e9bc0835910ccc1e2c6f8412924670ea580aedee41134",
+    "sourceImageBytes": 298664
+  },
+  {
+    "cardId": "P-B-089",
+    "locale": "de",
+    "path": "description",
+    "value": "Dieses intelligente Pokémon versteht die Sprache der Menschen und liebt es, mit ihnen auf dem Rücken über das Meer zu schwimmen.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "f85a4212a78cc237cb387e1ad05b1ce752729aa41ced5ca048b3f127448cc2be",
+    "sourceImageBytes": 302360
+  },
+  {
+    "cardId": "P-B-090",
+    "locale": "de",
+    "path": "description",
+    "value": "Es nutzt den Seewind, um wie ein Segelflugzeug durch die Lüfte zu gleiten. Im Winter versteckt es Nahrung bei seinem Nest.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "508d1cc8fece9a777c04d91f2f9feb9a9fa0c976cc7374ddc1daa3fd70f0cb42",
+    "sourceImageBytes": 290756
+  },
+  {
+    "cardId": "P-B-091",
+    "locale": "de",
+    "path": "description",
+    "value": "Es lebt in der Dunkelheit, um seinen schwarzen Schweif zu verstecken. Es greift nie zuerst an.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "1f5fb1f735853ee2a06867828974c9309457653b1616ea62b17c49414487a09d",
+    "sourceImageBytes": 280808
+  },
+  {
+    "cardId": "P-B-092",
+    "locale": "de",
+    "path": "description",
+    "value": "Durch die Entwicklung wurde der Schädel seiner Mutter, den es stets trug, zu einem Teil von ihm und es bekam einen aggressiven Charakter.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "75ae33fe44aeeee6bbec0b23690dfa197341b2edb7af48e07f0307b8183dacdf",
+    "sourceImageBytes": 297689
+  },
+  {
+    "cardId": "P-B-093",
+    "locale": "de",
+    "path": "description",
+    "value": "Zweige sind ein Snack für Fynx. Wenn es auf ihnen herumkaut, fasst es den Mut, sich starken Gegnern entgegenzustellen.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "cd9c0843ca0e9151b03848947b0fba3f714143ef742c061f10f128201d60763b",
+    "sourceImageBytes": 278230
+  },
+  {
+    "cardId": "P-B-094",
+    "locale": "de",
+    "path": "description",
+    "value": "Über das Augenmuster auf der Innenseite seiner Ohren setzt es seine Psycho-Kräfte frei. Da diese aber viel zu stark sind, hält es das Muster bedeckt.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "b3f2b7fa24c6c80907e7e6f978a77eaf469d47cc7b7d40a0171a46f5dc3e4849",
+    "sourceImageBytes": 280674
+  },
+  {
+    "cardId": "P-B-095",
+    "locale": "de",
+    "path": "description",
+    "value": "Es vertreibt Eindringlinge aus seinem Revier, indem es sie in Schlaf versetzt und mit Alpträumen quält.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "27e3241e80714d3611cc8a81c39ec136425c78188f35fe196604cffc46ff7d81",
+    "sourceImageBytes": 363701
+  },
+  {
+    "cardId": "P-B-096",
+    "locale": "de",
+    "path": "description",
+    "value": "Mit seinem ausfahrbaren Horn gibt der Anführer Befehle zur Formationsänderung.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "f6de1ec7462cee10a78de53b25fd49342f7bb0e0513b5f14206c047c5d42e3c0",
+    "sourceImageBytes": 314195
+  },
+  {
+    "cardId": "P-B-097",
+    "locale": "de",
+    "path": "description",
+    "value": "Dieses Pokémon lebt in Höhlen, die Erdwärme ausgesetzt sind. Wenn Feinde sich nähern, springt es heraus und beißt mit seinem großen Maul zu.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "269b40feb3706b51e25cc56b0ca6f9d5c1e01a550c3b2f7d2ee8e3583c4b28b4",
+    "sourceImageBytes": 256463
+  },
+  {
+    "cardId": "P-B-098",
+    "locale": "de",
+    "path": "description",
+    "value": "Es liebt funkelnde Dinge und sucht in Höhlen nach Schätzen, die es dann in seinem Nest hortet.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "0b3d3388c81f3d1b68a8a5aef647130d105bb231e09e0e920862ef60f3c7cc3b",
+    "sourceImageBytes": 299507
+  },
+  {
+    "cardId": "P-B-100",
+    "locale": "de",
+    "path": "description",
+    "value": "Dieses Pokémon ist bei weiblichen Trainern aufgrund seines Fells beliebt.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "23a0289032a7327782d7ca49c1d101f4029af24bf79e8539e53f7c3785ec1c7c",
+    "sourceImageBytes": 271989
+  },
+  {
+    "cardId": "P-B-101",
+    "locale": "de",
+    "path": "description",
+    "value": "Ist es gesund, strahlt die Flamme an seiner Schwanzspitze leuchtend hell und erlischt selbst dann nicht, wenn sie ein wenig nass wird.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "58380ba556fe00fc538f006760379d629ae41c8ae754f2649b0fd7dad9d6d3b7",
+    "sourceImageBytes": 287196
+  },
+  {
+    "cardId": "P-B-102",
+    "locale": "de",
+    "path": "description",
+    "value": "Ein zutrauliches und gutmütiges Pokémon. Wird\nes jedoch wütend, beschwört es heftige Stürme\nherauf, die alles und jeden davonfegen.",
+    "decision": "existing-native-confirmed",
+    "review": "Every German A/B flavor field visually checked in labeled three-times native footer crops; fullart typography inspected in original image; whitespace normalized.",
+    "sourceImageSha256": "d8714882e0633cd92fe7bbe44775f125dbafdc4835f310a676aec113aed84558",
+    "sourceImageBytes": 290948
+  }
+]

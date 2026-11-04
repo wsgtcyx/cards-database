@@ -1,0 +1,4522 @@
+{
+  "schemaVersion": 1,
+  "baseRef": "5ce7b83ea9555e7e7196a64c555812108ac7a511",
+  "predecessors": [
+    {
+      "file": "meta/pocket-source-reviews/promo-abc-2026-11-04/ab-attack-names.decisions.json",
+      "sha256": "9a284424df873bcfe901c813a8a09cd190908b53191bc303ca56c3d3212d60ff"
+    }
+  ],
+  "sources": {
+    "native-exact": {
+      "file": "meta/pocket-source-reviews/promo-abc-2026-11-04/ab-native-exact.source.json",
+      "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+      "role": "Native card OCR exact corroboration of pinned game dictionary or flavor corpus candidate",
+      "version": "2026-11-04",
+      "license": "Attributed user-authorized game card text transcription; no separate licence located",
+      "url": "https://ptcgp.raenonx.cc"
+    }
+  },
+  "decisions": [
+    {
+      "entityKind": "card",
+      "entityId": "P-A-101",
+      "file": "data/Pokémon TCG Pocket/Promos-A/101.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Si Latios está en tu Banca, este ataque hace 20 daños más.",
+      "expectedEnglish": "If Latios is on your Bench, this attack does 20 more damage.",
+      "value": "Si Latios está en tu Banca, este ataque hace 20 puntos de daño más.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/0"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-101",
+      "file": "data/Pokémon TCG Pocket/Promos-A/101.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Se Latios estiver no seu banco, este ataque causará 20 de dano a mais.",
+      "expectedEnglish": "If Latios is on your Bench, this attack does 20 more damage.",
+      "value": "Se Latios estiver no seu Banco, este ataque causará 20 pontos de dano a mais.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/1"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-103",
+      "file": "data/Pokémon TCG Pocket/Promos-A/103.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Lancez une pièce de monnaie. Si c’est pile, cette attaque ne fait rien.",
+      "expectedEnglish": "Flip a coin. If tails, this attack does nothing.",
+      "value": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/2"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-103",
+      "file": "data/Pokémon TCG Pocket/Promos-A/103.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Lanza una moneda. Si sale cruz, este ataque no hace nada.",
+      "expectedEnglish": "Flip a coin. If tails, this attack does nothing.",
+      "value": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/3"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-103",
+      "file": "data/Pokémon TCG Pocket/Promos-A/103.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
+      "expectedEnglish": "Flip a coin. If tails, this attack does nothing.",
+      "value": "Jogue uma moeda. Se sair coroa, este ataque não fará nada.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/4"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-104",
+      "file": "data/Pokémon TCG Pocket/Promos-A/104.ts",
+      "path": "abilities[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Une fois pendant votre tour, lorsque vous jouez ce Pokémon depuis votre main pour faire évoluer 1 de vos Pokémon, vous pouvez soigner 60 dégâts d'1 de vos Pokémon {W}.",
+      "expectedEnglish": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may heal 60 damage from 1 of your {W} Pokémon.",
+      "value": "Une fois pendant votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer un de vos Pokémon, vous pouvez soigner 60 dégâts d'un de vos Pokémon {W}.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/5"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-104",
+      "file": "data/Pokémon TCG Pocket/Promos-A/104.ts",
+      "path": "abilities[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Una vez durante tu turno, cuando juegues este Pokémon de tu mano para hacer evolucionar a 1 de tus Pokémon, podrás curar 60 puntos de daño de 1 de tus Pokémon {W}.",
+      "expectedEnglish": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may heal 60 damage from 1 of your {W} Pokémon.",
+      "value": "Una vez durante tu turno, cuando juegas este Pokémon de tu mano para hacer evolucionar a uno de tus Pokémon, puedes curar 60 puntos de daño a 1 de tus Pokémon {W}.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/6"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-104",
+      "file": "data/Pokémon TCG Pocket/Promos-A/104.ts",
+      "path": "abilities[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá curar 60 de dano de 1 dos seus {W} Pokémon.",
+      "expectedEnglish": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may heal 60 damage from 1 of your {W} Pokémon.",
+      "value": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá curar 60 pontos de dano de 1 dos seus Pokémon {W}.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/7"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-107",
+      "file": "data/Pokémon TCG Pocket/Promos-A/107.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Jusqu'à ce que ce Pokémon quitte le point actif, son attaque Rolling Frenzy inflige +30 dégâts. Cet effet se cumule.",
+      "expectedEnglish": "Until this Pokémon leaves the Active Spot, this Pokémon's Rolling Frenzy attack does +30 damage. This effect stacks.",
+      "value": "Tant que ce Pokémon est sur le Poste Actif, son attaque Roulade Frénétique inflige + 30 dégâts. Cet effet est cumulable.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/8"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-107",
+      "file": "data/Pokémon TCG Pocket/Promos-A/107.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Hasta que este Pokémon abandone el Punto Activo, su ataque Frenesí Rodante causa +30 de daño. Este efecto se acumula.",
+      "expectedEnglish": "Until this Pokémon leaves the Active Spot, this Pokémon's Rolling Frenzy attack does +30 damage. This effect stacks.",
+      "value": "Hasta que este Pokémon deje el Puesto Activo, el ataque Frenesí Rodante de este Pokémon hace +30 puntos de daño. Este efecto se acumula.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/9"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-107",
+      "file": "data/Pokémon TCG Pocket/Promos-A/107.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Até que este Pokémon deixe o Ponto Ativo, o ataque Rolling Frenzy deste Pokémon causa +30 de dano. Este efeito acumula.",
+      "expectedEnglish": "Until this Pokémon leaves the Active Spot, this Pokémon's Rolling Frenzy attack does +30 damage. This effect stacks.",
+      "value": "Até este Pokémon sair do Campo Ativo, o ataque Frenesi Rolante deste Pokémon causará +30 pontos de dano. Este efeito acumula.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/10"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-108",
+      "file": "data/Pokémon TCG Pocket/Promos-A/108.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Cette attaque inflige au Pokémon Actif de votre adversaire des dégâts égaux aux dégâts que ce Pokémon lui inflige.",
+      "expectedEnglish": "This attack does damage to your opponent's Active Pokémon equal to the damage this Pokémon has on it.",
+      "value": "Cette attaque inflige des dégâts au Pokémon Actif de votre adversaire égaux à ceux que ce Pokémon a déjà subis.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/11"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-108",
+      "file": "data/Pokémon TCG Pocket/Promos-A/108.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Este ataque hace un daño al Pokémon Activo de tu rival igual al daño que este Pokémon tiene sobre él.",
+      "expectedEnglish": "This attack does damage to your opponent's Active Pokémon equal to the damage this Pokémon has on it.",
+      "value": "Este ataque hace una cantidad de daño al Pokémon Activo de tu rival igual al daño que ya tenga este Pokémon.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/12"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-108",
+      "file": "data/Pokémon TCG Pocket/Promos-A/108.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Este ataque causa dano ao Pokémon Ativo do seu oponente igual ao dano que este Pokémon causa nele.",
+      "expectedEnglish": "This attack does damage to your opponent's Active Pokémon equal to the damage this Pokémon has on it.",
+      "value": "Este ataque causa dano ao Pokémon Ativo do seu oponente equivalente ao dano que este Pokémon tiver nele.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/13"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-110",
+      "file": "data/Pokémon TCG Pocket/Promos-A/110.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Si ce Pokémon a au moins 2 Énergies {R} supplémentaires attachées, cette attaque inflige 60 dégâts supplémentaires.",
+      "expectedEnglish": "If this Pokémon has at least 2 extra {R} Energy attached, this attack does 60 more damage.",
+      "value": "Si ce Pokémon a au moins 2 Énergies {R} de plus, cette attaque inflige 60 dégâts supplémentaires.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/14"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-110",
+      "file": "data/Pokémon TCG Pocket/Promos-A/110.ts",
+      "path": "abilities[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "A la fin de votre tour, si ce Pokémon est dans le Spot Actif, piochez une carte.",
+      "expectedEnglish": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
+      "value": "À la fin de votre tour, si ce Pokémon est sur le Poste Actif, piochez une carte.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/15"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-110",
+      "file": "data/Pokémon TCG Pocket/Promos-A/110.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Si este Pokémon tiene al menos 2 Energías {R} extra unidas, este ataque hace 60 puntos de daño más.",
+      "expectedEnglish": "If this Pokémon has at least 2 extra {R} Energy attached, this attack does 60 more damage.",
+      "value": "Si este Pokémon tiene por lo menos 2 Energías {R} adicionales unidas a él, este ataque hace 60 puntos de daño más.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/16"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-110",
+      "file": "data/Pokémon TCG Pocket/Promos-A/110.ts",
+      "path": "abilities[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Al final de tu turno, si este Pokémon está en el Punto Activo, roba una carta.",
+      "expectedEnglish": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
+      "value": "Al final de tu turno, si este Pokémon está en el Puesto Activo, roba 1 carta.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/17"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-110",
+      "file": "data/Pokémon TCG Pocket/Promos-A/110.ts",
+      "path": "abilities[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "No final do seu turno, se este Pokémon estiver no Local Ativo, compre um card.",
+      "expectedEnglish": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
+      "value": "No final do seu turno, se este Pokémon estiver no Campo Ativo, compre 1 carta.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/18"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-110",
+      "file": "data/Pokémon TCG Pocket/Promos-A/110.ts",
+      "path": "abilities[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "在你的回合結束時，如果這只神奇寶貝位於活躍位置，抽一張卡。",
+      "expectedEnglish": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
+      "value": "在自己的回合結束時,若這隻寶可夢在戰鬥場上,則從自己的牌庫抽出1張卡。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/19"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-111",
+      "file": "data/Pokémon TCG Pocket/Promos-A/111.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Lancez une pièce de monnaie. Si c’est face, cette attaque inflige 30 dégâts supplémentaires.",
+      "expectedEnglish": "Flip a coin. If heads, this attack does 30 more damage.",
+      "value": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/20"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-111",
+      "file": "data/Pokémon TCG Pocket/Promos-A/111.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Lanza una moneda. Si sale cara, este ataque hace 30 puntos de daño más.",
+      "expectedEnglish": "Flip a coin. If heads, this attack does 30 more damage.",
+      "value": "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño más.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/21"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-111",
+      "file": "data/Pokémon TCG Pocket/Promos-A/111.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
+      "expectedEnglish": "Flip a coin. If heads, this attack does 30 more damage.",
+      "value": "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/22"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-112",
+      "file": "data/Pokémon TCG Pocket/Promos-A/112.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "這隻寶可夢也會對自己造成30點傷害。",
+      "expectedEnglish": "This Pokémon also does 30 damage to itself.",
+      "value": "這隻寶可夢也受到30點傷害。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/23"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-113",
+      "file": "data/Pokémon TCG Pocket/Promos-A/113.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Lancez une pièce de monnaie. Si c'est face, choisissez 1 des attaques du Pokémon Actif de votre adversaire et utilisez-la comme cette attaque.",
+      "expectedEnglish": "Flip a coin. If heads, choose 1 of your opponent's Active Pokémon's attacks and use it as this attack.",
+      "value": "Lancez une pièce. Si c'est face, choisissez l'une des attaques du Pokémon Actif de votre adversaire et utilisez‐la en tant que cette attaque.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/24"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-113",
+      "file": "data/Pokémon TCG Pocket/Promos-A/113.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Lanza una moneda. Si sale cara, elige 1 de los ataques del Pokémon Activo de tu rival y úsalo como este ataque.",
+      "expectedEnglish": "Flip a coin. If heads, choose 1 of your opponent's Active Pokémon's attacks and use it as this attack.",
+      "value": "Lanza 1 moneda. Si sale cara, elige 1 de los ataques del Pokémon Activo de tu rival y úsalo para este ataque.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/25"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-115",
+      "file": "data/Pokémon TCG Pocket/Promos-A/115.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "這次攻擊造成的傷害等於該神奇寶貝對其造成的傷害。",
+      "expectedEnglish": "This attack does more damage equal to the damage this Pokémon has on it.",
+      "value": "增加與這隻寶可夢已受到的傷害相同數值的傷害。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/26"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-116",
+      "file": "data/Pokémon TCG Pocket/Promos-A/116.ts",
+      "path": "abilities[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "在你的回合中，你可以治療每隻神奇寶貝造成的 10 點傷害。",
+      "expectedEnglish": "Once during your turn, you may heal 10 damage from each of your Pokémon.",
+      "value": "在自己的回合時,可使用1次。將自己的所有寶可夢恢復10HP。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/27"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-117",
+      "file": "data/Pokémon TCG Pocket/Promos-A/117.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Cette attaque inflige 30 dégâts à l'un des Pokémon de Banc de votre adversaire.",
+      "expectedEnglish": "This attack does 30 damage to 1 of your opponent's Benched Pokémon.",
+      "value": "Cette attaque inflige 30 dégâts à un des Pokémon de Banc de votre adversaire.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/28"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-005",
+      "file": "data/Pokémon TCG Pocket/Promos-A/005.ts",
+      "path": "effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "從你的牌組中隨機將一隻基礎寶可夢置入你的手牌。",
+      "expectedEnglish": "Put a random Basic Pokémon from your deck into your hand.",
+      "value": "從自己的牌庫隨機抽出1張基礎寶可夢卡,加入手牌。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/29"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-008",
+      "file": "data/Pokémon TCG Pocket/Promos-A/008.ts",
+      "path": "effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Regardez la première carte du dessus de votre deck.",
+      "expectedEnglish": "Look at the top 3 cards of your deck.",
+      "value": "Regardez les 3 premières cartes du dessus de votre deck.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/30"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-008",
+      "file": "data/Pokémon TCG Pocket/Promos-A/008.ts",
+      "path": "effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Mira la primera carta de tu baraja.",
+      "expectedEnglish": "Look at the top 3 cards of your deck.",
+      "value": "Mira las 3 primeras cartas de tu baraja.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/31"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-008",
+      "file": "data/Pokémon TCG Pocket/Promos-A/008.ts",
+      "path": "effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Olhe a 1 carta de cima do seu baralho.",
+      "expectedEnglish": "Look at the top 3 cards of your deck.",
+      "value": "Olhe as 3 cartas de cima do seu baralho.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/32"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-008",
+      "file": "data/Pokémon TCG Pocket/Promos-A/008.ts",
+      "path": "effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "查看你牌組頂的 3 張牌。",
+      "expectedEnglish": "Look at the top 3 cards of your deck.",
+      "value": "查看自己的牌庫上方3張卡,回復原樣。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/33"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-012",
+      "file": "data/Pokémon TCG Pocket/Promos-A/012.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "畫一張卡片。",
+      "expectedEnglish": "Draw a card.",
+      "value": "從自己的牌庫抽出1張卡。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/34"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-013",
+      "file": "data/Pokémon TCG Pocket/Promos-A/013.ts",
+      "path": "abilities[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "在你的回合中，你可以治療每隻神奇寶貝造成的 20 點傷害。",
+      "expectedEnglish": "Once during your turn, you may heal 20 damage from each of your Pokémon.",
+      "value": "在自己的回合時,可使用1次。將自己的所有寶可夢恢復20HP。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/35"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-014",
+      "file": "data/Pokémon TCG Pocket/Promos-A/014.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "治療該神奇寶貝造成的 20 點傷害。",
+      "expectedEnglish": "Heal 20 damage from this Pokémon.",
+      "value": "將這隻寶可夢恢復20HP。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/36"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-017",
+      "file": "data/Pokémon TCG Pocket/Promos-A/017.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "該神奇寶貝也會對其自身造成 10 點傷害。",
+      "expectedEnglish": "This Pokémon also does 10 damage to itself.",
+      "value": "這隻寶可夢也受到10點傷害。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/37"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-019",
+      "file": "data/Pokémon TCG Pocket/Promos-A/019.ts",
+      "path": "abilities[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "在你的回合中，你可以對對手的 1 只神奇寶貝造成 20 點傷害。",
+      "expectedEnglish": "Once during your turn, you may do 20 damage to 1 of your opponent's Pokémon.",
+      "value": "在自己的回合時,可使用1次。對手的1隻寶可夢受到20點傷害。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/38"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-031",
+      "file": "data/Pokémon TCG Pocket/Promos-A/031.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "這次攻擊對你的每隻後備神奇寶貝造成 30 點傷害。",
+      "expectedEnglish": "This attack does 30 damage for each of your Benched Pokémon.",
+      "value": "造成自己的備戰寶可夢的數量×30點傷害。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/39"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-037",
+      "file": "data/Pokémon TCG Pocket/Promos-A/037.ts",
+      "path": "abilities[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "每當你將能量區中的 {P} 能量附加到該神奇寶貝上時，該神奇寶貝就會治療 20 點傷害。",
+      "expectedEnglish": "Whenever you attach a {P} Energy from your Energy Zone to this Pokémon, heal 20 damage from this Pokémon.",
+      "value": "每次從自己的能量區將{P}能量附於這隻寶可夢身上時,將這隻寶可夢恢復20HP。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/40"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-038",
+      "file": "data/Pokémon TCG Pocket/Promos-A/038.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "你對手的活躍神奇寶貝現在處於混亂狀態。",
+      "expectedEnglish": "Your opponent's Active Pokémon is now Confused.",
+      "value": "將對手的戰鬥寶可夢混亂。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/41"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-039",
+      "file": "data/Pokémon TCG Pocket/Promos-A/039.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "如果該神奇寶貝附加了神奇寶貝工具，則此攻擊造成的傷害增加 30 點。",
+      "expectedEnglish": "If this Pokémon has a Pokémon Tool attached, this attack does 30 more damage.",
+      "value": "若這隻寶可夢身上附有「寶可夢道具」,則增加30點傷害。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/42"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-043",
+      "file": "data/Pokémon TCG Pocket/Promos-A/043.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "治療該神奇寶貝造成的 20 點傷害。",
+      "expectedEnglish": "Heal 20 damage from this Pokémon.",
+      "value": "將這隻寶可夢恢復20HP。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/43"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-044",
+      "file": "data/Pokémon TCG Pocket/Promos-A/044.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "這次攻擊也會對對手後備的 1 只神奇寶貝造成 20 點傷害。",
+      "expectedEnglish": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
+      "value": "對手的1隻備戰寶可夢也受到20點傷害。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/44"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-044",
+      "file": "data/Pokémon TCG Pocket/Promos-A/044.ts",
+      "path": "abilities[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "如果你場上有阿爾宙斯或阿爾宙斯 ex，這只神奇寶貝受到的攻擊傷害為 -30。",
+      "expectedEnglish": "If you have Arceus or Arceus ex in play, this Pokémon takes −30 damage from attacks.",
+      "value": "若自己的場上有「阿爾宙斯」或者「阿爾宙斯ex」,則這隻寶可夢受到招式的傷害-30點。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/45"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-049",
+      "file": "data/Pokémon TCG Pocket/Promos-A/049.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "這只神奇寶貝現在已經睡著了。",
+      "expectedEnglish": "This Pokémon is now Asleep.",
+      "value": "將這隻寶可夢睡眠。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/46"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-051",
+      "file": "data/Pokémon TCG Pocket/Promos-A/051.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Durante tu próximo turno, el ataque Alta Aceleración de este Pokémon hace Overacceleration+20 puntos[/Ctrl:NoBreak] de daño.",
+      "expectedEnglish": "During your next turn, this Pokémon's Overacceleration attack does +20 damage.",
+      "value": "Durante tu próximo turno, el ataque Alta Aceleración de este Pokémon hace +20 puntos de daño.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/47"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-051",
+      "file": "data/Pokémon TCG Pocket/Promos-A/051.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "在你的下一個回合中，這只神奇寶貝的過度加速攻擊造成+20點傷害。",
+      "expectedEnglish": "During your next turn, this Pokémon's Overacceleration attack does +20 damage.",
+      "value": "在下個自己的回合,這隻寶可夢「失控暴衝」的傷害+20點。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/48"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-076",
+      "file": "data/Pokémon TCG Pocket/Promos-A/076.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Ce Pokémon s'inflige également 70 dégâts.",
+      "expectedEnglish": "This Pokémon also does 70 damage to itself.",
+      "value": "Ce Pokémon s'inflige aussi 70 dégâts.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/49"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-076",
+      "file": "data/Pokémon TCG Pocket/Promos-A/076.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Este Pokémon también se hace 70 puntos de daño a si mismo",
+      "expectedEnglish": "This Pokémon also does 70 damage to itself.",
+      "value": "Este Pokémon también se hace 70 puntos de daño a sí mismo.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/50"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-076",
+      "file": "data/Pokémon TCG Pocket/Promos-A/076.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Este Pokémon também causa 70 de dano a si mesmo.",
+      "expectedEnglish": "This Pokémon also does 70 damage to itself.",
+      "value": "Este Pokémon também causa 70 pontos de dano a si mesmo.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/51"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-076",
+      "file": "data/Pokémon TCG Pocket/Promos-A/076.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "這只神奇寶貝也會對自身造成 70 點傷害。",
+      "expectedEnglish": "This Pokémon also does 70 damage to itself.",
+      "value": "這隻寶可夢也受到70點傷害。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/52"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-077",
+      "file": "data/Pokémon TCG Pocket/Promos-A/077.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Le Pokémon Actif de votre adversaire est désormais Confus.",
+      "expectedEnglish": "Your opponent's Active Pokémon is now Confused.",
+      "value": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/53"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-077",
+      "file": "data/Pokémon TCG Pocket/Promos-A/077.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "你對手的活躍神奇寶貝現在處於混亂狀態。",
+      "expectedEnglish": "Your opponent's Active Pokémon is now Confused.",
+      "value": "將對手的戰鬥寶可夢混亂。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/54"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-078",
+      "file": "data/Pokémon TCG Pocket/Promos-A/078.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Ce Pokémon s'inflige également 30 dégâts.",
+      "expectedEnglish": "This Pokémon also does 30 damage to itself.",
+      "value": "Ce Pokémon s'inflige aussi 30 dégâts.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/55"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-078",
+      "file": "data/Pokémon TCG Pocket/Promos-A/078.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Este Pokémon também causa 30 de dano a si mesmo.",
+      "expectedEnglish": "This Pokémon also does 30 damage to itself.",
+      "value": "Este Pokémon também causa 30 pontos de dano a si mesmo.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/56"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-078",
+      "file": "data/Pokémon TCG Pocket/Promos-A/078.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "這只神奇寶貝也會對自身造成 30 點傷害。",
+      "expectedEnglish": "This Pokémon also does 30 damage to itself.",
+      "value": "這隻寶可夢也受到30點傷害。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/57"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-080",
+      "file": "data/Pokémon TCG Pocket/Promos-A/080.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Lors du prochain tour de votre adversaire, ce Pokémon subit -20 dégâts des attaques.",
+      "expectedEnglish": "During your opponent's next turn, this Pokémon takes −20 damage from attacks.",
+      "value": "Pendant le prochain tour de votre adversaire, ce Pokémon subit − 20 dégâts provenant des attaques.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/58"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-080",
+      "file": "data/Pokémon TCG Pocket/Promos-A/080.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Durante o próximo turno do seu oponente, este Pokémon sofrerá -20 de dano de ataques.",
+      "expectedEnglish": "During your opponent's next turn, this Pokémon takes −20 damage from attacks.",
+      "value": "Durante o próximo turno do seu oponente, este Pokémon receberá −20 pontos de dano de ataques.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/59"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-080",
+      "file": "data/Pokémon TCG Pocket/Promos-A/080.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-20。",
+      "expectedEnglish": "During your opponent's next turn, this Pokémon takes −20 damage from attacks.",
+      "value": "在下個對手的回合,這隻寶可夢受到招式的傷害-20點。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/60"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-081",
+      "file": "data/Pokémon TCG Pocket/Promos-A/081.ts",
+      "path": "attacks[1].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Défaussez les 5 premières cartes du deck de chaque joueur.",
+      "expectedEnglish": "Discard the top 5 cards of each player's deck.",
+      "value": "Défaussez les 5 premières cartes du dessus du deck de chaque joueur.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/61"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-081",
+      "file": "data/Pokémon TCG Pocket/Promos-A/081.ts",
+      "path": "attacks[1].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Descarte as 5 primeiras cartas do baralho de cada jogador.",
+      "expectedEnglish": "Discard the top 5 cards of each player's deck.",
+      "value": "Descarte 5 cartas de cima do baralho de cada jogador.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/62"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-081",
+      "file": "data/Pokémon TCG Pocket/Promos-A/081.ts",
+      "path": "attacks[1].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "丟棄每個玩家牌組頂部的 5 張牌。",
+      "expectedEnglish": "Discard the top 5 cards of each player's deck.",
+      "value": "將雙方的牌庫上方各5張卡丟棄。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/63"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-082",
+      "file": "data/Pokémon TCG Pocket/Promos-A/082.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Lancez 2 pièces. Cette attaque inflige 20 dégâts pour chaque tête.",
+      "expectedEnglish": "Flip 2 coins. This attack does 20 damage for each heads.",
+      "value": "Lancez 2 pièces. Cette attaque inflige 20 dégâts pour chaque côté face.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/64"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-082",
+      "file": "data/Pokémon TCG Pocket/Promos-A/082.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Jogue 2 moedas. Este ataque causa 20 de dano para cada cabeça.",
+      "expectedEnglish": "Flip 2 coins. This attack does 20 damage for each heads.",
+      "value": "Jogue 2 moedas. Este ataque causa 20 pontos de dano para cada cara.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/65"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-085",
+      "file": "data/Pokémon TCG Pocket/Promos-A/085.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Si 1 de vos Pokémon a utilisé Relais Bonbons lors de votre dernier tour, cette attaque inflige 20 dégâts supplémentaires.",
+      "expectedEnglish": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage.",
+      "value": "Si un de vos Pokémon a utilisé Saupoudrage Sucré lors de votre dernier tour, cette attaque inflige 20 dégâts supplémentaires.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/66"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-085",
+      "file": "data/Pokémon TCG Pocket/Promos-A/085.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Se 1 dos seus Pokémon usou Sweets Relay durante seu último turno, este ataque causará 20 danos a mais.",
+      "expectedEnglish": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage.",
+      "value": "Se 1 dos seus Pokémon usou Revezamento Doce durante o seu último turno, este ataque causará 20 pontos de dano a mais.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/67"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-085",
+      "file": "data/Pokémon TCG Pocket/Promos-A/085.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "如果你的 1 個神奇寶貝在你的最後回合中使用了糖果接力，則此攻擊造成的傷害增加 20 點。",
+      "expectedEnglish": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage.",
+      "value": "在上個自己的回合,若自己的寶可夢使用了「甜點砸砸砸」,則增加20點傷害。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/68"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-086",
+      "file": "data/Pokémon TCG Pocket/Promos-A/086.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Si ce Pokémon a évolué durant ce tour, cette attaque inflige 20 dégâts supplémentaires.",
+      "expectedEnglish": "If this Pokémon evolved during this turn, this attack does 20 more damage.",
+      "value": "Si ce Pokémon a évolué pendant ce tour, cette attaque inflige 20 dégâts supplémentaires.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/69"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-086",
+      "file": "data/Pokémon TCG Pocket/Promos-A/086.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Se este Pokémon evoluiu durante este turno, este ataque causará 20 danos a mais.",
+      "expectedEnglish": "If this Pokémon evolved during this turn, this attack does 20 more damage.",
+      "value": "Se este Pokémon evoluiu durante este turno, este ataque causará 20 pontos de dano a mais.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/70"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-087",
+      "file": "data/Pokémon TCG Pocket/Promos-A/087.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Este ataque causa 40 de dano cada vez que seu Pokémon usou Sweets Relay durante o jogo.",
+      "expectedEnglish": "This attack does 40 damage for each time your Pokémon used Sweets Relay during this game.",
+      "value": "Este ataque causa 40 pontos de dano para cada vez que seus Pokémon usaram Revezamento Doce durante este jogo.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/71"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-088",
+      "file": "data/Pokémon TCG Pocket/Promos-A/088.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Cure 30 de dano deste Pokémon.",
+      "expectedEnglish": "Heal 30 damage from this Pokémon.",
+      "value": "Cure 30 pontos de dano deste Pokémon.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/72"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-088",
+      "file": "data/Pokémon TCG Pocket/Promos-A/088.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "治療該神奇寶貝造成的 30 點傷害。",
+      "expectedEnglish": "Heal 30 damage from this Pokémon.",
+      "value": "將這隻寶可夢恢復30HP。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/73"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-089",
+      "file": "data/Pokémon TCG Pocket/Promos-A/089.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "治療該神奇寶貝造成的 10 點傷害。",
+      "expectedEnglish": "Heal 10 damage from this Pokémon.",
+      "value": "將這隻寶可夢恢復10HP。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/74"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-090",
+      "file": "data/Pokémon TCG Pocket/Promos-A/090.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Lors du prochain tour de votre adversaire, si ce Pokémon est blessé par une attaque, infligez 30 dégâts au Pokémon attaquant.",
+      "expectedEnglish": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 30 damage to the Attacking Pokémon.",
+      "value": "Pendant le prochain tour de votre adversaire, si ce Pokémon subit les dégâts d'une attaque, le Pokémon Attaquant subit 30 dégâts.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/75"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-090",
+      "file": "data/Pokémon TCG Pocket/Promos-A/090.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Durante o próximo turno do seu oponente, se este Pokémon receber dano de um ataque, cause 30 pontos de dano ao Pokémon atacante.",
+      "expectedEnglish": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 30 damage to the Attacking Pokémon.",
+      "value": "Durante o próximo turno do seu oponente, se este Pokémon for danificado por um ataque, cause 30 pontos de dano ao Pokémon Atacante.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/76"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-090",
+      "file": "data/Pokémon TCG Pocket/Promos-A/090.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "在對手的下一個回合中，如果這只神奇寶貝因攻擊而受到傷害，則對攻擊的神奇寶貝造成 30 點傷害。",
+      "expectedEnglish": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 30 damage to the Attacking Pokémon.",
+      "value": "在下個對手的回合,這隻寶可夢受到招式的傷害時,使用招式的寶可夢受到30點傷害。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/77"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-091",
+      "file": "data/Pokémon TCG Pocket/Promos-A/091.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Si ce Pokémon est attaché à un Outil Pokémon, cette attaque inflige 50 dégâts supplémentaires.",
+      "expectedEnglish": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage.",
+      "value": "Si un Outil Pokémon est attaché à ce Pokémon, cette attaque inflige 50 dégâts supplémentaires.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/78"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-091",
+      "file": "data/Pokémon TCG Pocket/Promos-A/091.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Se este Pokémon tiver uma Ferramenta Pokémon anexada, este ataque causará 50 de dano a mais.",
+      "expectedEnglish": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage.",
+      "value": "Se este Pokémon tiver uma Ferramenta Pokémon ligada a ele, este ataque causará 50 pontos de dano a mais.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/79"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-091",
+      "file": "data/Pokémon TCG Pocket/Promos-A/091.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "如果該神奇寶貝附加了神奇寶貝工具，則此攻擊造成的傷害增加 50 點。",
+      "expectedEnglish": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage.",
+      "value": "若這隻寶可夢身上附有「寶可夢道具」,則增加50點傷害。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/80"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-093",
+      "file": "data/Pokémon TCG Pocket/Promos-A/093.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Mettez un Pokémon aléatoire de votre deck dans votre main.",
+      "expectedEnglish": "Put a random Pokémon from your deck into your hand.",
+      "value": "Ajoutez au hasard un Pokémon de votre deck à votre main.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/81"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-093",
+      "file": "data/Pokémon TCG Pocket/Promos-A/093.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Pon un Pokémon aleatorio de tu mazo en tu mano.",
+      "expectedEnglish": "Put a random Pokémon from your deck into your hand.",
+      "value": "Pon 1 Pokémon aleatorio de tu baraja en tu mano.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/82"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-093",
+      "file": "data/Pokémon TCG Pocket/Promos-A/093.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Coloque um Pokémon aleatório do seu baralho na sua mão.",
+      "expectedEnglish": "Put a random Pokémon from your deck into your hand.",
+      "value": "Coloque 1 Pokémon aleatório do seu baralho na sua mão.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/83"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-094",
+      "file": "data/Pokémon TCG Pocket/Promos-A/094.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Cette attaque inflige 10 dégâts à 1 des Pokémon de votre adversaire.",
+      "expectedEnglish": "This attack does 10 damage to 1 of your opponent's Pokémon.",
+      "value": "Cette attaque inflige 10 dégâts à l'un des Pokémon de votre adversaire.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/84"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-094",
+      "file": "data/Pokémon TCG Pocket/Promos-A/094.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "這次攻擊對對手的 1 只神奇寶貝造成 10 點傷害。",
+      "expectedEnglish": "This attack does 10 damage to 1 of your opponent's Pokémon.",
+      "value": "對手的1隻寶可夢受到10點傷害。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/85"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-095",
+      "file": "data/Pokémon TCG Pocket/Promos-A/095.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Lancez une pièce de monnaie. Si c'est face, placez 1 des Pokémon du Banc de votre adversaire sur le point actif.",
+      "expectedEnglish": "Flip a coin. If heads, switch in 1 of your opponent's Benched Pokémon to the Active Spot.",
+      "value": "Lancez une pièce. Si c'est face, envoyez un des Pokémon de Banc de votre adversaire sur le Poste Actif.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/86"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-095",
+      "file": "data/Pokémon TCG Pocket/Promos-A/095.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Lanza una moneda. Si sale cara, cambia 1 de los Pokémon en Banca de tu rival al Punto Activo.",
+      "expectedEnglish": "Flip a coin. If heads, switch in 1 of your opponent's Benched Pokémon to the Active Spot.",
+      "value": "Lanza 1 moneda. Si sale cara, cambia 1 de los Pokémon en Banca de tu rival por el Pokémon que esté en el Puesto Activo.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/87"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-095",
+      "file": "data/Pokémon TCG Pocket/Promos-A/095.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Jogue uma moeda. Se der cara, troque 1 dos Pokémon do Banco do seu oponente para o Ponto Ativo.",
+      "expectedEnglish": "Flip a coin. If heads, switch in 1 of your opponent's Benched Pokémon to the Active Spot.",
+      "value": "Jogue uma moeda. Se sair cara, mande 1 dos Pokémon no Banco do seu oponente para o Campo Ativo.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/88"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-095",
+      "file": "data/Pokémon TCG Pocket/Promos-A/095.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "拋一枚硬幣。如果正面，則將對手的 1 只後備神奇寶貝切換到活動位置。",
+      "expectedEnglish": "Flip a coin. If heads, switch in 1 of your opponent's Benched Pokémon to the Active Spot.",
+      "value": "擲1次硬幣若為正面,則選擇對手的1隻備戰寶可夢,與戰鬥寶可夢互換。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/89"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-096",
+      "file": "data/Pokémon TCG Pocket/Promos-A/096.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Descarta una carta aleatoria de la mano de tu oponente.",
+      "expectedEnglish": "Discard a random card from your opponent's hand.",
+      "value": "Descarta 1 carta aleatoria de la mano de tu rival.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/90"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-096",
+      "file": "data/Pokémon TCG Pocket/Promos-A/096.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Descarte uma carta aleatória da mão do seu oponente.",
+      "expectedEnglish": "Discard a random card from your opponent's hand.",
+      "value": "Descarte 1 carta aleatória da mão do seu oponente.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/91"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-097",
+      "file": "data/Pokémon TCG Pocket/Promos-A/097.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Se o Pokémon Ativo do seu oponente for um Pokémon de Evolução, este ataque causará 40 de dano a mais.",
+      "expectedEnglish": "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 40 more damage.",
+      "value": "Se o Pokémon Ativo do seu oponente for um Pokémon de Evolução, este ataque causará 40 pontos de dano a mais.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/92"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-097",
+      "file": "data/Pokémon TCG Pocket/Promos-A/097.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "如果對手的活躍寶可夢是進化寶可夢，則這次攻擊造成的傷害增加 40 點。",
+      "expectedEnglish": "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 40 more damage.",
+      "value": "若對手的戰鬥寶可夢為進化寶可夢,則增加40點傷害。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/93"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-098",
+      "file": "data/Pokémon TCG Pocket/Promos-A/098.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Lancez une pièce de monnaie. Si c'est face, soignez 60 dégâts de ce Pokémon.",
+      "expectedEnglish": "Flip a coin. If heads, heal 60 damage from this Pokémon.",
+      "value": "Lancez une pièce. Si c'est face, soignez 60 dégâts de ce Pokémon.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/94"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-098",
+      "file": "data/Pokémon TCG Pocket/Promos-A/098.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Lanza una moneda. Si sale cara, cura 60 puntos de daño a este Pokémon.",
+      "expectedEnglish": "Flip a coin. If heads, heal 60 damage from this Pokémon.",
+      "value": "Lanza 1 moneda. Si sale cara, cura 60 puntos de daño a este Pokémon.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/95"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-098",
+      "file": "data/Pokémon TCG Pocket/Promos-A/098.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Jogue uma moeda. Se der cara, cure 60 de dano deste Pokémon.",
+      "expectedEnglish": "Flip a coin. If heads, heal 60 damage from this Pokémon.",
+      "value": "Jogue uma moeda. Se sair cara, cure 60 pontos de dano deste Pokémon.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/96"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-001",
+      "file": "data/Pokémon TCG Pocket/Promos-B/001.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Cette attaque inflige également 10 dégâts à 1 des Pokémon de Banc de votre adversaire.",
+      "expectedEnglish": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon.",
+      "value": "Cette attaque inflige aussi 10 dégâts à un des Pokémon de Banc de votre adversaire.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/97"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-002",
+      "file": "data/Pokémon TCG Pocket/Promos-B/002.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Lancez une pièce de monnaie. Si c’est pile, cette attaque ne fait rien.",
+      "expectedEnglish": "Flip a coin. If tails, this attack does nothing.",
+      "value": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/98"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-002",
+      "file": "data/Pokémon TCG Pocket/Promos-B/002.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Lanza una moneda. Si sale cruz, este ataque no hace nada.",
+      "expectedEnglish": "Flip a coin. If tails, this attack does nothing.",
+      "value": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/99"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-002",
+      "file": "data/Pokémon TCG Pocket/Promos-B/002.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
+      "expectedEnglish": "Flip a coin. If tails, this attack does nothing.",
+      "value": "Jogue uma moeda. Se sair coroa, este ataque não fará nada.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/100"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-003",
+      "file": "data/Pokémon TCG Pocket/Promos-B/003.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Lancez une pièce de monnaie. Si c'est face, le Pokémon Actif de votre adversaire est désormais Paralysé.",
+      "expectedEnglish": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+      "value": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/101"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-003",
+      "file": "data/Pokémon TCG Pocket/Promos-B/003.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Lanza una moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado.",
+      "expectedEnglish": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+      "value": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/102"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-003",
+      "file": "data/Pokémon TCG Pocket/Promos-B/003.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
+      "expectedEnglish": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+      "value": "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Paralisado.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/103"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-004",
+      "file": "data/Pokémon TCG Pocket/Promos-B/004.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Cette attaque inflige également 20 dégâts à 1 de vos Pokémon de Banc.",
+      "expectedEnglish": "This attack also does 20 damage to 1 of your Benched Pokémon.",
+      "value": "Cette attaque inflige aussi 20 dégâts à un de vos Pokémon de Banc.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/104"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-004",
+      "file": "data/Pokémon TCG Pocket/Promos-B/004.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Este ataque también hace 20 daños a 1 de tus Pokémon en Banca.",
+      "expectedEnglish": "This attack also does 20 damage to 1 of your Benched Pokémon.",
+      "value": "Este ataque también hace 20 puntos de daño a 1 de tus Pokémon en Banca.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/105"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-004",
+      "file": "data/Pokémon TCG Pocket/Promos-B/004.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Este ataque também causa 20 de dano a 1 dos seus Pokémon no Banco.",
+      "expectedEnglish": "This attack also does 20 damage to 1 of your Benched Pokémon.",
+      "value": "Este ataque também causa 20 pontos de dano a 1 dos seus Pokémon no Banco.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/106"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-006",
+      "file": "data/Pokémon TCG Pocket/Promos-B/006.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Lancez 3 pièces. Pour chaque face, défaussez une Énergie aléatoire du Pokémon Actif de votre adversaire. Si tous sont face, cette attaque ne fait rien.",
+      "expectedEnglish": "Flip 3 coins. For each heads, discard a random Energy from your opponent's Active Pokémon. If all of them are tails, this attack does nothing.",
+      "value": "Lancez 3 pièces. Pour chaque côté face, défaussez au hasard une Énergie du Pokémon Actif de votre adversaire. Si toutes sont côté pile, cette attaque ne fait rien.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/107"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-009",
+      "file": "data/Pokémon TCG Pocket/Promos-B/009.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Votre adversaire révèle sa main. Choisissez une carte Supporter que vous y trouvez et défaussez-la.",
+      "expectedEnglish": "Your opponent reveals their hand. Choose a Supporter card you find there and discard it.",
+      "value": "Votre adversaire dévoile sa main. Choisissez une carte Supporter que vous y trouvez et défaussez‐la.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/108"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-009",
+      "file": "data/Pokémon TCG Pocket/Promos-B/009.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Tu oponente revela su mano. Elige una carta de Partidario que encuentres allí y deséchala.",
+      "expectedEnglish": "Your opponent reveals their hand. Choose a Supporter card you find there and discard it.",
+      "value": "Tu rival enseña las cartas de su mano. Elige 1 carta de Partidario que encuentres entre ellas y descártala.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/109"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-009",
+      "file": "data/Pokémon TCG Pocket/Promos-B/009.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Seu oponente revela sua mão. Escolha uma carta de Apoiador que encontrar lá e descarte-a.",
+      "expectedEnglish": "Your opponent reveals their hand. Choose a Supporter card you find there and discard it.",
+      "value": "Seu oponente revela a mão dele. Escolha 1 carta de Apoiador que encontrar lá e descarte-a.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/110"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-010",
+      "file": "data/Pokémon TCG Pocket/Promos-B/010.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "該寶可夢身上每附加一個能量，該攻擊就會造成 20 點額外傷害。",
+      "expectedEnglish": "This attack does 20 more damage for each Energy attached to this Pokémon.",
+      "value": "增加這隻寶可夢身上的能量的數量×20點傷害。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/111"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-011",
+      "file": "data/Pokémon TCG Pocket/Promos-B/011.ts",
+      "path": "abilities[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Tant que ce Pokémon est dans le Spot Actif, il peut évoluer lors de votre premier tour ou du tour où vous le jouez.",
+      "expectedEnglish": "As long as this Pokémon is in the Active Spot, it can evolve during your first turn or the turn you play it.",
+      "value": "Tant que ce Pokémon est sur le Poste Actif, il peut évoluer pendant votre premier tour ou pendant le tour où vous le jouez.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/112"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-011",
+      "file": "data/Pokémon TCG Pocket/Promos-B/011.ts",
+      "path": "abilities[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Mientras este Pokémon esté en el Punto Activo, puede evolucionar durante tu primer turno o el turno en el que lo juegues.",
+      "expectedEnglish": "As long as this Pokémon is in the Active Spot, it can evolve during your first turn or the turn you play it.",
+      "value": "Mientras este Pokémon esté en el Puesto Activo, puede evolucionar durante tu primer turno o durante el turno en que lo pongas en juego.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/113"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-011",
+      "file": "data/Pokémon TCG Pocket/Promos-B/011.ts",
+      "path": "abilities[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Enquanto este Pokémon estiver no Active Spot, ele poderá evoluir durante seu primeiro turno ou no turno em que você o jogar.",
+      "expectedEnglish": "As long as this Pokémon is in the Active Spot, it can evolve during your first turn or the turn you play it.",
+      "value": "Enquanto este Pokémon estiver no Campo Ativo, ele poderá evoluir durante o seu primeiro turno ou durante o turno em que for colocado em jogo.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/114"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-013",
+      "file": "data/Pokémon TCG Pocket/Promos-B/013.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Lancez une pièce de monnaie. Si c'est face, le Pokémon Actif de votre adversaire est désormais Brûlé.",
+      "expectedEnglish": "Flip a coin. If heads, your opponent's Active Pokémon is now Burned.",
+      "value": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Brûlé.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/115"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-013",
+      "file": "data/Pokémon TCG Pocket/Promos-B/013.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Lanza una moneda. Si sale cara, el Pokémon Activo de tu rival ahora está Quemado.",
+      "expectedEnglish": "Flip a coin. If heads, your opponent's Active Pokémon is now Burned.",
+      "value": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Quemado.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/116"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-013",
+      "file": "data/Pokémon TCG Pocket/Promos-B/013.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente agora está Queimado.",
+      "expectedEnglish": "Flip a coin. If heads, your opponent's Active Pokémon is now Burned.",
+      "value": "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Queimado.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/117"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-014",
+      "file": "data/Pokémon TCG Pocket/Promos-B/014.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Lancez 2 pièces. Si les deux sont face, cette attaque inflige 20 dégâts supplémentaires.",
+      "expectedEnglish": "Flip 2 coins. If both of them are heads, this attack does 20 more damage.",
+      "value": "Lancez 2 pièces. Si toutes sont côté face, cette attaque inflige 20 dégâts de plus.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/118"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-014",
+      "file": "data/Pokémon TCG Pocket/Promos-B/014.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Lanza 2 monedas. Si ambos son cara, este ataque hace 20 puntos de daño más.",
+      "expectedEnglish": "Flip 2 coins. If both of them are heads, this attack does 20 more damage.",
+      "value": "Lanza 2 monedas. Si en las dos sale cara, este ataque hace 20 puntos de daño más.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/119"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-014",
+      "file": "data/Pokémon TCG Pocket/Promos-B/014.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Jogue 2 moedas. Se ambos derem cara, este ataque causa 20 de dano a mais.",
+      "expectedEnglish": "Flip 2 coins. If both of them are heads, this attack does 20 more damage.",
+      "value": "Jogue 2 moedas. Se as duas saírem cara, este ataque causará 20 pontos de dano a mais.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/120"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-016",
+      "file": "data/Pokémon TCG Pocket/Promos-B/016.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Lancez une pièce jusqu'à ce que vous obteniez pile. Pour chaque face, défaussez une Énergie aléatoire du Pokémon Actif de votre adversaire.",
+      "expectedEnglish": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+      "value": "Lancez une pièce jusqu'à ce que vous obteniez pile. Pour chaque côté face, défaussez au hasard une Énergie du Pokémon Actif de votre adversaire.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/121"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-016",
+      "file": "data/Pokémon TCG Pocket/Promos-B/016.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Lanza una moneda hasta que obtengas cruz. Por cada cara, descarta una Energía aleatoria del Pokémon Activo de tu rival.",
+      "expectedEnglish": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+      "value": "Lanza 1 moneda hasta que salga cruz. Por cada cara, descarta 1 Energía aleatoria del Pokémon Activo de tu rival.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/122"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-016",
+      "file": "data/Pokémon TCG Pocket/Promos-B/016.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Jogue uma moeda até obter coroa. Para cada cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente.",
+      "expectedEnglish": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+      "value": "Jogue uma moeda até sair coroa. Para cada cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/123"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-017",
+      "file": "data/Pokémon TCG Pocket/Promos-B/017.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Mettez un Pokémon aléatoire de votre deck dans votre main.",
+      "expectedEnglish": "Put a random Pokémon from your deck into your hand.",
+      "value": "Ajoutez au hasard un Pokémon de votre deck à votre main.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/124"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-017",
+      "file": "data/Pokémon TCG Pocket/Promos-B/017.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Pon un Pokémon aleatorio de tu mazo en tu mano.",
+      "expectedEnglish": "Put a random Pokémon from your deck into your hand.",
+      "value": "Pon 1 Pokémon aleatorio de tu baraja en tu mano.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/125"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-018",
+      "file": "data/Pokémon TCG Pocket/Promos-B/018.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Défaussez toute l'énergie de ce Pokémon.",
+      "expectedEnglish": "Discard all Energy from this Pokémon.",
+      "value": "Défaussez toutes les Énergies de ce Pokémon.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/126"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-018",
+      "file": "data/Pokémon TCG Pocket/Promos-B/018.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Descarta toda la Energía de este Pokémon.",
+      "expectedEnglish": "Discard all Energy from this Pokémon.",
+      "value": "Descarta todas las Energías de este Pokémon.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/127"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-018",
+      "file": "data/Pokémon TCG Pocket/Promos-B/018.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "丟棄該寶可夢的所有能量。",
+      "expectedEnglish": "Discard all Energy from this Pokémon.",
+      "value": "將這隻寶可夢身上的能量全部丟棄。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/128"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-019",
+      "file": "data/Pokémon TCG Pocket/Promos-B/019.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Lancez 2 pièces. Cette attaque inflige 20 dégâts pour chaque tête.",
+      "expectedEnglish": "Flip 2 coins. This attack does 20 damage for each heads.",
+      "value": "Lancez 2 pièces. Cette attaque inflige 20 dégâts pour chaque côté face.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/129"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-019",
+      "file": "data/Pokémon TCG Pocket/Promos-B/019.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Lanza 2 monedas. Este ataque hace 20 daños por cada cabeza.",
+      "expectedEnglish": "Flip 2 coins. This attack does 20 damage for each heads.",
+      "value": "Lanza 2 monedas. Este ataque hace 20 puntos de daño por cada cara.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/130"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-019",
+      "file": "data/Pokémon TCG Pocket/Promos-B/019.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Jogue 2 moedas. Este ataque causa 20 de dano para cada cabeça.",
+      "expectedEnglish": "Flip 2 coins. This attack does 20 damage for each heads.",
+      "value": "Jogue 2 moedas. Este ataque causa 20 pontos de dano para cada cara.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/131"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-020",
+      "file": "data/Pokémon TCG Pocket/Promos-B/020.ts",
+      "path": "abilities[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Una vez durante tu turno, cuando juegues este Pokémon de tu mano para hacer evolucionar a 1 de tus Pokémon, puedes tomar una Energía {R} de tu Zona de Energía y unirla a tu Pokémon {R} Activo.",
+      "expectedEnglish": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may take a {R} Energy from your Energy Zone and attach it to your Active {R} Pokémon.",
+      "value": "Una vez durante tu turno, cuando juegas este Pokémon de tu mano para hacer evolucionar a uno de tus Pokémon, puedes unir 1 Energía {R} de tu área de Energía a tu Pokémon {R} Activo.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/132"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-021",
+      "file": "data/Pokémon TCG Pocket/Promos-B/021.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Lancez une pièce de monnaie. Si c’est pile, cette attaque ne fait rien.",
+      "expectedEnglish": "Flip a coin. If tails, this attack does nothing.",
+      "value": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/133"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-021",
+      "file": "data/Pokémon TCG Pocket/Promos-B/021.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Lanza una moneda. Si sale cruz, este ataque no hace nada.",
+      "expectedEnglish": "Flip a coin. If tails, this attack does nothing.",
+      "value": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/134"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-021",
+      "file": "data/Pokémon TCG Pocket/Promos-B/021.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
+      "expectedEnglish": "Flip a coin. If tails, this attack does nothing.",
+      "value": "Jogue uma moeda. Se sair coroa, este ataque não fará nada.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/135"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-022",
+      "file": "data/Pokémon TCG Pocket/Promos-B/022.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Lancez une pièce de monnaie. Si c’est face, cette attaque inflige 30 dégâts supplémentaires.",
+      "expectedEnglish": "Flip a coin. If heads, this attack does 30 more damage.",
+      "value": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/136"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-022",
+      "file": "data/Pokémon TCG Pocket/Promos-B/022.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Lanza una moneda. Si sale cara, este ataque hace 30 puntos de daño más.",
+      "expectedEnglish": "Flip a coin. If heads, this attack does 30 more damage.",
+      "value": "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño más.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/137"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-022",
+      "file": "data/Pokémon TCG Pocket/Promos-B/022.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
+      "expectedEnglish": "Flip a coin. If heads, this attack does 30 more damage.",
+      "value": "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/138"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-024",
+      "file": "data/Pokémon TCG Pocket/Promos-B/024.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Défaussez toute l'énergie de ce Pokémon.",
+      "expectedEnglish": "Discard all Energy from this Pokémon.",
+      "value": "Défaussez toutes les Énergies de ce Pokémon.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/139"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-024",
+      "file": "data/Pokémon TCG Pocket/Promos-B/024.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Descarta toda la Energía de este Pokémon.",
+      "expectedEnglish": "Discard all Energy from this Pokémon.",
+      "value": "Descarta todas las Energías de este Pokémon.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/140"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-024",
+      "file": "data/Pokémon TCG Pocket/Promos-B/024.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "丟棄該寶可夢的所有能量。",
+      "expectedEnglish": "Discard all Energy from this Pokémon.",
+      "value": "將這隻寶可夢身上的能量全部丟棄。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/141"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-026",
+      "file": "data/Pokémon TCG Pocket/Promos-B/026.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Lancez une pièce de monnaie. Si c’est pile, cette attaque ne fait rien.",
+      "expectedEnglish": "Flip a coin. If tails, this attack does nothing.",
+      "value": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/142"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-026",
+      "file": "data/Pokémon TCG Pocket/Promos-B/026.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Lanza una moneda. Si sale cruz, este ataque no hace nada.",
+      "expectedEnglish": "Flip a coin. If tails, this attack does nothing.",
+      "value": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/143"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-026",
+      "file": "data/Pokémon TCG Pocket/Promos-B/026.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
+      "expectedEnglish": "Flip a coin. If tails, this attack does nothing.",
+      "value": "Jogue uma moeda. Se sair coroa, este ataque não fará nada.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/144"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-027",
+      "file": "data/Pokémon TCG Pocket/Promos-B/027.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Lancez une pièce de monnaie. Si c'est face, le Pokémon Actif de votre adversaire est désormais Paralysé.",
+      "expectedEnglish": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+      "value": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/145"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-027",
+      "file": "data/Pokémon TCG Pocket/Promos-B/027.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Lanza una moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado.",
+      "expectedEnglish": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+      "value": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/146"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-027",
+      "file": "data/Pokémon TCG Pocket/Promos-B/027.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
+      "expectedEnglish": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+      "value": "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Paralisado.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/147"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-028",
+      "file": "data/Pokémon TCG Pocket/Promos-B/028.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Cura 10 puntos de daño de este Pokémon.",
+      "expectedEnglish": "Heal 10 damage from this Pokémon.",
+      "value": "Cura 10 puntos de daño a este Pokémon.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/148"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-028",
+      "file": "data/Pokémon TCG Pocket/Promos-B/028.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "治療該寶可夢造成的 10 點傷害。",
+      "expectedEnglish": "Heal 10 damage from this Pokémon.",
+      "value": "將這隻寶可夢恢復10HP。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/149"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-029",
+      "file": "data/Pokémon TCG Pocket/Promos-B/029.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Si ce Pokémon a une Énergie {P} attachée, cette attaque inflige 40 dégâts supplémentaires. Les dégâts de cette attaque ne sont affectés par aucun effet sur le Pokémon Actif de votre adversaire.",
+      "expectedEnglish": "If this Pokémon has any {P} Energy attached, this attack does 40 more damage. This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",
+      "value": "Si de l'Énergie {P} est attachée à ce Pokémon, cette attaque inflige 40 dégâts supplémentaires. Les dégâts de cette attaque ne sont affectés par aucun effet en action sur le Pokémon Actif de votre adversaire.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/150"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-029",
+      "file": "data/Pokémon TCG Pocket/Promos-B/029.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Si este Pokémon tiene alguna Energía {P} unida, este ataque hace 40 daños más. El daño de este ataque no se ve afectado por ningún efecto en el Pokémon Activo de tu rival.",
+      "expectedEnglish": "If this Pokémon has any {P} Energy attached, this attack does 40 more damage. This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",
+      "value": "Si este Pokémon tiene alguna Energía {P} unida a él, este ataque hace 40 puntos de daño más. El daño de este ataque no se ve afectado por ningún efecto en el Pokémon Activo de tu rival.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/151"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-029",
+      "file": "data/Pokémon TCG Pocket/Promos-B/029.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Se este Pokémon tiver alguma Energia {P} anexada, este ataque causará 40 de dano a mais. O dano deste ataque não é afetado por nenhum efeito no Pokémon Ativo do seu oponente.",
+      "expectedEnglish": "If this Pokémon has any {P} Energy attached, this attack does 40 more damage. This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",
+      "value": "Se este Pokémon tiver alguma Energia {P} ligada a ele, este ataque causará 40 pontos de dano a mais. O dano deste ataque não é afetado por quaisquer efeitos no Pokémon Ativo do seu oponente.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/152"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-030",
+      "file": "data/Pokémon TCG Pocket/Promos-B/030.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Se um Estádio estiver em jogo, este ataque causa 40 de dano a mais.",
+      "expectedEnglish": "If a Stadium is in play, this attack does 40 more damage.",
+      "value": "Se um Estádio estiver em jogo, este ataque causará 40 pontos de dano a mais.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/153"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-030",
+      "file": "data/Pokémon TCG Pocket/Promos-B/030.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "如果體育場正在進行中，則此攻擊會造成 40 點以上的傷害。",
+      "expectedEnglish": "If a Stadium is in play, this attack does 40 more damage.",
+      "value": "若場上有競技場卡,則增加40點傷害。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/154"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-031",
+      "file": "data/Pokémon TCG Pocket/Promos-B/031.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Lors de votre prochain tour, ce Pokémon ne peut pas attaquer.",
+      "expectedEnglish": "During your next turn, this Pokémon can't attack.",
+      "value": "Pendant votre prochain tour, ce Pokémon ne peut pas attaquer.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/155"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-031",
+      "file": "data/Pokémon TCG Pocket/Promos-B/031.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "在你的下一個回合中，這隻寶可夢無法攻擊。",
+      "expectedEnglish": "During your next turn, this Pokémon can't attack.",
+      "value": "在下個自己的回合,這隻寶可夢無法使用招式。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/156"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-034",
+      "file": "data/Pokémon TCG Pocket/Promos-B/034.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Cura 20 daños de 1 de tus Pokémon.",
+      "expectedEnglish": "Heal 20 damage from 1 of your Pokémon.",
+      "value": "Cura 20 puntos de daño a 1 de tus Pokémon.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/157"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-034",
+      "file": "data/Pokémon TCG Pocket/Promos-B/034.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Cure 20 de dano de 1 dos seus Pokémon.",
+      "expectedEnglish": "Heal 20 damage from 1 of your Pokémon.",
+      "value": "Cure 20 pontos de dano de 1 dos seus Pokémon.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/158"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-034",
+      "file": "data/Pokémon TCG Pocket/Promos-B/034.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "治療你的 1 只寶可夢造成的 20 點傷害。",
+      "expectedEnglish": "Heal 20 damage from 1 of your Pokémon.",
+      "value": "將自己的1隻寶可夢恢復20HP。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/159"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-036",
+      "file": "data/Pokémon TCG Pocket/Promos-B/036.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Si l'un de vos Pokémon a été mis KO par les dégâts d'une attaque lors du dernier tour de votre adversaire, cette attaque inflige 60 dégâts supplémentaires.",
+      "expectedEnglish": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage.",
+      "value": "Si au moins l'un de vos Pokémon a été mis K.O. par les dégâts d'une attaque pendant le dernier tour de votre adversaire, cette attaque inflige 60 dégâts supplémentaires.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/160"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-036",
+      "file": "data/Pokémon TCG Pocket/Promos-B/036.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Se algum dos seus Pokémon foi nocauteado pelo dano de um ataque durante o último turno do seu oponente, esse ataque causará 60 de dano a mais.",
+      "expectedEnglish": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage.",
+      "value": "Se algum dos seus Pokémon tiver sido Nocauteado pelo dano de um ataque durante o último turno do seu oponente, este ataque causará 60 pontos de dano a mais.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/161"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-036",
+      "file": "data/Pokémon TCG Pocket/Promos-B/036.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "如果你的任何一隻寶可夢在對手的最後回合中因攻擊而被擊倒，則這次攻擊造成的傷害增加 60 點。",
+      "expectedEnglish": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage.",
+      "value": "在上個對手的回合,若自己的寶可夢因招式的傷害而昏厥了,則增加60點傷害。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/162"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-037",
+      "file": "data/Pokémon TCG Pocket/Promos-B/037.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "在對手的下一個回合中，這只寶可夢受到的攻擊傷害為-20。",
+      "expectedEnglish": "During your opponent's next turn, this Pokémon takes -20 damage from attacks.",
+      "value": "在下個對手的回合,這隻寶可夢受到招式的傷害-20點。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/163"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-038",
+      "file": "data/Pokémon TCG Pocket/Promos-B/038.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Lors de votre prochain tour, ce Pokémon ne pourra pas utiliser Gigaton Hammer.",
+      "expectedEnglish": "During your next turn, this Pokémon can't use Gigaton Hammer.",
+      "value": "Pendant votre prochain tour, ce Pokémon ne peut pas utiliser Marteau Mastoc.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/164"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-038",
+      "file": "data/Pokémon TCG Pocket/Promos-B/038.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Durante tu próximo turno, este Pokémon no puede usar Gigaton Hammer.",
+      "expectedEnglish": "During your next turn, this Pokémon can't use Gigaton Hammer.",
+      "value": "Durante tu próximo turno, este Pokémon no puede usar Martillo Colosal.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/165"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-038",
+      "file": "data/Pokémon TCG Pocket/Promos-B/038.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Durante o seu próximo turno, este Pokémon não poderá usar Martelo Gigaton.",
+      "expectedEnglish": "During your next turn, this Pokémon can't use Gigaton Hammer.",
+      "value": "Durante o seu próximo turno, este Pokémon não poderá usar Martelo Gigatônico.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/166"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-039",
+      "file": "data/Pokémon TCG Pocket/Promos-B/039.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Cette attaque inflige 10 dégâts à 1 des Pokémon de votre adversaire.",
+      "expectedEnglish": "This attack does 10 damage to 1 of your opponent's Pokémon.",
+      "value": "Cette attaque inflige 10 dégâts à l'un des Pokémon de votre adversaire.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/167"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-039",
+      "file": "data/Pokémon TCG Pocket/Promos-B/039.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "這次攻擊對對手的 1 只寶可夢造成 10 點傷害。",
+      "expectedEnglish": "This attack does 10 damage to 1 of your opponent's Pokémon.",
+      "value": "對手的1隻寶可夢受到10點傷害。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/168"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-040",
+      "file": "data/Pokémon TCG Pocket/Promos-B/040.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Descarta la carta superior del mazo de tu oponente.",
+      "expectedEnglish": "Discard the top card of your opponent's deck.",
+      "value": "Descarta la primera carta de la baraja de tu rival.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/169"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-040",
+      "file": "data/Pokémon TCG Pocket/Promos-B/040.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Descarte a carta do topo do baralho do seu oponente.",
+      "expectedEnglish": "Discard the top card of your opponent's deck.",
+      "value": "Descarte a carta de cima do baralho do seu oponente.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/170"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-043",
+      "file": "data/Pokémon TCG Pocket/Promos-B/043.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Ce Pokémon s'inflige également 10 dégâts.",
+      "expectedEnglish": "This Pokémon also does 10 damage to itself.",
+      "value": "Ce Pokémon s'inflige aussi 10 dégâts.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/171"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-043",
+      "file": "data/Pokémon TCG Pocket/Promos-B/043.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "該寶可夢也會對其自身造成 10 點傷害。",
+      "expectedEnglish": "This Pokémon also does 10 damage to itself.",
+      "value": "這隻寶可夢也受到10點傷害。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/172"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-044",
+      "file": "data/Pokémon TCG Pocket/Promos-B/044.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Le Pokémon Actif de votre adversaire est désormais Empoisonné.",
+      "expectedEnglish": "Your opponent's Active Pokémon is now Poisoned.",
+      "value": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/173"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-044",
+      "file": "data/Pokémon TCG Pocket/Promos-B/044.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "El Pokémon Activo de tu rival ahora está Envenenado.",
+      "expectedEnglish": "Your opponent's Active Pokémon is now Poisoned.",
+      "value": "El Pokémon Activo de tu rival pasa a estar Envenenado.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/174"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-045",
+      "file": "data/Pokémon TCG Pocket/Promos-B/045.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Cette attaque inflige 20 dégâts supplémentaires pour chaque Pokémon du Banc (le vôtre et celui de votre adversaire).",
+      "expectedEnglish": "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's).",
+      "value": "Cette attaque inflige 20 dégâts supplémentaires pour chaque Pokémon de Banc (les vôtres et ceux de votre adversaire).",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/175"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-045",
+      "file": "data/Pokémon TCG Pocket/Promos-B/045.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Este ataque hace 20 puntos de daño más por cada Pokémon en Banca (tanto tuyo como de tu rival).",
+      "expectedEnglish": "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's).",
+      "value": "Este ataque hace 20 puntos de daño más por cada Pokémon en Banca (tanto tuyos como de tu rival).",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/176"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-045",
+      "file": "data/Pokémon TCG Pocket/Promos-B/045.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Este ataque causa 20 danos a mais para cada Pokémon no Banco (seu e do seu oponente).",
+      "expectedEnglish": "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's).",
+      "value": "Este ataque causa 20 pontos de dano a mais para cada Pokémon no Banco (seus e do seu oponente).",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/177"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-045",
+      "file": "data/Pokémon TCG Pocket/Promos-B/045.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "此攻擊對每個後備寶可夢（包括你的和對手的）造成 20 點額外傷害。",
+      "expectedEnglish": "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's).",
+      "value": "增加雙方的備戰寶可夢的數量×20點傷害。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/178"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-046",
+      "file": "data/Pokémon TCG Pocket/Promos-B/046.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Saca una carta.",
+      "expectedEnglish": "Draw a card.",
+      "value": "Roba 1 carta.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/179"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-046",
+      "file": "data/Pokémon TCG Pocket/Promos-B/046.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Compre uma carta.",
+      "expectedEnglish": "Draw a card.",
+      "value": "Compre 1 carta.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/180"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-046",
+      "file": "data/Pokémon TCG Pocket/Promos-B/046.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "畫一張卡片。",
+      "expectedEnglish": "Draw a card.",
+      "value": "從自己的牌庫抽出1張卡。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/181"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-050",
+      "file": "data/Pokémon TCG Pocket/Promos-B/050.ts",
+      "path": "abilities[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Au début de votre tour, si ce Pokémon est dans le Spot Actif, mettez dans votre main un Pokémon {P} aléatoire de votre deck.",
+      "expectedEnglish": "At the beginning of your turn, if this Pokémon is in the Active Spot, put a random {P} Pokémon from your deck into your hand.",
+      "value": "Au début de votre tour, si ce Pokémon est sur le Poste Actif, ajoutez au hasard un Pokémon {P} de votre deck à votre main.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/182"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-050",
+      "file": "data/Pokémon TCG Pocket/Promos-B/050.ts",
+      "path": "abilities[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Al comienzo de tu turno, si este Pokémon está en el Punto Activo, pon un {P} Pokémon aleatorio de tu mazo en tu mano.",
+      "expectedEnglish": "At the beginning of your turn, if this Pokémon is in the Active Spot, put a random {P} Pokémon from your deck into your hand.",
+      "value": "Al principio de tu turno, si este Pokémon está en el Puesto Activo, pon 1 Pokémon {P} aleatorio de tu baraja en tu mano.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/183"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-050",
+      "file": "data/Pokémon TCG Pocket/Promos-B/050.ts",
+      "path": "abilities[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "No início do seu turno, se este Pokémon estiver no Ponto Ativo, coloque um Pokémon {P} aleatório do seu baralho na sua mão.",
+      "expectedEnglish": "At the beginning of your turn, if this Pokémon is in the Active Spot, put a random {P} Pokémon from your deck into your hand.",
+      "value": "No início do seu turno, se este Pokémon estiver no Campo Ativo, coloque 1 Pokémon {P} aleatório do seu baralho na sua mão.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/184"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-052",
+      "file": "data/Pokémon TCG Pocket/Promos-B/052.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Cura 20 puntos de daño de este Pokémon.",
+      "expectedEnglish": "Heal 20 damage from this Pokémon.",
+      "value": "Cura 20 puntos de daño a este Pokémon.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/185"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-052",
+      "file": "data/Pokémon TCG Pocket/Promos-B/052.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Cure 20 de dano deste Pokémon.",
+      "expectedEnglish": "Heal 20 damage from this Pokémon.",
+      "value": "Cure 20 pontos de dano deste Pokémon.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/186"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-052",
+      "file": "data/Pokémon TCG Pocket/Promos-B/052.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "治療該寶可夢造成的 20 點傷害。",
+      "expectedEnglish": "Heal 20 damage from this Pokémon.",
+      "value": "將這隻寶可夢恢復20HP。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/187"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-053",
+      "file": "data/Pokémon TCG Pocket/Promos-B/053.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Lancez 2 pièces. Cette attaque inflige 100 dégâts pour chaque tête.",
+      "expectedEnglish": "Flip 2 coins. This attack does 100 damage for each heads.",
+      "value": "Lancez 2 pièces. Cette attaque inflige 100 dégâts pour chaque côté face.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/188"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-053",
+      "file": "data/Pokémon TCG Pocket/Promos-B/053.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Lanza 2 monedas. Este ataque hace 100 de daño por cada cabeza.",
+      "expectedEnglish": "Flip 2 coins. This attack does 100 damage for each heads.",
+      "value": "Lanza 2 monedas. Este ataque hace 100 puntos de daño por cada cara.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/189"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-053",
+      "file": "data/Pokémon TCG Pocket/Promos-B/053.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Jogue 2 moedas. Este ataque causa 100 de dano para cada cabeça.",
+      "expectedEnglish": "Flip 2 coins. This attack does 100 damage for each heads.",
+      "value": "Jogue 2 moedas. Este ataque causa 100 pontos de dano para cada cara.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/190"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-054",
+      "file": "data/Pokémon TCG Pocket/Promos-B/054.ts",
+      "path": "abilities[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Tant que ce Pokémon est dans le Spot Actif, il peut évoluer lors de votre premier tour ou du tour où vous le jouez.",
+      "expectedEnglish": "As long as this Pokémon is in the Active Spot, it can evolve during your first turn or the turn you play it.",
+      "value": "Tant que ce Pokémon est sur le Poste Actif, il peut évoluer pendant votre premier tour ou pendant le tour où vous le jouez.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/191"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-054",
+      "file": "data/Pokémon TCG Pocket/Promos-B/054.ts",
+      "path": "abilities[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Mientras este Pokémon esté en el Punto Activo, puede evolucionar durante tu primer turno o el turno en el que lo juegues.",
+      "expectedEnglish": "As long as this Pokémon is in the Active Spot, it can evolve during your first turn or the turn you play it.",
+      "value": "Mientras este Pokémon esté en el Puesto Activo, puede evolucionar durante tu primer turno o durante el turno en que lo pongas en juego.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/192"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-054",
+      "file": "data/Pokémon TCG Pocket/Promos-B/054.ts",
+      "path": "abilities[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Enquanto este Pokémon estiver no Active Spot, ele poderá evoluir durante seu primeiro turno ou no turno em que você o jogar.",
+      "expectedEnglish": "As long as this Pokémon is in the Active Spot, it can evolve during your first turn or the turn you play it.",
+      "value": "Enquanto este Pokémon estiver no Campo Ativo, ele poderá evoluir durante o seu primeiro turno ou durante o turno em que for colocado em jogo.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/193"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-056",
+      "file": "data/Pokémon TCG Pocket/Promos-B/056.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Lancez une pièce de monnaie. Si c'est pile, ce Pokémon s'inflige également 60 dégâts.",
+      "expectedEnglish": "Flip a coin. If tails, this Pokémon also does 60 damage to itself.",
+      "value": "Lancez une pièce. Si c'est pile, ce Pokémon s'inflige aussi 60 dégâts.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/194"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-056",
+      "file": "data/Pokémon TCG Pocket/Promos-B/056.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Lanza una moneda. Si sale cruz, este Pokémon también se hace 60 puntos de daño a sí mismo.",
+      "expectedEnglish": "Flip a coin. If tails, this Pokémon also does 60 damage to itself.",
+      "value": "Lanza 1 moneda. Si sale cruz, este Pokémon también se hace 60 puntos de daño a sí mismo.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/195"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-056",
+      "file": "data/Pokémon TCG Pocket/Promos-B/056.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Jogue uma moeda. Se sair coroa, este Pokémon também causa 60 de dano a si mesmo.",
+      "expectedEnglish": "Flip a coin. If tails, this Pokémon also does 60 damage to itself.",
+      "value": "Jogue uma moeda. Se sair coroa, este Pokémon também causará 60 pontos de dano a si mesmo.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/196"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-057",
+      "file": "data/Pokémon TCG Pocket/Promos-B/057.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Si un Stade est en jeu, le Pokémon Actif de votre adversaire est désormais Brûlé.",
+      "expectedEnglish": "If a Stadium is in play, your opponent's Active Pokémon is now Burned.",
+      "value": "Si un Stade est en jeu, le Pokémon Actif de votre adversaire est maintenant Brûlé.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/197"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-057",
+      "file": "data/Pokémon TCG Pocket/Promos-B/057.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Si hay un Estadio en juego, el Pokémon Activo de tu rival ahora está Quemado.",
+      "expectedEnglish": "If a Stadium is in play, your opponent's Active Pokémon is now Burned.",
+      "value": "Si hay un Estadio en juego, el Pokémon Activo de tu rival pasa a estar Quemado.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/198"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-057",
+      "file": "data/Pokémon TCG Pocket/Promos-B/057.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Se um Estádio estiver em jogo, o Pokémon Ativo do seu oponente estará Queimado.",
+      "expectedEnglish": "If a Stadium is in play, your opponent's Active Pokémon is now Burned.",
+      "value": "Se um Estádio estiver em jogo, o Pokémon Ativo do seu oponente agora estará Queimado.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/199"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-057",
+      "file": "data/Pokémon TCG Pocket/Promos-B/057.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "如果體育場正在進行中，對手的活躍寶可夢現在會被燒毀。",
+      "expectedEnglish": "If a Stadium is in play, your opponent's Active Pokémon is now Burned.",
+      "value": "若場上有競技場卡,則將對手的戰鬥寶可夢灼傷。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/200"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-058",
+      "file": "data/Pokémon TCG Pocket/Promos-B/058.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Lancez une pièce de monnaie. Si c’est face, cette attaque inflige 30 dégâts supplémentaires.",
+      "expectedEnglish": "Flip a coin. If heads, this attack does 30 more damage.",
+      "value": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/201"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-058",
+      "file": "data/Pokémon TCG Pocket/Promos-B/058.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Lanza una moneda. Si sale cara, este ataque hace 30 puntos de daño más.",
+      "expectedEnglish": "Flip a coin. If heads, this attack does 30 more damage.",
+      "value": "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño más.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/202"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-058",
+      "file": "data/Pokémon TCG Pocket/Promos-B/058.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
+      "expectedEnglish": "Flip a coin. If heads, this attack does 30 more damage.",
+      "value": "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/203"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-059",
+      "file": "data/Pokémon TCG Pocket/Promos-B/059.ts",
+      "path": "abilities[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "該寶可夢受到的攻擊傷害為 -10。",
+      "expectedEnglish": "This Pokémon takes -10 damage from attacks.",
+      "value": "這隻寶可夢受到招式的傷害-10點。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/204"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-062",
+      "file": "data/Pokémon TCG Pocket/Promos-B/062.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Se um Estádio estiver em jogo, este ataque causa 70 de dano a mais.",
+      "expectedEnglish": "If a Stadium is in play, this attack does 70 more damage.",
+      "value": "Se um Estádio estiver em jogo, este ataque causará 70 pontos de dano a mais.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/205"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-063",
+      "file": "data/Pokémon TCG Pocket/Promos-B/063.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Choisissez un emplacement parmi l'emplacement actif et le banc de votre adversaire. À la fin du prochain tour de votre adversaire, infligez 70 dégâts au Pokémon à l'endroit que vous avez choisi.",
+      "expectedEnglish": "Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, do 70 damage to the Pokémon in the spot you chose.",
+      "value": "Choisissez un emplacement parmi ceux situés sur le Banc de votre adversaire et sur son Poste Actif. À la fin du prochain tour de votre adversaire, infligez 70 dégâts au Pokémon situé sur l'emplacement choisi.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/206"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-063",
+      "file": "data/Pokémon TCG Pocket/Promos-B/063.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Elige un lugar entre el Punto Activo y el Banco de tu oponente. Al final del siguiente turno de tu rival, haz 70 puntos de daño al Pokémon en el lugar que hayas elegido.",
+      "expectedEnglish": "Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, do 70 damage to the Pokémon in the spot you chose.",
+      "value": "Elige 1 puesto de entre el Puesto Activo y la Banca de tu rival. Al final del próximo turno de tu rival, haz 70 puntos de daño al Pokémon del puesto elegido.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/207"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-063",
+      "file": "data/Pokémon TCG Pocket/Promos-B/063.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Escolha um lugar entre o Ponto Ativo e o Banco do seu oponente. No final do próximo turno do seu oponente, cause 70 de dano ao Pokémon no local que você escolheu.",
+      "expectedEnglish": "Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, do 70 damage to the Pokémon in the spot you chose.",
+      "value": "Escolha 1 lugar dentre o Campo Ativo e o Banco do seu oponente. No final do próximo turno do seu oponente, cause 70 pontos de dano ao Pokémon no lugar que você escolheu.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/208"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-064",
+      "file": "data/Pokémon TCG Pocket/Promos-B/064.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Lancez une pièce de monnaie. Si c'est face, lors du prochain tour de votre adversaire, prévenez tous les dégâts et effets des attaques infligées à ce Pokémon.",
+      "expectedEnglish": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+      "value": "Lancez une pièce. Si c'est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts et les effets d'attaques infligés à ce Pokémon.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/209"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-064",
+      "file": "data/Pokémon TCG Pocket/Promos-B/064.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Lanza una moneda. Si sale cara, durante el próximo turno de tu rival, evita todo el daño y los efectos de los ataques realizados a este Pokémon.",
+      "expectedEnglish": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+      "value": "Lanza 1 moneda. Si sale cara, durante el próximo turno de tu rival, evita todo el daño y todos los efectos de los ataques infligidos a este Pokémon.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/210"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-064",
+      "file": "data/Pokémon TCG Pocket/Promos-B/064.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, evite todos os danos e efeitos de ataques feitos a este Pokémon.",
+      "expectedEnglish": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+      "value": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/211"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-065",
+      "file": "data/Pokémon TCG Pocket/Promos-B/065.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Lors du prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite.",
+      "expectedEnglish": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+      "value": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/212"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-065",
+      "file": "data/Pokémon TCG Pocket/Promos-B/065.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "在對手的下一個回合中，守方寶可夢不能撤退。",
+      "expectedEnglish": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+      "value": "在下個對手的回合,受到這個招式的寶可夢無法撤退。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/213"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-066",
+      "file": "data/Pokémon TCG Pocket/Promos-B/066.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Descarta una Energía aleatoria de entre las Energías unidas a todos los Pokémon (tanto los tuyos como los de tu rival).",
+      "expectedEnglish": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's).",
+      "value": "Descarta 1 Energía aleatoria de entre las Energías unidas a todos los Pokémon (tanto tuyos como de tu rival).",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/214"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-066",
+      "file": "data/Pokémon TCG Pocket/Promos-B/066.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Descarte uma Energia aleatória dentre as Energias ligadas a todos os Pokémon (seus e do seu oponente).",
+      "expectedEnglish": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's).",
+      "value": "Descarte 1 Energia aleatória dentre as Energias ligadas a todos os Pokémon (seus e do seu oponente).",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/215"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-066",
+      "file": "data/Pokémon TCG Pocket/Promos-B/066.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "從所有寶可夢（你的和對手的）所附帶的能量中隨機丟棄一個能量。",
+      "expectedEnglish": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's).",
+      "value": "從雙方的所有寶可夢身上附加的能量中隨機丟棄1個能量。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/216"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-068",
+      "file": "data/Pokémon TCG Pocket/Promos-B/068.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Si ce Pokémon a évolué à partir de Insolourdo pendant ce tour, défaussez 2 Énergies aléatoires du Pokémon Actif de votre adversaire.",
+      "expectedEnglish": "If this Pokémon evolved from Dunsparce during this turn, discard 2 random Energy from your opponent's Active Pokémon.",
+      "value": "Si ce Pokémon a évolué de Insolourdo pendant ce tour, défaussez au hasard 2 Énergies attachées au Pokémon Actif de votre adversaire.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/217"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-068",
+      "file": "data/Pokémon TCG Pocket/Promos-B/068.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Si este Pokémon evolucionó de Dunsparce durante este turno, descarta 2 Energías aleatorias del Pokémon Activo de tu rival.",
+      "expectedEnglish": "If this Pokémon evolved from Dunsparce during this turn, discard 2 random Energy from your opponent's Active Pokémon.",
+      "value": "Si este Pokémon ha evolucionado de Dunsparce durante este turno, descarta 2 Energías aleatorias del Pokémon Activo de tu rival.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/218"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-068",
+      "file": "data/Pokémon TCG Pocket/Promos-B/068.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "如果這隻寶可夢在這個回合中是從 土龍弟弟 進化而來的，則隨機捨棄對手的出戰寶可夢 2 點能量。",
+      "expectedEnglish": "If this Pokémon evolved from Dunsparce during this turn, discard 2 random Energy from your opponent's Active Pokémon.",
+      "value": "在這個回合,若這隻寶可夢從「土龍弟弟」進化,則將對手的戰鬥寶可夢身上的隨機2個能量丟棄。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/219"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-071",
+      "file": "data/Pokémon TCG Pocket/Promos-B/071.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Les deux Pokémon Actifs sont désormais Confus.",
+      "expectedEnglish": "Both Active Pokémon are now Confused.",
+      "value": "Les deux Pokémon Actifs sont maintenant Confus.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/220"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-071",
+      "file": "data/Pokémon TCG Pocket/Promos-B/071.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Ambos Pokémon Activos ahora están Confundidos.",
+      "expectedEnglish": "Both Active Pokémon are now Confused.",
+      "value": "Ambos Pokémon Activos pasan a estar Confundido.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/221"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-071",
+      "file": "data/Pokémon TCG Pocket/Promos-B/071.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Ambos os Pokémon ativos agora estão confusos.",
+      "expectedEnglish": "Both Active Pokémon are now Confused.",
+      "value": "Ambos os Pokémon Ativos agora estão Confuso.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/222"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-072",
+      "file": "data/Pokémon TCG Pocket/Promos-B/072.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Lancez une pièce de monnaie. Si c'est face, lors du prochain tour de votre adversaire, prévenez tous les dégâts et effets des attaques infligées à ce Pokémon.",
+      "expectedEnglish": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+      "value": "Lancez une pièce. Si c'est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts et les effets d'attaques infligés à ce Pokémon.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/223"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-072",
+      "file": "data/Pokémon TCG Pocket/Promos-B/072.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Lanza una moneda. Si sale cara, durante el próximo turno de tu rival, evita todo el daño y los efectos de los ataques realizados a este Pokémon.",
+      "expectedEnglish": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+      "value": "Lanza 1 moneda. Si sale cara, durante el próximo turno de tu rival, evita todo el daño y todos los efectos de los ataques infligidos a este Pokémon.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/224"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-072",
+      "file": "data/Pokémon TCG Pocket/Promos-B/072.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, evite todos os danos e efeitos de ataques feitos a este Pokémon.",
+      "expectedEnglish": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+      "value": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/225"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-073",
+      "file": "data/Pokémon TCG Pocket/Promos-B/073.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Défaussez une carte de votre main. Si vous n’y parvenez pas, cette attaque ne fait rien.",
+      "expectedEnglish": "Discard a card from your hand. If you can't, this attack does nothing.",
+      "value": "Défaussez une carte de votre main. Si vous ne pouvez pas en défausser, cette attaque ne fait rien.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/226"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-073",
+      "file": "data/Pokémon TCG Pocket/Promos-B/073.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Descarta una carta de tu mano. Si no puedes, este ataque no hace nada.",
+      "expectedEnglish": "Discard a card from your hand. If you can't, this attack does nothing.",
+      "value": "Descarta 1 carta de tu mano. Si no puedes, este ataque no hace nada.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/227"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-073",
+      "file": "data/Pokémon TCG Pocket/Promos-B/073.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Descarte uma carta da sua mão. Se não conseguir, este ataque não fará nada.",
+      "expectedEnglish": "Discard a card from your hand. If you can't, this attack does nothing.",
+      "value": "Descarte uma carta da sua mão. Se não puder fazer isso, este ataque não fará nada.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/228"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-073",
+      "file": "data/Pokémon TCG Pocket/Promos-B/073.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "棄掉你手上的一張牌。如果你做不到，那麼這次攻擊就沒有任何作用。",
+      "expectedEnglish": "Discard a card from your hand. If you can't, this attack does nothing.",
+      "value": "從自己的手牌抽出1張丟棄。若無法丟棄,則這個招式失敗。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/229"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-075",
+      "file": "data/Pokémon TCG Pocket/Promos-B/075.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Cette attaque inflige 30 dégâts supplémentaires pour chaque Énergie attachée au Pokémon Actif de votre adversaire.",
+      "expectedEnglish": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon.",
+      "value": "Cette attaque inflige 30 dégâts de plus pour chaque Énergie attachée au Pokémon Actif de votre adversaire.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/230"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-077",
+      "file": "data/Pokémon TCG Pocket/Promos-B/077.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Révélez tous vos Pokémon en jeu et dans votre main qui ont l'attaque Puppy Pile, et cette attaque inflige 20 dégâts pour chaque Pokémon que vous avez révélé de cette manière.",
+      "expectedEnglish": "Reveal all of your Pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way.",
+      "value": "Montrez tous vos Pokémon en jeu et dans votre main dotés de l'attaque Chiots à Gogo. Cette attaque inflige 20 dégâts pour chaque Pokémon montré de cette façon.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/231"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-077",
+      "file": "data/Pokémon TCG Pocket/Promos-B/077.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Revela todos tus Pokémon en juego y en tu mano que tengan el ataque Puppy Pile, y este ataque hace 20 daños por cada Pokémon que revelaste de esta manera.",
+      "expectedEnglish": "Reveal all of your Pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way.",
+      "value": "Enseña todos tus Pokémon en juego y en tu mano que tengan el ataque Camada, y este ataque hace 20 puntos de daño por cada Pokémon que hayas enseñado de esta manera.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/232"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-077",
+      "file": "data/Pokémon TCG Pocket/Promos-B/077.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Revele todos os seus Pokémon em jogo e na sua mão que tenham o ataque Puppy Pile, e esse ataque causa 20 de dano para cada Pokémon que você revelou dessa forma.",
+      "expectedEnglish": "Reveal all of your Pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way.",
+      "value": "Revele todos os seus Pokémon em jogo e na sua mão que tenham o ataque Pilha de Filhotes, e este ataque causa 20 pontos de dano para cada Pokémon que você revelou dessa forma.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/233"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-078",
+      "file": "data/Pokémon TCG Pocket/Promos-B/078.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Este ataque hace 30 daños por cada Herramienta Pokémon adjunta a todos tus Pokémon.",
+      "expectedEnglish": "This attack does 30 damage for each Pokémon Tool attached to all of your Pokémon.",
+      "value": "Este ataque hace 30 puntos de daño por cada Herramienta Pokémon unida a todos tus Pokémon.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/234"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-078",
+      "file": "data/Pokémon TCG Pocket/Promos-B/078.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Este ataque causa 30 de dano para cada Ferramenta Pokémon anexada a todos os seus Pokémon.",
+      "expectedEnglish": "This attack does 30 damage for each Pokémon Tool attached to all of your Pokémon.",
+      "value": "Este ataque causa 30 pontos de dano para cada Ferramenta Pokémon ligada a todos os seus Pokémon.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/235"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-081",
+      "file": "data/Pokémon TCG Pocket/Promos-B/081.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "這次攻擊也會對對手後備的 1 隻寶可夢造成 10 點傷害。",
+      "expectedEnglish": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon.",
+      "value": "對手的1隻備戰寶可夢也受到10點傷害。",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/236"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-084",
+      "file": "data/Pokémon TCG Pocket/Promos-B/084.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Lanza una moneda. Si sale cruz, este ataque no hace nada.",
+      "expectedEnglish": "Flip a coin. If tails, this attack does nothing.",
+      "value": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/237"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-084",
+      "file": "data/Pokémon TCG Pocket/Promos-B/084.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
+      "expectedEnglish": "Flip a coin. If tails, this attack does nothing.",
+      "value": "Jogue uma moeda. Se sair coroa, este ataque não fará nada.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/238"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-104",
+      "file": "data/Pokémon TCG Pocket/Promos-A/104.ts",
+      "path": "description",
+      "locale": "it",
+      "mode": "correction",
+      "expectedCurrent": "Milotic ha fornito ispirazione a molti artisti.\nÈ stato anche definito il più\nbellissimi Pokémon in assoluto.",
+      "expectedEnglish": "Milotic has provided inspiration to many artists.\nIt has even been referred to as the most\nbeautiful Pokémon of all.",
+      "value": "È considerato il Pokémon più bello del mondo ed è fonte d'ispirazione per tantissimi artisti.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/239"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-107",
+      "file": "data/Pokémon TCG Pocket/Promos-A/107.ts",
+      "path": "description",
+      "locale": "de",
+      "mode": "correction",
+      "expectedCurrent": "Miltank produziert hochnährstoffreiche Milch\nunterstützt das Leben von Menschen und anderen\nPokémon seit der Antike.",
+      "expectedEnglish": "Miltank produces highly nutritious milk, so it's\nbeen supporting the lives of people and other\nPokémon since ancient times.",
+      "value": "Dank seiner äußerst nährstoffreichen Milch trägt Miltank seit langer Zeit zum Wohl von Menschen und Pokémon bei.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/240"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-107",
+      "file": "data/Pokémon TCG Pocket/Promos-A/107.ts",
+      "path": "description",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Miltank produce leche altamente nutritiva, por lo que es\nestado apoyando la vida de las personas y otros\nPokémon desde la antigüedad.",
+      "expectedEnglish": "Miltank produces highly nutritious milk, so it's\nbeen supporting the lives of people and other\nPokémon since ancient times.",
+      "value": "Debido a la nutritiva leche que produce, ha contribuido al bienestar de humanos y Pokémon desde tiempos inmemoriales.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/241"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-075",
+      "file": "data/Pokémon TCG Pocket/Promos-A/075.ts",
+      "path": "description",
+      "locale": "de",
+      "mode": "correction",
+      "expectedCurrent": "Der Körper dieses Ultra-Biests ist genauso dünn\nwie Papier, ist wie ein geschärftes Schwert.",
+      "expectedEnglish": "This Ultra Beast's body, which is as thin\nas paper, is like a sharpened sword.",
+      "value": "Der Körper dieser Ultrabestie ist dünn wie Papier und so scharfkantig wie eine geschliffene Klinge.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/242"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-077",
+      "file": "data/Pokémon TCG Pocket/Promos-A/077.ts",
+      "path": "description",
+      "locale": "it",
+      "mode": "correction",
+      "expectedCurrent": "Sebbene sia estraneo a questo mondo e un pericolo qui, a quanto pare lo è\nun organismo comune nel mondo in cui vive normalmente.",
+      "expectedEnglish": "Although it's alien to this world and a danger here, it's apparently\na common organism in the world where it normally lives.",
+      "value": "Nel nostro mondo il suo aspetto appare strano e minaccioso, ma sembra che in quello da cui proviene sia una creatura molto comune.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/243"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-085",
+      "file": "data/Pokémon TCG Pocket/Promos-A/085.ts",
+      "path": "description",
+      "locale": "it",
+      "mode": "correction",
+      "expectedCurrent": "Incapace di sopravvivere nelle zone calde, si crea da sola\nconfortevole espirando aria abbastanza fredda da\ncausare la neve. Si nasconde nella neve per dormire.",
+      "expectedEnglish": "Unable to survive in hot areas, it makes itself\ncomfortable by breathing out air cold enough to\ncause snow. It burrows into the snow to sleep.",
+      "value": "Non può vivere nei luoghi caldi. Fa nevicare esalando un alito gelido e poi si addormenta immerso nella neve che si è accumulata.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/244"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-089",
+      "file": "data/Pokémon TCG Pocket/Promos-A/089.ts",
+      "path": "description",
+      "locale": "de",
+      "mode": "correction",
+      "expectedCurrent": "Dieses Pokémon hat ein freundliches Herz. Durch das Berühren mit seinen Fühlern,\nAudino kann die Gefühle und den körperlichen Zustand anderer Lebewesen einschätzen.",
+      "expectedEnglish": "This Pokémon has a kind heart. By touching with its feelers,\nAudino can gauge other creatures' feelings and physical conditions.",
+      "value": "Berührt dieses herzensgute Pokémon jemanden mit seinen Fühlern, kann es dessen körperliche Verfassung und Gemütszustand ertasten.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/245"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-095",
+      "file": "data/Pokémon TCG Pocket/Promos-A/095.ts",
+      "path": "description",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Ses antennes, issues d'une nageoire, possèdent à la fois\ndes charges positives et négatives les traversent.",
+      "expectedEnglish": "Its antennae, which evolved from a fin, have both\npositive and negative charges flowing through them.",
+      "value": "Ses antennes proviennent d'anciennes nageoires et sont chargées d'énergies positive et négative.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/246"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-095",
+      "file": "data/Pokémon TCG Pocket/Promos-A/095.ts",
+      "path": "description",
+      "locale": "de",
+      "mode": "correction",
+      "expectedCurrent": "Seine Fühler, die sich aus einer Flosse entwickelt haben, haben beides\nDurch sie fließen positive und negative Ladungen.",
+      "expectedEnglish": "Its antennae, which evolved from a fin, have both\npositive and negative charges flowing through them.",
+      "value": "Seine Antennen haben sich aus Flossen entwickelt und sind sowohl positiv als auch negativ geladen.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/247"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-097",
+      "file": "data/Pokémon TCG Pocket/Promos-A/097.ts",
+      "path": "description",
+      "locale": "de",
+      "mode": "correction",
+      "expectedCurrent": "Obwohl es sein Baby in einem Beutel trägt\nMit seinem Bauch ist Kangaskhan schnell auf den Beinen. Es\nschüchtert seine Gegner mit schnellen Stößen ein.",
+      "expectedEnglish": "Although it's carrying its baby in a pouch on\nits belly, Kangaskhan is swift on its feet. It\nintimidates its opponents with quick jabs.",
+      "value": "Obwohl es sein Junges im Beutel trägt, bewegt sich dieses Pokémon äußerst leichtfüßig. Gegner schreckt Kangama mit blitzschnellen Schlägen ab.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/248"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-091",
+      "file": "data/Pokémon TCG Pocket/Promos-B/091.ts",
+      "path": "description",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Para mantener oculta su cola negra como boca de lobo, vive tranquilamente en la oscuridad. Nunca es el primero en atacar.",
+      "expectedEnglish": "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.",
+      "value": "Para mantener oculta su negra cola, vive en silencio en la oscuridad. Nunca ataca primero.",
+      "evidence": [
+        {
+          "sourceId": "native-exact",
+          "sha256": "5da2dac2302a9844d1f9a10b828bb288ac8c39785c5934523f4efa7074fe1b33",
+          "locator": "#/records/249"
+        }
+      ]
+    }
+  ]
+}

@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/071",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/071",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/071",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/071",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/071",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/071",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/071",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/071",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/071"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/071/9062dd3177f1583e",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/071/9062dd3177f1583e",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/071/9062dd3177f1583e",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/071/9062dd3177f1583e",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/071/9062dd3177f1583e",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/071/9062dd3177f1583e",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/071/9062dd3177f1583e",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/071/9062dd3177f1583e",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/071/9062dd3177f1583e"
     },
     name: {
         en: "Psyduck",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "コダック"
     },
     illustrator: "Natsumi Yoshida",
-    rarity: "None",
+    rarity: "One Star",
     category: "Pokemon",
     hp: 70,
     types: ["Water"],
@@ -34,12 +34,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode.",
-        fr: "Si ses maux de tête chroniques culminent, il peut présenter des pouvoirs étranges. Il semble incapable de se souvenir d'un tel épisode.",
-        es: "Si su dolor de cabeza crónico alcanza su punto máximo, puede exhibir poderes extraños. Parece incapaz de recordar tal episodio.",
-        it: "Se il suo mal di testa cronico raggiunge il picco, può mostrare strani poteri. Sembra incapace di ricordare un episodio del genere.",
-        de: "Wenn der chronische Kopfschmerz seinen Höhepunkt erreicht, kann er seltsame Kräfte zeigen. Es scheint nicht in der Lage zu sein, sich an eine solche Episode zu erinnern.",
-        "pt-br": "Se a dor de cabeça crônica atingir o pico, ela poderá exibir poderes estranhos. Parece incapaz de recordar tal episódio.",
-        "zh-tw": "如果它的慢性頭痛達到頂峰，它可能會表現出奇怪的力量。似乎無法回憶起這樣的情節。",
+        fr: "Quand son éternelle migraine devient trop forte, il manifeste d'étranges pouvoirs, mais il ne semble jamais s'en souvenir par la suite.",
+        es: "Cuando su jaqueca crónica empeora, desata unos poderes misteriosos, pero después no parece recordar nada de lo ocurrido.",
+        it: "Se il suo mal di testa cronico si acuisce, può manifestare strani poteri di cui in seguito non ha memoria.",
+        de: "Wenn seine chronischen Kopfschmerzen stärker werden, kann es mysteriöse Kräfte entfalten. Danach erinnert es sich anscheinend nicht daran.",
+        "pt-br": "Exibe poderes estranhos quando sua dor de cabeça crônica piora, mas não consegue lembrar esses episódios.",
+        "zh-tw": "總是會在頭痛欲裂時發揮出神奇的力量，但似乎沒有當下的記憶。",
         ja: "いつもの 頭痛が 激しくなると 不思議な 力を 発揮するが そのときの 記憶は ないらしい。",
         ko: "평상시보다 두통이 심해지면\n이상한 힘을 발산하지만\n그때의 기억은 없는 듯하다."
     },
@@ -48,23 +48,23 @@ const card: Card = {
             cost: ["Colorless"],
             name: {
                 en: "Confusion Wave",
-                fr: "Vague de confusion",
-                es: "Ola de confusión",
-                it: "Onda di confusione",
-                de: "Verwirrungswelle",
-                "pt-br": "Onda de confusão",
+                fr: "Vague de Confusion",
+                es: "Ola de Confusión",
+                it: "Confusionda",
+                de: "Verwirrende Welle",
+                "pt-br": "Onda de Confusão",
                 "zh-tw": "混亂波動",
                 ja: "へんなねんぱ",
                 ko: "괴상한염력파"
             },
             effect: {
                 en: "Both Active Pokémon are now Confused.",
-                fr: "Les deux Pokémon Actifs sont désormais Confus.",
-                es: "Ambos Pokémon Activos ahora están Confundidos.",
-                it: "Entrambi i Pokémon attivi sono ora confusi.",
-                de: "Beide aktiven Pokémon sind jetzt verwirrt.",
-                "pt-br": "Ambos os Pokémon ativos agora estão confusos.",
-                "zh-tw": "兩隻活躍的寶可夢現在都處於混亂狀態。",
+                fr: "Les deux Pokémon Actifs sont maintenant Confus.",
+                es: "Ambos Pokémon Activos pasan a estar Confundido.",
+                it: "Entrambi i Pokémon attivi vengono confusi.",
+                de: "Beide Aktiven Pokémon sind jetzt verwirrt.",
+                "pt-br": "Ambos os Pokémon Ativos agora estão Confuso.",
+                "zh-tw": "將雙方的戰鬥寶可夢混亂。",
                 ja: "おたがいのバトルポケモンをこんらんにする。",
                 ko: "서로의 배틀 포켓몬을 혼란으로 만든다."
             }

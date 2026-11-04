@@ -9,7 +9,9 @@ import { objectMap, objectPick } from '@dzeio/object-util'
 
 export async function getCardPictures(cardId: string, card: Card, lang: SupportedLanguages): Promise<string | undefined> {
 	const cardPicture = (lang === 'ja' || lang === 'ko') ? card.image?.[lang] : card.image?.[lang] ?? card.image?.en
-	if ((lang === 'ja' || lang === 'ko') && cardPicture !== `https://game.pokemontcgpocket.app/${lang}/tcgp/${card.set.id}/${cardId}`) {
+	const nativeBase = `https://game.pokemontcgpocket.app/${lang}/tcgp/${card.set.id}/${cardId}`
+	const nativeVersion = cardPicture?.startsWith(`${nativeBase}/`) && /^[a-f0-9]{16}$/.test(cardPicture.slice(nativeBase.length + 1))
+	if ((lang === 'ja' || lang === 'ko') && cardPicture !== nativeBase && !nativeVersion) {
 		throw new Error(`Card (${card.set.id}-${cardId}) has no native ${lang === 'ja' ? 'Japanese' : 'Korean'} image`)
 	}
 	if (cardPicture) {

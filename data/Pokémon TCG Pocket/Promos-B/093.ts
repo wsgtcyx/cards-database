@@ -3,7 +3,17 @@ import Set from "../Promos-B";
 
 const card: Card = {
     set: Set,
-    image: { en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/093", fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/093", es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/093", it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/093", de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/093", "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/093", "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/093", ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/093", ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/093" },
+    image: {
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/093/eeba59e8a2d5b960",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/093/eeba59e8a2d5b960",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/093/eeba59e8a2d5b960",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/093/eeba59e8a2d5b960",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/093/eeba59e8a2d5b960",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/093/eeba59e8a2d5b960",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/093/eeba59e8a2d5b960",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/093/eeba59e8a2d5b960",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/093/eeba59e8a2d5b960"
+    },
     name: { en: "Fennekin", fr: "Feunnec", es: "Fennekin", it: "Fennekin", de: "Fynx", "pt-br": "Fennekin", "zh-tw": "火狐狸", ko: "푸호꼬", ja: "フォッコ" },
     illustrator: "Kanako Eo",
     rarity: "Three Diamond",

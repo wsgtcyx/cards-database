@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/057",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/057",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/057",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/057",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/057",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/057",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/057",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/057",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/057"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/057/7d3b4363fd9ed32d",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/057/7d3b4363fd9ed32d",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/057/7d3b4363fd9ed32d",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/057/7d3b4363fd9ed32d",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/057/7d3b4363fd9ed32d",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/057/7d3b4363fd9ed32d",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/057/7d3b4363fd9ed32d",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/057/7d3b4363fd9ed32d",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/057/7d3b4363fd9ed32d"
     },
     name: {
         en: "Bidoof",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "大牙狸",
     },
     illustrator: "Kouki Saitou",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     hp: 70,
     types: ["Colorless"],
@@ -38,7 +38,7 @@ const card: Card = {
         'pt-br': "Com nervos de aço, nada pode perturbá-lo.\nÉ mais ágil e ativo do que parece.",
         ja: "なにごとにも 動じない 図太い 神経の 持ち主。 見かけの 割には 機敏に 活動する。",
         ko: "어떤 것에도 동요하지 않는\n대담한 신경의 소유자다.\n보기보다는 기민하게 활동한다.",
-        "zh-tw": "有著鋼鐵般的意志，沒有什麼可以擾亂它。它是\n比看上去更加敏捷和活躍。"
+        "zh-tw": "遇到任何事都不慌不忙，神經很大條的傢伙。能做出與外表不相稱的靈敏動作。"
     },
     stage: "Basic",
     attacks: [{
@@ -51,7 +51,7 @@ const card: Card = {
                 'pt-br': "Cabeçada",
                 ja: "ずつき",
                 ko: "박치기",
-                "zh-tw": "頭撞"
+                "zh-tw": "頭錘"
             },
             cost: ["Colorless", "Colorless"],
             damage: 30

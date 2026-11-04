@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/018",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/018",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/018",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/018",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/018",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/018",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/018",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/018",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/018"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/018/a3215856da9c31f9",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/018/a3215856da9c31f9",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/018/a3215856da9c31f9",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/018/a3215856da9c31f9",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/018/a3215856da9c31f9",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/018/a3215856da9c31f9",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/018/a3215856da9c31f9",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/018/a3215856da9c31f9",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/018/a3215856da9c31f9"
     },
     name: {
         en: "Heliolisk",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "エレザード"
     },
     illustrator: "Sumiyoshi Kizuki",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     hp: 100,
     types: ["Lightning"],
@@ -50,7 +50,7 @@ const card: Card = {
         it: "L'energia prodotta da un Heliolisk quando apre\nil suo collare in un luogo soleggiato è sufficiente\na soddisfare il fabbisogno di una metropoli.",
         de: "Stellt es seine kragenartigen Hautlappen auf und\nabsorbiert damit Sonnenlicht, kann ein Elezard\ngenug Strom für eine Großstadt produzieren.",
         "pt-br": "Um único Heliolisk tomando banho de sol com\nsuas cristas abertas consegue produzir energia\no suficiente para abastecer uma cidade inteira.",
-        "zh-tw": "只要一隻日光蟲在陽光下伸展開來，就可以產生足夠的電力來為一座城市供電。",
+        "zh-tw": "如果展開頸傘沐浴陽光，單憑１隻光電傘蜥就能製造出大城市所需的電力。",
         ja: "襟巻を 広げて 太陽光を 浴びると 大都会で 使われる 電気を １匹で 発電する。",
         ko: "깃을 펼쳐 태양광을 받으면\n대도시에서 사용할 수 있는\n전기를 혼자서 발전한다."
     },
@@ -70,12 +70,12 @@ const card: Card = {
             },
             effect: {
                 en: "Discard all Energy from this Pokémon.",
-                fr: "Défaussez toute l'énergie de ce Pokémon.",
-                es: "Descarta toda la Energía de este Pokémon.",
-                it: "Scarta tutte le Energie da questo Pokémon.",
-                de: "Lege die gesamte Energie dieses Pokémon ab.",
+                fr: "Défaussez toutes les Énergies de ce Pokémon.",
+                es: "Descarta todas las Energías de este Pokémon.",
+                it: "Rimuovi tutte le Energie assegnate a questo Pokémon.",
+                de: "Lege alle Energien von diesem Pokémon ab.",
                 "pt-br": "Descarte todas as Energias deste Pokémon.",
-                "zh-tw": "丟棄該寶可夢的所有能量。",
+                "zh-tw": "將這隻寶可夢身上的能量全部丟棄。",
                 ja: "このポケモンからエネルギーをすべてトラッシュ。",
                 ko: "이 포켓몬에서 에너지를 모두 트래쉬한다."
             },

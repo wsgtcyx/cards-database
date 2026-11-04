@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/033",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/033",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/033",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/033",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/033",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/033",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/033",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/033",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/033"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/033/4b9990ac4dd37892",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/033/4b9990ac4dd37892",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/033/4b9990ac4dd37892",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/033/4b9990ac4dd37892",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/033/4b9990ac4dd37892",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/033/4b9990ac4dd37892",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/033/4b9990ac4dd37892",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/033/4b9990ac4dd37892",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/033/4b9990ac4dd37892"
     },
     name: {
         en: "Squirtle",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "傑尼龜"
     },
     illustrator: "Kanako Eo",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     hp: 60,
     types: ["Water"],
@@ -38,7 +38,7 @@ const card: Card = {
         'pt-br': "Ao retrair o pescoço longo para dentro\ndo seu casco, lança um jato de água\nmuito poderoso.",
         ja: "長い 首を 甲羅のなかに 引っこめるとき 勢いよく 水鉄砲を 発射する。",
         ko: "기다란 목을 등껍질 속에\n감춘 다음 기세 좋게\n물대포를 발사한다.",
-        "zh-tw": "當它把長脖子縮進殼裡時\n用強力噴出水。"
+        "zh-tw": "當牠把長長的脖子縮回殼裡時，會順勢發射力道強勁的水槍。"
     },
     stage: "Basic",
     attacks: [{

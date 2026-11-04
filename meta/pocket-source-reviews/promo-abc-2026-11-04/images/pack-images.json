@@ -1,0 +1,326 @@
+[
+  {
+    "set": "P-A",
+    "pack": "PROMO-A_1",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackaseriesvol.1.png",
+    "path": "/private/tmp/promo-abc-sources-20261104/packs/PROMO-A_1.png",
+    "sha256": "e07e5cf91ad3305da5ad7ce59e993984e9c21a8c8cc278ec56f7a75e069aed69",
+    "bytes": 269318,
+    "size": [
+      318,
+      600
+    ]
+  },
+  {
+    "set": "P-A",
+    "pack": "PROMO-A_2",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackaseriesvol.2.png",
+    "path": "/private/tmp/promo-abc-sources-20261104/packs/PROMO-A_2.png",
+    "sha256": "b8c50655c8aff7da42b16cb4819acd562fe8f419f5a1abbfbb0b978040f3ee32",
+    "bytes": 291549,
+    "size": [
+      320,
+      600
+    ]
+  },
+  {
+    "set": "P-A",
+    "pack": "PROMO-A_3",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackaseriesvol.3.png",
+    "path": "/private/tmp/promo-abc-sources-20261104/packs/PROMO-A_3.png",
+    "sha256": "85e4cea58e7d7e2e8630a7cd9edbfac447cdfe170b5508c5939d41a5b8ec53b3",
+    "bytes": 282680,
+    "size": [
+      319,
+      600
+    ]
+  },
+  {
+    "set": "P-A",
+    "pack": "PROMO-A_4",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackaseriesvol.4.png",
+    "path": "/private/tmp/promo-abc-sources-20261104/packs/PROMO-A_4.png",
+    "sha256": "09e76920ca6dfda4e45c5c0b328c896e46e94e2a165e84434bcad217113ca1a0",
+    "bytes": 276617,
+    "size": [
+      318,
+      600
+    ]
+  },
+  {
+    "set": "P-A",
+    "pack": "PROMO-A_5",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackaseriesvol.5.png",
+    "path": "/private/tmp/promo-abc-sources-20261104/packs/PROMO-A_5.png",
+    "sha256": "6e3f9275c03f92442eb332fedfc433da6018e995aacf0a4357a024e038c006b9",
+    "bytes": 294114,
+    "size": [
+      319,
+      600
+    ]
+  },
+  {
+    "set": "P-A",
+    "pack": "PROMO-A_6",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackaseriesvol.6.png",
+    "path": "/private/tmp/promo-abc-sources-20261104/packs/PROMO-A_6.png",
+    "sha256": "ac5f9dca7656c36a9db2c7e8ba2b7e8a6a913b5829a470e52d12b08bd1ceaaea",
+    "bytes": 42185,
+    "size": [
+      148,
+      251
+    ]
+  },
+  {
+    "set": "P-A",
+    "pack": "PROMO-A_7",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackaseriesvol.7.png",
+    "path": "/private/tmp/promo-abc-sources-20261104/packs/PROMO-A_7.png",
+    "sha256": "b03dee718a10387d0b037ef1686a042530745d90981a773c697bc56cbe0a337e",
+    "bytes": 41903,
+    "size": [
+      148,
+      251
+    ]
+  },
+  {
+    "set": "P-A",
+    "pack": "PROMO-A_8",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackaseriesvol.8.png",
+    "path": "/private/tmp/promo-abc-sources-20261104/packs/PROMO-A_8.png",
+    "sha256": "9b203344ad666c57729a404fb0f00bba60054b5b5b5e3a0a33ecf2da1ce9d830",
+    "bytes": 48471,
+    "size": [
+      148,
+      251
+    ]
+  },
+  {
+    "set": "P-A",
+    "pack": "PROMO-A_9",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackaseriesvol.9.png",
+    "path": "/private/tmp/promo-abc-sources-20261104/packs/PROMO-A_9.png",
+    "sha256": "46b65601855c72b6fcf956ee79c1e77587a43a67027ed1e88148dc14b1af6728",
+    "bytes": 286687,
+    "size": [
+      319,
+      600
+    ]
+  },
+  {
+    "set": "P-A",
+    "pack": "PROMO-A_10",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackaseriesvol.10.png",
+    "path": "/private/tmp/promo-abc-sources-20261104/packs/PROMO-A_10.png",
+    "sha256": "ac5f9dca7656c36a9db2c7e8ba2b7e8a6a913b5829a470e52d12b08bd1ceaaea",
+    "bytes": 42185,
+    "size": [
+      148,
+      251
+    ]
+  },
+  {
+    "set": "P-A",
+    "pack": "PROMO-A_11",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackaseriesvol.11.png",
+    "path": "/private/tmp/promo-abc-sources-20261104/packs/PROMO-A_11.png",
+    "sha256": "b03dee718a10387d0b037ef1686a042530745d90981a773c697bc56cbe0a337e",
+    "bytes": 41903,
+    "size": [
+      148,
+      251
+    ]
+  },
+  {
+    "set": "P-A",
+    "pack": "PROMO-A_12",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackaseriesvol.12.png",
+    "path": "/private/tmp/promo-abc-sources-20261104/packs/PROMO-A_12.png",
+    "sha256": "9b203344ad666c57729a404fb0f00bba60054b5b5b5e3a0a33ecf2da1ce9d830",
+    "bytes": 48471,
+    "size": [
+      148,
+      251
+    ]
+  },
+  {
+    "set": "P-A",
+    "pack": "PROMO-A_13",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackaseriesvol.13.png",
+    "path": "/private/tmp/promo-abc-sources-20261104/packs/PROMO-A_13.png",
+    "sha256": "ac5f9dca7656c36a9db2c7e8ba2b7e8a6a913b5829a470e52d12b08bd1ceaaea",
+    "bytes": 42185,
+    "size": [
+      148,
+      251
+    ]
+  },
+  {
+    "set": "P-B",
+    "pack": "PROMO-B_1",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.1.png",
+    "path": "/private/tmp/promo-abc-sources-20261104/packs/PROMO-B_1.png",
+    "sha256": "0c799d25d0be09d673e4d696f6558a9395e91877cdeaa8c9def5d9a746817eb3",
+    "bytes": 41269,
+    "size": [
+      148,
+      251
+    ]
+  },
+  {
+    "set": "P-B",
+    "pack": "PROMO-B_2",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.2.png",
+    "path": "/private/tmp/promo-abc-sources-20261104/packs/PROMO-B_2.png",
+    "sha256": "db8c442a3aab36196af697d346403fba6307d0700ac2873b5acae877247c530f",
+    "bytes": 48006,
+    "size": [
+      148,
+      251
+    ]
+  },
+  {
+    "set": "P-B",
+    "pack": "PROMO-B_3",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.3.png",
+    "path": "/private/tmp/promo-abc-sources-20261104/packs/PROMO-B_3.png",
+    "sha256": "1e2f789e5f8a71f676ae44fabe9e42a3e9d553612632e7cbbe71e743de676b61",
+    "bytes": 42850,
+    "size": [
+      148,
+      251
+    ]
+  },
+  {
+    "set": "P-B",
+    "pack": "PROMO-B_4",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.4.png",
+    "path": "/private/tmp/promo-abc-sources-20261104/packs/PROMO-B_4.png",
+    "sha256": "0c799d25d0be09d673e4d696f6558a9395e91877cdeaa8c9def5d9a746817eb3",
+    "bytes": 41269,
+    "size": [
+      148,
+      251
+    ]
+  },
+  {
+    "set": "P-B",
+    "pack": "PROMO-B_5",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.5.png",
+    "path": "/private/tmp/promo-abc-sources-20261104/packs/PROMO-B_5.png",
+    "sha256": "db8c442a3aab36196af697d346403fba6307d0700ac2873b5acae877247c530f",
+    "bytes": 48006,
+    "size": [
+      148,
+      251
+    ]
+  },
+  {
+    "set": "P-B",
+    "pack": "PROMO-B_6",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.6.png",
+    "path": "/private/tmp/promo-abc-sources-20261104/packs/PROMO-B_6.png",
+    "sha256": "1e2f789e5f8a71f676ae44fabe9e42a3e9d553612632e7cbbe71e743de676b61",
+    "bytes": 42850,
+    "size": [
+      148,
+      251
+    ]
+  },
+  {
+    "set": "P-B",
+    "pack": "PROMO-B_7",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.7.png",
+    "path": "/private/tmp/promo-abc-sources-20261104/packs/PROMO-B_7.png",
+    "sha256": "0c799d25d0be09d673e4d696f6558a9395e91877cdeaa8c9def5d9a746817eb3",
+    "bytes": 41269,
+    "size": [
+      148,
+      251
+    ]
+  },
+  {
+    "set": "P-B",
+    "pack": "PROMO-B_8",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.8.png",
+    "path": "/private/tmp/promo-abc-sources-20261104/packs/PROMO-B_8.png",
+    "sha256": "db8c442a3aab36196af697d346403fba6307d0700ac2873b5acae877247c530f",
+    "bytes": 48006,
+    "size": [
+      148,
+      251
+    ]
+  },
+  {
+    "set": "P-B",
+    "pack": "PROMO-B_9",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.9.png",
+    "path": "/private/tmp/promo-abc-sources-20261104/packs/PROMO-B_9.png",
+    "sha256": "1e2f789e5f8a71f676ae44fabe9e42a3e9d553612632e7cbbe71e743de676b61",
+    "bytes": 42850,
+    "size": [
+      148,
+      251
+    ]
+  },
+  {
+    "set": "P-B",
+    "pack": "PROMO-B_10",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.10.png",
+    "path": "/private/tmp/promo-abc-sources-20261104/packs/PROMO-B_10.png",
+    "sha256": "0c799d25d0be09d673e4d696f6558a9395e91877cdeaa8c9def5d9a746817eb3",
+    "bytes": 41269,
+    "size": [
+      148,
+      251
+    ]
+  },
+  {
+    "set": "P-B",
+    "pack": "PROMO-B_11",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.11.png",
+    "path": "/private/tmp/promo-abc-sources-20261104/packs/PROMO-B_11.png",
+    "sha256": "db8c442a3aab36196af697d346403fba6307d0700ac2873b5acae877247c530f",
+    "bytes": 48006,
+    "size": [
+      148,
+      251
+    ]
+  },
+  {
+    "set": "P-B",
+    "pack": "PROMO-B_12",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.12.png",
+    "path": "/private/tmp/promo-abc-sources-20261104/packs/PROMO-B_12.png",
+    "sha256": "8e3f7a8f5cecc8416e0c6efd14a0006c89faa132e43ac9562d8af0a6c63bd072",
+    "bytes": 42395,
+    "size": [
+      256,
+      256
+    ]
+  },
+  {
+    "set": "P-B",
+    "pack": "PROMO-B_13",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.13.png",
+    "path": "/private/tmp/promo-abc-sources-20261104/packs/PROMO-B_13.png",
+    "sha256": "1e2f789e5f8a71f676ae44fabe9e42a3e9d553612632e7cbbe71e743de676b61",
+    "bytes": 42850,
+    "size": [
+      148,
+      251
+    ]
+  },
+  {
+    "set": "P-C",
+    "pack": "PROMO-C_1",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackcseriesvol.1.png",
+    "path": "/private/tmp/promo-abc-sources-20261104/packs/PROMO-C_1.png",
+    "sha256": "67a061bc83bf69878f8e51380616b5e0fda8c430b2cfd6a3887b7c19e3c39c73",
+    "bytes": 51042,
+    "size": [
+      256,
+      256
+    ]
+  }
+]

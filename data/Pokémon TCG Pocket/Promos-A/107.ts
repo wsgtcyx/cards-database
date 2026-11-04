@@ -4,16 +4,16 @@ import Set from "../Promos-A";
 const card: Card = {
 	set: Set,
 	image: {
-		en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/107",
-		de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/107",
-		es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/107",
-		fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/107",
-		it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/107",
-		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/107",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/107",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/107",
-		ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/107"
-	},
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/107/3076cd6a75ac5946",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/107/3076cd6a75ac5946",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/107/3076cd6a75ac5946",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/107/3076cd6a75ac5946",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/107/3076cd6a75ac5946",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/107/3076cd6a75ac5946",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/107/3076cd6a75ac5946",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/107/3076cd6a75ac5946",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/107/3076cd6a75ac5946"
+    },
 	name: {
 		en: "Miltank",
 		fr: "Écrémeuh",
@@ -32,12 +32,12 @@ const card: Card = {
 	types: ["Colorless"],
 	description: {
 		en: "Miltank produces highly nutritious milk, so it's\nbeen supporting the lives of people and other\nPokémon since ancient times.",
-		fr: "Miltank produit du lait très nutritif, c'est donc\nsoutenu la vie des gens et d'autres\nPokémon depuis l'Antiquité.",
-		es: "Miltank produce leche altamente nutritiva, por lo que es\nestado apoyando la vida de las personas y otros\nPokémon desde la antigüedad.",
-		it: "Miltank produce latte altamente nutriente, quindi è così\nhanno sostenuto la vita di persone e altri\nPokémon fin dai tempi antichi.",
-		de: "Miltank produziert hochnährstoffreiche Milch\nunterstützt das Leben von Menschen und anderen\nPokémon seit der Antike.",
-		"pt-br": "Miltank produz leite altamente nutritivo, por isso é\ntem apoiado a vida de pessoas e outros\nPokémon desde os tempos antigos.",
-		"zh-tw": "Miltank 生產高營養牛奶，因此\n一直在支持人們和其他人的生活\n自古以來的神奇寶貝。",
+		fr: "Grâce à son lait très nutritif, Écrémeuh contribue depuis longtemps au bien-être des humains et des Pokémon.",
+		es: "Debido a la nutritiva leche que produce, ha contribuido al bienestar de humanos y Pokémon desde tiempos inmemoriales.",
+		it: "Il suo latte altamente nutriente contribuisce al sostentamento di persone e Pokémon da tempo immemore.",
+		de: "Dank seiner äußerst nährstoffreichen Milch trägt Miltank seit langer Zeit zum Wohl von Menschen und Pokémon bei.",
+		"pt-br": "Miltank produzem um tipo de leite altamente nutritivo, que sustenta as vidas de pessoas e de outros Pokémon desde a antiguidade.",
+		"zh-tw": "由於能生產營養滿分的鮮奶，自古以來支持著人類與寶可夢的生活。",
 		ja: "栄養満点の ミルクを 出すことから 古くから 人間と ポケモンの 暮らしを 支えてきた。",
 		ko: "영양 만점의 우유를 만들어내서\n옛날부터 사람과 포켓몬의\n삶을 지탱해왔다."
 	},
@@ -46,12 +46,12 @@ const card: Card = {
 		{
 			name: {
 				en: "Rolling Frenzy",
-				fr: "Frénésie roulante",
-				es: "Frenesí rodante",
-				it: "Frenesia rotolante",
-				de: "Rollende Raserei",
-				"pt-br": "Frenesi rolante",
-				"zh-tw": "滾滾狂亂",
+				fr: "Roulade Frénétique",
+				es: "Frenesí Rodante",
+				it: "Ruzzolata Frenetica",
+				de: "Walzender Wahn",
+				"pt-br": "Frenesi Rolante",
+				"zh-tw": "越滾越勇",
 				ja: "ころがりフィーバー",
 				ko: "구르기피버"
 			},
@@ -59,12 +59,12 @@ const card: Card = {
 			cost: ["Colorless"],
 			effect: {
 				en: "Until this Pokémon leaves the Active Spot, this Pokémon's Rolling Frenzy attack does +30 damage. This effect stacks.",
-				fr: "Jusqu'à ce que ce Pokémon quitte le point actif, son attaque Rolling Frenzy inflige +30 dégâts. Cet effet se cumule.",
-				es: "Hasta que este Pokémon abandone el Punto Activo, su ataque Frenesí Rodante causa +30 de daño. Este efecto se acumula.",
-				it: "Finché questo Pokémon non lascia la posizione attiva, il suo attacco Frenesia Rotolante infligge +30 danni. Questo effetto è cumulabile.",
-				de: "Bis dieses Pokémon den aktiven Bereich verlässt, verursacht der Angriff „Rollende Raserei“ dieses Pokémon +30 Schaden. Dieser Effekt ist stapelbar.",
-				"pt-br": "Até que este Pokémon deixe o Ponto Ativo, o ataque Rolling Frenzy deste Pokémon causa +30 de dano. Este efeito acumula.",
-				"zh-tw": "在該寶可夢離開活動點之前，該寶可夢的翻滾狂暴攻擊造成+30點傷害。該效果可以疊加。",
+				fr: "Tant que ce Pokémon est sur le Poste Actif, son attaque Roulade Frénétique inflige + 30 dégâts. Cet effet est cumulable.",
+				es: "Hasta que este Pokémon deje el Puesto Activo, el ataque Frenesí Rodante de este Pokémon hace +30 puntos de daño. Este efecto se acumula.",
+				it: "Finché questo Pokémon è in posizione attiva, il suo attacco Ruzzolata Frenetica infligge +30 danni. Questo effetto è cumulabile.",
+				de: "Bis dieses Pokémon die Aktive Position verlässt, fügt seine Attacke Walzender Wahn + 30 Schadenspunkte zu. Dieser Effekt stapelt sich.",
+				"pt-br": "Até este Pokémon sair do Campo Ativo, o ataque Frenesi Rolante deste Pokémon causará +30 pontos de dano. Este efeito acumula.",
+				"zh-tw": "在這隻寶可夢離開戰鬥場前,這隻寶可夢的「越滾越勇」的傷害+30點。這個效果會重複。",
 				ja: "このポケモンがバトル場をはなれるまで、このポケモンの「ころがりフィーバー」のダメージを+30する。この効果は重なる。",
 				ko: "이 포켓몬이 배틀필드를 떠날 때까지 이 포켓몬의 「구르기피버」의 데미지를 +30한다. 이 효과는 중복된다."
 			}

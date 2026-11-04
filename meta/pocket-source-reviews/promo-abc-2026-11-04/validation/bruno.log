@@ -1,0 +1,75 @@
+Resolving dependencies
+Resolved, downloaded and extracted [1722]
+Saved lockfile
+cards/get-pocket-cards (200 OK) - 31 ms
+Assertions
+   ✓ res.status: eq 200
+   ✓ res.body.length: gt 3000
+cards/get-one-tcg-pocket-card (200 OK) - 3 ms
+Assertions
+   ✓ res.status: eq 200
+   ✓ res.body.id: eq A1-001
+cards/catalog-search (200 OK) - 36 ms
+Assertions
+   ✓ res.status: eq 200
+   ✓ res.body.items.length: gt 0
+   ✓ res.body.items[0].set.id: eq A1
+   ✓ res.body.pagination.pageSize: eq 10
+cards/catalog-search-options (200 OK) - 5 ms
+Assertions
+   ✓ res.status: eq 200
+   ✓ res.body.total: gt 3000
+   ✓ res.body.sets.length: gt 20
+   ✓ res.body.types.length: gt 5
+   ✓ res.body.boosters.length: gt 10
+cards/catalog-search-exact-id (200 OK) - 18 ms
+Assertions
+   ✓ res.status: eq 200
+   ✓ res.body.items.length: eq 1
+   ✓ res.body.items[0].id: eq A1-001
+   ✓ res.body.pagination.total: eq 1
+cards/get-card-relations (200 OK) - 24 ms
+Assertions
+   ✓ res.status: eq 200
+cards/catalog-search-comma (200 OK) - 75 ms
+Assertions
+   ✓ res.status: eq 200
+   ✓ res.body.items.length: eq 0
+   ✓ res.body.pagination.total: eq 0
+cards/catalog-search-query-limit (400 Bad Request) - 4 ms
+Assertions
+   ✓ res.status: eq 400
+   ✓ res.headers["content-type"]: contains application/problem+json
+   ✓ res.body.status: eq 400
+fixes/467-options-not-working-correctly (200 OK) - 10 ms
+Assertions
+   ✓ res.status: eq 200
+health/ping (200 OK) - 9 ms
+Assertions
+   ✓ res.status: eq 200
+health/openapi (200 OK) - 58 ms
+Assertions
+   ✓ res.status: eq 200
+series/get-pocket-series (200 OK) - 3 ms
+Assertions
+   ✓ res.status: eq 200
+   ✓ res.body.id: eq tcgp
+sets/get-pocket-set (200 OK) - 3 ms
+Assertions
+   ✓ res.status: eq 200
+   ✓ res.body.id: eq A1
+
+📊 Execution Summary
+┌───────────────┬────────────────┐
+│ Metric        │     Result     │
+├───────────────┼────────────────┤
+│ Status        │     ✓ PASS     │
+├───────────────┼────────────────┤
+│ Requests      │ 13 (13 Passed) │
+├───────────────┼────────────────┤
+│ Tests         │      0/0       │
+├───────────────┼────────────────┤
+│ Assertions    │     31/31      │
+├───────────────┼────────────────┤
+│ Duration (ms) │      468       │
+└───────────────┴────────────────┘

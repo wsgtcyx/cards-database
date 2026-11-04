@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/035",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/035",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/035",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/035",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/035",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/035",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/035",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/035",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/035"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/035/0483ef193ec682e1",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/035/0483ef193ec682e1",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/035/0483ef193ec682e1",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/035/0483ef193ec682e1",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/035/0483ef193ec682e1",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/035/0483ef193ec682e1",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/035/0483ef193ec682e1",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/035/0483ef193ec682e1",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/035/0483ef193ec682e1"
     },
     name: {
         en: "Charcadet",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "カルボウ"
     },
     illustrator: "Oswaldo KATO",
-    rarity: "None",
+    rarity: "One Star",
     category: "Pokemon",
     hp: 60,
     types: ["Fire"],
@@ -34,12 +34,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "Its firepower increases when it fights, reaching over 1,800 degrees Fahrenheit. It likes berries that are rich in fat.",
-        fr: "Sa puissance de feu augmente lorsqu'il combat, atteignant plus de 1 800 degrés Fahrenheit. Il aime les baies riches en graisse.",
-        es: "Su potencia de fuego aumenta cuando lucha, alcanzando más de 1.800 grados Fahrenheit. Le gustan las bayas ricas en grasas.",
-        it: "La sua potenza di fuoco aumenta quando combatte, raggiungendo oltre 1.800 gradi Fahrenheit. Gli piacciono le bacche ricche di grassi.",
-        de: "Seine Feuerkraft erhöht sich im Kampf und erreicht über 1.800 Grad Fahrenheit. Es mag Beeren, die reich an Fett sind.",
-        "pt-br": "Seu poder de fogo aumenta quando luta, chegando a mais de 1.800 graus Fahrenheit. Gosta de frutas vermelhas ricas em gordura.",
-        "zh-tw": "戰鬥時火力會增強，可達華氏 1,800 度以上。牠喜歡富含脂肪的漿果。",
+        fr: "Ses puissantes flammes atteignent les 1 000 °C lorsqu'il se bat. Il aime les Baies riches en matières grasses.",
+        es: "Sus potentes llamas alcanzan los 1000 °C cuando combate. Siente predilección por las bayas con un alto contenido graso.",
+        it: "La sua energia termica aumenta di intensità durante le lotte, raggiungendo i 1.000 °C. Adora le bacche ricche di grassi.",
+        de: "Im Kampf erreichen seine Flammen Temperaturen von bis zu 1000 °C. Es hat eine Vorliebe für Beeren mit hohem Fettgehalt.",
+        "pt-br": "Seu poder de fogo aumenta quando batalha, atingindo mais de 1.000 °C. Gosta de frutas ricas em gordura.",
+        "zh-tw": "在進入戰鬥狀態後，火力會上升至超過1000度。喜歡吃油脂含量高的樹果。",
         ja: "戦いになると 火力が 上がり 摂氏1000度に 達する。 油分の多い 木の実を 好む。",
         ko: "싸움을 시작하면 화력이 상승하여\n섭씨 1000도에 이르게 된다.\n기름기가 많은 나무열매를 좋아한다."
     },

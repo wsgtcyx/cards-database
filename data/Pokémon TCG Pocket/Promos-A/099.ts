@@ -2,16 +2,17 @@ import { Card } from "../../../interfaces";
 import Set from "../Promos-A";
 const card: Card = {
     set: Set,
+    boosters: [],
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/099",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/099",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/099",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/099",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/099",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/099",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/099",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/099",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/099"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/099/014ef5d4ca888710",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/099/014ef5d4ca888710",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/099/014ef5d4ca888710",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/099/014ef5d4ca888710",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/099/014ef5d4ca888710",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/099/014ef5d4ca888710",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/099/014ef5d4ca888710",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/099/014ef5d4ca888710",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/099/014ef5d4ca888710"
     },
     name: {
         en: "Marill",
@@ -31,12 +32,12 @@ const card: Card = {
     types: ["Water"],
     description: {
         en: "The fur on its body naturally repels water. It can\nstay dry even when it plays in the water.",
-        "fr": "La fourrure de son corps repousse naturellement l'eau. Cela peut\nreste au sec même lorsqu'il joue dans l'eau.",
-        "es": "The fur on its body naturally repels water. puede\nstay dry even when it plays in the water.",
-        "it": "La pelliccia sul suo corpo respinge naturalmente l'acqua. Può\nresta asciutto anche quando gioca nell'acqua.",
-        "de": "Das Fell seines Körpers weist von Natur aus Wasser ab. Es kann\nBleiben Sie trocken, auch wenn es im Wasser spielt.",
-        "pt-br": "A pelagem do seu corpo repele naturalmente a água. Pode\nfique seco mesmo quando brinca na água.",
-        "zh-tw": "它身上的皮毛天然具有防水功能。它可以\n即使在水中玩耍時也能保持乾燥。",
+        "fr": "Sa fourrure est imperméable, si bien qu'il reste sec même quand il joue dans l'eau.",
+        "es": "Tiene un pelaje que repele el agua, por lo que está seco incluso después de bañarse.",
+        "it": "La pelliccia è idrorepellente. Così, rimane asciutto anche giocando nell'acqua.",
+        "de": "Sein Fell ist von Natur aus wasserabweisend. Es bleibt trocken, auch wenn es im Wasser spielt.",
+        "pt-br": "A sua pelagem repele água naturalmente. Pode brincar na água por horas sem se molhar.",
+        "zh-tw": "全身的體毛有著能將水彈開的特性，所以就算碰到水也不會弄濕。",
         ja: "全身の 体毛は 水を 弾く 性質を 持ち 水浴び しても 乾いている。",
         ko: "전신의 털은\n물을 튕겨 내는 성질을 지녀\n물을 끼얹어도 말라 있다."
     },
@@ -44,12 +45,12 @@ const card: Card = {
     attacks: [{
             name: {
                 en: "Tackle",
-                "fr": "Tacle",
-                "es": "Abordar",
-                "it": "Attrezzatura",
+                "fr": "Charge",
+                "es": "Placaje",
+                "it": "Azione",
                 "de": "Tackle",
-                "pt-br": "Enfrentar",
-                "zh-tw": "處理",
+                "pt-br": "Investida",
+                "zh-tw": "撞擊",
                 ja: "たいあたり",
                 ko: "몸통박치기"
             },

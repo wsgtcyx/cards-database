@@ -2,16 +2,17 @@ import { Card } from "../../../interfaces";
 import Set from "../Promos-A";
 const card: Card = {
     set: Set,
+    boosters: [],
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/090",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/090",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/090",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/090",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/090",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/090",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/090",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/090",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/090"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/090/9dcc6a23deeb1dd5",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/090/9dcc6a23deeb1dd5",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/090/9dcc6a23deeb1dd5",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/090/9dcc6a23deeb1dd5",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/090/9dcc6a23deeb1dd5",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/090/9dcc6a23deeb1dd5",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/090/9dcc6a23deeb1dd5",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/090/9dcc6a23deeb1dd5",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/090/9dcc6a23deeb1dd5"
     },
     name: {
         en: "Togedemaru",
@@ -31,12 +32,12 @@ const card: Card = {
     types: ["Metal"],
     description: {
         en: "With the long hairs on its back, this Pokémon\ntakes in electricity from other electric Pokémon.\nIt stores what it absorbs in an electric sac.",
-        es: "Utiliza el apéndice de la cabeza para absorber los raoys o los\nataques de los Pokémon de tipo Eléctrico para recargar su bolsa.",
-        "fr": "Avec ses longs poils sur le dos, ce Pokémon\nabsorbe l'électricité d'autres Pokémon électriques.\nIl stocke ce qu'il absorbe dans un sac électrique.",
-        "it": "Con i lunghi peli sulla schiena, questo Pokémon\nassorbe l'elettricità da altri Pokémon elettrici.\nConserva ciò che assorbe in una sacca elettrica.",
-        "de": "Mit den langen Haaren auf dem Rücken, dieses Pokémon\nnimmt Strom von anderen elektrischen Pokémon auf.\nEs speichert das, was es aufnimmt, in einem elektrischen Beutel.",
-        "pt-br": "Com longos pelos nas costas, este Pokémon\nabsorve eletricidade de outros Pokémon elétricos.\nEle armazena o que absorve em um saco elétrico.",
-        "zh-tw": "背上有長毛的神奇寶貝\n從其他電力神奇寶貝身上獲取電力。\n它將吸收的東西儲存在電囊中。",
+        es: "Utiliza el apéndice de la cabeza para absorber los rayos o los ataques de los Pokémon de tipo Eléctrico para recargar su bolsa.",
+        "fr": "Grâce à sa longue épine dorsale, il capte le tonnerre et les attaques des Pokémon Électrik, puis stocke leur courant dans sa poche électrique.",
+        "it": "Si serve della lunga spina che ha sulla schiena per attirare e incamerare l'energia elettrica dei fulmini e dei Pokémon di tipo Elettro.",
+        "de": "Der Schweif an seinem Rücken absorbiert Blitze und Angriffe von Elektro-Pokémon. Es speichert den so gewonnenen Strom in Elektrotaschen.",
+        "pt-br": "Com os pelos compridos em suas costas, este Pokémon absorve a eletricidade de outros Pokémon elétricos. Armazena o que absorve em uma bolsa elétrica.",
+        "zh-tw": "用背上的長毛來接收閃電和電氣寶可夢釋放的電擊，然後將之儲存在電囊中。",
         ja: "背中の 長い 毛で 雷や でんきポケモンの 電撃を 受けて 電気袋に 充電する。",
         ko: "등에 난 긴 털로 번개나\n전기포켓몬의 전격을 받아\n전기 주머니에 충전한다."
     },
@@ -45,11 +46,11 @@ const card: Card = {
             name: {
                 en: "Bristling Spikes",
                 es: "Púas Erizadas",
-                "fr": "Pointes hérissées",
-                "it": "Punte irte",
-                "de": "Borstige Stacheln",
+                "fr": "Épines Hérissées",
+                "it": "Spine Dritte",
+                "de": "Aufgestellte Stacheln",
                 "pt-br": "Espinhos Eriçados",
-                "zh-tw": "豎立的尖刺",
+                "zh-tw": "豎刺",
                 ja: "さかだつトゲ",
                 ko: "곤두선가시"
             },
@@ -58,11 +59,11 @@ const card: Card = {
             effect: {
                 en: "During your opponent's next turn, if this Pokémon is damaged by an attack, do 30 damage to the Attacking Pokémon.",
                 es: "Durante el próximo turno de tu rival, si este Pokémon resulta dañado por un ataque, el Pokémon Atacante sufre 30 puntos de daño.",
-                "fr": "Lors du prochain tour de votre adversaire, si ce Pokémon est blessé par une attaque, infligez 30 dégâts au Pokémon attaquant.",
-                "it": "Durante il prossimo turno del tuo avversario, se questo Pokémon viene danneggiato da un attacco, infliggi 30 danni al Pokémon attaccante.",
-                "de": "Wenn dieses Pokémon im nächsten Zug deines Gegners durch einen Angriff beschädigt wird, füge dem angreifenden Pokémon 30 Schadenspunkte zu.",
-                "pt-br": "Durante o próximo turno do seu oponente, se este Pokémon receber dano de um ataque, cause 30 pontos de dano ao Pokémon atacante.",
-                "zh-tw": "在對手的下一個回合中，如果這只神奇寶貝因攻擊而受到傷害，則對攻擊的神奇寶貝造成 30 點傷害。",
+                "fr": "Pendant le prochain tour de votre adversaire, si ce Pokémon subit les dégâts d'une attaque, le Pokémon Attaquant subit 30 dégâts.",
+                "it": "Durante il prossimo turno del tuo avversario, se questo Pokémon viene danneggiato da un attacco, il Pokémon attaccante subisce 30 danni.",
+                "de": "Wenn diesem Pokémon während des nächsten Zuges deines Gegners durch eine Attacke Schaden zugefügt wird, füge dem Angreifenden Pokémon 30 Schadenspunkte zu.",
+                "pt-br": "Durante o próximo turno do seu oponente, se este Pokémon for danificado por um ataque, cause 30 pontos de dano ao Pokémon Atacante.",
+                "zh-tw": "在下個對手的回合,這隻寶可夢受到招式的傷害時,使用招式的寶可夢受到30點傷害。",
                 ja: "次の相手の番、このポケモンがワザのダメージを受けたとき、ワザを使ったポケモンに30ダメージ。",
                 ko: "상대의 다음 차례에 이 포켓몬이 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 30데미지를 준다."
             }

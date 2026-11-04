@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/029",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/029",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/029",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/029",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/029",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/029",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/029",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/029",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/029"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/029/661e65512c81cf86",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/029/661e65512c81cf86",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/029/661e65512c81cf86",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/029/661e65512c81cf86",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/029/661e65512c81cf86",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/029/661e65512c81cf86",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/029/661e65512c81cf86",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/029/661e65512c81cf86",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/029/661e65512c81cf86"
     },
     name: {
         en: "Blastoise",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "水箭龜",
     },
     illustrator: "danciao",
-    rarity: "None",
+    rarity: "One Star",
     category: "Pokemon",
     hp: 150,
     types: ["Water"],
@@ -49,7 +49,7 @@ const card: Card = {
         ja: "体が 重たく のしかかって 相手を 気絶させる。 ピンチのときは 殻に 隠れる。",
         ko: "무거운 몸으로 상대를\n덮쳐서 기절시킨다.\n위기에 처하면 등껍질에 숨는다.",
         'pt-br': "Esmaga seus inimigos com seu corpo pesado\naté que desmaiem. Quando está em apuros,\nse esconde dentro do seu casco.",
-        "zh-tw": "它用沉重的身體壓碎敵人，造成\n暈倒了。在緊要關頭，它會縮回殼內。"
+        "zh-tw": "會用重量驚人的身體壓住對手使其昏厥。遇到危險時會躲進殼裡。"
     },
     stage: "Stage2",
     attacks: [{
@@ -62,7 +62,7 @@ const card: Card = {
                 ja: "ハイドロポンプ",
                 ko: "하이드로펌프",
                 'pt-br': "Jato d'Água",
-                "zh-tw": "液壓泵"
+                "zh-tw": "水炮"
             },
             damage: "80+",
             cost: ["Water", "Water", "Colorless"],
@@ -74,8 +74,8 @@ const card: Card = {
                 de: "Wenn an dieses Pokémon mindestens 2 extra {W}-Energien angelegt sind, fügt diese Attacke 60 Schadenspunkte mehr zu.",
                 ja: "追加で{W}エネルギーが2個ついているなら、60ダメージ追加。",
                 ko: "{W}에너지 2개가 추가로 붙어 있다면 60데미지를 추가한다.",
-                'pt-br': "Se este Pokémon tiver pelo menos 2 Energia {W} extra ligada a ele, este ataque causará 60 pontos de dano a mais.",
-                "zh-tw": "如果這只神奇寶貝附加了至少 2 個額外的 {W} 能量，則此攻擊造成的傷害增加 60 點。"
+                'pt-br': "Se este Pokémon tiver pelo menos 2 Energias {W} extras ligadas a ele, este ataque causará 60 pontos de dano a mais.",
+                "zh-tw": "若額外附有2個{W}能量,則增加60點傷害。"
             }
         }],
     weaknesses: [{

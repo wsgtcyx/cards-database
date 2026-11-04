@@ -22,6 +22,7 @@ import promo98 from '../../../data/Pokémon TCG Pocket/Promos-B/098'
 import promo99 from '../../../data/Pokémon TCG Pocket/Promos-B/099'
 import promo100 from '../../../data/Pokémon TCG Pocket/Promos-B/100'
 import promosB from '../../../data/Pokémon TCG Pocket/Promos-B'
+import promosC from '../../../data/Pokémon TCG Pocket/Promos-C'
 import teamRocketsAmbition from '../../../data/Pokémon TCG Pocket/Team Rocket\'s Ambition'
 import deluxePackMega from '../../../data/Pokémon TCG Pocket/Deluxe Pack: Mega'
 import dualFusion from '../../../data/Pokémon TCG Pocket/Dual Fusion'
@@ -87,7 +88,7 @@ describe('B4 catalog metadata regressions', () => {
 		for (const lang of ['en', 'fr', 'es', 'it', 'de', 'pt-br', 'zh-tw'] as const) {
 			for (const [index, card] of cards.entries()) {
 				expect(card.name[lang]).toBeTruthy()
-				expect(card.image?.[lang]).toBe(`https://game.pokemontcgpocket.app/${lang}/tcgp/P-B/${String(95 + index).padStart(3, '0')}`)
+				expect(card.image?.[lang]?.replace(/\/[a-f0-9]{16}$/, '')).toBe(`https://game.pokemontcgpocket.app/${lang}/tcgp/P-B/${String(95 + index).padStart(3, '0')}`)
 				for (const attack of card.attacks ?? []) {
 					expect(attack.name[lang]).toBeTruthy()
 					if (attack.effect) expect(attack.effect[lang]).toBeTruthy()
@@ -99,16 +100,16 @@ describe('B4 catalog metadata regressions', () => {
 		expect(promo99.suffix).toBe('EX')
 		expect(promo99.evolveFrom?.en).toBe('Gabite')
 		expect(promo95.illustrator).toBe('YASHIRO Nanaco')
-		expect(promosB.boosters?.vol13?.artwork_front?.en).toContain('/boosters/vol13/artwork_front.webp')
+		expect(promosB.boosters?.vol13?.artwork_front?.en).toMatch(/\/boosters\/vol13\/[a-f0-9]{16}\/artwork_front\.webp$/)
 	})
 	test('keeps set and series logos as image bases compatible with the SDK', async () => {
 		const originalFetch = TCGdex.fetch
 		try {
-			for (const set of [teamRocketsAmbition, deluxePackMega, dualFusion, firstPartners]) {
+			for (const set of [teamRocketsAmbition, deluxePackMega, dualFusion, firstPartners, promosC]) {
 				for (const lang of ['en', 'fr', 'es', 'it', 'de', 'pt-br', 'zh-tw', 'ja', 'ko'] as const) {
 					const [logo] = await getSetPictures(set, lang)
 					const booster = Object.values(set.boosters!)[0]
-					const expectedImage = lang === 'ko' ? `https://game.pokemontcgpocket.app/ko/tcgp/${set.id}/logo.webp` : booster.logo?.[lang] ?? booster.logo?.en
+					const expectedImage = lang === 'ko' && set.id !== 'P-C' ? `https://game.pokemontcgpocket.app/ko/tcgp/${set.id}/logo.webp` : booster.logo?.[lang] ?? booster.logo?.en
 					expect(logo).toBeDefined()
 					expect(logo).not.toMatch(/\.(?:png|jpe?g|webp)$/u)
 					TCGdex.fetch = async () => new Response(JSON.stringify({ id: 'tcgp', name: 'Pocket', logo, sets: [] }))
@@ -124,8 +125,8 @@ describe('B4 catalog metadata regressions', () => {
 	test('keeps Promo-B 79–86 rarity and Vol. 11 membership aligned', () => {
 		expect(promosB.boosters?.vol11?.logo?.en).toBeUndefined()
 		expect(promosB.boosters?.vol11?.logo?.ko).toBe('https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol11/logo.webp')
-		expect(promosB.boosters?.vol11?.artwork_front?.en).toBeUndefined()
-		expect(promosB.boosters?.vol11?.artwork_front?.ko).toBe('https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol11/artwork_front.webp')
+		expect(promosB.boosters?.vol11?.artwork_front?.en).toMatch(/\/univ\/tcgp\/P-B\/boosters\/vol11\/[a-f0-9]{16}\/artwork_front\.webp$/)
+		expect(promosB.boosters?.vol11?.artwork_front?.ko).toBe(promosB.boosters?.vol11?.artwork_front?.en)
 		expect([promo79, promo80, promo81, promo82, promo83, promo84, promo85, promo86].map((card) => card.rarity)).toEqual([
 			'One Star', 'Four Diamond', 'One Diamond', 'One Diamond', 'Three Diamond', 'One Diamond', 'Three Diamond', 'Three Diamond',
 		])
@@ -168,7 +169,7 @@ describe('B4 catalog metadata regressions', () => {
 		expect(translate('rarity', 'One Shiny', 'ko')).toBe('색이 다른1')
 		expect(translate('rarity', 'Two Shiny', 'ko')).toBe('색이 다른2')
 		expect(promo86.abilities?.[0].effect?.ko).toBe('자신의 필드에 다른 「메탕」이 있다면 이 포켓몬의 후퇴에 필요한 에너지를 2개 적게 만든다.')
-		expect(promo86.abilities?.[0].effect?.en).toContain('1 less')
+		expect(promo86.abilities?.[0].effect?.en).toContain('2 less')
 	})
 
 	test('uses the native Spanish label for Fire types and energy costs', () => {

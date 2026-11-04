@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/042",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/042",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/042",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/042",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/042",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/042",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/042",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/042",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/042"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/042/70c72d2835c00dcb",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/042/70c72d2835c00dcb",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/042/70c72d2835c00dcb",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/042/70c72d2835c00dcb",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/042/70c72d2835c00dcb",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/042/70c72d2835c00dcb",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/042/70c72d2835c00dcb",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/042/70c72d2835c00dcb",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/042/70c72d2835c00dcb"
     },
     name: {
         en: "Darkrai ex",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "達克萊伊ex",
     },
     illustrator: "PLANETA Mochizuki",
-    rarity: "None",
+    rarity: "Four Diamond",
     category: "Pokemon",
     hp: 140,
     types: ["Darkness"],
@@ -53,7 +53,7 @@ const card: Card = {
                 'pt-br': "Sempre que você ligar uma Energia {D} da sua Zona de Energia a este Pokémon, cause 20 pontos de dano ao Pokémon Ativo do seu oponente.",
                 ja: "自分のエネルギーゾーンからこのポケモンに{D}エネルギーをつけるたび、相手のバトルポケモンに20ダメージ。",
                 ko: "자신의 에너지존에서 이 포켓몬에게 {D}에너지를 붙일 때마다 상대의 배틀 포켓몬에게 20데미지를 준다.",
-                "zh-tw": "每當你將能量區中的 {D} 能量附加到這只神奇寶貝上時，就會對對手的活躍神奇寶貝造成 20 點傷害。"
+                "zh-tw": "每次從自己的能量區將{D}能量附於這隻寶可夢身上時,對手的戰鬥寶可夢受到20點傷害。"
             }
         }],
     attacks: [{
@@ -66,7 +66,7 @@ const card: Card = {
                 'pt-br': "Prisma da Escuridão",
                 ja: "ダークプリズム",
                 ko: "다크프리즘",
-                "zh-tw": "黑暗棱鏡"
+                "zh-tw": "暗黑稜鏡"
             },
             damage: 80,
             cost: ["Darkness", "Darkness", "Colorless"]

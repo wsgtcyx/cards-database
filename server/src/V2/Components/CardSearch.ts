@@ -291,7 +291,7 @@ function arrayValues(value: unknown): Array<any> {
 function boostersForCard(card: CardPair, setsById: Map<string, SetPair>): Array<BoosterValue> {
 	const explicitCanonical = arrayValues(card.canonical.boosters)
 	const explicitLocalized = new Map(arrayValues(card.localized.boosters).map((booster) => [booster.id, booster]))
-	if (explicitCanonical.length > 0) {
+	if (Array.isArray(card.canonical.boosters)) {
 		return explicitCanonical.map((booster) => ({
 			id: booster.id,
 			canonicalName: booster.name,

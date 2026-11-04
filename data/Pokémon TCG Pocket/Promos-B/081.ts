@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/081",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/081",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/081",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/081",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/081",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/081",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/081",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/081",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/081"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/081/22a1639bd9457497",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/081/22a1639bd9457497",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/081/22a1639bd9457497",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/081/22a1639bd9457497",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/081/22a1639bd9457497",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/081/22a1639bd9457497",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/081/22a1639bd9457497",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/081/22a1639bd9457497",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/081/22a1639bd9457497"
     },
     name: {
         en: "Carvanha",
@@ -64,7 +64,7 @@ const card: Card = {
                 it: "Questo attacco infligge anche 10 danni a uno dei Pokémon nella panchina del tuo avversario.",
                 de: "Diese Attacke fügt auch 1 Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 10 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
-                "zh-tw": "這次攻擊也會對對手後備的 1 隻寶可夢造成 10 點傷害。",
+                "zh-tw": "對手的1隻備戰寶可夢也受到10點傷害。",
                 ja: "相手のベンチポケモン1匹にも10ダメージ。",
                 ko: "상대의 벤치 포켓몬 1마리에게도 10데미지를 준다."
             },

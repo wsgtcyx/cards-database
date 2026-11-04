@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/049",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/049",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/049",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/049",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/049",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/049",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/049",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/049",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/049"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/049/1fea391818f27f1d",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/049/1fea391818f27f1d",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/049/1fea391818f27f1d",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/049/1fea391818f27f1d",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/049/1fea391818f27f1d",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/049/1fea391818f27f1d",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/049/1fea391818f27f1d",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/049/1fea391818f27f1d",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/049/1fea391818f27f1d"
     },
     name: {
         en: "Snorlax",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "卡比獸",
     },
     illustrator: "okayamatakatoshi",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     hp: 140,
     types: ["Colorless"],
@@ -38,7 +38,7 @@ const card: Card = {
         'pt-br': "Não se satisfaz a menos que coma mais de\n400 kg de alimentos todos os dias. Quando\ntermina de comer, dorme imediatamente.",
         ja: "１日に 食べ物を ４００キロ 食べないと 気がすまない。 食べ終わると 眠ってしまう。",
         ko: "하루에 400kg의 음식을\n먹지 않으면 성에 차지 않는다.\n다 먹으면 잠이 들어 버린다.",
-        "zh-tw": "不吃超過880磅就不會滿足\n每天的食物。當牠吃完後，\n很快就去睡覺了。"
+        "zh-tw": "每天不吃下400公斤的食物絕不會善罷甘休。吃飽了就會開始睡覺。"
     },
     stage: "Basic",
     attacks: [{
@@ -51,7 +51,7 @@ const card: Card = {
                 'pt-br': "Colapso",
                 ja: "たおれこむ",
                 ko: "쓰러지기",
-                "zh-tw": "坍塌"
+                "zh-tw": "倒下"
             },
             damage: 100,
             cost: ["Colorless", "Colorless", "Colorless", "Colorless"],
@@ -60,11 +60,11 @@ const card: Card = {
                 fr: "Ce Pokémon est maintenant Endormi.",
                 es: "Este Pokémon pasa a estar Dormido.",
                 it: "Questo Pokémon viene addormentato.",
-                de: "Dieses Pokémon ist jetzt schläft.",
+                de: "Dieses Pokémon schläft jetzt.",
                 ja: "このポケモンをねむりにする。",
                 ko: "이 포켓몬을 잠듦으로 만든다.",
                 'pt-br': "Este Pokémon agora está Adormecido.",
-                "zh-tw": "這只神奇寶貝現在已經睡著了。"
+                "zh-tw": "將這隻寶可夢睡眠。"
             }
         }],
     weaknesses: [{

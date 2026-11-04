@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/063",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/063",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/063",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/063",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/063",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/063",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/063",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/063",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/063"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/063/0429766f0b586510",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/063/0429766f0b586510",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/063/0429766f0b586510",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/063/0429766f0b586510",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/063/0429766f0b586510",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/063/0429766f0b586510",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/063/0429766f0b586510",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/063/0429766f0b586510",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/063/0429766f0b586510"
     },
     name: {
         en: "Rayquaza",
@@ -38,7 +38,7 @@ const card: Card = {
         'pt-br': "Ele vive na camada de ozônio muito acima das nuvens\ne não pode ser visto do solo.",
         ja: "雲より はるか上の オゾン層に 生息しているため 地上から 姿を 見ることは できない。",
         ko: "구름보다 아득히 먼 위의 오존층에\n서식하고 있기 때문에 지상에서\n모습을 볼 수 없다.",
-        "zh-tw": "它生活在遠高於雲層的臭氧層中\n從地面上看不到。"
+        "zh-tw": "因為棲息在遠比雲層更高的臭氧層，從地面無法看見牠的樣子。"
     },
     stage: "Basic",
     attacks: [{
@@ -64,7 +64,7 @@ const card: Card = {
                 'pt-br': "Jogue uma moeda até sair coroa. Este ataque causa 30 pontos de dano a mais para cada cara.",
                 ja: "ウラが出るまでコインを投げ、オモテの数×30ダメージ追加。",
                 ko: "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 30데미지를 추가한다.",
-                "zh-tw": "拋一枚硬幣，直到出現反面。此攻擊對每個頭造成 30 點額外傷害。"
+                "zh-tw": "擲硬幣直到出現反面,增加正面出現的次數×30點傷害。"
             }
         }],
     weaknesses: [{

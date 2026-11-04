@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/088",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/088",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/088",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/088",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/088",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/088",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/088",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/088",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/088"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/088/1c41a69463b3c2e2",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/088/1c41a69463b3c2e2",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/088/1c41a69463b3c2e2",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/088/1c41a69463b3c2e2",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/088/1c41a69463b3c2e2",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/088/1c41a69463b3c2e2",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/088/1c41a69463b3c2e2",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/088/1c41a69463b3c2e2",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/088/1c41a69463b3c2e2"
     },
     name: { en: "Team Rocket's Scyther", fr: "Insécateur de la Team Rocket", es: "Scyther del Team Rocket", it: "Scyther del Team Rocket", de: "Team Rockets Sichlor", "pt-br": "Scyther da Equipe Rocket", "zh-tw": "火箭隊的飛天螳螂", ko: "로켓단의 스라크", ja: "ロケット団のストライク" },
     illustrator: "Anesaki Dynamic",
@@ -24,12 +24,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.",
-        fr: "Les faux tranchantes de ses avant-bras deviennent de plus en plus tranchantes en coupant des objets durs.",
-        es: "Las afiladas guadañas de sus antebrazos se vuelven cada vez más afiladas al cortar objetos duros.",
+        fr: "À force de trancher des objets solides, ses avant-bras en forme de faux deviennent de plus en plus acérés.",
+        es: "Las cortantes guadañas de sus antebrazos se vuelven más afiladas cada vez que cortan objetos duros.",
         it: "Le falci sulle sue zampe anteriori diventano sempre più affilate man mano che tranciano oggetti duri.",
         de: "Die scharfen Sicheln an den Unterarmen werden durch das Schneiden harter Objekte noch schärfer.",
-        "pt-br": "As foices afiadas em seus antebraços tornam-se cada vez mais afiadas ao cortar objetos duros.",
-        "zh-tw": "前臂上的鋒利鐮刀在切割堅硬的物體時變得越來越鋒利。",
+        "pt-br": "As foices afiadas em seus antebraços se tornam cada vez mais afiadas ao cortarem objetos duros.",
+        "zh-tw": "雙手的鐮刀鋒利無比，砍斷越多堅硬的東西，其鋒利程度也會隨之提升。",
         ja: "両手の 鋭い カマは 硬いものを 切れば切るほど さらに 切れ味を 増していく。",
         ko: "양손의 날카로운 낫은\n단단한 것을 자르면 자를수록\n더욱더 날카로워진다."
     },

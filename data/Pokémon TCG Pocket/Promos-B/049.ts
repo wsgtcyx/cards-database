@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/049",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/049",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/049",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/049",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/049",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/049",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/049",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/049",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/049"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/049/e9f1e6840ae39e58",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/049/e9f1e6840ae39e58",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/049/e9f1e6840ae39e58",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/049/e9f1e6840ae39e58",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/049/e9f1e6840ae39e58",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/049/e9f1e6840ae39e58",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/049/e9f1e6840ae39e58",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/049/e9f1e6840ae39e58",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/049/e9f1e6840ae39e58"
     },
     name: {
         en: "Victini",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "ビクティニ"
     },
     illustrator: "Orca",
-    rarity: "None",
+    rarity: "One Star",
     category: "Pokemon",
     hp: 70,
     types: ["Fire"],
@@ -38,8 +38,8 @@ const card: Card = {
         es: "Cuando Victini comparte su energía ilimitada, esa persona o\nPokémon irradia abundante poder.",
         it: "Può condividere l’energia infinita che emana, donando un\npotere immenso a chi la riceve.",
         de: "Jeder, dem Victini seine grenzenlose Energie zuteilwerden\nlässt, strotzt nur so vor Kraft.",
-        "pt-br": "Quando ele compartilha a energia infinita que cria, todo o corpo desse ser transbordará de poder.",
-        "zh-tw": "當它分享自己所創造的無窮能量時，那個生命的全身都會充滿力量。",
+        "pt-br": "Quando compartilha a energia infinita que cria, o corpo inteiro do outro ser irradia poder.",
+        "zh-tw": "如果分享了比克提尼體中源源湧現的能量，全身就會充滿力量。",
         ja: "ビクティニが 無限に 生み出す エネルギーを 分け与えてもらうと 全身に パワーが あふれ出す。",
         ko: "비크티니가 무한히 만들어내는\n에너지를 나누어 받으면\n전신에 파워가 넘친다."
     },
@@ -59,12 +59,12 @@ const card: Card = {
             },
             effect: {
                 en: "Once during your turn, after you flip any coins for an attack of 1 of your {R} Pokémon, you may ignore all results of those coin flips and begin flipping those coins again. You can't use more than 1 Victory Star Ability each turn.",
-                fr: "Une fois pendant votre tour, après avoir lancé des pièces pour une attaque d'un de vos Pokémon {R}, vous pouvez ignorer tous les résultats de ces lancers de pièces et recommencer à lancer ces pièces. Vous ne pouvez pas utiliser plus d’une capacité Victory Star à chaque tour.",
-                es: "Una vez durante tu turno, después de lanzar monedas para un ataque de 1 de tus Pokémon {R}, puedes ignorar todos los resultados de esos lanzamientos de monedas y comenzar a lanzarlas nuevamente. No puedes usar más de 1 habilidad Victory Star en cada turno.",
-                it: "Una sola volta durante il tuo turno, dopo aver lanciato qualsiasi moneta per un attacco di 1 dei tuoi Pokémon {R}, puoi ignorare tutti i risultati di quei lanci di monete e iniziare a lanciare di nuovo quelle monete. Non puoi utilizzare più di 1 Abilità Stella Vittoria per turno.",
-                de: "Einmal während deines Zuges, nachdem du Münzen für einen Angriff eines deiner {R}-Pokémon geworfen hast, kannst du alle Ergebnisse dieser Münzwürfe ignorieren und erneut damit beginnen, diese Münzen zu werfen. Du kannst in jeder Runde nicht mehr als 1 Victory Star-Fähigkeit verwenden.",
-                "pt-br": "Uma vez durante o seu turno, depois de lançar qualquer moeda para um ataque de 1 dos seus Pokémon {R}, você pode ignorar todos os resultados desses lançamentos de moedas e começar a lançá-las novamente. Você não pode usar mais de 1 habilidade Victory Star por turno.",
-                "zh-tw": "在你的回合中，當你為你的 1 個 {R} 寶可夢的攻擊翻轉任何硬幣後，你可以忽略這些硬幣翻轉的所有結果並再次開始翻轉這些硬幣。每回合你不能使用超過 1 個勝利之星技能。",
+                fr: "Une seule fois pendant votre tour, après avoir lancé des pièces pour une attaque d'un de vos Pokémon {R}, vous pouvez ignorer le résultat de ces lancers de pièce et lancer ces pièces à nouveau. Vous ne pouvez pas utiliser plus d'un talent Victorieux par tour.",
+                es: "Una vez durante tu turno, después de lanzar las monedas para un ataque de 1 de tus Pokémon {R}, puedes ignorar todos los resultados de esos lanzamientos de monedas y lanzar esas monedas de nuevo. No puedes usar más de 1 habilidad Tinovictoria en cada turno.",
+                it: "Una sola volta durante il tuo turno, dopo aver lanciato la moneta tutte le volte richieste dall’attacco di uno dei tuoi Pokémon {R}, puoi ignorare tutti gli effetti di quei lanci e lanciare nuovamente la moneta. Puoi usare l’abilità Vittorstella solo una volta per turno.",
+                de: "Einmal während deines Zuges, nachdem du Münzen für eine Attacke von 1 deiner {R}-Pokémon geworfen hast, kannst du alle daraus resultierenden Effekte ignorieren und die Münzen erneut werfen. Du kannst die Fähigkeit Triumphstern nur einmal pro Zug einsetzen.",
+                "pt-br": "Uma vez durante o seu turno, após jogar moedas para um ataque de 1 dos seus Pokémon {R}, você poderá ignorar todos os resultados das moedas e jogá-las novamente. Você não pode usar mais de 1 Habilidade Estrela da Vitória por turno.",
+                "zh-tw": "在自己的回合,因自己的{R}寶可夢的招式而擲硬幣時,可使用1次。將擲硬幣的結果全部消除,重新擲硬幣。這個特性在使用了其他的「勝利之星」的回合無法使用。",
                 ja: "自分の番に、自分の{R}ポケモンのワザでコインを投げたとき、1回使える。そのコインの結果をすべてなくし、はじめからコインを投げなおす。この特性は別の「しょうりのほし」を使った番は使えない。",
                 ko: "자신의 차례에 자신의 {R}포켓몬의 기술로 동전을 던졌을 때, 1번 사용할 수 있다. 그 동전의 결과를 모두 없애고 처음부터 동전을 다시 던진다. 이 특성은 다른 「승리의별」을 사용한 차례는 사용할 수 없다."
             }

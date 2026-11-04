@@ -1,0 +1,2384 @@
+{
+  "schemaVersion": 1,
+  "setId": "P-C",
+  "reviewedCardsSha256": "c2e0fb73eedf47592f5fbb6dc68e0b3797881438c30ddc2c6d8595a2961351e4",
+  "counts": {
+    "cards": 13,
+    "locales": 9,
+    "images": 117,
+    "flavorDonors": 36
+  },
+  "rejectedEvidence": [
+    "Unreviewed donor machine translations were replaced with native image text.",
+    "Paddle OCR hallucinations in full-art footers were rejected, including de-010 unrelated English and en-011 trainset text."
+  ],
+  "records": [
+    {
+      "cardId": "P-C-001",
+      "locale": "en",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/1_en.png",
+      "imageSha256": "b58197f56ab885fae0a36383d8dffac190c72c8700f4e74156dcfe2bd4da5b33",
+      "imageBytes": 380800,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Pikachu",
+        "description": "When several of these Pokémon gather, their electricity can build and cause lightning storms.",
+        "attacks": [
+          {
+            "name": "Thunder Jolt",
+            "effect": "This Pokémon also does 10 damage to itself."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "B2-049",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/569/src/49_en.png",
+        "sha256": "e2df69a843664ff9e303ca27073e5e5a51ff90d42cb65cee122f05d55f73433a",
+        "bytes": 218234,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-001",
+      "locale": "fr",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/1_fr.png",
+      "imageSha256": "acbb384ee6c0cef714be4f4a50b0f156b26642441df4e2060e1478a27128d7a3",
+      "imageBytes": 381389,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Pikachu",
+        "description": "Quand plusieurs de ces Pokémon se réunissent, ils provoquent de gigantesques orages.",
+        "attacks": [
+          {
+            "name": "Secousse Tonnerre",
+            "effect": "Ce Pokémon s'inflige aussi 10 dégâts."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "B2-049",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/569/src/49_fr.png",
+        "sha256": "9343c2f5c003f968bfed92b322a7c0011d20739d4bd79ac3e7cde55bc4799845",
+        "bytes": 219145,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-001",
+      "locale": "es",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/1_es.png",
+      "imageSha256": "ed910557a0f65bec4636c3ca95880c6bcd86fe471792d856e29422e958639e8b",
+      "imageBytes": 382429,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Pikachu",
+        "description": "Cuando varios de estos Pokémon se juntan, su energía puede causar fuertes tormentas.",
+        "attacks": [
+          {
+            "name": "Sacudida Atronadora",
+            "effect": "Este Pokémon también se hace 10 puntos de daño a sí mismo."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "B2-049",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/569/src/49_es.png",
+        "sha256": "786b5c4954e3dd39cb29b4d9105d6e0f71ad55b50f25b60c29a71fcf22f93b72",
+        "bytes": 221214,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-001",
+      "locale": "it",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/1_it.png",
+      "imageSha256": "1535177fd476e030b3eecb201b2d29dc001a7d920ae07359727be9d94f466c59",
+      "imageBytes": 381403,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Pikachu",
+        "description": "Quando vari Pokémon di questa specie si radunano, la loro energia si accumula e genera fulmini.",
+        "attacks": [
+          {
+            "name": "Scoppiotuono",
+            "effect": "Questo Pokémon infligge anche 10 danni a se stesso."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "B2-049",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/569/src/49_it.png",
+        "sha256": "50074e67a91969146d9aafb9ba93fee63b76db280d096e09df8c3cc3d775a07e",
+        "bytes": 219693,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-001",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/1_de.png",
+      "imageSha256": "586c8d937b77a29c0b17dc17e33ed7de66ed6962f92b32409e14e807fd6ce59d",
+      "imageBytes": 382773,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Pikachu",
+        "description": "Wenn sich mehrere dieser Pokémon versammeln, kann ihre geballte Energie Blitzgewitter erzeugen.",
+        "attacks": [
+          {
+            "name": "Donnerrüttler",
+            "effect": "Dieses Pokémon fügt auch sich selbst 10 Schadenspunkte zu."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "B2-049",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/569/src/49_de.png",
+        "sha256": "7e9fe107ad2cf6e90213b37561ba61b5bd7f3a3daf5be31e2b5ac737055d6023",
+        "bytes": 221192,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-001",
+      "locale": "pt-br",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/1_ptbr.png",
+      "imageSha256": "9153021ef31757daacee14b4708ca934e5317c0e3d5bc6ed75caa13e3959a6ce",
+      "imageBytes": 382818,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Pikachu",
+        "description": "Quando vários destes Pokémon se juntam, a eletricidade deles pode se acumular e causar tempestades de raios.",
+        "attacks": [
+          {
+            "name": "Choque do Trovão",
+            "effect": "Este Pokémon também causa 10 pontos de dano a si mesmo."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "B2-049",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/569/src/49_ptbr.png",
+        "sha256": "0603c26f3edec7803f96e30071fe8ecd98afc466931832eb6bd2ed855236520f",
+        "bytes": 221399,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-001",
+      "locale": "zh-tw",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/1_zh.png",
+      "imageSha256": "e9dabdbf31accd0855963012f44e6265746ff1eff26138dfc401aaa262751a4d",
+      "imageBytes": 380365,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "皮卡丘",
+        "description": "據說同一處有好幾隻的時候，牠們就會聚集起強烈的電力，還可能造成閃電落於該處。",
+        "attacks": [
+          {
+            "name": "電流攻擊",
+            "effect": "這隻寶可夢也受到10點傷害。"
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "B2-049",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/569/src/49_zh.png",
+        "sha256": "18363a0c09f6fad91f48e6f9986de9f6a5edbd33bb0803c4db4bbdb42aa301c6",
+        "bytes": 218516,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-001",
+      "locale": "ja",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/1_ja.png",
+      "imageSha256": "1664b4a48c4a3108fe8e997c6c948098442a1396be42546f4bc52d89910db223",
+      "imageBytes": 381343,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "ピカチュウ",
+        "description": "何匹かが 集まっていると そこに 猛烈な 電気が 溜まり 稲妻が 落ちることがあるという。",
+        "attacks": [
+          {
+            "name": "でんげき",
+            "effect": "このポケモンにも10ダメージ。"
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "B2-049",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/569/src/49_ja.png",
+        "sha256": "918fb822169d0068a0e400f7fc57b9137e97856888873664c1048ff92cdd52e4",
+        "bytes": 219308,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-001",
+      "locale": "ko",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/1_ko.png",
+      "imageSha256": "bfbdcc8292ebf9926bd2357d5ddc1dc13b7462dcbd12c5d59a3a619820a57c13",
+      "imageBytes": 379699,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "피카츄",
+        "description": "여러 마리가 모여 있으면 그 자리에 맹렬하게 전기가 모여서 벼락이 떨어질 때가 있다고 한다.",
+        "attacks": [
+          {
+            "name": "전격",
+            "effect": "이 포켓몬에게도 10데미지를 준다."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "B2-049",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/569/src/49_ko.png",
+        "sha256": "8eedf2b0c436b23d9a8ecdff637e06764fa9746eee8e4bc7d02ff0b47d5e302a",
+        "bytes": 216818,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-002",
+      "locale": "en",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/2_en.png",
+      "imageSha256": "8a0b79ca6d1f7129742a8f4d45dd358910be7101f3f7c1861beb6195d2e55931",
+      "imageBytes": 313823,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Mega Mewtwo Y ex",
+        "attacks": [
+          {
+            "name": "Psychic Blaster",
+            "effect": "Flip a coin for each {P} Energy attached to this Pokémon. This attack does 60 damage for each heads."
+          }
+        ]
+      }
+    },
+    {
+      "cardId": "P-C-002",
+      "locale": "fr",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/2_fr.png",
+      "imageSha256": "47c7721fd8bf34c3e46e29a959be0c8a7001b7f44bf319e911a7a0ea6ed25271",
+      "imageBytes": 315746,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Méga-Mewtwo Y-ex",
+        "attacks": [
+          {
+            "name": "Explosif Psy",
+            "effect": "Lancez une pièce pour chaque Énergie {P} attachée à ce Pokémon. Cette attaque inflige 60 dégâts pour chaque côté face."
+          }
+        ]
+      }
+    },
+    {
+      "cardId": "P-C-002",
+      "locale": "es",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/2_es.png",
+      "imageSha256": "31f0aea34e7befb9a454fadebb8d0c2cfc55a0a16ec9ac8a8f82e27a594c6721",
+      "imageBytes": 314976,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Mega-Mewtwo Y ex",
+        "attacks": [
+          {
+            "name": "Psicoestruendo",
+            "effect": "Lanza 1 moneda por cada Energía {P} unida a este Pokémon. Este ataque hace 60 puntos de daño por cada cara."
+          }
+        ]
+      }
+    },
+    {
+      "cardId": "P-C-002",
+      "locale": "it",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/2_it.png",
+      "imageSha256": "7c9da33ece62da6031805ebd1f2542b1f24d563f70ba9d565956cc83b5437c46",
+      "imageBytes": 316637,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Mega Mewtwo Y-ex",
+        "attacks": [
+          {
+            "name": "Detonazione Psichica",
+            "effect": "Lancia una moneta per ogni Energia {P} assegnata a questo Pokémon. Questo attacco infligge 60 danni ogni volta che esce testa."
+          }
+        ]
+      }
+    },
+    {
+      "cardId": "P-C-002",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/2_de.png",
+      "imageSha256": "3431a4c1117552a412cf886c8fc126c2c9ecda05f452ebb412fa8d3d46d6eadd",
+      "imageBytes": 315746,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Mega-Mewtu Y-ex",
+        "attacks": [
+          {
+            "name": "Psycho-Blaster",
+            "effect": "Wirf 1 Münze für jede an dieses Pokémon angelegte {P}-Energie. Diese Attacke fügt 60 Schadenspunkte pro Kopf zu."
+          }
+        ]
+      }
+    },
+    {
+      "cardId": "P-C-002",
+      "locale": "pt-br",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/2_ptbr.png",
+      "imageSha256": "06bc12fc8e3e712fd90ccbe22b79c7e1aa910986e531cd02eb7b3ef626ed7121",
+      "imageBytes": 316071,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Mega Mewtwo Y ex",
+        "attacks": [
+          {
+            "name": "Disparador Psíquico",
+            "effect": "Jogue uma moeda para cada Energia de {P} ligada a este Pokémon. Este ataque causa 60 pontos de dano para cada cara."
+          }
+        ]
+      }
+    },
+    {
+      "cardId": "P-C-002",
+      "locale": "zh-tw",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/2_zh.png",
+      "imageSha256": "15a332b53240dec07e222b76e9076f575577f70c0769bb6cf960340074efbad2",
+      "imageBytes": 310377,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "超級超夢Yex",
+        "attacks": [
+          {
+            "name": "超能爆破",
+            "effect": "以這隻寶可夢身上的{P}能量的數量擲硬幣,造成正面出現的次數×60點傷害。"
+          }
+        ]
+      }
+    },
+    {
+      "cardId": "P-C-002",
+      "locale": "ja",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/2_ja.png",
+      "imageSha256": "f7ce823fc307522cf014928d8eb91dd351b892cb86ac0d0b211eee1bd35c7cc5",
+      "imageBytes": 312763,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "メガミュウツーYex",
+        "attacks": [
+          {
+            "name": "サイキックブラスター",
+            "effect": "このポケモンの{P}エネルギーの数ぶんコインを投げ、オモテの数×60ダメージ。"
+          }
+        ]
+      }
+    },
+    {
+      "cardId": "P-C-002",
+      "locale": "ko",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/2_ko.png",
+      "imageSha256": "0107ec6e3c9285cf94537dc9adee6879cc4cf226f550292747489e5704bd2c3e",
+      "imageBytes": 309003,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "메가뮤츠Y ex",
+        "attacks": [
+          {
+            "name": "사이킥 블래스터",
+            "effect": "이 포켓몬의 {P}에너지의 개수만큼 동전을 던져서 앞면이 나온 수 × 60데미지를 준다."
+          }
+        ]
+      }
+    },
+    {
+      "cardId": "P-C-003",
+      "locale": "en",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/3_en.png",
+      "imageSha256": "b30cbfe7b367a126c2c43ffb62faab69ca53507a4aa76aca7c354d9620105420",
+      "imageBytes": 286228,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Deoxys",
+        "description": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.",
+        "attacks": [
+          {
+            "name": "Psycho Boost",
+            "effect": "During your next turn, this Pokémon's Psycho Boost does −50 damage."
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-003",
+      "locale": "fr",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/3_fr.png",
+      "imageSha256": "c7fcaa370296e16ff0f669b89997573309467e935e6963f3e1ea45557daff394",
+      "imageBytes": 286792,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Deoxys",
+        "description": "Il vient d’un virus extraterrestre arrivé avec une météorite et ayant subi une mutation génétique.",
+        "attacks": [
+          {
+            "name": "Psycho-Boost",
+            "effect": "Pendant votre prochain tour, ce Pokémon inflige − 50 dégâts avec Psycho-Boost."
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-003",
+      "locale": "es",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/3_es.png",
+      "imageSha256": "639a4bc612b1cc85318020a73537578a4d0ee2afcc34d7f749363ebcdc49288e",
+      "imageBytes": 287526,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Deoxys",
+        "description": "Surgió a raíz de la mutación de ADN de un virus alienígena que cayó a la tierra en un meteorito.",
+        "attacks": [
+          {
+            "name": "Psicoataque",
+            "effect": "Durante tu próximo turno, el ataque Psicoataque de este Pokémon hace ‐50 puntos de daño."
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-003",
+      "locale": "it",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/3_it.png",
+      "imageSha256": "6447cebc7a88cb0b7c8de64b48bee73297bd9e87c2db98e06ec4a229dc3eaf47",
+      "imageBytes": 286385,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Deoxys",
+        "description": "È il risultato della mutazione genetica di un virus alieno giunto con un meteorite.",
+        "attacks": [
+          {
+            "name": "Psicoslancio",
+            "effect": "Durante il tuo prossimo turno, l’attacco Psicoslancio di questo Pokémon infligge -50 danni."
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-003",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/3_de.png",
+      "imageSha256": "d64d6c57ae58a2f6ca25cb2a7f752a770ad213b7bfbd250641060988c33adb8c",
+      "imageBytes": 288909,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Deoxys",
+        "description": "Ein außerirdischer Virus kam mit einem Meteor auf die Erde. Seine DNA mutierte. So entstand Deoxys.",
+        "attacks": [
+          {
+            "name": "Psyschub",
+            "effect": "Während deines nächsten Zuges fügt die Attacke Psyschub von diesem Pokémon − 50 Schadenspunkte zu."
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-003",
+      "locale": "pt-br",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/3_ptbr.png",
+      "imageSha256": "0b6c683512142fb8ad09550f7ccaf4714a5c9bc678f3c50ae37212c423f1f496",
+      "imageBytes": 288714,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Deoxys",
+        "description": "Um vírus alienígena que caiu na Terra em um meteoro sofreu uma mutação no DNA e se transformou neste Pokémon.",
+        "attacks": [
+          {
+            "name": "Impulso Psíquico",
+            "effect": "Durante o seu próximo turno, o ataque Impulso Psíquico deste Pokémon causará − 50 pontos de dano."
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-003",
+      "locale": "zh-tw",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/3_zh.png",
+      "imageSha256": "761ace647e85457f8b16b06ac2614d88fab982effcb07982c873a443374b9911",
+      "imageBytes": 284825,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "代歐奇希斯",
+        "description": "附著在隕石上的宇宙病毒的DNA發生變異後誕生的寶可夢。",
+        "attacks": [
+          {
+            "name": "精神突進",
+            "effect": "在下個自己的回合,這隻寶可夢「精神突進」的傷害-50點。"
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-003",
+      "locale": "ja",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/3_ja.png",
+      "imageSha256": "33935aa5914b885dfd2c86f5ab887bf1529ffb8aacb72926b804a64350dd8fe6",
+      "imageBytes": 286586,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "デオキシス",
+        "description": "隕石に 付着していた 宇宙ウイルスの ＤＮＡが 変異して 生まれた ポケモン。",
+        "attacks": [
+          {
+            "name": "サイコブースト",
+            "effect": "次の自分の番、このポケモンの「サイコブースト」のダメージを-50する。"
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-003",
+      "locale": "ko",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/3_ko.png",
+      "imageSha256": "ff4d3e3ef8a45d78ad7a211e9a177a9ebecf5fcc80a514fe40f977f44ccbd9cb",
+      "imageBytes": 284148,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "테오키스",
+        "description": "운석에 붙어 있던\n우주 바이러스의 DNA가\n변이하여 생겨난 포켓몬이다.",
+        "attacks": [
+          {
+            "name": "사이코부스트",
+            "effect": "자신의 다음 차례에 이 포켓몬의 「사이코부스트」의 데미지를 -50한다."
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-004",
+      "locale": "en",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/4_en.png",
+      "imageSha256": "38604fe2e001f29f2deea387b9364e00c27db19b1c0bf24dc626a7e4074a7a82",
+      "imageBytes": 266196,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Inkay",
+        "description": "It protects itself from tough foes by flashing its luminescent spots to discourage them.",
+        "attacks": [
+          {
+            "name": "Perplex",
+            "effect": "Your opponent's Active Pokémon is now Confused."
+          }
+        ]
+      }
+    },
+    {
+      "cardId": "P-C-004",
+      "locale": "fr",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/4_fr.png",
+      "imageSha256": "9572f56f28b0c5db3be1ea0349c525f2b09add5d7c303b226778e1c76d1b2a2a",
+      "imageBytes": 268923,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Sepiatop",
+        "description": "Il se protège des ennemis puissants en faisant clignoter les points lumineux sur son corps, ce qui sape leur volonté de l'attaquer.",
+        "attacks": [
+          {
+            "name": "Affolement",
+            "effect": "Le Pokémon Actif de votre adversaire est maintenant Confus."
+          }
+        ]
+      }
+    },
+    {
+      "cardId": "P-C-004",
+      "locale": "es",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/4_es.png",
+      "imageSha256": "b7b8d5fe5cf753e50cdbb1cbd93c418de06d7754ff75d6a17f0fb77f1cc281f7",
+      "imageBytes": 268716,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Inkay",
+        "description": "Los destellos de luz intermitente que emiten sus órganos luminosos aplacan el ánimo del rival, lo que le permite protegerse de enemigos fuertes.",
+        "attacks": [
+          {
+            "name": "Desconcierto",
+            "effect": "El Pokémon Activo de tu rival pasa a estar Confundido."
+          }
+        ]
+      }
+    },
+    {
+      "cardId": "P-C-004",
+      "locale": "it",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/4_it.png",
+      "imageSha256": "9988b26e5950d1d75da9bb8d479d727411d42ea90611ab9a331956e895b03582",
+      "imageBytes": 267789,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Inkay",
+        "description": "Fa perdere la motivazione agli avversari facendo lampeggiare i motivi che ha sul corpo. In questo modo riesce a difendersi dai nemici più forti.",
+        "attacks": [
+          {
+            "name": "Sconcerto",
+            "effect": "Il Pokémon attivo del tuo avversario viene confuso."
+          }
+        ]
+      }
+    },
+    {
+      "cardId": "P-C-004",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/4_de.png",
+      "imageSha256": "d006e7107de4d1d4871a57979eca7f1706d947316ceb7757c80d59e6675afb89",
+      "imageBytes": 268745,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Iscalar",
+        "description": "Es schützt sich vor starken Feinden, indem es die Punkte auf seinem Körper blinken lässt und Gegnern so den Kampfeswillen raubt.",
+        "attacks": [
+          {
+            "name": "Perplex",
+            "effect": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt."
+          }
+        ]
+      }
+    },
+    {
+      "cardId": "P-C-004",
+      "locale": "pt-br",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/4_ptbr.png",
+      "imageSha256": "839e2eb5292c33a272408778046a213c8734a2485a73dc3efb264d71c778613d",
+      "imageBytes": 266866,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Inkay",
+        "description": "Pisca suas marcas luminescentes para se proteger dos inimigos e desencorajá-los.",
+        "attacks": [
+          {
+            "name": "Perplexo",
+            "effect": "O Pokémon Ativo do seu oponente agora está Confuso."
+          }
+        ]
+      }
+    },
+    {
+      "cardId": "P-C-004",
+      "locale": "zh-tw",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/4_zh.png",
+      "imageSha256": "73d55f38bb2d648047b6d67a18453541001dcb3d8ba1a14521efdc3ea772cd98",
+      "imageBytes": 264634,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "好啦魷",
+        "description": "會閃爍發光體讓對手提不起勁，從而保護自己免受強敵襲擊。",
+        "attacks": [
+          {
+            "name": "蠱惑",
+            "effect": "將對手的戰鬥寶可夢混亂。"
+          }
+        ]
+      }
+    },
+    {
+      "cardId": "P-C-004",
+      "locale": "ja",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/4_ja.png",
+      "imageSha256": "f89b256b46f81bde179b93c46373bd07534cc49fef3ccf90a145ef443a5106c4",
+      "imageBytes": 267363,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "マーイーカ",
+        "description": "発光体を 点滅させて 相手の やる気を なくさせることで 強敵から 身を 守っている。",
+        "attacks": [
+          {
+            "name": "まどわす",
+            "effect": "相手のバトルポケモンをこんらんにする。"
+          }
+        ]
+      }
+    },
+    {
+      "cardId": "P-C-004",
+      "locale": "ko",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/4_ko.png",
+      "imageSha256": "1cf94b81e4c6be244af40f2fa180e3afe5a134baec430e3da276438f3ac88bd3",
+      "imageBytes": 266031,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "오케이징",
+        "description": "발광체를 깜빡여서 상대의 의욕을 상실시키는 방식으로 강적으로부터 몸을 지킨다.",
+        "attacks": [
+          {
+            "name": "혼란시키기",
+            "effect": "상대의 배틀 포켓몬을 혼란으로 만든다."
+          }
+        ]
+      }
+    },
+    {
+      "cardId": "P-C-005",
+      "locale": "en",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/5_en.png",
+      "imageSha256": "954e3baa4b96ea7e9fe16c9c93e87e77f7395e1abdd9471002e72ba96443676e",
+      "imageBytes": 302596,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Malamar",
+        "description": "Its hypnotic powers are dangerously strong. Anyone who falls under Malamar's control loses their memories surrounding the event.",
+        "evolveFrom": "Inkay",
+        "attacks": [
+          {
+            "name": "Pester the Dizzy",
+            "effect": "If your opponent's Active Pokémon is Confused, this attack does 90 more damage."
+          }
+        ]
+      }
+    },
+    {
+      "cardId": "P-C-005",
+      "locale": "fr",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/5_fr.png",
+      "imageSha256": "62e10d0388101910d1c38e237ac8a2ce26ed39fb12ca0b3252236a32ea778606",
+      "imageBytes": 304529,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Sepiatroce",
+        "description": "Ses pouvoirs hypnotiques sont sans égal, si bien que ses victimes ne gardent aucun souvenir du moment où elles étaient sous son contrôle.",
+        "evolveFrom": "Sepiatop",
+        "attacks": [
+          {
+            "name": "Accabler les Confus",
+            "effect": "Si le Pokémon Actif de votre adversaire est Confus, cette attaque inflige 90 dégâts de plus."
+          }
+        ]
+      }
+    },
+    {
+      "cardId": "P-C-005",
+      "locale": "es",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/5_es.png",
+      "imageSha256": "07b27cbfea8f97cf8c12e60a8e4ee5c043ade362bbcaf258a5937624188f9455",
+      "imageBytes": 303656,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Malamar",
+        "description": "Sus potentes poderes hipnóticos no tienen rival. Aquellos a los que controla no recuerdan en absoluto haber estado sometidos a su voluntad.",
+        "evolveFrom": "Inkay",
+        "attacks": [
+          {
+            "name": "Saña Mareante",
+            "effect": "Si el Pokémon Activo de tu rival está Confundido, este ataque hace 90 puntos de daño más."
+          }
+        ]
+      }
+    },
+    {
+      "cardId": "P-C-005",
+      "locale": "it",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/5_it.png",
+      "imageSha256": "356bfd8bea1ca8c90e8f52b9af4d9eda03506145d482c3e3c043b5fa4bc1590d",
+      "imageBytes": 302160,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Malamar",
+        "description": "Ha poteri ipnotici straordinariamente forti, tanto che chi cade in suo controllo ne perde poi ogni ricordo.",
+        "evolveFrom": "Inkay",
+        "attacks": [
+          {
+            "name": "Confusattacco",
+            "effect": "Se il Pokémon attivo del tuo avversario è confuso, questo attacco infligge 90 danni in più."
+          }
+        ]
+      }
+    },
+    {
+      "cardId": "P-C-005",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/5_de.png",
+      "imageSha256": "3a56fd0693a63ff3c3bc0255297edeb3f70697c523a1869d255ecb7b8e9f8b14",
+      "imageBytes": 305722,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Calamanero",
+        "description": "Seine hypnotischen Kräfte sind unfassbar stark. Hat es sich ein Opfer gefügig gemacht, verliert dieses jegliche Erinnerung an den Vorfall.",
+        "evolveFrom": "Iscalar",
+        "attacks": [
+          {
+            "name": "Piesacken der Taumelnden",
+            "effect": "Wenn das Aktive Pokémon deines Gegners verwirrt ist, fügt diese Attacke 90 Schadenspunkte mehr zu."
+          }
+        ]
+      }
+    },
+    {
+      "cardId": "P-C-005",
+      "locale": "pt-br",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/5_ptbr.png",
+      "imageSha256": "3205e4668a612ea5820b6cb37918f0101527c907f303a8c3ac888d4e3be1c2de",
+      "imageBytes": 303808,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Malamar",
+        "description": "Seus poderes hipnóticos são fortes e perigosos. Quem ficar sob o controle de Malamar perde toda a memória do ocorrido.",
+        "evolveFrom": "Inkay",
+        "attacks": [
+          {
+            "name": "Cutucar a Confusão",
+            "effect": "Se o Pokémon Ativo do seu oponente estiver Confuso, este ataque causará 90 pontos de dano a mais."
+          }
+        ]
+      }
+    },
+    {
+      "cardId": "P-C-005",
+      "locale": "zh-tw",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/5_zh.png",
+      "imageSha256": "c69d2aafb386389f08570b2ec39b214997194fb4a703a1b4d392593d9b2f0a8a",
+      "imageBytes": 298657,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "烏賊王",
+        "description": "由於牠的催眠術過於強大，導致被操控的對手會失去在那前後的記憶。",
+        "evolveFrom": "好啦魷",
+        "attacks": [
+          {
+            "name": "暈眩追擊",
+            "effect": "若對手的戰鬥寶可夢混亂，則增加90點傷害。"
+          }
+        ]
+      }
+    },
+    {
+      "cardId": "P-C-005",
+      "locale": "ja",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/5_ja.png",
+      "imageSha256": "2950519c174e6099fa57aef7e74d3b5b04e73914759282fc8e5cec0924021479",
+      "imageBytes": 301507,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "カラマネロ",
+        "description": "強力すぎる さいみんじゅつ。 操られていた 相手は 前後の 記憶を 失っている。",
+        "evolveFrom": "マーイーカ",
+        "attacks": [
+          {
+            "name": "めまいのついげき",
+            "effect": "相手のバトルポケモンがこんらんなら、90ダメージ追加。"
+          }
+        ]
+      }
+    },
+    {
+      "cardId": "P-C-005",
+      "locale": "ko",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/5_ko.png",
+      "imageSha256": "3c5cdf62172e74d1265158fc4335afb94edfd9bbccbcc2ebb905fa601c91d8d2",
+      "imageBytes": 298969,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "칼라마네로",
+        "description": "어마어마하게 강한 최면술을 쓴다. 조종당한 상대는 전후의 기억을 잃어버린다.",
+        "evolveFrom": "오케이징",
+        "attacks": [
+          {
+            "name": "현기증추격",
+            "effect": "상대의 배틀 포켓몬이 혼란이라면 90데미지를 추가한다."
+          }
+        ]
+      }
+    },
+    {
+      "cardId": "P-C-006",
+      "locale": "en",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/6_en.png",
+      "imageSha256": "6305d46b86e1df5df4f3fc216b42216938ac715390ec3f8a9e5d3f265066b214",
+      "imageBytes": 265196,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Cosmog",
+        "description": "This Pokémon came from another universe. Its gaseous body is so light that even a gentle breeze can blow it away.",
+        "attacks": [
+          {
+            "name": "Dust Gathering",
+            "effect": "Draw a card."
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-006",
+      "locale": "fr",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/6_fr.png",
+      "imageSha256": "5b61ee25d801e7ae3475303037d6d7f52cc14769c8ad777e90eacccea3f82851",
+      "imageBytes": 265295,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Cosmog",
+        "description": "Il vient d’un autre univers. Son corps gazeux est si léger que la moindre brise peut l’emporter.",
+        "attacks": [
+          {
+            "name": "Ramasse Poussière",
+            "effect": "Piochez une carte."
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-006",
+      "locale": "es",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/6_es.png",
+      "imageSha256": "d79369bcc5dc19a06169fcfa77a7637b8393a00eb6203a5c9077c086514960b3",
+      "imageBytes": 265904,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Cosmog",
+        "description": "Proviene de otro mundo. Su cuerpo gaseoso es tan liviano que hasta la brisa más suave es capaz de arrastrarlo.",
+        "attacks": [
+          {
+            "name": "Concentración de Polvo",
+            "effect": "Roba 1 carta."
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-006",
+      "locale": "it",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/6_it.png",
+      "imageSha256": "ffadf995c25ba80c3b89b5aa8c6a723201ae009c5a640ccc843a00559d8ce771",
+      "imageBytes": 264933,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Cosmog",
+        "description": "Proviene da un altro universo. Il suo corpo fatto di gas è talmente leggero che può volar via al minimo soffio di vento.",
+        "attacks": [
+          {
+            "name": "Coglipolvere",
+            "effect": "Pesca una carta."
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-006",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/6_de.png",
+      "imageSha256": "685cec5665de4f4c26f7cb4d245f6d6431f596fe3928039563875bcb5426bce3",
+      "imageBytes": 266109,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Cosmog",
+        "description": "Es stammt aus einem anderen Universum. Sein Körper aus Gas ist so leicht, dass es sogar von einer sanften Brise weggeweht wird.",
+        "attacks": [
+          {
+            "name": "Staubfänger",
+            "effect": "Ziehe 1 Karte."
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-006",
+      "locale": "pt-br",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/6_ptbr.png",
+      "imageSha256": "afb0b8084911b4c60947e3dd951c462ff5136efe568ac61a870b25b5341d06c4",
+      "imageBytes": 265651,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Cosmog",
+        "description": "Este Pokémon veio de outro universo. Seu corpo gasoso é tão leve que uma brisa suave pode levá-lo embora.",
+        "attacks": [
+          {
+            "name": "Coleta de Poeira",
+            "effect": "Compre 1 carta."
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-006",
+      "locale": "zh-tw",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/6_zh.png",
+      "imageSha256": "1c3df41e7295a87f919b173cf706b6cfbe7d362d734ff33afb9bb58647dd90cf",
+      "imageBytes": 263563,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "科斯莫古",
+        "description": "來自其他的宇宙。氣體構成的身體十分輕盈，連微風都能把牠吹走。",
+        "attacks": [
+          {
+            "name": "集塵",
+            "effect": "從自己的牌庫抽出1張卡。"
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-006",
+      "locale": "ja",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/6_ja.png",
+      "imageSha256": "7d9606c74ab62fe78e5dd763750ca788710a48c987dbd8afcd9bef72dea485d2",
+      "imageBytes": 265562,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "コスモッグ",
+        "description": "別の 宇宙から やって来た。 ガスの 体は とても 軽く そよ風にも 流れてしまうほどだ。",
+        "attacks": [
+          {
+            "name": "ちりあつめ",
+            "effect": "自分の山札を1枚引く。"
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-006",
+      "locale": "ko",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/6_ko.png",
+      "imageSha256": "20af41c872c290ef02b3b42c870aee6ca583a6b4b068acca05c9a397aa25d53e",
+      "imageBytes": 263780,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "코스모그",
+        "description": "다른 우주에서 찾아왔다.\n가스로 된 몸은 매우 가벼워서\n산들바람에도 날아가 버릴 정도다.",
+        "attacks": [
+          {
+            "name": "먼지모으기",
+            "effect": "자신의 덱을 1장 뽑는다."
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-007",
+      "locale": "en",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/7_en.png",
+      "imageSha256": "d46f594f02affff27409cfa516f160768123388644eca88cfc5d736c0490d347",
+      "imageBytes": 235559,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Cosmoem",
+        "description": "The absorption of starlight fuels this Pokémon's growth. The shell that encases it is harder than any known material.",
+        "evolveFrom": "Cosmog",
+        "attacks": [
+          {
+            "name": "Ram"
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-007",
+      "locale": "fr",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/7_fr.png",
+      "imageSha256": "3e1e98de1943939aa3d5f94f1142f0db2f4a06ff7178a0f43f9ed22ac41347fd",
+      "imageBytes": 236520,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Cosmovum",
+        "description": "La carapace qui le recouvre est plus dure que tout ce qui est connu par l’Homme. Il grandit en absorbant la lumière des étoiles.",
+        "evolveFrom": "Cosmog",
+        "attacks": [
+          {
+            "name": "Collision"
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-007",
+      "locale": "es",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/7_es.png",
+      "imageSha256": "43c6d4c698093523135e70102fd6a02f9bd30248ab3c35edb4ae9a5f8efa677b",
+      "imageBytes": 236883,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Cosmoem",
+        "description": "Está recubierto de un caparazón de una dureza que escapa al entendimiento humano. Crece al exponerse a la luz de las estrellas.",
+        "evolveFrom": "Cosmog",
+        "attacks": [
+          {
+            "name": "Apisonar"
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-007",
+      "locale": "it",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/7_it.png",
+      "imageSha256": "34f7bcaba253bad937eb97c29a304a4a3d34bc56824b16a02ebdf42936bdca3d",
+      "imageBytes": 236081,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Cosmoem",
+        "description": "Il suo esoscheletro è più duro di qualunque cosa che gli esseri umani conoscano. Cresce assorbendo la luce delle stelle.",
+        "evolveFrom": "Cosmog",
+        "attacks": [
+          {
+            "name": "Carica"
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-007",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/7_de.png",
+      "imageSha256": "5809399431656ead6ee6e69788cdefa5ce4ec8b01841d92209fc6dec1dd5c3b8",
+      "imageBytes": 236799,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Cosmovum",
+        "description": "Es wird von einer Schale umhüllt, deren Härte Menschen vor ein Rätsel stellt. Es wächst, indem es in Sternenlicht badet.",
+        "evolveFrom": "Cosmog",
+        "attacks": [
+          {
+            "name": "Ramme"
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-007",
+      "locale": "pt-br",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/7_ptbr.png",
+      "imageSha256": "156ca9df70e108a870678eab80e2668f2d31edea2bd85a7f41d3556bcc512164",
+      "imageBytes": 236962,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Cosmoem",
+        "description": "O crescimento deste Pokémon é nutrido pela absorção da luz das estrelas. A carapaça que o envolve é mais dura do que qualquer material conhecido.",
+        "evolveFrom": "Cosmog",
+        "attacks": [
+          {
+            "name": "Aríete"
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-007",
+      "locale": "zh-tw",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/7_zh.png",
+      "imageSha256": "76821229cb260cf10aed1a84913155a5b57fb90c38f8f0d83e9d064038f52f66",
+      "imageBytes": 235430,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "科斯莫姆",
+        "description": "將牠包裹起來的外殼擁有超越人類認知範圍的硬度。透過沐浴星光而成長。",
+        "evolveFrom": "科斯莫古",
+        "attacks": [
+          {
+            "name": "衝撞"
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-007",
+      "locale": "ja",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/7_ja.png",
+      "imageSha256": "b6d66185574894cf84c385183c9280b8e030e9961594a0f7635c727eea6ed4d9",
+      "imageBytes": 236363,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "コスモウム",
+        "description": "人知を 超えた 硬さの 殻に 包まれている。 星の 光を 浴びて 成長する。",
+        "evolveFrom": "コスモッグ",
+        "attacks": [
+          {
+            "name": "ぶつかる"
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-007",
+      "locale": "ko",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/7_ko.png",
+      "imageSha256": "f80dc131f6b4afa0957ca348b38e41310cf6f92d7da91f43acb18415b3dc4415",
+      "imageBytes": 235335,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "코스모움",
+        "description": "인간의 지식을 뛰어넘는 강도를 가진\n껍질에 둘러싸여 있다.\n별의 빛을 받아서 성장한다.",
+        "evolveFrom": "코스모그",
+        "attacks": [
+          {
+            "name": "부딪치기"
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-008",
+      "locale": "en",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/8_en.png",
+      "imageSha256": "f5839b8ec58b45133c4074fcd8fb5149553a95b8494493de5c67cc60799a982c",
+      "imageBytes": 280603,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Lunala",
+        "description": "Known as the Beast That Calls the Moon, this Pokémon lives by taking in any and all light and converting it into its own energy.",
+        "evolveFrom": "Cosmoem",
+        "attacks": [
+          {
+            "name": "Wings of the Moone",
+            "effect": "Move all Energy from this Pokémon to your Benched Pokémon in any way you like."
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-008",
+      "locale": "fr",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/8_fr.png",
+      "imageSha256": "f4b8906e1ab3914b532d57aab440aafb1fa646d9f0ce22d6fafbf0808c72ae89",
+      "imageBytes": 279964,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Lunala",
+        "description": "Il a pour surnom « celui qui invite la lune ». Il vit en transformant toutes sortes de lumière en énergie.",
+        "evolveFrom": "Cosmovum",
+        "attacks": [
+          {
+            "name": "Ailes du Halo Lunaire",
+            "effect": "Déplacez toutes les Énergies de ce Pokémon vers vos Pokémon de Banc comme il vous plaît."
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-008",
+      "locale": "es",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/8_es.png",
+      "imageSha256": "aff20aa6860b6447e9fac4bc01dffde4e0105f96b60f97c6509555b625f4574b",
+      "imageBytes": 279796,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Lunala",
+        "description": "Lo llaman la Criatura que Invoca a la Luna. Convierte cualquier forma de luz en energía para sustentarse.",
+        "evolveFrom": "Cosmoem",
+        "attacks": [
+          {
+            "name": "Alas de la Luna",
+            "effect": "Mueve todas las Energías de este Pokémon a tus Pokémon en Banca de la manera que desees."
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-008",
+      "locale": "it",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/8_it.png",
+      "imageSha256": "9fbcf0f94840b0a4abf2a8628a80ad065a79df06b7f384cee32e15e7021194a2",
+      "imageBytes": 278668,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Lunala",
+        "description": "Viene chiamato “la creatura che evoca la luna”. Converte qualsiasi tipo di luce in energia per sostentarsi.",
+        "evolveFrom": "Cosmoem",
+        "attacks": [
+          {
+            "name": "Ali Lunari",
+            "effect": "Sposta tutte le Energie da questo Pokémon a quelli nella tua panchina nel modo che preferisci."
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-008",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/8_de.png",
+      "imageSha256": "fef1af7eb197a07d5ac8c4e90d1431e7ec935fc3a73f11530b8c8fd4f0d02a3d",
+      "imageBytes": 280875,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Lunala",
+        "description": "Ihm wurde der Name „Mondbringer“ verliehen. Solange es lebt, wandelt es jedes Licht in Energie um.",
+        "evolveFrom": "Cosmovum",
+        "attacks": [
+          {
+            "name": "Mondscheiben-Flügel",
+            "effect": "Verschiebe alle Energien von diesem Pokémon beliebig auf die Pokémon auf deiner Bank."
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-008",
+      "locale": "pt-br",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/8_ptbr.png",
+      "imageSha256": "84ba84749943c4aa664d75b2c9a2ed64816653ddd58fa38d96098d85ec99c11a",
+      "imageBytes": 280349,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Lunala",
+        "description": "Conhecido como A Criatura que Traz a Lua, este Pokémon converte toda a luz ao seu alcance em sua própria energia para sobreviver.",
+        "evolveFrom": "Cosmoem",
+        "attacks": [
+          {
+            "name": "Asas Lunares",
+            "effect": "Mova todas as Energias deste Pokémon para os seus Pokémon no Banco como desejar."
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-008",
+      "locale": "zh-tw",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/8_zh.png",
+      "imageSha256": "b1faf43b5b458cd24f53a5efe3ad0967aa14c74eeeb96117a896df991d22784f",
+      "imageBytes": 278468,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "露奈雅拉",
+        "description": "被稱為邀引月亮之獸。透過將一切的光轉化為能量來維持生命。",
+        "evolveFrom": "科斯莫姆",
+        "attacks": [
+          {
+            "name": "月輪之翼",
+            "effect": "將這隻寶可夢身上的能量,全部以任意方式改附於備戰寶可夢身上。"
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-008",
+      "locale": "ja",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/8_ja.png",
+      "imageSha256": "ba599aa5e76aa1a15c8c98e573f9fff1ccf35d7480063b98b0ddee76093db890",
+      "imageBytes": 280789,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "ルナアーラ",
+        "description": "月を 誘いし 獣 という 名前を もつ。 あらゆる 光を エネルギーに 変えて 生きている。",
+        "evolveFrom": "コスモウム",
+        "attacks": [
+          {
+            "name": "がちりんのつばさ",
+            "effect": "このポケモンからエネルギーをすべて、ベンチポケモンに好きなようにつけ替える。"
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-008",
+      "locale": "ko",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/8_ko.png",
+      "imageSha256": "82034736e2f81e72e8ecd95818fc8775ce7a24507984c14714b21683a0e69d91",
+      "imageBytes": 277078,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "루나아라",
+        "description": "달을 현혹하는 짐승이라는\n이름을 가졌다. 모든 빛을\n에너지로 변환해서 살고 있다.",
+        "evolveFrom": "코스모움",
+        "attacks": [
+          {
+            "name": "월륜의날개",
+            "effect": "이 포켓몬에서 에너지를 모두 벤치 포켓몬에게 원하는 대로 바꿔 붙인다."
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-009",
+      "locale": "en",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/9_en.png",
+      "imageSha256": "c2deacb53fcb7918368382396e83aed3244b038235a5c069a4790cd40ef63f06",
+      "imageBytes": 214446,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Genome Converter Y",
+        "effect": "Move all {P} Energy from 1 of your Benched {P} Pokémon to your Mega Mewtwo Y ex in the Active Spot."
+      }
+    },
+    {
+      "cardId": "P-C-009",
+      "locale": "fr",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/9_fr.png",
+      "imageSha256": "e8d9ec4fe86ef76f76d4ada1d0ac83c541a3a6949cfb44f3f92b345384cc2e84",
+      "imageBytes": 218741,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Convertisseur Génomique Y",
+        "effect": "Déplacez toutes les Énergies {P} d'un de vos Pokémon {P} de Banc vers votre Méga-Mewtwo Y-ex sur le Poste Actif."
+      }
+    },
+    {
+      "cardId": "P-C-009",
+      "locale": "es",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/9_es.png",
+      "imageSha256": "72cfdd65f780c1a9a1119049d1b51c9d595934f01986d6793f19340a0e5207c7",
+      "imageBytes": 216527,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Conversor Genoma Y",
+        "effect": "Mueve todas las Energías {P} de 1 de tus Pokémon {P} en Banca a tu Mega-Mewtwo Y ex en el Puesto Activo."
+      }
+    },
+    {
+      "cardId": "P-C-009",
+      "locale": "it",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/9_it.png",
+      "imageSha256": "7c9c1e42d1d15bda73c9a08c3a3819f47bcda369dfb424733e4063de3015524f",
+      "imageBytes": 217028,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Convertitore Genomico Y",
+        "effect": "Sposta tutte le Energie {P} da uno dei tuoi Pokémon {P} in panchina al tuo Mega Mewtwo Y-ex in posizione attiva."
+      }
+    },
+    {
+      "cardId": "P-C-009",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/9_de.png",
+      "imageSha256": "f52c25863e87d79542ede37f93cc388c92f3311fdffef4428baadbd8caff26c3",
+      "imageBytes": 215944,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Genom-Konverter Y",
+        "effect": "Verschiebe alle {P}-Energien von 1 {P}-Pokémon auf deiner Bank auf dein Mega-Mewtu Y-ex in der Aktiven Position."
+      }
+    },
+    {
+      "cardId": "P-C-009",
+      "locale": "pt-br",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/9_ptbr.png",
+      "imageSha256": "837b5f44fc92c7093843b03c7a097fb4a51d93834d25fe4dff35e527afdd90d3",
+      "imageBytes": 216393,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Conversor de Genoma Y",
+        "effect": "Mova todas as Energias {P} de 1 dos seus Pokémon {P} no Banco para o seu Mega Mewtwo Y ex no Campo Ativo."
+      }
+    },
+    {
+      "cardId": "P-C-009",
+      "locale": "zh-tw",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/9_zh.png",
+      "imageSha256": "ab0d779eb7e60f70182d4f3a5630beaa499feda9174d54523b3af2b436af931a",
+      "imageBytes": 211892,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "基因轉換器Y",
+        "effect": "將自己的備戰區的1隻{P}寶可夢身上的{P}能量,全部改附於戰鬥場的「超級超夢Yex」身上。"
+      }
+    },
+    {
+      "cardId": "P-C-009",
+      "locale": "ja",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/9_ja.png",
+      "imageSha256": "ce86298d5551c79d147ce363993e36d8094d17e8e3a57bf1efe5cf700e3c4752",
+      "imageBytes": 212906,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "ゲノムコンバーターY",
+        "effect": "自分のベンチの{P}ポケモン1匹から{P}エネルギーをすべて、バトル場の「メガミュウツーYex」につけ替える。"
+      }
+    },
+    {
+      "cardId": "P-C-009",
+      "locale": "ko",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/9_ko.png",
+      "imageSha256": "734a61c8ab12ff59ad5a398cb1342101e7bec53565d53aaf19dfb571d26c8d1f",
+      "imageBytes": 211077,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "게놈 컨버터Y",
+        "effect": "자신의 벤치의 {P}포켓몬 1마리로부터 {P}에너지를 모두 배틀필드의 「메가뮤츠Y ex」에게 바꿔 붙인다."
+      }
+    },
+    {
+      "cardId": "P-C-010",
+      "locale": "en",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/10_en.png",
+      "imageSha256": "7b7ab3da406506516fad16257cf5831e58f699845d877711df0a30cf4c228272",
+      "imageBytes": 340240,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Stantler",
+        "description": "This Pokémon apparently used to live in much harsher environments, and thus it once had stronger psychic powers than it does now.",
+        "attacks": [
+          {
+            "name": "Enhanced Horns",
+            "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "A4-147",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/479/src/147_en.png",
+        "sha256": "0be167fcb4317dc5e554c6657d759b1abbd6376f17cb469f0e4a5bd8de13d85c",
+        "bytes": 292461,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-010",
+      "locale": "fr",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/10_fr.png",
+      "imageSha256": "c66bfadc0ddce5d66db7686ea2dc5ac0f682e290cb614507b239a8c33916de73",
+      "imageBytes": 340866,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Cerfrousse",
+        "description": "Il paraît qu'autrefois, il était doté de plus grands pouvoirs psychiques, car il vivait dans un environnement hostile.",
+        "attacks": [
+          {
+            "name": "Cornes Améliorées",
+            "effect": "Si un Outil Pokémon est attaché à ce Pokémon, cette attaque inflige 50 dégâts supplémentaires."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "A4-147",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/479/src/147_fr.png",
+        "sha256": "af4094496d23993622f568b53c9ccc648711757f9b4334c3ed73c0f71ddeedda",
+        "bytes": 293705,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-010",
+      "locale": "es",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/10_es.png",
+      "imageSha256": "fb9cf3b99f8eeb7c8623a4a740c8952631bf8262f824e5a90a056f30d03d6bc8",
+      "imageBytes": 341315,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Stantler",
+        "description": "Antaño habitaba en entornos inhóspitos, por lo que sus poderes psíquicos eran supuestamente más potentes aún que en la actualidad.",
+        "attacks": [
+          {
+            "name": "Cuernos Mejorados",
+            "effect": "Si este Pokémon tiene 1 Herramienta Pokémon unida a él, este ataque hace 50 puntos de daño más."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "A4-147",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/479/src/147_es.png",
+        "sha256": "bdddf53b211e1d0dfc3cb107e4fca10a9f140e3b7fccd6dd6c3757bcc3d2ea8d",
+        "bytes": 294554,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-010",
+      "locale": "it",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/10_it.png",
+      "imageSha256": "1e299a4b46b1db8ac00662bd18b30a89d3e61b10e1247dd5feb45843a145d9a0",
+      "imageBytes": 339733,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Stantler",
+        "description": "Pare che in passato vivesse in ambienti estremamente inospitali, e per questo avesse poteri psichici ancora più potenti di adesso.",
+        "attacks": [
+          {
+            "name": "Supercorna",
+            "effect": "Se questo Pokémon ha un Oggetto Pokémon assegnato, questo attacco infligge 50 danni in più."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "A4-147",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/479/src/147_it.png",
+        "sha256": "48e33c4f03bcef94b2a68474ae3361cf70d6acd33f086f022569e1832077f0b0",
+        "bytes": 292657,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-010",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/10_de.png",
+      "imageSha256": "d3fa9e379f8f76296bb68f40a650aada7f6d54a88e50e105a9864e8162481ca4",
+      "imageBytes": 341883,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Damhirplex",
+        "description": "Da dieses Pokémon einst in einer unwirtlichen Umgebung lebte, verfügte es damals offenbar über stärkere Psycho-Kräfte als heutzutage.",
+        "attacks": [
+          {
+            "name": "Spezial-Hörner",
+            "effect": "Wenn an dieses Pokémon 1 Pokémon-Ausrüstung angelegt ist, fügt diese Attacke 50 Schadenspunkte mehr zu."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "A4-147",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/479/src/147_de.png",
+        "sha256": "87b7549a3b57d804a9316f5cbd21f5b007253ab64382bab6651b9f7c69cffb80",
+        "bytes": 295302,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-010",
+      "locale": "pt-br",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/10_ptbr.png",
+      "imageSha256": "3b615267f892824e41a420d2f0fbf355749c970e9dc9de7ab15a1065aa36601f",
+      "imageBytes": 341647,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Stantler",
+        "description": "Aparentemente, este Pokémon vivia em ambientes muito mais hostis. Por isso, seus poderes psíquicos já foram muito mais fortes do que hoje.",
+        "attacks": [
+          {
+            "name": "Chifres Acentuados",
+            "effect": "Se este Pokémon tiver uma Ferramenta Pokémon ligada a ele, este ataque causará 50 pontos de dano a mais."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "A4-147",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/479/src/147_ptbr.png",
+        "sha256": "b0ba69579164da581d74be132425ee0b600f20d5b1737a84fe82f340f5caf2f1",
+        "bytes": 273334,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-010",
+      "locale": "zh-tw",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/10_zh.png",
+      "imageSha256": "e6f3b48a2c5567cd2ec689f4c40a12d04c1f54e70ef5c48621da8213755d2877",
+      "imageBytes": 336809,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "驚角鹿",
+        "description": "過去生活在嚴苛的環境下，因此當時的精神力量似乎比現在還要強。",
+        "attacks": [
+          {
+            "name": "強化角擊",
+            "effect": "若這隻寶可夢身上附有「寶可夢道具」,則增加50點傷害。"
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "A4-147",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/479/src/147_zh.png",
+        "sha256": "8a19bff9b42ec3b44a4748e1a3d4126815f8fe99fb678bc989db889d533bd9ec",
+        "bytes": 266416,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-010",
+      "locale": "ja",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/10_ja.png",
+      "imageSha256": "e17e2a2b4170a6c3e02c90b7004ae338f34ebeb63e23353c7644c280639bf976",
+      "imageBytes": 339915,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "オドシシ",
+        "description": "昔は 過酷な 環境で 暮らしていたため 今よりも サイコパワーが 強かったらしい。",
+        "attacks": [
+          {
+            "name": "きょうかホーン",
+            "effect": "このポケモンに「ポケモンのどうぐ」がついているなら、50ダメージ追加。"
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "A4-147",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/479/src/147_ja.png",
+        "sha256": "66035763de724e0f2ac51924e54e8f963034503e19aec77c291bd4f6dee95c9b",
+        "bytes": 269998,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-010",
+      "locale": "ko",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/10_ko.png",
+      "imageSha256": "cf63d47c78806b6979968d6db5f635a74d670f5f412ca3441331a3f97d06a58e",
+      "imageBytes": 336960,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "노라키",
+        "description": "옛날에는 가혹한 환경에서 살았기 때문에 오늘날보다도 사이코 파워가 강력했다고 전해진다.",
+        "attacks": [
+          {
+            "name": "강화호른",
+            "effect": "이 포켓몬에게 「포켓몬의 도구」가 붙어 있다면 50데미지를 추가한다."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "A4-147",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/479/src/147_ko.png",
+        "sha256": "96748d98e975e7bb2f6e36f2589ce90c886ae11a3355b5285977cc78b8615401",
+        "bytes": 266052,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-011",
+      "locale": "en",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/11_en.png",
+      "imageSha256": "ba7409084d5219bf38a7c7626493f87ce83a2ceb7e2d3c3e09271b8cad64db0b",
+      "imageBytes": 331264,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Alcremie",
+        "description": "When it trusts a Trainer, it will treat them to berries it's decorated with cream.",
+        "evolveFrom": "Milcery",
+        "attacks": [
+          {
+            "name": "Sweets Overload",
+            "effect": "This attack does 40 damage for each time your Pokémon used Sweets Relay during this game."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "A3b-037",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/475/src/37_en.png",
+        "sha256": "3c722c273c2f6bbc1b102dafb071e666053c1c17da50f4bf9a05a5b054455642",
+        "bytes": 275452,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-011",
+      "locale": "fr",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/11_fr.png",
+      "imageSha256": "442a8eefe32a8ee2481b3439c854e7c31db9fa7e191f01b8a19df73339c65417",
+      "imageBytes": 332921,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Charmilly",
+        "description": "Il offre aux Dresseurs auxquels il accorde toute sa confiance des Baies décorées avec de la crème.",
+        "evolveFrom": "Crèmy",
+        "attacks": [
+          {
+            "name": "Avalanche Sucrée",
+            "effect": "Cette attaque inflige 40 dégâts pour chaque utilisation de Saupoudrage Sucré par vos Pokémon pendant cette partie."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "A3b-037",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/475/src/37_fr.png",
+        "sha256": "76682b4a523b05cb3f9ec80de0f4fd8c568fc5a9fdc65fe6199a587b8e6941d8",
+        "bytes": 277663,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-011",
+      "locale": "es",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/11_es.png",
+      "imageSha256": "a46e8389b6f6221df5cf1d4f341e43f888e6a08ddd5db163869978597cfcbaa0",
+      "imageBytes": 331329,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Alcremie",
+        "description": "Obsequia bayas decoradas con nata a aquellos Entrenadores en los que confía.",
+        "evolveFrom": "Milcery",
+        "attacks": [
+          {
+            "name": "Dulzor Extremo",
+            "effect": "Este ataque hace 40 puntos de daño por cada vez que tus Pokémon hayan usado Relevo Dulce durante esta partida."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "A3b-037",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/475/src/37_es.png",
+        "sha256": "76fe8850d8fdb903fc753d8b76671583279d804a78fd546561c63166d90c719a",
+        "bytes": 276395,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-011",
+      "locale": "it",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/11_it.png",
+      "imageSha256": "24ca8d26c90bef264340fd50a7776ad982874f9afd18899c6830f43a7faca1d0",
+      "imageBytes": 331271,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Alcremie",
+        "description": "Agli Allenatori di cui si fida regala bacche decorate con la panna.",
+        "evolveFrom": "Milcery",
+        "attacks": [
+          {
+            "name": "Dolce Sovraccarico",
+            "effect": "Questo attacco infligge 40 danni per ogni volta che i tuoi Pokémon hanno usato Dolce Staffetta durante questa partita."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "A3b-037",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/475/src/37_it.png",
+        "sha256": "b044f82404850b4f6f3bdfd976a76863fa403c0616715ef07cde3a91d3c24ae2",
+        "bytes": 276570,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-011",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/11_de.png",
+      "imageSha256": "312c0fa26d37fba49e554789f73eb51f5eeadb46db36a4e6511485c371f554c8",
+      "imageBytes": 332678,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Pokusan",
+        "description": "Es macht einem Trainer, dem es vertraut, mit Beeren samt Sahnedekoration eine Freude.",
+        "evolveFrom": "Hokumil",
+        "attacks": [
+          {
+            "name": "Süßer Überfluss",
+            "effect": "Diese Attacke fügt für jedes Mal, wenn deine Pokémon in diesem Spiel Süße Staffel eingesetzt haben, 40 Schadenspunkte zu."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "A3b-037",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/475/src/37_de.png",
+        "sha256": "86afde5d80c019637a68effc60e5ac4843e79d197821f09e30121334b48e71ce",
+        "bytes": 277849,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-011",
+      "locale": "pt-br",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/11_ptbr.png",
+      "imageSha256": "9e14c77715e0d00df9c9b7c1937976ed85c6429988ad968b52e828b10d9fdfcf",
+      "imageBytes": 331772,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Alcremie",
+        "description": "Quando confia em um Treinador, oferece frutas decoradas com chantili.",
+        "evolveFrom": "Milcery",
+        "attacks": [
+          {
+            "name": "Sobrecarga Açucarada",
+            "effect": "Este ataque causa 40 pontos de dano para cada vez que seus Pokémon usaram Revezamento Doce durante este jogo."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "A3b-037",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/475/src/37_ptbr.png",
+        "sha256": "3cdf6a1434613c1803b540628814fa75573a66b3a0d52eed109647e2b418baed",
+        "bytes": 269318,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-011",
+      "locale": "zh-tw",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/11_zh.png",
+      "imageSha256": "f6ec462ae505801ab15ce2ed786a26145c7b9fc4dc1c0c0a3bf14e222d77da56",
+      "imageBytes": 327461,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "霜奶仙",
+        "description": "牠會把自己用鮮奶油裝飾過的樹果送給自己信任的訓練家。",
+        "evolveFrom": "小仙奶",
+        "attacks": [
+          {
+            "name": "甜點堆堆堆",
+            "effect": "造成這場對戰中自己的寶可夢使用「甜點砸砸砸」的次數×40點傷害。"
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "A3b-037",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/475/src/37_zh.png",
+        "sha256": "cda3bf31771c1a9ad9e7819de29496f2565446a5cd2dc80bc0884ffc51c700e7",
+        "bytes": 265407,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-011",
+      "locale": "ja",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/11_ja.png",
+      "imageSha256": "31560886d104abc0da2faeda346ee2e9a1c1032d50aef80c1062937b02935efa",
+      "imageBytes": 331430,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "マホイップ",
+        "description": "信頼する トレーナーには クリームで デコレーションした 木の実を ふるまって くれるのだ。",
+        "evolveFrom": "マホミル",
+        "attacks": [
+          {
+            "name": "ドカもりスイーツ",
+            "effect": "この対戦中、自分のポケモンが「スイーツリレー」を使った回数×40ダメージ。"
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "A3b-037",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/475/src/37_ja.png",
+        "sha256": "c52a5906a97d2ec6b10d62363b96514b09eedb82676562deefb428cd33727e3b",
+        "bytes": 267559,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-011",
+      "locale": "ko",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/11_ko.png",
+      "imageSha256": "f125feb6a642f78d30e451100e1b9c609936a95325c1a8e9d83594886679b74b",
+      "imageBytes": 327426,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "마휘핑",
+        "description": "믿을 수 있는 트레이너에게는 크림으로 데코레이션한 나무열매를 대접한다.",
+        "evolveFrom": "마빌크",
+        "attacks": [
+          {
+            "name": "한가득스위트",
+            "effect": "이 대전 중 자신의 포켓몬이 「스위트릴레이」를 사용한 횟수 × 40데미지를 준다."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "A3b-037",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/475/src/37_ko.png",
+        "sha256": "f8ef380740bcc93f4a2fe5e12703d5754c1e80691c3d46ee4facb83788bb405b",
+        "bytes": 264517,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-012",
+      "locale": "en",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/12_en.png",
+      "imageSha256": "fcc15fe176755df46d3a5a31cc81d7a5368513df0a6f8569ac67630138d54fb5",
+      "imageBytes": 340128,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Delibird",
+        "description": "It always carries its food with it, wherever it goes. If attacked, it throws its food at the opponent.",
+        "attacks": [
+          {
+            "name": "Box of Surprises",
+            "effect": "Flip a coin. If heads, this attack does 70 damage to your opponent's Active Pokémon. If tails, heal 30 damage from your opponent's Active Pokémon."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "B2-032",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/569/src/32_en.png",
+        "sha256": "c3ad7733d1830f99f13d8ed49cc977f936f3441c0c8954d1fd280800c05f5f4a",
+        "bytes": 280026,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-012",
+      "locale": "fr",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/12_fr.png",
+      "imageSha256": "153efd1ccc1a2d13ecd80ea5186a476236c925bf66b2e04417d93981d86a3557",
+      "imageBytes": 342466,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Cadoizo",
+        "description": "Il a toujours de la nourriture sur lui. Lorsqu'on l'attaque, il la jette sur son agresseur pour se protéger.",
+        "attacks": [
+          {
+            "name": "Boîte à Surprises",
+            "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 70 dégâts au Pokémon Actif de votre adversaire. Si c'est pile, soignez 30 dégâts subis par le Pokémon Actif de votre adversaire."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "B2-032",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/569/src/32_fr.png",
+        "sha256": "d73bcbd2fe0ddfdb3d3cb01ea88f2edfa508294889d41082a805d12c6c5bc31d",
+        "bytes": 283235,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-012",
+      "locale": "es",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/12_es.png",
+      "imageSha256": "d3628eef9eb7dbb1ed363d2a7def39afaadb1fbc6d0c271271ced852aba21573",
+      "imageBytes": 340408,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Delibird",
+        "description": "Siempre lleva la comida consigo, vaya donde vaya. Si lo atacan, se la tirará a su adversario.",
+        "attacks": [
+          {
+            "name": "Caja de Sorpresas",
+            "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 70 puntos de daño al Pokémon Activo de tu rival. Si sale cruz, cura 30 puntos de daño al Pokémon Activo de tu rival."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "B2-032",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/569/src/32_es.png",
+        "sha256": "7c7cd83275abc076371cf8b87124c7d6b26cebc2cf2f610075f436dee7221baa",
+        "bytes": 281328,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-012",
+      "locale": "it",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/12_it.png",
+      "imageSha256": "0491837b882fc86dfb0527a13f60de3e562a34b5dd20f51bcf571d4632d2a50d",
+      "imageBytes": 340700,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Delibird",
+        "description": "Porta sempre del cibo con sé. Quando viene attaccato, getta i viveri contro l'avversario per difendersi.",
+        "attacks": [
+          {
+            "name": "Pacco Sorpresa",
+            "effect": "Lancia una moneta. Se esce testa, questo attacco infligge 70 danni al Pokémon attivo del tuo avversario. Se esce croce, cura il Pokémon attivo del tuo avversario da 30 danni."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "B2-032",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/569/src/32_it.png",
+        "sha256": "3b586fea4d938dec6eb0e56b29a72df0e9f332b2bc5bbbbf2468c9444e2fb87f",
+        "bytes": 281933,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-012",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/12_de.png",
+      "imageSha256": "50a6b24cb607b80e69ebc33bfba663b35ad494139c42799c9687e0d9d0f35eae",
+      "imageBytes": 343256,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Botogel",
+        "description": "Es trägt immer Nahrung bei sich. Wird es attackiert, wirft es diese nach dem Angreifer, um sich zu schützen.",
+        "attacks": [
+          {
+            "name": "Box voller Überraschungen",
+            "effect": "Wirf 1 Münze. Bei Kopf fügt diese Attacke dem Aktiven Pokémon deines Gegners 70 Schadenspunkte zu. Heile bei Zahl 30 Schadenspunkte beim Aktiven Pokémon deines Gegners."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "B2-032",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/569/src/32_de.png",
+        "sha256": "528b35d865c6a5c6aafa2e767dcce6d0f498c2bb55cded573a71d750d569b931",
+        "bytes": 284442,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-012",
+      "locale": "pt-br",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/12_ptbr.png",
+      "imageSha256": "1d95ed8f02101433305046c02ef41addf30eb21d50ffc77d7377911d3d53d08a",
+      "imageBytes": 342624,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Delibird",
+        "description": "Está sempre carregando sua comida, não importa para onde vá. Se for atacado, lança a comida no oponente.",
+        "attacks": [
+          {
+            "name": "Caixa de Surpresas",
+            "effect": "Jogue uma moeda. Se sair cara, este ataque causará 70 pontos de dano ao Pokémon Ativo do seu oponente. Se sair coroa, cure 30 pontos de dano do Pokémon Ativo do seu oponente."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "B2-032",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/569/src/32_ptbr.png",
+        "sha256": "7365b32715a34bd8a2fa20e68b6eb7b32f38e6a5a6ef33d18cb21fcde5d2d703",
+        "bytes": 283385,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-012",
+      "locale": "zh-tw",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/12_zh.png",
+      "imageSha256": "3b67247e5101ff260d3c06d1a6f8e5bedd089b6f2236fa90d0b2f76549c6b01e",
+      "imageBytes": 335730,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "信使鳥",
+        "description": "總是在搬運著食物。遇到襲擊時，會丟出身上帶著的食物來保護自己。",
+        "attacks": [
+          {
+            "name": "驚奇箱",
+            "effect": "擲1次硬幣若為正面,則對手的戰鬥寶可夢受到70點傷害。若為反面,則將對手的戰鬥寶可夢恢復30HP。"
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "B2-032",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/569/src/32_zh.png",
+        "sha256": "ab11ba3a501e7af9f0e50968b1315d70efd63a280bc0da3598837f0010837dd1",
+        "bytes": 277525,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-012",
+      "locale": "ja",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/12_ja.png",
+      "imageSha256": "e281d48e481e7c0699f09ebe2bcf99017a70943409e0a465634b835c7370eee2",
+      "imageBytes": 339921,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "デリバード",
+        "description": "いつも エサを 持ち運んでいる。 襲われると 身を 守ろうとして 持っている エサを 投げつける。",
+        "attacks": [
+          {
+            "name": "サプライズボックス",
+            "effect": "コインを1回投げオモテなら、相手のバトルポケモンに70ダメージ。ウラなら、相手のバトルポケモンのHPを30回復。"
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "B2-032",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/569/src/32_ja.png",
+        "sha256": "87b73b4f53c2a85af40df081b31d80735b05fc4c8e59ea0810a0a8c72da02b45",
+        "bytes": 280367,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-012",
+      "locale": "ko",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/12_ko.png",
+      "imageSha256": "c57d40c32226d6ee65f513640db8d2ce4df8e89a8c4ad51b0549ec0c86288416",
+      "imageBytes": 336615,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "딜리버드",
+        "description": "언제나 먹이를 가지고 다닌다. 공격받으면 몸을 지키기 위해 가지고 있는 먹이를 집어던진다.",
+        "attacks": [
+          {
+            "name": "서프라이즈 박스",
+            "effect": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 70데미지를 준다. 뒷면이 나오면 상대 배틀 포켓몬의 HP를 30회복."
+          }
+        ]
+      },
+      "flavorDonor": {
+        "cardId": "B2-032",
+        "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/569/src/32_ko.png",
+        "sha256": "a043fbb5991526e4a360cae8148bc757b58847e00de5858be6ed649676461981",
+        "bytes": 277659,
+        "reason": "Same master play object and same English flavor; ordinary print native footer visually transcribed because full-art footer is too small for reliable OCR."
+      }
+    },
+    {
+      "cardId": "P-C-013",
+      "locale": "en",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/13_en.png",
+      "imageSha256": "3541f19e2389f25be9e2899fb95739ec70333a67e39b96f807897db93ebda750",
+      "imageBytes": 321633,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Mega Dragonite ex",
+        "evolveFrom": "Dragonair",
+        "attacks": [
+          {
+            "name": "Draconic Meteor",
+            "effect": "1 of your opponent's Pokémon is chosen at random. Do 250 damage to it."
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-013",
+      "locale": "fr",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/13_fr.png",
+      "imageSha256": "6aa222bd4030ff74c86584d8b73705ce32c6d3c550faa9f37a28e7072364d200",
+      "imageBytes": 322627,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Méga-Dracolosse-ex",
+        "evolveFrom": "Draco",
+        "attacks": [
+          {
+            "name": "Météore Draconien",
+            "effect": "Un des Pokémon de votre adversaire est choisi au hasard. Il subit 250 dégâts."
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-013",
+      "locale": "es",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/13_es.png",
+      "imageSha256": "2d11e64d3f4d9c4d6371f12bdf0c7d9125aad0764b0f32c697f18d54c948b380",
+      "imageBytes": 321562,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Mega-Dragonite ex",
+        "evolveFrom": "Dragonair",
+        "attacks": [
+          {
+            "name": "Meteoro Dracónico",
+            "effect": "Se elige a un Pokémon aleatorio de tu rival. Hazle 250 puntos de daño."
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-013",
+      "locale": "it",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/13_it.png",
+      "imageSha256": "ca1318a6d1c5a9a378bfa277e63f135e5b8f02ec1ccdd2d0d2d75226e0dfc169",
+      "imageBytes": 322059,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Mega Dragonite-ex",
+        "evolveFrom": "Dragonair",
+        "attacks": [
+          {
+            "name": "Meteora del Drago",
+            "effect": "Viene scelto un Pokémon avversario a caso. Quel Pokémon subisce 250 danni."
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-013",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/13_de.png",
+      "imageSha256": "b2155b7aeb0533887acf29e9acaa12932d12d9041e8e9a20f306d6aba9a4cc60",
+      "imageBytes": 323727,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Mega-Dragoran-ex",
+        "evolveFrom": "Dragonir",
+        "attacks": [
+          {
+            "name": "Drachenmeteor",
+            "effect": "1 Pokémon des Gegners wird zufällig ausgewählt. Füge diesem Pokémon 250 Schadenspunkte zu."
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-013",
+      "locale": "pt-br",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/13_ptbr.png",
+      "imageSha256": "3ab7c1a19844fe3faa49a9b5f090fc9d6c3ba20a1f65ae05a0b445bb2ca6d887",
+      "imageBytes": 323025,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "Mega Dragonite ex",
+        "evolveFrom": "Dragonair",
+        "attacks": [
+          {
+            "name": "Meteoro Dracônico",
+            "effect": "Um dos Pokémon do seu oponente é escolhido aleatoriamente. Cause 250 pontos de dano a ele."
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-013",
+      "locale": "zh-tw",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/13_zh.png",
+      "imageSha256": "e9f26812c3a012c42ef5870a74fe4001c8f673d7a99efc22ce60a9e809f807c8",
+      "imageBytes": 319123,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "超級快龍ex",
+        "evolveFrom": "哈克龍",
+        "attacks": [
+          {
+            "name": "翔龍流星擊",
+            "effect": "對手的寶可夢會隨機被選擇1次,被選擇的寶可夢受到250點傷害。"
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-013",
+      "locale": "ja",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/13_ja.png",
+      "imageSha256": "c44f63fd458d2d11867c5159189011cbb2400181e6b387f71eebc2e7df29cfca",
+      "imageBytes": 321404,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "メガカイリューex",
+        "evolveFrom": "ハクリュー",
+        "attacks": [
+          {
+            "name": "ドラゴニックメテオ",
+            "effect": "相手のポケモンがランダムに1回選ばれ、選ばれたポケモンに、250ダメージ。"
+          }
+        ],
+        "abilities": []
+      }
+    },
+    {
+      "cardId": "P-C-013",
+      "locale": "ko",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/13_ko.png",
+      "imageSha256": "d50d82b991a6c74232109bfdd8eae966992941746e5ba25fbbac1cd9e3fca1f1",
+      "imageBytes": 318074,
+      "review": "Native card visually inspected for identity, rules, attack cost/damage, HP, stage, weakness, retreat, illustrator and flavor. Whitespace reflowed; energy icons use API tokens.",
+      "chosen": {
+        "name": "메가망나뇽 ex",
+        "evolveFrom": "신뇽",
+        "attacks": [
+          {
+            "name": "드래고닉 메테오",
+            "effect": "상대의 포켓몬이 랜덤으로 1번 선택되어 선택된 포켓몬에게 250데미지를 준다."
+          }
+        ],
+        "abilities": []
+      }
+    }
+  ]
+}

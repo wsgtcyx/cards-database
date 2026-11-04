@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/038",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/038",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/038",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/038",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/038",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/038",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/038",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/038",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/038"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/038/8aa9e28d95c94837",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/038/8aa9e28d95c94837",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/038/8aa9e28d95c94837",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/038/8aa9e28d95c94837",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/038/8aa9e28d95c94837",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/038/8aa9e28d95c94837",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/038/8aa9e28d95c94837",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/038/8aa9e28d95c94837",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/038/8aa9e28d95c94837"
     },
     name: {
         en: "Misdreavus",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "夢妖",
     },
     illustrator: "Miki Tanaka",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     hp: 60,
     types: ["Psychic"],
@@ -39,7 +39,7 @@ const card: Card = {
         'pt-br': "Este Pokémon assusta pessoas no meio da noite.\nAcumula o medo para usar como energia.",
         ja: "真夜中 人を 驚かせては 怖がる心を 集めて 自分の エネルギーに している ポケモン。",
         ko: "한밤중에 사람을 놀라게 하고\n무서워하는 마음을 모아 자신의\n에너지로 만드는 포켓몬이다.",
-        "zh-tw": "這個神奇寶貝在中間嚇到了人們\n那個晚上。它聚集恐懼作為能量。"
+        "zh-tw": "會在半夜嚇唬人類，然後把收集到的恐懼之心轉化成自身能量的寶可夢。"
     },
     attacks: [{
             name: {
@@ -51,7 +51,7 @@ const card: Card = {
                 'pt-br': "Raio da Confusão",
                 ja: "あやしいひかり",
                 ko: "이상한빛",
-                "zh-tw": "迷惑雷"
+                "zh-tw": "奇異之光"
             },
             cost: ["Psychic"],
             effect: {
@@ -63,7 +63,7 @@ const card: Card = {
                 ja: "相手のバトルポケモンをこんらんにする。",
                 ko: "상대의 배틀 포켓몬을 혼란으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Confuso.",
-                "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。"
+                "zh-tw": "將對手的戰鬥寶可夢混亂。"
             }
         }],
     weaknesses: [{

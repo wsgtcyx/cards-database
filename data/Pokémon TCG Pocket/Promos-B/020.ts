@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/020",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/020",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/020",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/020",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/020",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/020",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/020",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/020",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/020"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/020/70d5bcc06e46f6f7",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/020/70d5bcc06e46f6f7",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/020/70d5bcc06e46f6f7",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/020/70d5bcc06e46f6f7",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/020/70d5bcc06e46f6f7",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/020/70d5bcc06e46f6f7",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/020/70d5bcc06e46f6f7",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/020/70d5bcc06e46f6f7",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/020/70d5bcc06e46f6f7"
     },
     name: {
         en: "Charmeleon",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "リザード"
     },
     illustrator: "Shiburingaru",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     hp: 80,
     types: ["Fire"],
@@ -49,7 +49,7 @@ const card: Card = {
         es: "Si se exalta en combate, expulsa intensas\nllamaradas que incineran todo a su alrededor.",
         it: "Se s’infervora nella lotta, sputa potenti fiamme\nche inceneriscono l’area circostante.",
         de: "Steigert es sich in einen Kampf hinein, spuckt es\nFlammen, die alles in seiner Umgebung\nniederbrennen.",
-        "pt-br": "Se ficar agitado durante a batalha, ele solta chamas intensas, incinerando o ambiente ao seu redor.",
+        "pt-br": "Se esse Pokémon ficar agitado durante batalhas, lançará chamas intensas incinerando tudo ao seu redor.",
         "zh-tw": "如果牠在戰鬥中亢奮起來，\n就會噴出灼熱的火焰，\n把周圍的東西燒得一乾二淨。",
         ja: "戦いで 気持ちが たかぶると 灼熱の 炎を 吹きながら あたりを 燃やしてまわる。",
         ko: "싸움으로 기분이 고조되면\n작열하는 불꽃을 뿜으며\n주변을 태워버린다."
@@ -70,12 +70,12 @@ const card: Card = {
             },
             effect: {
                 en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may take a {R} Energy from your Energy Zone and attach it to your Active {R} Pokémon.",
-                fr: "Une fois pendant votre tour, lorsque vous jouez ce Pokémon depuis votre main pour faire évoluer 1 de vos Pokémon, vous pouvez prendre une Énergie {R} de votre Zone d'Énergie et l'attacher à votre Pokémon Actif {R}.",
-                es: "Una vez durante tu turno, cuando juegues este Pokémon de tu mano para hacer evolucionar a 1 de tus Pokémon, puedes tomar una Energía {R} de tu Zona de Energía y unirla a tu Pokémon {R} Activo.",
-                it: "Una sola volta durante il tuo turno, quando giochi questo Pokémon dalla tua mano per far evolvere uno dei tuoi Pokémon, puoi prendere un'Energia {R} dalla tua Zona Energetica e assegnarla al tuo Pokémon {R} attivo.",
-                de: "Einmal während deines Zuges, wenn du dieses Pokémon aus deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du eine {R}-Energie aus deiner Energiezone nehmen und sie an dein aktives {R}-Pokémon anlegen.",
-                "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá pegar uma Energia {R} da sua Zona de Energia e ligá-la aos seus Pokémon {R} Ativos.",
-                "zh-tw": "在你的回合中，當你從手上使用這只寶可夢來進化你的一隻寶可夢時，你可以從你的能量區取出一個{R}能量並將其附加到你的活躍{R}寶可夢上。",
+                fr: "Une fois pendant votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer un de vos Pokémon, vous pouvez prendre une Énergie {R} de votre zone Énergie et l'attacher à votre Pokémon {R} Actif.",
+                es: "Una vez durante tu turno, cuando juegas este Pokémon de tu mano para hacer evolucionar a uno de tus Pokémon, puedes unir 1 Energía {R} de tu área de Energía a tu Pokémon {R} Activo.",
+                it: "Una sola volta durante il tuo turno, quando giochi questo Pokémon dalla tua mano per far evolvere uno dei tuoi Pokémon, puoi prendere un’Energia {R} dalla Zona Energia e assegnarla al tuo Pokémon {R} attivo.",
+                de: "Einmal während deines Zuges, wenn du dieses Pokémon von deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du 1 {R}-Energie aus deinem Energiebereich an dein Aktives {R}-Pokémon anlegen.",
+                "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá pegar 1 Energia {R} da sua Zona de Energia e ligá-la ao seu Pokémon {R} Ativo.",
+                "zh-tw": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。從自己的能量區抽出1個{R}能量,附於戰鬥場的{R}寶可夢身上。",
                 ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。自分のエネルギーゾーンから{R}エネルギーを1個出し、バトル場の{R}ポケモンにつける。",
                 ko: "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 자신의 에너지존에서 {R}에너지를 1개 내보내 배틀필드의 {R}포켓몬에게 붙인다."
             }

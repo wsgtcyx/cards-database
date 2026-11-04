@@ -4,16 +4,16 @@ import Set from "../Promos-A";
 const card: Card = {
 	set: Set,
 	image: {
-		en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/102",
-		de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/102",
-		es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/102",
-		fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/102",
-		it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/102",
-		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/102",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/102",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/102",
-		ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/102"
-	},
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/102/baa3c983161f8b09",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/102/baa3c983161f8b09",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/102/baa3c983161f8b09",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/102/baa3c983161f8b09",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/102/baa3c983161f8b09",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/102/baa3c983161f8b09",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/102/baa3c983161f8b09",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/102/baa3c983161f8b09",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/102/baa3c983161f8b09"
+    },
 	name: {
 		en: "Tropius",
 		fr: "Tropius",
@@ -32,12 +32,12 @@ const card: Card = {
 	types: ["Grass"],
 	description: {
 		en: "It lives in tropical jungles. The bunch of fruit\naround its neck is delicious. The fruit grows\ntwice a year.",
-		fr: "Il vit dans les jungles tropicales. La grappe de fruits\nautour de son cou est délicieux. Le fruit pousse\ndeux fois par an.",
-		es: "Vive en selvas tropicales. el racimo de fruta\nalrededor de su cuello es delicioso. la fruta crece\ndos veces al año.",
-		it: "Vive nelle giungle tropicali. Il grappolo di frutta\nintorno al collo è delizioso. Il frutto cresce\ndue volte l'anno.",
-		de: "Es lebt in tropischen Dschungeln. Der Fruchthaufen\num den Hals ist köstlich. Die Frucht wächst\nzweimal im Jahr.",
-		"pt-br": "Vive em selvas tropicais. O cacho de frutas\nem volta do pescoço é delicioso. A fruta cresce\nduas vezes por ano.",
-		"zh-tw": "它生活在熱帶叢林中。那串水果\n脖子上的東西很好吃。果實長大了\n每年兩次。",
+		fr: "Tropius vit dans les jungles tropicales. Les fruits sur son cou sont sucrés et succulents. Ils poussent deux fois par an.",
+		es: "Habita en las junglas tropicales. Le crece un delicioso racimo de fruta dulce en el cuello dos veces al año.",
+		it: "Vive in giungle tropicali. Due volte all'anno gli crescono attorno al collo dei frutti dolci dal sapore squisito.",
+		de: "Es lebt im tropischen Dschungel. Die süßen, leckeren Früchte an seinem Hals wachsen zweimal im Jahr.",
+		"pt-br": "Vive em florestas tropicais. O cacho em seu pescoço dá frutas deliciosas duas vezes por ano.",
+		"zh-tw": "棲息在熱帶叢林裡。脖子上的果實香甜美味，每年會結果2次。",
 		ja: "熱帯の ジャングルに 生息。 首の フサは 甘くて 美味しい。 １年に ２回 実を つける。",
 		ko: "열대 정글에 서식한다.\n목에 달린 송이는 달고 맛있다.\n1년에 2번 열매를 맺는다."
 	},
@@ -62,7 +62,7 @@ const card: Card = {
 				it: "Lancia 2 volte una moneta. Questo attacco infligge 40 danni ogni volta che esce testa.",
 				de: "Wirf 2 Münzen. Diese Attacke fügt 40 Schadenspunkte pro Kopf zu.",
 				"pt-br": "Jogue 2 moedas. Este ataque causa 40 pontos de dano para cada cara.",
-				"zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 40 點傷害。",
+				"zh-tw": "擲2次硬幣,造成正面出現的次數×40點傷害。",
 				ja: "コインを2回投げ、オモテの数×40ダメージ。",
 				ko: "동전을 2번 던져서 앞면이 나온 수 × 40데미지를 준다."
 			},

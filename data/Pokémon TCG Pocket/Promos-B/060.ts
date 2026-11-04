@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/060",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/060",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/060",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/060",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/060",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/060",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/060",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/060",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/060"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/060/80f9441305fce1ae",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/060/80f9441305fce1ae",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/060/80f9441305fce1ae",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/060/80f9441305fce1ae",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/060/80f9441305fce1ae",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/060/80f9441305fce1ae",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/060/80f9441305fce1ae",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/060/80f9441305fce1ae",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/060/80f9441305fce1ae"
     },
     name: {
         en: "Zarude",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "ザルード"
     },
     illustrator: "Shin Nagasawa",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     hp: 90,
     types: ["Darkness"],
@@ -38,10 +38,10 @@ const card: Card = {
         es: "Las lianas que le brotan del cuerpo nutren y\nfertilizan el mantillo del bosque cuando se le\ndesprenden.",
         it: "Se si staccano, le liane del suo corpo diventano\nnutrimento per il suolo, favorendo lo sviluppo\ndelle piante della foresta.",
         de: "Reißen die an seinem Körper wachsenden Ranken\nab, werden sie zu Nährstoffen für den Boden,\nwas den Pflanzen im Wald zum Wachstum verhilft.",
-        "pt-br": "Depois que as vinhas do corpo de Zarude são arrancadas, elas se tornam nutrientes no solo. Isso ajuda as plantas da floresta a crescer.",
+        "pt-br": "Ao se soltarem do corpo de Zarude, seus cipós se tornam nutrientes para o solo, ajudando as plantas da floresta a crescer.",
         "zh-tw": "生長在身上的藤蔓斷落後\n會化為土壤的養分，\n孕育森林裡的各種植物。",
         ja: "体に 生える ツルは ちぎれると 土の 栄養分となって 森の 植物たちを 育てるのだ。",
-        ko: "몸에 난 덩굴이 끊어지면\n토양에 영양분이 되어\n숲의 식물들을 성장시킨다."
+        ko: "몸에 난 덩굴이 끊어지면\n토양의 영양분이 되어\n숲의 식물들을 성장시킨다."
     },
     attacks: [
         {
@@ -59,12 +59,12 @@ const card: Card = {
             },
             effect: {
                 en: "If any of your {D} Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 80 more damage.",
-                fr: "Si l'un de vos {D} Pokémon a été mis KO par les dégâts d'une attaque lors du dernier tour de votre adversaire, cette attaque inflige 80 dégâts supplémentaires.",
-                es: "Si alguno de tus Pokémon {D} quedó fuera de combate por el daño de un ataque durante el último turno de tu oponente, este ataque hace 80 puntos de daño más.",
-                it: "Se uno qualsiasi dei tuoi Pokémon {D} è stato messo KO dai danni di un attacco durante l'ultimo turno del tuo avversario, questo attacco infligge 80 danni in più.",
-                de: "Wenn eines deiner {D} Pokémon im letzten Zug deines Gegners durch Schaden durch einen Angriff kampfunfähig gemacht wurde, fügt dieser Angriff 80 weitere Schadenspunkte zu.",
-                "pt-br": "Se algum dos seus Pokémon {D} foi Nocauteado pelo dano de um ataque durante o último turno do seu oponente, este ataque causará 80 de dano a mais.",
-                "zh-tw": "如果你的任一隻 {D} 寶可夢在對手的最後回合中因攻擊傷害而被擊倒，則這次攻擊造成的傷害增加 80 點。",
+                fr: "Si au moins un de vos Pokémon {D} a été mis K.O. par les dégâts d'une attaque pendant le dernier tour de votre adversaire, cette attaque inflige 80 dégâts supplémentaires.",
+                es: "Si alguno de tus Pokémon {D} quedó Fuera de Combate por el daño de un ataque durante el último turno de tu rival, este ataque hace 80 puntos de daño más.",
+                it: "Se uno qualsiasi dei tuoi Pokémon {D} è stato messo KO dai danni inflitti da un attacco durante l’ultimo turno del tuo avversario, questo attacco infligge 80 danni in più.",
+                de: "Wenn mindestens 1 deiner {D}-Pokémon während des letzten Zuges deines Gegners durch Schaden einer Attacke kampfunfähig wurde, fügt diese Attacke 80 Schadenspunkte mehr zu.",
+                "pt-br": "Se algum dos seus Pokémon {D} tiver sido Nocauteado pelo dano de um ataque durante o último turno do seu oponente, este ataque causará 80 pontos de dano a mais.",
+                "zh-tw": "在上個對手的回合,若自己的{D}寶可夢因招式的傷害而昏厥了,則增加80點傷害。",
                 ja: "前の相手の番、ワザのダメージで、自分の{D}ポケモンがきぜつしていたなら、80ダメージ追加。",
                 ko: "상대의 이전 차례에 기술의 데미지로 자신의 {D}포켓몬이 기절했다면 80데미지를 추가한다."
             },

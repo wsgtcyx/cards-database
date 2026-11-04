@@ -36,8 +36,16 @@ const set: Set = {
 				ko: "프로모 카드 팩 A시리즈 제1탄"
 			},
 			artwork_front: {
-				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol1/artwork_front.webp"
-			},
+    "en": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol1/be1583a4a912a073/artwork_front.webp",
+    "fr": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol1/be1583a4a912a073/artwork_front.webp",
+    "es": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol1/be1583a4a912a073/artwork_front.webp",
+    "it": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol1/be1583a4a912a073/artwork_front.webp",
+    "de": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol1/be1583a4a912a073/artwork_front.webp",
+    "pt-br": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol1/be1583a4a912a073/artwork_front.webp",
+    "zh-tw": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol1/be1583a4a912a073/artwork_front.webp",
+    "ja": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol1/be1583a4a912a073/artwork_front.webp",
+    "ko": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol1/be1583a4a912a073/artwork_front.webp"
+},
 			logo: {
 				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol1/logo.webp"
 			}
@@ -55,8 +63,16 @@ const set: Set = {
 				ko: "프로모 카드 팩 A시리즈 제2탄"
 			},
 			artwork_front: {
-				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol2/artwork_front.webp"
-			},
+    "en": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol2/3a674726c64b26e0/artwork_front.webp",
+    "fr": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol2/3a674726c64b26e0/artwork_front.webp",
+    "es": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol2/3a674726c64b26e0/artwork_front.webp",
+    "it": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol2/3a674726c64b26e0/artwork_front.webp",
+    "de": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol2/3a674726c64b26e0/artwork_front.webp",
+    "pt-br": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol2/3a674726c64b26e0/artwork_front.webp",
+    "zh-tw": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol2/3a674726c64b26e0/artwork_front.webp",
+    "ja": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol2/3a674726c64b26e0/artwork_front.webp",
+    "ko": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol2/3a674726c64b26e0/artwork_front.webp"
+},
 			logo: {
 				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol2/logo.webp"
 			}
@@ -74,8 +90,16 @@ const set: Set = {
 				ko: "프로모 카드 팩 A시리즈 제3탄"
 			},
 			artwork_front: {
-				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol3/artwork_front.webp"
-			},
+    "en": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol3/fad69b5b4f1886cf/artwork_front.webp",
+    "fr": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol3/fad69b5b4f1886cf/artwork_front.webp",
+    "es": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol3/fad69b5b4f1886cf/artwork_front.webp",
+    "it": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol3/fad69b5b4f1886cf/artwork_front.webp",
+    "de": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol3/fad69b5b4f1886cf/artwork_front.webp",
+    "pt-br": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol3/fad69b5b4f1886cf/artwork_front.webp",
+    "zh-tw": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol3/fad69b5b4f1886cf/artwork_front.webp",
+    "ja": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol3/fad69b5b4f1886cf/artwork_front.webp",
+    "ko": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol3/fad69b5b4f1886cf/artwork_front.webp"
+},
 			logo: {
 				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol3/logo.webp"
 			}
@@ -93,8 +117,16 @@ const set: Set = {
 				ko: "프로모 카드 팩 A시리즈 제4탄"
 			},
 			artwork_front: {
-				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol4/artwork_front.webp"
-			},
+    "en": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol4/94e9baa377f7dace/artwork_front.webp",
+    "fr": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol4/94e9baa377f7dace/artwork_front.webp",
+    "es": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol4/94e9baa377f7dace/artwork_front.webp",
+    "it": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol4/94e9baa377f7dace/artwork_front.webp",
+    "de": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol4/94e9baa377f7dace/artwork_front.webp",
+    "pt-br": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol4/94e9baa377f7dace/artwork_front.webp",
+    "zh-tw": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol4/94e9baa377f7dace/artwork_front.webp",
+    "ja": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol4/94e9baa377f7dace/artwork_front.webp",
+    "ko": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol4/94e9baa377f7dace/artwork_front.webp"
+},
 			logo: {
 				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol4/logo.webp"
 			}
@@ -112,8 +144,16 @@ const set: Set = {
 				ko: "프로모 카드 팩 A시리즈 제5탄"
 			},
 			artwork_front: {
-				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol5/artwork_front.webp"
-			},
+    "en": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol5/c543ad5d4e6dd673/artwork_front.webp",
+    "fr": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol5/c543ad5d4e6dd673/artwork_front.webp",
+    "es": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol5/c543ad5d4e6dd673/artwork_front.webp",
+    "it": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol5/c543ad5d4e6dd673/artwork_front.webp",
+    "de": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol5/c543ad5d4e6dd673/artwork_front.webp",
+    "pt-br": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol5/c543ad5d4e6dd673/artwork_front.webp",
+    "zh-tw": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol5/c543ad5d4e6dd673/artwork_front.webp",
+    "ja": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol5/c543ad5d4e6dd673/artwork_front.webp",
+    "ko": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol5/c543ad5d4e6dd673/artwork_front.webp"
+},
 			logo: {
 				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol5/logo.webp"
 			}
@@ -131,8 +171,16 @@ const set: Set = {
 				ko: "프로모 카드 팩 A시리즈 제6탄"
 			},
 			artwork_front: {
-				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol6/artwork_front.webp"
-			},
+    "en": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol6/de969ed77eadead2/artwork_front.webp",
+    "fr": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol6/de969ed77eadead2/artwork_front.webp",
+    "es": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol6/de969ed77eadead2/artwork_front.webp",
+    "it": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol6/de969ed77eadead2/artwork_front.webp",
+    "de": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol6/de969ed77eadead2/artwork_front.webp",
+    "pt-br": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol6/de969ed77eadead2/artwork_front.webp",
+    "zh-tw": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol6/de969ed77eadead2/artwork_front.webp",
+    "ja": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol6/de969ed77eadead2/artwork_front.webp",
+    "ko": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol6/de969ed77eadead2/artwork_front.webp"
+},
 			logo: {
 				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol6/logo.webp"
 			}
@@ -150,8 +198,16 @@ const set: Set = {
 				ko: "프로모 카드 팩 A시리즈 제7탄"
 			},
 			artwork_front: {
-				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol7/artwork_front.webp"
-			},
+    "en": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol7/2ded48351ba4dc77/artwork_front.webp",
+    "fr": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol7/2ded48351ba4dc77/artwork_front.webp",
+    "es": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol7/2ded48351ba4dc77/artwork_front.webp",
+    "it": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol7/2ded48351ba4dc77/artwork_front.webp",
+    "de": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol7/2ded48351ba4dc77/artwork_front.webp",
+    "pt-br": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol7/2ded48351ba4dc77/artwork_front.webp",
+    "zh-tw": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol7/2ded48351ba4dc77/artwork_front.webp",
+    "ja": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol7/2ded48351ba4dc77/artwork_front.webp",
+    "ko": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol7/2ded48351ba4dc77/artwork_front.webp"
+},
 			logo: {
 				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol7/logo.webp"
 			}
@@ -169,8 +225,16 @@ const set: Set = {
 				ko: "프로모 카드 팩 A시리즈 제8탄"
 			},
 			artwork_front: {
-				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol8/artwork_front.webp"
-			},
+    "en": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol8/49e9157a6d15345e/artwork_front.webp",
+    "fr": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol8/49e9157a6d15345e/artwork_front.webp",
+    "es": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol8/49e9157a6d15345e/artwork_front.webp",
+    "it": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol8/49e9157a6d15345e/artwork_front.webp",
+    "de": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol8/49e9157a6d15345e/artwork_front.webp",
+    "pt-br": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol8/49e9157a6d15345e/artwork_front.webp",
+    "zh-tw": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol8/49e9157a6d15345e/artwork_front.webp",
+    "ja": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol8/49e9157a6d15345e/artwork_front.webp",
+    "ko": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol8/49e9157a6d15345e/artwork_front.webp"
+},
 			logo: {
 				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol8/logo.webp"
 			}
@@ -188,8 +252,16 @@ const set: Set = {
 				ko: "프로모 카드 팩 A시리즈 제9탄"
 			},
 			artwork_front: {
-				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol9/artwork_front.webp"
-			},
+    "en": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol9/d2520c94c0d8e978/artwork_front.webp",
+    "fr": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol9/d2520c94c0d8e978/artwork_front.webp",
+    "es": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol9/d2520c94c0d8e978/artwork_front.webp",
+    "it": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol9/d2520c94c0d8e978/artwork_front.webp",
+    "de": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol9/d2520c94c0d8e978/artwork_front.webp",
+    "pt-br": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol9/d2520c94c0d8e978/artwork_front.webp",
+    "zh-tw": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol9/d2520c94c0d8e978/artwork_front.webp",
+    "ja": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol9/d2520c94c0d8e978/artwork_front.webp",
+    "ko": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol9/d2520c94c0d8e978/artwork_front.webp"
+},
 			logo: {
 				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol9/logo.webp"
 			}
@@ -207,8 +279,16 @@ const set: Set = {
 				ko: "프로모 카드 팩 A시리즈 제10탄"
 			},
 			artwork_front: {
-				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol10/artwork_front.webp"
-			},
+    "en": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol10/ddfcd64c01166fe8/artwork_front.webp",
+    "fr": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol10/ddfcd64c01166fe8/artwork_front.webp",
+    "es": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol10/ddfcd64c01166fe8/artwork_front.webp",
+    "it": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol10/ddfcd64c01166fe8/artwork_front.webp",
+    "de": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol10/ddfcd64c01166fe8/artwork_front.webp",
+    "pt-br": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol10/ddfcd64c01166fe8/artwork_front.webp",
+    "zh-tw": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol10/ddfcd64c01166fe8/artwork_front.webp",
+    "ja": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol10/ddfcd64c01166fe8/artwork_front.webp",
+    "ko": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol10/ddfcd64c01166fe8/artwork_front.webp"
+},
 			logo: {
 				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol10/logo.webp"
 			}
@@ -226,8 +306,16 @@ const set: Set = {
 				ko: "프로모 카드 팩 A시리즈 제11탄"
 			},
 			artwork_front: {
-				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol11/artwork_front.webp"
-			},
+    "en": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol11/1d1c86eea404918b/artwork_front.webp",
+    "fr": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol11/1d1c86eea404918b/artwork_front.webp",
+    "es": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol11/1d1c86eea404918b/artwork_front.webp",
+    "it": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol11/1d1c86eea404918b/artwork_front.webp",
+    "de": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol11/1d1c86eea404918b/artwork_front.webp",
+    "pt-br": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol11/1d1c86eea404918b/artwork_front.webp",
+    "zh-tw": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol11/1d1c86eea404918b/artwork_front.webp",
+    "ja": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol11/1d1c86eea404918b/artwork_front.webp",
+    "ko": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol11/1d1c86eea404918b/artwork_front.webp"
+},
 			logo: {
 				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol11/logo.webp"
 			}
@@ -245,8 +333,16 @@ const set: Set = {
 				ko: "프로모 카드 팩 A시리즈 제12탄"
 			},
 			artwork_front: {
-				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol12/artwork_front.webp"
-			},
+    "en": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol12/30921197f38c43ab/artwork_front.webp",
+    "fr": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol12/30921197f38c43ab/artwork_front.webp",
+    "es": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol12/30921197f38c43ab/artwork_front.webp",
+    "it": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol12/30921197f38c43ab/artwork_front.webp",
+    "de": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol12/30921197f38c43ab/artwork_front.webp",
+    "pt-br": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol12/30921197f38c43ab/artwork_front.webp",
+    "zh-tw": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol12/30921197f38c43ab/artwork_front.webp",
+    "ja": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol12/30921197f38c43ab/artwork_front.webp",
+    "ko": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol12/30921197f38c43ab/artwork_front.webp"
+},
 			logo: {
 				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol12/logo.webp"
 			}
@@ -264,8 +360,16 @@ const set: Set = {
 				ko: "프로모 카드 팩 A시리즈 제13탄"
 			},
 			artwork_front: {
-				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol13/artwork_front.webp"
-			},
+    "en": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol13/03e831c50885200a/artwork_front.webp",
+    "fr": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol13/03e831c50885200a/artwork_front.webp",
+    "es": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol13/03e831c50885200a/artwork_front.webp",
+    "it": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol13/03e831c50885200a/artwork_front.webp",
+    "de": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol13/03e831c50885200a/artwork_front.webp",
+    "pt-br": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol13/03e831c50885200a/artwork_front.webp",
+    "zh-tw": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol13/03e831c50885200a/artwork_front.webp",
+    "ja": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol13/03e831c50885200a/artwork_front.webp",
+    "ko": "https://game.pokemontcgpocket.app/univ/tcgp/P-A/boosters/vol13/03e831c50885200a/artwork_front.webp"
+},
 			logo: {
 				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol13/logo.webp"
 			}

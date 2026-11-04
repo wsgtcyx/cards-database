@@ -4,14 +4,16 @@ import Set from "../Promos-A";
 const card: Card = {
 	set: Set,
 	image: {
-		en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/116",
-		fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/116",
-		es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/116",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/116",
-		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/116",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/116",
-		ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/116"
-	},
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/116/a59cf2d18ef2b74a",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/116/a59cf2d18ef2b74a",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/116/a59cf2d18ef2b74a",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/116/a59cf2d18ef2b74a",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/116/a59cf2d18ef2b74a",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/116/a59cf2d18ef2b74a",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/116/a59cf2d18ef2b74a",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/116/a59cf2d18ef2b74a",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/116/a59cf2d18ef2b74a"
+    },
 	name: {
 		en: "Shaymin",
 		fr: "Shaymin",
@@ -37,7 +39,7 @@ const card: Card = {
 		"pt-br": "Pode dissolver toxinas no ar para instantaneamente\ntransformar terras arruinadas em campos\nde flores deslumbrantes.",
 		ja: "大気の 毒素を 分解して 荒れた 大地を 一瞬のうちに 花畑にする 力を 持つ。",
 		ko: "대기의 독소를 분해해서\n거칠어진 대지를 일순간에\n꽃밭으로 만드는 힘을 가지고 있다.",
-		"zh-tw": "它可以溶解空氣中的毒素，讓荒蕪的土地瞬間變成茂盛的花田。"
+		"zh-tw": "有著能分解大氣中的毒素，並將荒蕪的大地瞬間變成一片花園的力量。"
 	},
 	stage: "Basic",
 	abilities: [
@@ -63,7 +65,7 @@ const card: Card = {
 				"pt-br": "Uma vez durante o seu turno, você poderá curar 10 pontos de dano de cada um dos seus Pokémon.",
 				ja: "自分の番に1回使える。自分のポケモン全員のHPを10回復。",
 				ko: "자신의 차례에 1번 사용할 수 있다. 자신의 포켓몬 전원의 HP를 10회복.",
-				"zh-tw": "在你的回合中，你可以治療每隻神奇寶貝造成的 10 點傷害。"
+				"zh-tw": "在自己的回合時,可使用1次。將自己的所有寶可夢恢復10HP。"
 			}
 		}
 	],
@@ -78,7 +80,7 @@ const card: Card = {
 				"pt-br": "Baque",
 				ja: "はねまわる",
 				ko: "돌아다니며 뛰기",
-				"zh-tw": "翻牌"
+				"zh-tw": "活蹦亂跳"
 			},
 			damage: 30,
 			cost: ["Grass", "Colorless"]

@@ -2,16 +2,17 @@ import { Card } from "../../../interfaces";
 import Set from "../Promos-A";
 const card: Card = {
     set: Set,
+    boosters: ["vol11"],
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/097",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/097",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/097",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/097",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/097",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/097",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/097",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/097",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/097"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/097/9afbb33fd0dfe6fe",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/097/9afbb33fd0dfe6fe",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/097/9afbb33fd0dfe6fe",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/097/9afbb33fd0dfe6fe",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/097/9afbb33fd0dfe6fe",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/097/9afbb33fd0dfe6fe",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/097/9afbb33fd0dfe6fe",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/097/9afbb33fd0dfe6fe",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/097/9afbb33fd0dfe6fe"
     },
     name: {
         en: "Kangaskhan",
@@ -31,12 +32,12 @@ const card: Card = {
     types: ["Colorless"],
     description: {
         en: "Although it's carrying its baby in a pouch on\nits belly, Kangaskhan is swift on its feet. It\nintimidates its opponents with quick jabs.",
-        "fr": "Bien qu'il porte son bébé dans une pochette\nson ventre, Kangaskhan est rapide sur ses pattes. Il\nintimide ses adversaires avec des coups rapides.",
-        "es": "Aunque lleva a su bebé en una bolsa\nsu vientre, Kangaskhan es veloz de pies. eso\nintimida a sus oponentes con golpes rápidos.",
-        "it": "Anche se porta il suo bambino in un marsupio\nil suo ventre, Kangaskhan è veloce in piedi. Esso\nintimidisce i suoi avversari con colpi rapidi.",
-        "de": "Obwohl es sein Baby in einem Beutel trägt\nMit seinem Bauch ist Kangaskhan schnell auf den Beinen. Es\nschüchtert seine Gegner mit schnellen Stößen ein.",
-        "pt-br": "Embora esteja carregando seu bebê em uma bolsa\nsua barriga, Kangaskhan é rápido. Isso\nintimida seus oponentes com golpes rápidos.",
-        "zh-tw": "雖然它把寶寶裝在育兒袋裡\n坎加斯坎的腹部，腳步敏捷。它\n用快速刺拳恐嚇對手。",
+        "fr": "Porter son petit dans sa poche ventrale ne l'empêche pas d'avoir un bon jeu de jambes. Ses coups rapides intimident ses ennemis.",
+        "es": "Aunque lleve una cría en el marsupio, su juego de pies no pierde ligereza. Abruma al rival con ráfagas de ágiles puñetazos.",
+        "it": "Ha un agile gioco di gambe, nonostante si porti appresso il cucciolo nel marsupio ventrale. Intimidisce gli avversari con jab velocissimi.",
+        "de": "Obwohl es sein Junges im Beutel trägt, bewegt sich dieses Pokémon äußerst leichtfüßig. Gegner schreckt Kangama mit blitzschnellen Schlägen ab.",
+        "pt-br": "Apesar de carregar seu bebê na bolsa em sua barriga, Kangaskhan é veloz. Intimida seus oponentes com golpes rápidos.",
+        "zh-tw": "腹部的袋子裡裝著孩子，但是步法非常輕盈。會用高速的刺拳威嚇對手。",
         ja: "腹の 袋に 子どもが いるが フットワークは とても 軽い。 素早いジャブで 相手を 威嚇。",
         ko: "배의 주머니에 새끼가 있지만\n발놀림은 매우 가볍다.\n재빠른 잽으로 상대를 위협한다."
     },
@@ -44,12 +45,12 @@ const card: Card = {
     attacks: [{
             name: {
                 en: "Cross-Cut",
-                "fr": "Coupe transversale",
-                "es": "Corte transversal",
-                "it": "Taglio trasversale",
-                "de": "Querschnitt",
-                "pt-br": "Corte transversal",
-                "zh-tw": "橫切",
+                "fr": "Coupe Transversale",
+                "es": "Atajar",
+                "it": "Fendente Incrociato",
+                "de": "Überkreuzzerschneider",
+                "pt-br": "Corte em Cruz",
+                "zh-tw": "揮擊",
                 ja: "ふりおろす",
                 ko: "내리치기"
             },
@@ -57,12 +58,12 @@ const card: Card = {
             cost: ["Colorless"],
             effect: {
                 en: "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 40 more damage.",
-                "fr": "Si le Pokémon Actif de votre adversaire est un Pokémon Evolution, cette attaque inflige 40 dégâts supplémentaires.",
+                "fr": "Si le Pokémon Actif de votre adversaire est un Pokémon Évolutif, cette attaque inflige 40 dégâts supplémentaires.",
                 "es": "Si el Pokémon Activo de tu rival es un Pokémon Evolución, este ataque hace 40 puntos de daño más.",
                 "it": "Se il Pokémon attivo del tuo avversario è un Pokémon Evoluzione, questo attacco infligge 40 danni in più.",
-                "de": "Wenn das Aktive Pokémon deines Gegners ein Evolutions-Pokémon ist, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
-                "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon de Evolução, este ataque causará 40 de dano a mais.",
-                "zh-tw": "如果對手的活躍寶可夢是進化寶可夢，則這次攻擊造成的傷害增加 40 點。",
+                "de": "Wenn das Aktive Pokémon deines Gegners ein Entwicklungs-Pokémon ist, fügt diese Attacke 40 Schadenspunkte mehr zu.",
+                "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon de Evolução, este ataque causará 40 pontos de dano a mais.",
+                "zh-tw": "若對手的戰鬥寶可夢為進化寶可夢,則增加40點傷害。",
                 ja: "相手のバトルポケモンが進化ポケモンなら、40ダメージ追加。",
                 ko: "상대의 배틀 포켓몬이 진화 포켓몬이라면 40데미지를 추가한다."
             }

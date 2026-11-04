@@ -2,16 +2,17 @@ import { Card } from "../../../interfaces";
 import Set from "../Promos-A";
 const card: Card = {
     set: Set,
+    boosters: [],
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/084",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/084",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/084",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/084",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/084",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/084",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/084",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/084",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/084"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/084/a0bb8862b8eb3ea4",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/084/a0bb8862b8eb3ea4",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/084/a0bb8862b8eb3ea4",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/084/a0bb8862b8eb3ea4",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/084/a0bb8862b8eb3ea4",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/084/a0bb8862b8eb3ea4",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/084/a0bb8862b8eb3ea4",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/084/a0bb8862b8eb3ea4",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/084/a0bb8862b8eb3ea4"
     },
     name: {
         en: "Tapu Koko ex",
@@ -35,9 +36,9 @@ const card: Card = {
             name: {
                 en: "Plasma Hurricane",
                 es: "Huracán Plasma",
-                "fr": "Ouragan plasmatique",
-                "it": "Uragano al plasma",
-                "de": "Plasma-Hurrikan",
+                "fr": "Ouragan Plasma",
+                "it": "Plasmauragano",
+                "de": "Plasmaorkan",
                 "pt-br": "Furacão de Plasma",
                 "zh-tw": "等離子颶風",
                 ja: "プラズマハリケーン",
@@ -48,11 +49,11 @@ const card: Card = {
             effect: {
                 en: "Take a {L} Energy from your Energy Zone and attach it to this Pokémon.",
                 es: "Une 1 Energía {L} de tu área de Energía a este Pokémon.",
-                "fr": "Prenez une Énergie {L} de votre Zone d'Énergie et attachez-la à ce Pokémon.",
-                "it": "Prendi un'Energia {L} dalla tua Zona Energetica e assegnala a questo Pokémon.",
-                "de": "Nimm eine {L}-Energie aus deiner Energiezone und lege sie an dieses Pokémon an.",
-                "pt-br": "Pegue uma Energia {L} da sua Zona de Energia e ligue-a a este Pokémon.",
-                "zh-tw": "從你的能量區取出一個{L}能量並將其附加到該神奇寶貝上。",
+                "fr": "Prenez une Énergie {L} de votre zone Énergie et attachez-la à ce Pokémon.",
+                "it": "Prendi un’Energia {L} dalla tua Zona Energia e assegnala a questo Pokémon.",
+                "de": "Lege 1 {L}-Energie aus deinem Energiebereich an dieses Pokémon an.",
+                "pt-br": "Pegue 1 Energia {L} da sua Zona de Energia e ligue-a a este Pokémon.",
+                "zh-tw": "從自己的能量區抽出1個{L}能量,附於這隻寶可夢身上。",
                 ja: "自分のエネルギーゾーンから{L}エネルギーを1個出し、このポケモンにつける。",
                 ko: "자신의 에너지존에서 {L}에너지를 1개 내보내 이 포켓몬에게 붙인다."
             }
@@ -61,11 +62,11 @@ const card: Card = {
             name: {
                 en: "Mach Bolt",
                 es: "Rayo Mach",
-                "fr": "Boulon de Mach",
-                "it": "Mach Bolt",
-                "de": "Mach Bolt",
-                "pt-br": "Parafuso Mach",
-                "zh-tw": "馬赫螺栓",
+                "fr": "Éclair Fulgurant",
+                "it": "Fulmine Mach",
+                "de": "Flotter Sprung",
+                "pt-br": "Raio Supersônico",
+                "zh-tw": "音速伏特",
                 ja: "マッハボルト",
                 ko: "마하볼트"
             },

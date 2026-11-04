@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "setId": "P-C",
+  "counts": {
+    "cards": 13,
+    "locales": 9,
+    "findings": 0
+  },
+  "tokenChecks": {
+    "exact": 108,
+    "reviewedExceptions": [],
+    "unresolved": 0
+  },
+  "findings": [],
+  "passed": true,
+  "reviewedCardsSha256": "c2e0fb73eedf47592f5fbb6dc68e0b3797881438c30ddc2c6d8595a2961351e4"
+}

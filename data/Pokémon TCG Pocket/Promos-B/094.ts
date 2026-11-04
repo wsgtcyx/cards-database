@@ -3,7 +3,17 @@ import Set from "../Promos-B";
 
 const card: Card = {
     set: Set,
-    image: { en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/094", fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/094", es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/094", it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/094", de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/094", "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/094", "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/094", ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/094", ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/094" },
+    image: {
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/094/368953e4fbe9dae4",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/094/368953e4fbe9dae4",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/094/368953e4fbe9dae4",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/094/368953e4fbe9dae4",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/094/368953e4fbe9dae4",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/094/368953e4fbe9dae4",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/094/368953e4fbe9dae4",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/094/368953e4fbe9dae4",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/094/368953e4fbe9dae4"
+    },
     name: { en: "Meowstic", fr: "Mistigrix", es: "Meowstic", it: "Meowstic", de: "Psiaugon", "pt-br": "Meowstic", "zh-tw": "超能妙喵", ko: "냐오닉스", ja: "ニャオニクス" },
     illustrator: "Kagemaru Himeno",
     rarity: "Three Diamond",

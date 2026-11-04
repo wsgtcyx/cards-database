@@ -4,14 +4,16 @@ import Set from "../Promos-A";
 const card: Card = {
 	set: Set,
 	image: {
-		en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/110",
-		fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/110",
-		es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/110",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/110",
-		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/110",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/110",
-		ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/110"
-	},
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/110/2a6c1f4b9a2790cc",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/110/2a6c1f4b9a2790cc",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/110/2a6c1f4b9a2790cc",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/110/2a6c1f4b9a2790cc",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/110/2a6c1f4b9a2790cc",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/110/2a6c1f4b9a2790cc",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/110/2a6c1f4b9a2790cc",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/110/2a6c1f4b9a2790cc",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/110/2a6c1f4b9a2790cc"
+    },
 	name: {
 		en: "Entei ex",
 		fr: "Entei-ex",
@@ -37,7 +39,7 @@ const card: Card = {
 				en: "Legendary Pulse",
 				fr: "Impulsion légendaire",
 				es: "Pulso legendario",
-				it: "Impulso leggendario",
+				it: "Pulsazione Leggendaria",
 				de: "Legendärer Puls",
 				"pt-br": "Pulso Lendário",
 				"zh-tw": "傳奇脈搏",
@@ -46,12 +48,12 @@ const card: Card = {
 			},
 			effect: {
 				en: "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
-				fr: "A la fin de votre tour, si ce Pokémon est dans le Spot Actif, piochez une carte.",
-				es: "Al final de tu turno, si este Pokémon está en el Punto Activo, roba una carta.",
+				fr: "À la fin de votre tour, si ce Pokémon est sur le Poste Actif, piochez une carte.",
+				es: "Al final de tu turno, si este Pokémon está en el Puesto Activo, roba 1 carta.",
 				it: "Alla fine del tuo turno, se questo Pokémon è in posizione attiva, pesca una carta.",
-				de: "Wenn sich dieses Pokémon am Ende deines Zuges an der aktiven Stelle befindet, ziehe eine Karte.",
-				"pt-br": "No final do seu turno, se este Pokémon estiver no Local Ativo, compre um card.",
-				"zh-tw": "在你的回合結束時，如果這只神奇寶貝位於活躍位置，抽一張卡。",
+				de: "Am Ende deines Zuges, wenn dieses Pokémon in der Aktiven Position ist, ziehe 1 Karte.",
+				"pt-br": "No final do seu turno, se este Pokémon estiver no Campo Ativo, compre 1 carta.",
+				"zh-tw": "在自己的回合結束時,若這隻寶可夢在戰鬥場上,則從自己的牌庫抽出1張卡。",
 				ja: "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を1枚引く。",
 				ko: "자신의 차례의 마지막에 이 포켓몬이 배틀필드에 있다면 자신의 덱을 1장 뽑는다."
 			}
@@ -61,12 +63,12 @@ const card: Card = {
 		{
 			name: {
 				en: "Blazing Beatdown",
-				fr: "Battement fulgurant",
-				es: "Paliza ardiente",
-				it: "Sconfitta fiammeggiante",
-				de: "Flammender Beatdown",
-				"pt-br": "Beatdown ardente",
-				"zh-tw": "熾熱的擊敗",
+				fr: "Dérouillée Flamboyante",
+				es: "Paliza Abrasadora",
+				it: "Batosta Rovente",
+				de: "Lodernder Niederprügler",
+				"pt-br": "Batida Escaldante",
+				"zh-tw": "火焰奏擊",
 				ja: "ブレイズビート",
 				ko: "블레이즈비트"
 			},
@@ -74,12 +76,12 @@ const card: Card = {
 			cost: ["Fire", "Fire"],
 			effect: {
 				en: "If this Pokémon has at least 2 extra {R} Energy attached, this attack does 60 more damage.",
-				fr: "Si ce Pokémon a au moins 2 Énergies {R} supplémentaires attachées, cette attaque inflige 60 dégâts supplémentaires.",
-				es: "Si este Pokémon tiene al menos 2 Energías {R} extra unidas, este ataque hace 60 puntos de daño más.",
-				it: "Se questo Pokémon ha almeno due Energie {R} extra assegnate, questo attacco infligge 60 danni in più.",
-				de: "Wenn an dieses Pokémon mindestens 2 zusätzliche {R}-Energien angelegt sind, fügt dieser Angriff 60 Schadenspunkte mehr zu.",
-				"pt-br": "Se este Pokémon tiver pelo menos 2 energias {R} extras anexadas, este ataque causará 60 de dano a mais.",
-				"zh-tw": "如果這只神奇寶貝附加了至少 2 個額外的 {R} 能量，則此攻擊造成的傷害增加 60 點。",
+				fr: "Si ce Pokémon a au moins 2 Énergies {R} de plus, cette attaque inflige 60 dégâts supplémentaires.",
+				es: "Si este Pokémon tiene por lo menos 2 Energías {R} adicionales unidas a él, este ataque hace 60 puntos de daño más.",
+				it: "Se questo Pokémon ha almeno 2 Energie {R} extra assegnate, questo attacco infligge 60 danni in più.",
+				de: "Wenn an dieses Pokémon mindestens 2 extra {R}-Energien angelegt sind, fügt diese Attacke 60 Schadenspunkte mehr zu.",
+				"pt-br": "Se este Pokémon tiver pelo menos 2 Energias {R} extras ligadas a ele, este ataque causará 60 pontos de dano a mais.",
+				"zh-tw": "若額外附有2個{R}能量,則增加60點傷害。",
 				ja: "追加で{R}エネルギーが2個ついているなら、60ダメージ追加。",
 				ko: "{R}에너지 2개가 추가로 붙어 있다면 60데미지를 추가한다."
 			}

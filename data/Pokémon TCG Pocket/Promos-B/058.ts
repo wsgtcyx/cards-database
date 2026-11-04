@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/058",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/058",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/058",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/058",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/058",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/058",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/058",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/058",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/058"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/058/f9ce9064a756b552",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/058/f9ce9064a756b552",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/058/f9ce9064a756b552",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/058/f9ce9064a756b552",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/058/f9ce9064a756b552",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/058/f9ce9064a756b552",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/058/f9ce9064a756b552",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/058/f9ce9064a756b552",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/058/f9ce9064a756b552"
     },
     name: {
         en: "Tepig",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "ポカブ"
     },
     illustrator: "Kouki Saitou",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     hp: 60,
     types: ["Fire"],
@@ -34,12 +34,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "This Pokémon is a ravenous glutton. It uses its excellent sense of smell to find food, then cooks it to a crisp before eating.",
-        fr: "Ce Pokémon est un glouton vorace. Il utilise son excellent odorat pour trouver de la nourriture, puis la fait cuire jusqu'à ce qu'elle soit croustillante avant de la manger.",
-        es: "Este Pokémon es un glotón voraz. Utiliza su excelente sentido del olfato para encontrar comida y luego la cocina hasta que quede crujiente antes de comerla.",
-        it: "Questo Pokémon è un ghiottone famelico. Usa il suo eccellente senso dell'olfatto per trovare il cibo, quindi lo cuoce fino a renderlo croccante prima di mangiarlo.",
-        de: "Dieses Pokémon ist ein gefräßiger Vielfraß. Es nutzt seinen hervorragenden Geruchssinn, um Nahrung zu finden und diese vor dem Verzehr knusprig zuzubereiten.",
-        "pt-br": "Este Pokémon é um glutão voraz. Ele usa seu excelente olfato para encontrar comida e depois cozinha até ficar crocante antes de comer.",
-        "zh-tw": "這隻寶可夢是貪食者。它利用其出色的嗅覺來尋找食物，然後將其煮至酥脆後再食用。",
+        fr: "Ce Pokémon glouton possède un appétit vorace. Il trouve sa nourriture grâce à son odorat fin et la grille avant de la déguster.",
+        es: "Es un glotón insaciable. Encuentra alimento con su agudo sentido del olfato, para luego tostarlo bien antes de ingerirlo.",
+        it: "È un insaziabile ghiottone. Usa il suo sensibilissimo naso per scovare il cibo, che mangia dopo averlo abbrustolito a puntino.",
+        de: "Dieser gierige Nimmersatt spürt Nahrung mit seinem ausgezeichneten Geruchssinn auf und röstet diese, bevor er sie verspeist.",
+        "pt-br": "Este Pokémon é muito glutão. Usa seu excelente faro para encontrar comida, depois a cozinha até ficar bem torrada antes de comer.",
+        "zh-tw": "貪吃無比的大胃王。會用靈敏的鼻子找出食物，將其烤到恰到好處再享用。",
         ja: "食いしん坊の 大食漢。 よく利く 鼻で エサを 見つけだし こんがり 焼きあげてから いただく。",
         ko: "먹을 것을 좋아하는 대식가다.\n뛰어난 후각으로 먹이를 찾아낸 다음\n바싹 익혀서 먹는다."
     },
@@ -59,12 +59,12 @@ const card: Card = {
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 30 more damage.",
-                fr: "Lancez une pièce de monnaie. Si c’est face, cette attaque inflige 30 dégâts supplémentaires.",
-                es: "Lanza una moneda. Si sale cara, este ataque hace 30 puntos de daño más.",
+                fr: "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus.",
+                es: "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño más.",
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
-                de: "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
-                "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
-                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
+                de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 30 Schadenspunkte mehr zu.",
+                "pt-br": "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
+                "zh-tw": "擲1次硬幣若為正面,則增加30點傷害。",
                 ja: "コインを1回投げオモテなら、30ダメージ追加。",
                 ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
             },

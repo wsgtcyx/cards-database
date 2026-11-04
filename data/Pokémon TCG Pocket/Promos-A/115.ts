@@ -4,14 +4,16 @@ import Set from "../Promos-A";
 const card: Card = {
 	set: Set,
 	image: {
-		en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/115",
-		fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/115",
-		es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/115",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/115",
-		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/115",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/115",
-		ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/115"
-	},
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/115/a17d2daf163e83de",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/115/a17d2daf163e83de",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/115/a17d2daf163e83de",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/115/a17d2daf163e83de",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/115/a17d2daf163e83de",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/115/a17d2daf163e83de",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/115/a17d2daf163e83de",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/115/a17d2daf163e83de",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/115/a17d2daf163e83de"
+    },
 	name: {
 		en: "Regigigas",
 		fr: "Regigigas",
@@ -37,7 +39,7 @@ const card: Card = {
 		"pt-br": "Diz-se que criaram Pokémon parecidos com eles mesmos\nde uma montanha de gelo especial, rochas e magma.",
 		ja: "特殊な 氷山や 岩石 マグマから 自分の 姿に 似た ポケモンを つくったと 言われる。",
 		ko: "특수한 빙산이나 암석,\n마그마에서 자신의 모습과 닮은\n포켓몬을 만들었다고 전해진다.",
-		"zh-tw": "據說，它用特殊的冰山、岩石和岩漿創造了與自己相似的神奇寶貝。"
+		"zh-tw": "據說牠以特殊的冰山、岩石和熔岩做出了神似自己的寶可夢。"
 	},
 	stage: "Basic",
 	attacks: [
@@ -51,7 +53,7 @@ const card: Card = {
 				"pt-br": "Martelo Feroz",
 				ja: "レイジングハンマー",
 				ko: "레이징해머",
-				"zh-tw": "狂怒之鎚"
+				"zh-tw": "激怒之錘"
 			},
 			damage: "50+",
 			cost: ["Colorless", "Colorless", "Colorless", "Colorless"],
@@ -64,7 +66,7 @@ const card: Card = {
 				"pt-br": "Este ataque causa dano a mais, equivalente ao dano que este Pokémon tiver nele.",
 				ja: "このポケモンが受けているダメージぶん、ダメージ追加。",
 				ko: "이 포켓몬이 받고 있는 데미지만큼 데미지를 추가한다.",
-				"zh-tw": "這次攻擊造成的傷害等於該神奇寶貝對其造成的傷害。"
+				"zh-tw": "增加與這隻寶可夢已受到的傷害相同數值的傷害。"
 			}
 		}
 	],

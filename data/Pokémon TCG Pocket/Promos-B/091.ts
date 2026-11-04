@@ -3,7 +3,17 @@ import Set from "../Promos-B";
 
 const card: Card = {
     set: Set,
-    image: { en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/091", fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/091", es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/091", it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/091", de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/091", "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/091", "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/091", ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/091", ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/091" },
+    image: {
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/091/08ed55df0de60ae0",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/091/08ed55df0de60ae0",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/091/08ed55df0de60ae0",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/091/08ed55df0de60ae0",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/091/08ed55df0de60ae0",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/091/08ed55df0de60ae0",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/091/08ed55df0de60ae0",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/091/08ed55df0de60ae0",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/091/08ed55df0de60ae0"
+    },
     name: { en: "Team Rocket's Wobbuffet", fr: "Qulbutoké de la Team Rocket", es: "Wobbuffet del Team Rocket", it: "Wobbuffet del Team Rocket", de: "Team Rockets Woingenau", "pt-br": "Wobbuffet da Equipe Rocket", "zh-tw": "火箭隊的果然翁", ko: "로켓단의 마자용", ja: "ロケット団のソーナンス" },
     illustrator: "cochi8i",
     rarity: "Three Diamond",
@@ -12,7 +22,7 @@ const card: Card = {
     types: ["Psychic"],
     dexId: [202],
     stage: "Basic",
-    description: { en: "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.", fr: "Pour cacher sa queue noire, il vit tranquillement dans l'obscurité. Ce n'est jamais le premier à attaquer.", es: "Para mantener oculta su cola negra como boca de lobo, vive tranquilamente en la oscuridad. Nunca es el primero en atacar.", it: "Vive nel silenzio e nell'oscurità per nascondere la coda nera come la pece. Non attacca mai per primo.", de: "Es lebt in der Dunkelheit, um seinen schwarzen Schweif zu verstecken. Es greift nie zuerst an.", "pt-br": "Para manter sua cauda preta escondida, ele vive em silêncio na escuridão. Nunca é o primeiro a atacar.", "zh-tw": "為了隱藏漆黑的尾巴，它安靜地生活在黑暗中。它永遠不會首先進攻。", ja: "真っ黒な 尻尾を 隠すため 暗闇で ひっそりと 生きている。 自分からは 攻撃しない。", ko: "새까만 꼬리를 숨기기 위해\n어둠 속에서 은밀히 지내고 있다.\n자신이 먼저 공격하는 일은 없다." },
+    description: { en: "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.", fr: "Il vit discrètement dans l'obscurité pour cacher sa queue noire. Il n'attaque jamais en premier.", es: "Para mantener oculta su negra cola, vive en silencio en la oscuridad. Nunca ataca primero.", it: "Vive nel silenzio e nell'oscurità per nascondere la coda nera come la pece. Non attacca mai per primo.", de: "Es lebt in der Dunkelheit, um seinen schwarzen Schweif zu verstecken. Es greift nie zuerst an.", "pt-br": "Para manter sua cauda preta oculta, vive discretamente na escuridão. Ele nunca é o primeiro a atacar.", "zh-tw": "為了隱藏漆黑的尾巴而悄悄地生活在黑暗之中。不會主動發動攻擊。", ja: "真っ黒な 尻尾を 隠すため 暗闇で ひっそりと 生きている。 自分からは 攻撃しない。", ko: "새까만 꼬리를 숨기기 위해\n어둠 속에서 은밀히 지내고 있다.\n자신이 먼저 공격하는 일은 없다." },
     attacks: [{
         cost: ["Colorless", "Colorless"],
         name: { en: "Rocket Frenzy", fr: "Frénésie Rocket", es: "Frenesí Rocket", it: "Rocketmania", de: "Rocket-Fieber", "pt-br": "Frenesi Rocket", "zh-tw": "火箭狂熱", ja: "ロケットフィーバー", ko: "로켓피버" },

@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/017",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/017",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/017",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/017",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/017",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/017",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/017",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/017",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/017"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/017/7123fe91038afe61",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/017/7123fe91038afe61",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/017/7123fe91038afe61",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/017/7123fe91038afe61",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/017/7123fe91038afe61",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/017/7123fe91038afe61",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/017/7123fe91038afe61",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/017/7123fe91038afe61",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/017/7123fe91038afe61"
     },
     name: {
         en: "Mankey",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "猴怪"
     },
     illustrator: "Souichirou Gunjima",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     types: ["Fighting"],
     stage: "Basic",
@@ -39,7 +39,7 @@ const card: Card = {
                 'pt-br': "Carga Indomável",
                 ja: "とつげき",
                 ko: "돌격",
-                "zh-tw": "魯莽衝鋒"
+                "zh-tw": "突擊"
             },
             cost: ["Fighting"],
             damage: 30,
@@ -52,7 +52,7 @@ const card: Card = {
                 'pt-br': "Este Pokémon também causa 10 pontos de dano a si mesmo.",
                 ja: "このポケモンにも10ダメージ。",
                 ko: "이 포켓몬에게도 10데미지를 준다.",
-                "zh-tw": "該神奇寶貝也會對其自身造成 10 點傷害。"
+                "zh-tw": "這隻寶可夢也受到10點傷害。"
             }
         }],
     hp: 50,
@@ -65,7 +65,7 @@ const card: Card = {
         'pt-br': "Vive em grupo no topo de árvores.\nSe perde seu grupo de vista, a solidão\ndeixa este Pokémon furioso.",
         ja: "木の上で 群れをつくって 暮らす。 群れから はぐれた マンキーは 寂しくて すぐに 怒りだす。",
         ko: "나무 위에 무리 지어 산다.\n무리에서 떨어진 망키는\n외로운 나머지 금방 화를 낸다.",
-        "zh-tw": "它成群生活在樹頂。如果它失去了視線\n它的群體，它因孤獨而變得憤怒。"
+        "zh-tw": "在樹上群居的寶可夢。和夥伴走散的猴怪會因為按捺不住寂寞而動不動就生氣。"
     },
     weaknesses: [{
             type: "Psychic",

@@ -1,0 +1,33 @@
+{
+  "set": "P-B",
+  "number": 6,
+  "locale": "es",
+  "adopted": {
+    "set": "P-B",
+    "number": 6,
+    "locale": "es",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/es/006.png",
+    "url": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/es/PK_90_012950_00.png",
+    "sha256": "768712771b1849dbae5ef01d948cce24b10d694afecbf98bf4ce7c18dbfd3356",
+    "bytes": 356330,
+    "size": [
+      367,
+      512
+    ],
+    "sourceCardId": "PK_90_012950_00"
+  },
+  "rejected": {
+    "set": "P-B",
+    "number": 6,
+    "locale": "es",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/es/006.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/6_es.png",
+    "sha256": "952e4e5c43556a441713acc0d3c9a7abb1f4563c6db558ee50a0c9718cec286c",
+    "bytes": 327585,
+    "size": [
+      367,
+      512
+    ]
+  },
+  "reason": "PokeOS card image says all heads (cara) fails, contradicting game mechanics. Independently sourced RaenonX image says all tails (cruz) fails; visually reviewed by API agent and consistent with game dictionary."
+}

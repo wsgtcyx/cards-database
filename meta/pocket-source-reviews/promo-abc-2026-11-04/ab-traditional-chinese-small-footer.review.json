@@ -1,0 +1,235 @@
+{
+  "schemaVersion": 1,
+  "decisions": [
+    {
+      "cardId": "P-A-010",
+      "locale": "zh-tw",
+      "path": "description",
+      "expectedCurrent": "它是由一位科學家在經歷了多年的可怕經歷後創造出來的\n基因剪接和 DNA 工程實驗。",
+      "value": "牠是某位科學家長年累月持續進行可怕的基因研究所誕生的成果。",
+      "review": "Promo native footer and ordinary-print native footer independently read and compared; master shared play used only to find candidate donor, native flavor text itself verified (A066 mismatching donor rejected). B047 has independent second reader confirmation.",
+      "sourceImageSha256": "1de6688f4c54958ea5691feb7f06fe9915eee8bdd4ac2803d7a0dd591e3ad34e",
+      "sourceImageBytes": 319261,
+      "donorSourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/384/src/128_zh.png",
+      "donorImageSha256": "20e8e8a3fc14e1039abd48d2b1c4c16c984de72f86329d26a49774faa0808cdc",
+      "donorPath": "/tmp/promo-ab-metadata/zh-donors/A010.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/010.ts",
+      "evidence": {
+        "sourceImageSha256": "1de6688f4c54958ea5691feb7f06fe9915eee8bdd4ac2803d7a0dd591e3ad34e",
+        "sourceImageBytes": 319261,
+        "review": "Promo native footer and ordinary-print native footer independently read and compared; master shared play used only to find candidate donor, native flavor text itself verified (A066 mismatching donor rejected). B047 has independent second reader confirmation."
+      }
+    },
+    {
+      "cardId": "P-A-052",
+      "locale": "zh-tw",
+      "path": "description",
+      "expectedCurrent": "它蓬鬆的皮毛與植物的成分相似。\n這只神奇寶貝經常洗臉以保持健康\n防止它變乾。",
+      "value": "毛茸茸的體毛有著近似於植物的成分。會勤快地洗臉以防止乾燥。",
+      "review": "Promo native footer and ordinary-print native footer independently read and compared; master shared play used only to find candidate donor, native flavor text itself verified (A066 mismatching donor rejected). B047 has independent second reader confirmation.",
+      "sourceImageSha256": "6a52ce1ced96ea55895ad9423ee118f36b78ac2f2feacff5c3978594c76dafda",
+      "sourceImageBytes": 240311,
+      "donorSourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/464/src/5_zh.png",
+      "donorImageSha256": "0a4455bd2d2e25ccf9a91c8dfb6e30030ad36802092914707710629612daa9cf",
+      "donorPath": "/tmp/promo-ab-metadata/zh-donors/A052.png",
+      "officialConfirm": "https://tw.portal-pokemon.com/pokedex/0906/",
+      "file": "data/Pokémon TCG Pocket/Promos-A/052.ts",
+      "evidence": {
+        "sourceImageSha256": "6a52ce1ced96ea55895ad9423ee118f36b78ac2f2feacff5c3978594c76dafda",
+        "sourceImageBytes": 240311,
+        "review": "Promo native footer and ordinary-print native footer independently read and compared; master shared play used only to find candidate donor, native flavor text itself verified (A066 mismatching donor rejected). B047 has independent second reader confirmation."
+      }
+    },
+    {
+      "cardId": "P-A-054",
+      "locale": "zh-tw",
+      "path": "description",
+      "expectedCurrent": "這種神奇寶貝通常反應遲緩，但一旦\n它進入戰鬥，它將擊倒敵人\n以閃電般的動作。",
+      "value": "雖然平時動作慢吞吞的，但在逼不得已要面對戰鬥時，會用迅雷不及掩耳的身手擊潰敵人。",
+      "review": "Promo native footer and ordinary-print native footer independently read and compared; master shared play used only to find candidate donor, native flavor text itself verified (A066 mismatching donor rejected). B047 has independent second reader confirmation.",
+      "sourceImageSha256": "20aef5c49e2a0dde8b9563ff708598eadb9545586725f8524e58a91e3e1de160",
+      "sourceImageBytes": 311531,
+      "donorSourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/464/src/28_zh.png",
+      "donorImageSha256": "2f6ee2bb4a3d6104820200840561ba8b7073edf725661420c4a759015df034d8",
+      "donorPath": "/tmp/promo-ab-metadata/zh-donors/A054.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/054.ts",
+      "evidence": {
+        "sourceImageSha256": "20aef5c49e2a0dde8b9563ff708598eadb9545586725f8524e58a91e3e1de160",
+        "sourceImageBytes": 311531,
+        "review": "Promo native footer and ordinary-print native footer independently read and compared; master shared play used only to find candidate donor, native flavor text itself verified (A066 mismatching donor rejected). B047 has independent second reader confirmation."
+      }
+    },
+    {
+      "cardId": "P-A-066",
+      "locale": "zh-tw",
+      "path": "description",
+      "expectedCurrent": "這只神奇寶貝生活在未受污染的黑暗地方\n陽光。當它出現在人類面前時，它卻隱藏起來\n自己被包裹在一塊類似皮卡丘的布下。",
+      "value": "棲息在陽光照射不到的陰暗處。在人們面前現身時會用看似皮卡丘的布來隱藏全身。",
+      "review": "Promo native footer and ordinary-print native footer independently read and compared; master shared play used only to find candidate donor, native flavor text itself verified (A066 mismatching donor rejected). B047 has independent second reader confirmation.",
+      "sourceImageSha256": "ce5eaff2041f79eb46127bc795f7373e0f2bc51ee4d93bd779818c2b9788c441",
+      "sourceImageBytes": 303963,
+      "donorSource": "P-A-113 same-English and matching native flavor; same-play A3-083 explicitly rejected because flavor differs",
+      "donorImageSha256": "5d9ced3007aae2708985d64e33d803acefa0e702cb6bff42f2aa08dd34b86312",
+      "donorPath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/zh-tw/113.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/066.ts",
+      "evidence": {
+        "sourceImageSha256": "ce5eaff2041f79eb46127bc795f7373e0f2bc51ee4d93bd779818c2b9788c441",
+        "sourceImageBytes": 303963,
+        "review": "Promo native footer and ordinary-print native footer independently read and compared; master shared play used only to find candidate donor, native flavor text itself verified (A066 mismatching donor rejected). B047 has independent second reader confirmation."
+      }
+    },
+    {
+      "cardId": "P-A-070",
+      "locale": "zh-tw",
+      "path": "description",
+      "expectedCurrent": "這只神奇寶貝居住的雪山里棲息著一位神靈。在古代，它被視為神的化身而受到崇拜。",
+      "value": "由於牠生活在被冰雪封閉、有著神明居住的山上，在過去被人們敬仰為神的化身。",
+      "review": "Promo native footer and ordinary-print native footer independently read and compared; master shared play used only to find candidate donor, native flavor text itself verified (A066 mismatching donor rejected). B047 has independent second reader confirmation.",
+      "sourceImageSha256": "18cbaf4f20f54af5d04667f9f947f49372e322144cf1d8cec08b58f6c7b05c90",
+      "sourceImageBytes": 343868,
+      "donorSourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/465/src/41_zh.png",
+      "donorImageSha256": "f943df216d768172a86a66c9686a7ca8037ffd4c16fd187040d58c6617b65b97",
+      "donorPath": "/tmp/promo-ab-metadata/zh-donors/A070.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/070.ts",
+      "evidence": {
+        "sourceImageSha256": "18cbaf4f20f54af5d04667f9f947f49372e322144cf1d8cec08b58f6c7b05c90",
+        "sourceImageBytes": 343868,
+        "review": "Promo native footer and ordinary-print native footer independently read and compared; master shared play used only to find candidate donor, native flavor text itself verified (A066 mismatching donor rejected). B047 has independent second reader confirmation."
+      }
+    },
+    {
+      "cardId": "P-A-101",
+      "locale": "zh-tw",
+      "path": "description",
+      "expectedCurrent": "它使用心靈感應進行交流。它的身體是\n覆蓋有折射光線的羽絨\n它是看不見的。",
+      "value": "能透過心靈感應交流情感。用能令光線折射的羽毛包裹身體來隱藏自己的樣子。",
+      "review": "Promo native footer and ordinary-print native footer independently read and compared; master shared play used only to find candidate donor, native flavor text itself verified (A066 mismatching donor rejected). B047 has independent second reader confirmation.",
+      "sourceImageSha256": "8f46f7615fa692e62893f1d7b61a75a6c0f9ddb169c716bc033cb39fedebf08d",
+      "sourceImageBytes": 334372,
+      "donorSourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/497/src/36_zh.png",
+      "donorImageSha256": "ce739e659e4b721fed2a0ae2a5221fe4c7fafbef2f94c767846c760b53752ce8",
+      "donorPath": "/tmp/promo-ab-metadata/zh-donors/A101.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/101.ts",
+      "evidence": {
+        "sourceImageSha256": "8f46f7615fa692e62893f1d7b61a75a6c0f9ddb169c716bc033cb39fedebf08d",
+        "sourceImageBytes": 334372,
+        "review": "Promo native footer and ordinary-print native footer independently read and compared; master shared play used only to find candidate donor, native flavor text itself verified (A066 mismatching donor rejected). B047 has independent second reader confirmation."
+      }
+    },
+    {
+      "cardId": "P-A-106",
+      "locale": "zh-tw",
+      "path": "description",
+      "expectedCurrent": "故事稱那些試圖抓住索羅亞克的人是\n陷入幻覺並受到懲罰。",
+      "value": "據說索羅亞克會把企圖捕捉牠的人關在虛幻的景色裡給予教訓。",
+      "review": "Promo native footer and ordinary-print native footer independently read and compared; master shared play used only to find candidate donor, native flavor text itself verified (A066 mismatching donor rejected). B047 has independent second reader confirmation.",
+      "sourceImageSha256": "8bf7bf3539ca30aa0493ba7ad74d2457dff33060f979f8eeb79230f4a82ab878",
+      "sourceImageBytes": 317304,
+      "donorSourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/497/src/50_zh.png",
+      "donorImageSha256": "2073d0ba3b68ca48c9db46ab5814f75bf55a8f651355585d0917d9e7965ff117",
+      "donorPath": "/tmp/promo-ab-metadata/zh-donors/A106.png",
+      "officialConfirm": "https://tw.portal-pokemon.com/pokedex/0571/",
+      "file": "data/Pokémon TCG Pocket/Promos-A/106.ts",
+      "evidence": {
+        "sourceImageSha256": "8bf7bf3539ca30aa0493ba7ad74d2457dff33060f979f8eeb79230f4a82ab878",
+        "sourceImageBytes": 317304,
+        "review": "Promo native footer and ordinary-print native footer independently read and compared; master shared play used only to find candidate donor, native flavor text itself verified (A066 mismatching donor rejected). B047 has independent second reader confirmation."
+      }
+    },
+    {
+      "cardId": "P-B-033",
+      "locale": "zh-tw",
+      "path": "description",
+      "expectedCurrent": "它強壯的腿使它即使在水流湍急的河流中也能輕鬆遊動。牠喜歡讓事情保持整潔，並且容易想太多。",
+      "value": "擁有在水流湍急的河川也能自在游動的腳力。愛乾淨，個性不知變通。",
+      "review": "Promo native footer and ordinary-print native footer independently read and compared; master shared play used only to find candidate donor, native flavor text itself verified (A066 mismatching donor rejected). B047 has independent second reader confirmation.",
+      "sourceImageSha256": "56e48d16750d049b92b3fb5c5b469b912d0713deeb9439045467a48241f2478e",
+      "sourceImageBytes": 322742,
+      "donorSourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/570/src/22_zh.png",
+      "donorImageSha256": "7e7c52c0f305ac9e22eb21c380fb601c34190eecc050d5170fd0e05a02f76c82",
+      "donorPath": "/tmp/promo-ab-metadata/zh-donors/B033.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/033.ts",
+      "evidence": {
+        "sourceImageSha256": "56e48d16750d049b92b3fb5c5b469b912d0713deeb9439045467a48241f2478e",
+        "sourceImageBytes": 322742,
+        "review": "Promo native footer and ordinary-print native footer independently read and compared; master shared play used only to find candidate donor, native flavor text itself verified (A066 mismatching donor rejected). B047 has independent second reader confirmation."
+      }
+    },
+    {
+      "cardId": "P-B-039",
+      "locale": "zh-tw",
+      "path": "description",
+      "expectedCurrent": "它的爪墊是放電器官。 布撥 用後腿搖搖晃晃地站立，並從前爪發射電流。",
+      "value": "手的肉球是放電的器官。會費勁地用後腳站起來，然後從手掌釋放出電擊。",
+      "review": "Promo native footer and ordinary-print native footer independently read and compared; master shared play used only to find candidate donor, native flavor text itself verified (A066 mismatching donor rejected). B047 has independent second reader confirmation.",
+      "sourceImageSha256": "14e5e4b528cb68c82734fdccd9238230ddbae2006f547547e8a7b5fb2d7ff849",
+      "sourceImageBytes": 256577,
+      "donorSourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/570/src/38_zh.png",
+      "donorImageSha256": "240768cbf33002b65f5f3ca1645e307f99331af17f0a5fac9e89f3eed6f12132",
+      "donorPath": "/tmp/promo-ab-metadata/zh-donors/B039.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/039.ts",
+      "evidence": {
+        "sourceImageSha256": "14e5e4b528cb68c82734fdccd9238230ddbae2006f547547e8a7b5fb2d7ff849",
+        "sourceImageBytes": 256577,
+        "review": "Promo native footer and ordinary-print native footer independently read and compared; master shared play used only to find candidate donor, native flavor text itself verified (A066 mismatching donor rejected). B047 has independent second reader confirmation."
+      }
+    },
+    {
+      "cardId": "P-B-040",
+      "locale": "zh-tw",
+      "path": "description",
+      "expectedCurrent": "它生活在池塘和沼澤的底部。它將把伍珀背在背上，並將他們從一岸運送到另一岸。",
+      "value": "棲息在池子和沼澤底部。會讓烏波坐在自己背上，從此岸送到對岸去。",
+      "review": "Promo native footer and ordinary-print native footer independently read and compared; master shared play used only to find candidate donor, native flavor text itself verified (A066 mismatching donor rejected). B047 has independent second reader confirmation.",
+      "sourceImageSha256": "c3061579ad6ead4da7e990171405e06c6b529abeed7d6a0ad6e2631d0d7b777a",
+      "sourceImageBytes": 283434,
+      "donorSourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/570/src/65_zh.png",
+      "donorImageSha256": "e9990e74a6ddcb877fd02c5ceb06e5722be060c3438e89014574bae311a29506",
+      "donorPath": "/tmp/promo-ab-metadata/zh-donors/B040.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/040.ts",
+      "evidence": {
+        "sourceImageSha256": "c3061579ad6ead4da7e990171405e06c6b529abeed7d6a0ad6e2631d0d7b777a",
+        "sourceImageBytes": 283434,
+        "review": "Promo native footer and ordinary-print native footer independently read and compared; master shared play used only to find candidate donor, native flavor text itself verified (A066 mismatching donor rejected). B047 has independent second reader confirmation."
+      }
+    },
+    {
+      "cardId": "P-B-047",
+      "locale": "zh-tw",
+      "path": "description",
+      "expectedCurrent": "它的身體是由氣體構成的。儘管缺乏實質內容，但它可以包圍任何體型的對手並導致窒息。",
+      "value": "不管對手的體型多大，由氣體構成的輕薄身體都能裹住對手並結束其性命。",
+      "review": "Promo native footer and ordinary-print native footer independently read and compared; master shared play used only to find candidate donor, native flavor text itself verified (A066 mismatching donor rejected). B047 has independent second reader confirmation.",
+      "sourceImageSha256": "8a644635fa77139bbfc816aa04c5258593110d1ee4b8bbeec2bd5755920b9f8a",
+      "sourceImageBytes": 292323,
+      "donorSourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/571/src/37_zh.png",
+      "donorImageSha256": "d5b8121758562149821747aa1d0533dae19455eba58964d93c9980e2a965831d",
+      "donorPath": "/tmp/promo-ab-metadata/zh-donors/B047.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/047.ts",
+      "evidence": {
+        "sourceImageSha256": "8a644635fa77139bbfc816aa04c5258593110d1ee4b8bbeec2bd5755920b9f8a",
+        "sourceImageBytes": 292323,
+        "review": "Promo native footer and ordinary-print native footer independently read and compared; master shared play used only to find candidate donor, native flavor text itself verified (A066 mismatching donor rejected). B047 has independent second reader confirmation."
+      }
+    },
+    {
+      "cardId": "P-B-076",
+      "locale": "zh-tw",
+      "path": "description",
+      "expectedCurrent": "曾經離去的靈魂，在翡翠中重生。從怨恨中獲得力量，怨恨在頭頂上以能量的形式升起，並呈現出敵人的形態。就這樣，索羅亞發洩了揮之不去的惡意。",
+      "value": "死後靈魂在洗翠地區復甦。怨恨化為力量，從其頭部冉冉飄升。會化成對手的樣貌去洗刷仇恨。",
+      "review": "Promo native footer and ordinary-print native footer independently read and compared; master shared play used only to find candidate donor, native flavor text itself verified (A066 mismatching donor rejected). B047 has independent second reader confirmation.",
+      "sourceImageSha256": "43433a8e94d653ea9ab54399018381b9005fcc5c348d52c2e986c67397260d88",
+      "sourceImageBytes": 288864,
+      "donorSourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/584/src/59_zh.png",
+      "donorImageSha256": "540f60e74ec15820f05b659fe18cd4e0e374b8252d06fece0fbd247d5d3e979c",
+      "donorPath": "/tmp/promo-ab-metadata/zh-donors/B076.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/076.ts",
+      "evidence": {
+        "sourceImageSha256": "43433a8e94d653ea9ab54399018381b9005fcc5c348d52c2e986c67397260d88",
+        "sourceImageBytes": 288864,
+        "review": "Promo native footer and ordinary-print native footer independently read and compared; master shared play used only to find candidate donor, native flavor text itself verified (A066 mismatching donor rejected). B047 has independent second reader confirmation."
+      }
+    }
+  ]
+}

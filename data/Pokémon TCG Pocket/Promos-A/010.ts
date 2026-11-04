@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/010",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/010",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/010",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/010",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/010",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/010",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/010",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/010",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/010"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/010/5b613ca17dac65ec",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/010/5b613ca17dac65ec",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/010/5b613ca17dac65ec",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/010/5b613ca17dac65ec",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/010/5b613ca17dac65ec",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/010/5b613ca17dac65ec",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/010/5b613ca17dac65ec",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/010/5b613ca17dac65ec",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/010/5b613ca17dac65ec"
     },
     name: {
         en: "Mewtwo",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "超夢"
     },
     illustrator: "Krgc",
-    rarity: "None",
+    rarity: "One Star",
     category: "Pokemon",
     types: ["Psychic"],
     stage: "Basic",
@@ -39,7 +39,7 @@ const card: Card = {
                 'pt-br': "Explosão Poderosa",
                 ja: "パワーブラスト",
                 ko: "파워블라스트",
-                "zh-tw": "能量衝擊波"
+                "zh-tw": "力量爆破"
             },
             cost: ["Psychic", "Psychic", "Colorless", "Colorless"],
             damage: 120,
@@ -52,7 +52,7 @@ const card: Card = {
                 'pt-br': "Descarte 2 Energias {P} deste Pokémon.",
                 ja: "このポケモンから{P}エネルギーを2個トラッシュ。",
                 ko: "이 포켓몬에서 {P}에너지를 2개 트래쉬한다.",
-                "zh-tw": "丟棄該神奇寶貝的 2 個 {P} 能量。"
+                "zh-tw": "將這隻寶可夢身上的2個{P}能量丟棄。"
             }
         }],
     hp: 120,
@@ -65,7 +65,7 @@ const card: Card = {
         'pt-br': "Foi criado por cientistas através de anos\nde experimentos genéticos terríveis com\nmanipulação de DNA.",
         ja: "１人の 科学者が 何年も 恐ろしい 遺伝子 研究を 続けた 結果 誕生した。",
         ko: "한 과학자가 몇 년에 걸쳐\n무서운 유전자의 연구를\n계속한 결과 탄생했다.",
-        "zh-tw": "它是由一位科學家在經歷了多年的可怕經歷後創造出來的\n基因剪接和 DNA 工程實驗。"
+        "zh-tw": "牠是某位科學家長年累月持續進行可怕的基因研究所誕生的成果。"
     },
     weaknesses: [{
             type: "Darkness",

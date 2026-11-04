@@ -4,16 +4,16 @@ import Set from "../Promos-A";
 const card: Card = {
 	set: Set,
 	image: {
-		en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/105",
-		de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/105",
-		es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/105",
-		fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/105",
-		it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/105",
-		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/105",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/105",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/105",
-		ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/105"
-	},
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/105/f4154efc827aa16b",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/105/f4154efc827aa16b",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/105/f4154efc827aa16b",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/105/f4154efc827aa16b",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/105/f4154efc827aa16b",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/105/f4154efc827aa16b",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/105/f4154efc827aa16b",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/105/f4154efc827aa16b",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/105/f4154efc827aa16b"
+    },
 	name: {
 		en: "Zorua",
 		fr: "Zorua",
@@ -32,12 +32,12 @@ const card: Card = {
 	types: ["Darkness"],
 	description: {
 		en: "It changes into the forms of others to surprise\nthem. Apparently, it often transforms into a\nsilent child.",
-		fr: "Il se transforme en forme d'autrui pour surprendre\neux. Apparemment, cela se transforme souvent en\nenfant silencieux.",
-		es: "Cambia a las formas de otros para sorprender.\nellos. Al parecer, a menudo se transforma en un\nniño silencioso.",
-		it: "Si trasforma nelle forme degli altri per sorprendere\nloro. Apparentemente, spesso si trasforma in a\nbambino silenzioso.",
-		de: "Es verwandelt sich in die Formen anderer, um zu überraschen\nsie. Anscheinend verwandelt es sich oft in ein\nstilles Kind.",
-		"pt-br": "Ele muda para a forma de outros para surpreender\neles. Aparentemente, muitas vezes se transforma em um\ncriança silenciosa.",
-		"zh-tw": "變化成別人的形態給大家帶來驚喜\n他們。顯然，它經常轉變為\n沉默的孩子。",
+		fr: "Il prend l'apparence des autres afin de les surprendre. On dit qu'il se transforme souvent en petit enfant silencieux.",
+		es: "Se transforma en otros para crear desconcierto. A menudo, adopta la forma de un niño parco en palabras.",
+		it: "Sorprende gli altri assumendo il loro aspetto. Pare che si trasformi spesso in un bambino taciturno.",
+		de: "Es übertölpelt andere, indem es deren Gestalt annimmt. Angeblich tarnt es sich oft als wortkarges Kind.",
+		"pt-br": "Ele muda para as formas de outros para surpreendê-los. Aparentemente, transforma-se com frequência em uma criança quieta.",
+		"zh-tw": "會幻化成對手的樣子嚇唬對方。似乎經常幻化成沉默寡言的小孩。",
 		ja: "相手の 姿に 化けてみせて 驚かせる。 無口な 子どもに 化けていることが 多いらしい。",
 		ko: "상대의 모습으로 둔갑하여\n놀라게 한다. 말수가 적은 아이로\n둔갑해 있을 때가 잦다고 한다."
 	},
@@ -46,12 +46,12 @@ const card: Card = {
 		{
 			name: {
 				en: "Ram",
-				fr: "Bélier",
-				es: "RAM",
-				it: "Ram",
+				fr: "Collision",
+				es: "Apisonar",
+				it: "Carica",
 				de: "RAM",
-				"pt-br": "Bater",
-				"zh-tw": "內存",
+				"pt-br": "Aríete",
+				"zh-tw": "衝撞",
 				ja: "ぶつかる",
 				ko: "부딪치기"
 			},

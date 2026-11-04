@@ -1,0 +1,81 @@
+{
+  "startedAt": "2026-11-04T03:12:33.056Z",
+  "scope": "P-C set logo base after SDK extension-contract correction; prior card-content and booster-membership full audit retained",
+  "passed": true,
+  "checks": [
+    {
+      "locale": "en",
+      "endpoint": "http://localhost:3301/v2/en/sets/P-C",
+      "setLogo": "https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo",
+      "sdkURL": "https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo.webp",
+      "boosterLogo": "https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo.webp",
+      "publicObjectCheck": "deferred to parent full R2 object verification; object upload pending"
+    },
+    {
+      "locale": "fr",
+      "endpoint": "http://localhost:3301/v2/fr/sets/P-C",
+      "setLogo": "https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo",
+      "sdkURL": "https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo.webp",
+      "boosterLogo": "https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo.webp",
+      "publicObjectCheck": "deferred to parent full R2 object verification; object upload pending"
+    },
+    {
+      "locale": "es",
+      "endpoint": "http://localhost:3301/v2/es/sets/P-C",
+      "setLogo": "https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo",
+      "sdkURL": "https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo.webp",
+      "boosterLogo": "https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo.webp",
+      "publicObjectCheck": "deferred to parent full R2 object verification; object upload pending"
+    },
+    {
+      "locale": "it",
+      "endpoint": "http://localhost:3301/v2/it/sets/P-C",
+      "setLogo": "https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo",
+      "sdkURL": "https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo.webp",
+      "boosterLogo": "https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo.webp",
+      "publicObjectCheck": "deferred to parent full R2 object verification; object upload pending"
+    },
+    {
+      "locale": "de",
+      "endpoint": "http://localhost:3301/v2/de/sets/P-C",
+      "setLogo": "https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo",
+      "sdkURL": "https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo.webp",
+      "boosterLogo": "https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo.webp",
+      "publicObjectCheck": "deferred to parent full R2 object verification; object upload pending"
+    },
+    {
+      "locale": "pt-br",
+      "endpoint": "http://localhost:3301/v2/pt-br/sets/P-C",
+      "setLogo": "https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo",
+      "sdkURL": "https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo.webp",
+      "boosterLogo": "https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo.webp",
+      "publicObjectCheck": "deferred to parent full R2 object verification; object upload pending"
+    },
+    {
+      "locale": "zh-tw",
+      "endpoint": "http://localhost:3301/v2/zh-tw/sets/P-C",
+      "setLogo": "https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo",
+      "sdkURL": "https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo.webp",
+      "boosterLogo": "https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo.webp",
+      "publicObjectCheck": "deferred to parent full R2 object verification; object upload pending"
+    },
+    {
+      "locale": "ja",
+      "endpoint": "http://localhost:3301/v2/ja/sets/P-C",
+      "setLogo": "https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo",
+      "sdkURL": "https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo.webp",
+      "boosterLogo": "https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo.webp",
+      "publicObjectCheck": "deferred to parent full R2 object verification; object upload pending"
+    },
+    {
+      "locale": "ko",
+      "endpoint": "http://localhost:3301/v2/ko/sets/P-C",
+      "setLogo": "https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo",
+      "sdkURL": "https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo.webp",
+      "boosterLogo": "https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo.webp",
+      "publicObjectCheck": "deferred to parent full R2 object verification; object upload pending"
+    }
+  ],
+  "failures": [],
+  "finishedAt": "2026-11-04T03:12:33.117Z"
+}

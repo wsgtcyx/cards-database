@@ -1,0 +1,275 @@
+{
+  "createdAt": "2026-11-04T02:12:00.238246+00:00",
+  "changes": [
+    {
+      "set": "P-A",
+      "number": 4,
+      "locale": "de",
+      "sourceNumber": 6,
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/6_de.png",
+      "beforeSha256": "7648c04de2ae5871447703d926655471940eacb83187791f8a1d3b60d3d173e7",
+      "afterSha256": "3a7de3b4cd1167b7ff47262ea65b844cda643249a35bd3bd53b96fa2bd53fc85",
+      "evidence": "All nine native card-face names cross-checked against canonical identity; PokeOS image order differs from collection numbers."
+    },
+    {
+      "set": "P-A",
+      "number": 6,
+      "locale": "de",
+      "sourceNumber": 7,
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/7_de.png",
+      "beforeSha256": "3a7de3b4cd1167b7ff47262ea65b844cda643249a35bd3bd53b96fa2bd53fc85",
+      "afterSha256": "fc347a754cedc9fd017388ba61c40db8fcd3e938185598a26847467432bcbfcc",
+      "evidence": "All nine native card-face names cross-checked against canonical identity; PokeOS image order differs from collection numbers."
+    },
+    {
+      "set": "P-A",
+      "number": 7,
+      "locale": "de",
+      "sourceNumber": 4,
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/4_de.png",
+      "beforeSha256": "fc347a754cedc9fd017388ba61c40db8fcd3e938185598a26847467432bcbfcc",
+      "afterSha256": "7648c04de2ae5871447703d926655471940eacb83187791f8a1d3b60d3d173e7",
+      "evidence": "All nine native card-face names cross-checked against canonical identity; PokeOS image order differs from collection numbers."
+    },
+    {
+      "set": "P-A",
+      "number": 4,
+      "locale": "en",
+      "sourceNumber": 6,
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/6_en.png",
+      "beforeSha256": "3987c53409c80b91d3e7601eb2e177f71e7292e5fdd353251da430cbe82b2611",
+      "afterSha256": "263edd31241778df1f28d2bd4df257e32440953c374e6e130aec8b68c1097f00",
+      "evidence": "All nine native card-face names cross-checked against canonical identity; PokeOS image order differs from collection numbers."
+    },
+    {
+      "set": "P-A",
+      "number": 6,
+      "locale": "en",
+      "sourceNumber": 7,
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/7_en.png",
+      "beforeSha256": "263edd31241778df1f28d2bd4df257e32440953c374e6e130aec8b68c1097f00",
+      "afterSha256": "01a404fd3b0d6539666c328b608d6a7c989e257025be3d8b6a3ea4b64f7c4e64",
+      "evidence": "All nine native card-face names cross-checked against canonical identity; PokeOS image order differs from collection numbers."
+    },
+    {
+      "set": "P-A",
+      "number": 7,
+      "locale": "en",
+      "sourceNumber": 4,
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/4_en.png",
+      "beforeSha256": "01a404fd3b0d6539666c328b608d6a7c989e257025be3d8b6a3ea4b64f7c4e64",
+      "afterSha256": "3987c53409c80b91d3e7601eb2e177f71e7292e5fdd353251da430cbe82b2611",
+      "evidence": "All nine native card-face names cross-checked against canonical identity; PokeOS image order differs from collection numbers."
+    },
+    {
+      "set": "P-A",
+      "number": 4,
+      "locale": "es",
+      "sourceNumber": 6,
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/6_es.png",
+      "beforeSha256": "8f6fcd69d1cfe73446fdca584998e728c995c8e9c16cc53906fa2019546b5993",
+      "afterSha256": "c834250565e1a991cc216799cef5ee7613c93500b7f8f482e8193f40c228f055",
+      "evidence": "All nine native card-face names cross-checked against canonical identity; PokeOS image order differs from collection numbers."
+    },
+    {
+      "set": "P-A",
+      "number": 6,
+      "locale": "es",
+      "sourceNumber": 7,
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/7_es.png",
+      "beforeSha256": "c834250565e1a991cc216799cef5ee7613c93500b7f8f482e8193f40c228f055",
+      "afterSha256": "972cbf92acc0c30b0dd5ea97af2fc50aa88325fbcf960f9c60ebaf5f2714932e",
+      "evidence": "All nine native card-face names cross-checked against canonical identity; PokeOS image order differs from collection numbers."
+    },
+    {
+      "set": "P-A",
+      "number": 7,
+      "locale": "es",
+      "sourceNumber": 4,
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/4_es.png",
+      "beforeSha256": "972cbf92acc0c30b0dd5ea97af2fc50aa88325fbcf960f9c60ebaf5f2714932e",
+      "afterSha256": "8f6fcd69d1cfe73446fdca584998e728c995c8e9c16cc53906fa2019546b5993",
+      "evidence": "All nine native card-face names cross-checked against canonical identity; PokeOS image order differs from collection numbers."
+    },
+    {
+      "set": "P-A",
+      "number": 4,
+      "locale": "fr",
+      "sourceNumber": 6,
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/6_fr.png",
+      "beforeSha256": "686fcab792bc138eba6c717252ada485958b6906493fdd29d3e5e3277ff5c02a",
+      "afterSha256": "567b9ca714ce70d6a67b62cca355b29c6b773121b55d0d3b49d5e124b85ed05d",
+      "evidence": "All nine native card-face names cross-checked against canonical identity; PokeOS image order differs from collection numbers."
+    },
+    {
+      "set": "P-A",
+      "number": 6,
+      "locale": "fr",
+      "sourceNumber": 7,
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/7_fr.png",
+      "beforeSha256": "567b9ca714ce70d6a67b62cca355b29c6b773121b55d0d3b49d5e124b85ed05d",
+      "afterSha256": "957b80e40c282932340e82f46157f97ebbbd8ca47bebcbf9ec46eb3d49e69e3b",
+      "evidence": "All nine native card-face names cross-checked against canonical identity; PokeOS image order differs from collection numbers."
+    },
+    {
+      "set": "P-A",
+      "number": 7,
+      "locale": "fr",
+      "sourceNumber": 4,
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/4_fr.png",
+      "beforeSha256": "957b80e40c282932340e82f46157f97ebbbd8ca47bebcbf9ec46eb3d49e69e3b",
+      "afterSha256": "686fcab792bc138eba6c717252ada485958b6906493fdd29d3e5e3277ff5c02a",
+      "evidence": "All nine native card-face names cross-checked against canonical identity; PokeOS image order differs from collection numbers."
+    },
+    {
+      "set": "P-A",
+      "number": 4,
+      "locale": "it",
+      "sourceNumber": 6,
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/6_it.png",
+      "beforeSha256": "23385f9b526ffe5ec65083e9c2eb1545c28b5c8d1c9f099b32c4259b69e93953",
+      "afterSha256": "3da79c4862df165fa158a3d4789c4b606b529ea08a20475830b7c49dda6ff2bd",
+      "evidence": "All nine native card-face names cross-checked against canonical identity; PokeOS image order differs from collection numbers."
+    },
+    {
+      "set": "P-A",
+      "number": 6,
+      "locale": "it",
+      "sourceNumber": 7,
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/7_it.png",
+      "beforeSha256": "3da79c4862df165fa158a3d4789c4b606b529ea08a20475830b7c49dda6ff2bd",
+      "afterSha256": "84987599d896f9487339e64bb3c80cd854f573c87c9bf3e042f69ba4b994a297",
+      "evidence": "All nine native card-face names cross-checked against canonical identity; PokeOS image order differs from collection numbers."
+    },
+    {
+      "set": "P-A",
+      "number": 7,
+      "locale": "it",
+      "sourceNumber": 4,
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/4_it.png",
+      "beforeSha256": "84987599d896f9487339e64bb3c80cd854f573c87c9bf3e042f69ba4b994a297",
+      "afterSha256": "23385f9b526ffe5ec65083e9c2eb1545c28b5c8d1c9f099b32c4259b69e93953",
+      "evidence": "All nine native card-face names cross-checked against canonical identity; PokeOS image order differs from collection numbers."
+    },
+    {
+      "set": "P-A",
+      "number": 4,
+      "locale": "ja",
+      "sourceNumber": 6,
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/6_ja.png",
+      "beforeSha256": "e497661fdf00312f9661e5c304845d36da3406396e7e80f55d34a8b13b81f028",
+      "afterSha256": "2ea567f48bc20045efbd635432e2b70c415d2039252ef7c75821afe58edc8a7a",
+      "evidence": "All nine native card-face names cross-checked against canonical identity; PokeOS image order differs from collection numbers."
+    },
+    {
+      "set": "P-A",
+      "number": 6,
+      "locale": "ja",
+      "sourceNumber": 7,
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/7_ja.png",
+      "beforeSha256": "2ea567f48bc20045efbd635432e2b70c415d2039252ef7c75821afe58edc8a7a",
+      "afterSha256": "725d69366258beadf78288e24caa58a0dcd2f134a820ab904781a2949dd54382",
+      "evidence": "All nine native card-face names cross-checked against canonical identity; PokeOS image order differs from collection numbers."
+    },
+    {
+      "set": "P-A",
+      "number": 7,
+      "locale": "ja",
+      "sourceNumber": 4,
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/4_ja.png",
+      "beforeSha256": "725d69366258beadf78288e24caa58a0dcd2f134a820ab904781a2949dd54382",
+      "afterSha256": "e497661fdf00312f9661e5c304845d36da3406396e7e80f55d34a8b13b81f028",
+      "evidence": "All nine native card-face names cross-checked against canonical identity; PokeOS image order differs from collection numbers."
+    },
+    {
+      "set": "P-A",
+      "number": 4,
+      "locale": "ko",
+      "sourceNumber": 6,
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/6_ko.png",
+      "beforeSha256": "23115894ae8f8eb7518e6ab75ad67ff7315997883a86949544f553fecef31129",
+      "afterSha256": "fffa331a4c0a298244f071727e75c45de1eca6cabbdfaca39369fe053575432a",
+      "evidence": "All nine native card-face names cross-checked against canonical identity; PokeOS image order differs from collection numbers."
+    },
+    {
+      "set": "P-A",
+      "number": 6,
+      "locale": "ko",
+      "sourceNumber": 7,
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/7_ko.png",
+      "beforeSha256": "fffa331a4c0a298244f071727e75c45de1eca6cabbdfaca39369fe053575432a",
+      "afterSha256": "6118212a8f799f3790dc43f14db413381d726ff8f3b078609988649f9005db9e",
+      "evidence": "All nine native card-face names cross-checked against canonical identity; PokeOS image order differs from collection numbers."
+    },
+    {
+      "set": "P-A",
+      "number": 7,
+      "locale": "ko",
+      "sourceNumber": 4,
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/4_ko.png",
+      "beforeSha256": "6118212a8f799f3790dc43f14db413381d726ff8f3b078609988649f9005db9e",
+      "afterSha256": "23115894ae8f8eb7518e6ab75ad67ff7315997883a86949544f553fecef31129",
+      "evidence": "All nine native card-face names cross-checked against canonical identity; PokeOS image order differs from collection numbers."
+    },
+    {
+      "set": "P-A",
+      "number": 4,
+      "locale": "pt-br",
+      "sourceNumber": 6,
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/6_ptbr.png",
+      "beforeSha256": "772c85bf055ba1849144fc4f624c512f860eb367a548ac20fb84971ee6232010",
+      "afterSha256": "35c39f850fbdb2f3afef43c44304c10da70f7007d73a3437a0aa1d55661c57e8",
+      "evidence": "All nine native card-face names cross-checked against canonical identity; PokeOS image order differs from collection numbers."
+    },
+    {
+      "set": "P-A",
+      "number": 6,
+      "locale": "pt-br",
+      "sourceNumber": 7,
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/7_ptbr.png",
+      "beforeSha256": "35c39f850fbdb2f3afef43c44304c10da70f7007d73a3437a0aa1d55661c57e8",
+      "afterSha256": "7cef217855bdefb630ca83983b0784b1862f672ea339f65082d518d3e2539c8e",
+      "evidence": "All nine native card-face names cross-checked against canonical identity; PokeOS image order differs from collection numbers."
+    },
+    {
+      "set": "P-A",
+      "number": 7,
+      "locale": "pt-br",
+      "sourceNumber": 4,
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/4_ptbr.png",
+      "beforeSha256": "7cef217855bdefb630ca83983b0784b1862f672ea339f65082d518d3e2539c8e",
+      "afterSha256": "772c85bf055ba1849144fc4f624c512f860eb367a548ac20fb84971ee6232010",
+      "evidence": "All nine native card-face names cross-checked against canonical identity; PokeOS image order differs from collection numbers."
+    },
+    {
+      "set": "P-A",
+      "number": 4,
+      "locale": "zh-tw",
+      "sourceNumber": 6,
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/6_zh.png",
+      "beforeSha256": "f56397060aa2e97292c5e147919e2a10a1bef7a98752adae1ef7ce83758a87cc",
+      "afterSha256": "b8a544d51e8c1f5d6dac176493ea14aac45bdb0107c103f1a8216bb4f1e2ba2a",
+      "evidence": "All nine native card-face names cross-checked against canonical identity; PokeOS image order differs from collection numbers."
+    },
+    {
+      "set": "P-A",
+      "number": 6,
+      "locale": "zh-tw",
+      "sourceNumber": 7,
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/7_zh.png",
+      "beforeSha256": "b8a544d51e8c1f5d6dac176493ea14aac45bdb0107c103f1a8216bb4f1e2ba2a",
+      "afterSha256": "183b9442f014fac85920f98b4d3ea9daf631449b9aae692af37806068f0bf2f3",
+      "evidence": "All nine native card-face names cross-checked against canonical identity; PokeOS image order differs from collection numbers."
+    },
+    {
+      "set": "P-A",
+      "number": 7,
+      "locale": "zh-tw",
+      "sourceNumber": 4,
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/4_zh.png",
+      "beforeSha256": "183b9442f014fac85920f98b4d3ea9daf631449b9aae692af37806068f0bf2f3",
+      "afterSha256": "f56397060aa2e97292c5e147919e2a10a1bef7a98752adae1ef7ce83758a87cc",
+      "evidence": "All nine native card-face names cross-checked against canonical identity; PokeOS image order differs from collection numbers."
+    }
+  ]
+}

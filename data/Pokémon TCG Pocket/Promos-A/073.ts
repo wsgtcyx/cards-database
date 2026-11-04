@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/073",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/073",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/073",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/073",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/073",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/073",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/073",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/073",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/073"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/073/34a39b3ad1ce2669",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/073/34a39b3ad1ce2669",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/073/34a39b3ad1ce2669",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/073/34a39b3ad1ce2669",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/073/34a39b3ad1ce2669",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/073/34a39b3ad1ce2669",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/073/34a39b3ad1ce2669",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/073/34a39b3ad1ce2669",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/073/34a39b3ad1ce2669"
     },
     name: {
         en: "Toucannon",
@@ -49,7 +49,7 @@ const card: Card = {
         'pt-br': "Batem os bicos com outros de sua espécie\npara se comunicar. A quantidade e a força das bicadas\ndemonstram como estão se sentindo.",
         ja: "仲間と クチバシを 叩き合わせて コミュニケーション。 叩く 強さや 回数で 気持ちを 伝えあう。",
         ko: "동료와 부리를 부딪히며\n커뮤니케이션한다. 부딪히는 강도나\n횟수로 기분을 전달한다.",
-        "zh-tw": "它們用喙與同類進行交流。\n攻擊的強度和次數可以告訴對方他們的感受。"
+        "zh-tw": "會與夥伴互相敲擊鳥嘴來進行溝通，透過敲擊的強度和次數來傳達彼此的心情。"
     },
     stage: "Stage2",
     attacks: [{
@@ -62,7 +62,7 @@ const card: Card = {
                 'pt-br': "Bico Explosivo",
                 ja: "くちばしキャノン",
                 ko: "부리캐논",
-                "zh-tw": "喙爆炸"
+                "zh-tw": "鳥嘴加農炮"
             },
             damage: 80,
             cost: ["Colorless", "Colorless"],
@@ -75,7 +75,7 @@ const card: Card = {
                 ja: "コインを1回投げオモテなら、相手のバトルポケモンをやけどにする。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 화상으로 만든다.",
                 'pt-br': "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Queimado.",
-                "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在被燒毀。"
+                "zh-tw": "擲1次硬幣若為正面,則將對手的戰鬥寶可夢灼傷。"
             }
         }],
     weaknesses: [{

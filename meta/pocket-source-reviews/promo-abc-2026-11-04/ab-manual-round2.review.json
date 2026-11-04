@@ -1,0 +1,683 @@
+{
+  "schemaVersion": 1,
+  "decisions": [
+    {
+      "cardId": "P-A-104",
+      "locale": "zh-tw",
+      "path": "abilities[0].effect",
+      "expectedCurrent": "在你的回合中，當你從手牌中使用這只神奇寶貝來進化你的 1 只神奇寶貝時，你可以從你的 1 只 {W} 神奇寶貝那裡治療 60 點傷害。",
+      "value": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。將自己的1隻{W}寶可夢恢復60HP。",
+      "rawOCR": "在自己的回合，當從手牌使出這張卡並完成進化時，可使用1次。 將自己的1隻每寶可麥恢復60HP。",
+      "candidateIndex": 11,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/104.ts",
+      "evidence": {
+        "sourceImageSha256": "b10490188190964a4376cd33ed19a07f28829aec238ed089930ee5e9d3a313c2",
+        "sourceImageBytes": 313771,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-A-106",
+      "locale": "pt-br",
+      "path": "abilities[0].effect",
+      "expectedCurrent": "Se o Pokémon do seu oponente for Nocauteado pelo dano dos ataques deste Pokémon, durante o próximo turno do seu oponente, evite todos os danos e efeitos dos ataques causados a este Pokémon.",
+      "value": "Se o Pokémon do seu oponente for Nocauteado pelo dano dos ataques deste Pokémon, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon.",
+      "rawOCR": "Se o Pokémen do seu oponente for Nocauteado pelo dano dos ataques deste Pokémen, durante o proximo mino do sau oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon.",
+      "candidateIndex": 14,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/106.ts",
+      "evidence": {
+        "sourceImageSha256": "4fe951b888c52199ea0a4bff2fddfc5fd328af7a3f9db74eb1d2bc0b46d6c480",
+        "sourceImageBytes": 323730,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-A-108",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "這次攻擊對對手的活躍寶可夢造成的傷害等於該寶可夢對其造成的傷害。",
+      "value": "對對手的戰鬥寶可夢造成與這隻寶可夢已受到的傷害相同數值的傷害。",
+      "rawOCR": "對對手的戰鬥寶可夢造成與這隻寶可夢已受到的傷害相同數值的",
+      "candidateIndex": 23,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/108.ts",
+      "evidence": {
+        "sourceImageSha256": "e08f0b24ce33c51987a460632c67b07089cd16a2dd72963b1ea1abf8485fd645",
+        "sourceImageBytes": 300243,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-A-113",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "拋一枚硬幣。如果正面，則選擇對手的1只活躍神奇寶貝的攻擊並將其用作這次攻擊。",
+      "value": "擲1次硬幣若為正面,則選擇對手的戰鬥寶可夢持有的1個招式,作為這個招式使用。",
+      "rawOCR": "換1次硬幣若為正面，則選擇對手的戰鬥寶可夢持有的1個招式， 作為這個招式使用。",
+      "candidateIndex": 43,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/113.ts",
+      "evidence": {
+        "sourceImageSha256": "5d9ced3007aae2708985d64e33d803acefa0e702cb6bff42f2aa08dd34b86312",
+        "sourceImageBytes": 287487,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-A-002",
+      "locale": "zh-tw",
+      "path": "effect",
+      "expectedCurrent": "這個回合中，你的活躍寶可夢的撤退費用減少 1。",
+      "value": "在這個回合,自己的戰鬥寶可夢撤退所需的能量減少1個。",
+      "rawOCR": "在這個回合，自己的戰門寶可夢撤退所需的能量減少 1個。",
+      "candidateIndex": 50,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/002.ts",
+      "evidence": {
+        "sourceImageSha256": "dc46a6255ea17dc84d68acc4376e70b5d1fe7009b817b1dd0c6ea66ca38d08ba",
+        "sourceImageBytes": 212809,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-A-025",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "翻轉 3 個硬幣。從你的能量區取出相當於頭部數量的 {R} 能量，並以你喜歡的任何方式將其附加到你的後備 {R} 神奇寶貝上。",
+      "value": "擲3次硬幣,從自己的能量區抽出與正面出現的次數相同數量的{R}能量,以任意方式附於備戰區的{R}寶可夢身上。",
+      "rawOCR": "換3次硬幣，從自己的能量區抽出與正面出現的次數相同數量的 也能量，以任意方式附於備戰區的心寶可夢身上。",
+      "candidateIndex": 72,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/025.ts",
+      "evidence": {
+        "sourceImageSha256": "d980bd9b568319977664561db1a19f79269ef8a71d732041c81931801f811557",
+        "sourceImageBytes": 338426,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-A-028",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "丟棄該神奇寶貝的 2 個 {R} 能量。這次攻擊對對手的 1 只神奇寶貝造成 80 點傷害。",
+      "value": "將這隻寶可夢身上的2個{R}能量丟棄,對手的1隻寶可夢受到80點傷害。",
+      "rawOCR": "將這隻寶可夢身上的2個心能量丟棄，對手的1隻寶可夢受到80點 傷宇。",
+      "candidateIndex": 73,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/028.ts",
+      "evidence": {
+        "sourceImageSha256": "08d15d0898df3f4b47150504848ae1f2314cc4bcd6ac719941f1c15c713e8391",
+        "sourceImageBytes": 279668,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-A-030",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "在對手的下一個回合中，防御神奇寶貝使用的攻擊造成−20點傷害。",
+      "value": "在下個對手的回合,受到這個招式的寶可夢使用招式的傷害-20點。",
+      "rawOCR": "在下個對手的回合，受到這個招式的寶可夢使用招式的傷害- 20站。",
+      "candidateIndex": 76,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/030.ts",
+      "evidence": {
+        "sourceImageSha256": "b097b270ac8a29d03a7e7384b923c0e1c655dcdfe91a978c6dd452bab69963a3",
+        "sourceImageBytes": 274433,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-A-032",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "丟棄該神奇寶貝的 {R} 能量。",
+      "value": "將這隻寶可夢身上的1個{R}能量丟棄。",
+      "rawOCR": "將這隻寶可夢身上的1個多能量丟棄。",
+      "candidateIndex": 78,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/032.ts",
+      "evidence": {
+        "sourceImageSha256": "46e2a12d080160c144eaeb540e13478191adbe4067e9de137a2533a373e0e141",
+        "sourceImageBytes": 298539,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-A-036",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "如果這只神奇寶貝附加了至少 2 個額外的 {L} 能量，則此攻擊造成的傷害增加 80 點。",
+      "value": "若額外附有2個{L}能量,則增加80點傷害。",
+      "rawOCR": "若額外附有2個4能量，則增加80點傷害。",
+      "candidateIndex": 81,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/036.ts",
+      "evidence": {
+        "sourceImageSha256": "2cb7646afa2b6b8c4e9c0895a9cfed061d6bce5711602547bb2630b88033a3b9",
+        "sourceImageBytes": 236959,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-A-045",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "拋一枚硬幣。如果正面，則在對手的下一個回合中，阻止攻擊對該神奇寶貝造成的所有傷害。",
+      "value": "擲1次硬幣若為正面,則在下個對手的回合,這隻寶可夢不會受到招式的傷害。",
+      "rawOCR": "換1次硬幣若為正面，則在下個對手的回合，這隻寶可夢不會受到 招式的傷害。",
+      "candidateIndex": 89,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/045.ts",
+      "evidence": {
+        "sourceImageSha256": "21b4ac8a9e5f7da178940774aad8a4a5b7bcc3a36dbf1359e873beb87ba7f1eb",
+        "sourceImageBytes": 321810,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-A-047",
+      "locale": "zh-tw",
+      "path": "abilities[0].effect",
+      "expectedCurrent": "這只神奇寶貝因 {F} 神奇寶貝的攻擊而受到 -30 點傷害。",
+      "value": "這隻寶可夢受到{F}寶可夢招式的傷害-30點。",
+      "rawOCR": "這隻寶可夢受到學寶可夢招式的傷害-30點。",
+      "candidateIndex": 90,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/047.ts",
+      "evidence": {
+        "sourceImageSha256": "ae78a736ce261c4d8042b3506eecdee214b23a1c8fe53462e5fd52412c5ee861",
+        "sourceImageBytes": 294555,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-A-055",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "如果這只神奇寶貝附加了至少 2 個額外的 {F} 能量，則此攻擊造成的傷害增加 50 點。",
+      "value": "若額外附有2個{F}能量,則增加50點傷害。",
+      "rawOCR": "若額外附有2個能量，則增加50點害。",
+      "candidateIndex": 101,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/055.ts",
+      "evidence": {
+        "sourceImageSha256": "a7578af072827e4d871a3f4a46f2d101e67e15ea993f0163da3c9f37befc5d08",
+        "sourceImageBytes": 300228,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-A-063",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "拋一枚硬幣，直到出現反面。此攻擊對每個頭造成 30 點額外傷害。",
+      "value": "擲硬幣直到出現反面,增加正面出現的次數×30點傷害。",
+      "rawOCR": "換硬幣直到出現反面，增加正面出現的次數×30點傷害。",
+      "candidateIndex": 104,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/063.ts",
+      "evidence": {
+        "sourceImageSha256": "baa917904a350b390a08057c1dce96cc8d7f22e3e2decf2469e5b723407b5c5d",
+        "sourceImageBytes": 298393,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-A-074",
+      "locale": "fr",
+      "path": "abilities[0].effect",
+      "expectedCurrent": "À la fin de votre premier tour, prenez une Énergie {L} de votre Zone d'Énergie et attachez-la à ce Pokémon.",
+      "value": "À la fin de votre premier tour, prenez une Énergie {L} de votre zone Énergie et attachez‐la à ce Pokémon.",
+      "rawOCR": "Alatin de votre premientour, prenez une Énergie *de votre zone Energie et attachez-la à ce Pokémon.",
+      "candidateIndex": 113,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/074.ts",
+      "evidence": {
+        "sourceImageSha256": "cf86449a79139ecd8ddd99552afd508612f9915e0731de0e9c25d26dbec399e7",
+        "sourceImageBytes": 320934,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-A-079",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "丟棄該神奇寶貝的 {M} 能量。",
+      "value": "將這隻寶可夢身上的1個{M}能量丟棄。",
+      "rawOCR": "將這隻寶可夢身上的1個夕能量丟棄。",
+      "candidateIndex": 126,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/079.ts",
+      "evidence": {
+        "sourceImageSha256": "145e98a39219567936c0bc0306ac9f3f1959c507931cd56215fc091055e363b1",
+        "sourceImageBytes": 325421,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-A-086",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "如果這只寶可夢在本回合中進化，則這次攻擊造成的傷害增加 20 點。",
+      "value": "在這個回合,若進化成這隻寶可夢,則增加20點傷害。",
+      "rawOCR": "在這個回合，若進化成這隻寶可夢，則增加20點修害。",
+      "candidateIndex": 144,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/086.ts",
+      "evidence": {
+        "sourceImageSha256": "a4e0d5c4916f68e74924803312b5d83207e69a3e020dc77afc0dceb559c4fb7d",
+        "sourceImageBytes": 224984,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-A-087",
+      "locale": "fr",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Cette attaque inflige 40 dégâts à chaque fois que votre Pokémon a utilisé Sweets Relay pendant cette partie.",
+      "value": "Cette attaque inflige 40 dégâts pour chaque utilisation de Saupoudrage Sucré par vos Pokémon pendant cette partie.",
+      "rawOCR": "Cette atraque inflige 40 degats pour chaque utilisation de Saupoudrage Sucré par vos Pokémon pendant cette partie",
+      "candidateIndex": 145,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/087.ts",
+      "evidence": {
+        "sourceImageSha256": "271a6fbc0e7c7cd68deedbd73f1a545a7db779931d694170c483aa484934e8eb",
+        "sourceImageBytes": 321424,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-A-098",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "拋一枚硬幣。如果正面，則治療該神奇寶貝 60 點傷害。",
+      "value": "擲1次硬幣若為正面,則將這隻寶可夢恢復60HP。",
+      "rawOCR": "換1次硬幣若為正面，則將這隻寶可夢恢復60HP。",
+      "candidateIndex": 177,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/098.ts",
+      "evidence": {
+        "sourceImageSha256": "9af98a42cdea6835bbdf7355fd2e5e2135287bb6a4aff7bbe2cde036b5e382af",
+        "sourceImageBytes": 303576,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-B-004",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "這次攻擊還會對你後備的 1 只寶可夢造成 20 點傷害。",
+      "value": "自己的1隻備戰寶可夢也受到20點傷害。",
+      "rawOCR": "自己的1隻備寶可夢也受到20點傷害。",
+      "candidateIndex": 191,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/004.ts",
+      "evidence": {
+        "sourceImageSha256": "3d33da190affde74b1bcaa5870402732c39a5be577e4d82733be3d929c563d4a",
+        "sourceImageBytes": 242186,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-B-011",
+      "locale": "zh-tw",
+      "path": "abilities[0].effect",
+      "expectedCurrent": "只要該寶可夢位於活動點，它就可以在你的第一個回合或你玩它的回合中進化。",
+      "value": "只要這隻寶可夢在戰鬥場上,就算在自己的最初回合或者剛使出的回合,也可進化。",
+      "rawOCR": "只要這隻寶可麥在戰鬥場上，就算在自己的最初回合或者剛使出 的回合，也可進化。",
+      "candidateIndex": 204,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/011.ts",
+      "evidence": {
+        "sourceImageSha256": "1fb570f6560e39abaac1c336268412acfbe5f9af9b091c0f4dd7ab21e1e13ecf",
+        "sourceImageBytes": 286718,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-B-012",
+      "locale": "fr",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Choisissez 1 des attaques de votre Pokémon de Banc, à l'exception des ex-Pokémon, et utilisez-la comme cette attaque. Si ce Pokémon n'a pas l'Énergie nécessaire pour utiliser cette attaque, cette attaque ne fait rien.",
+      "value": "Choisissez une des attaques d'un de vos Pokémon de Banc, à l'exception des Pokémon‐ex, et utilisez‐la en tant que cette attaque. Si ce Pokémon n'a pas l'Énergie nécessaire pour utiliser cette attaque, cette attaque ne fait rien.",
+      "rawOCR": "ahoisissez une des atraques diun de vos Pokemon de anc, à l'exception des Pokémon-eX, et utilisez-la er tant que cette attaque. Si ce Pokémon n'a pas F'Energie nécessare pour utiliser cette attaque, cette attaque nel fait rien.",
+      "candidateIndex": 205,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/012.ts",
+      "evidence": {
+        "sourceImageSha256": "ec4404153120ce5311c46e00f8c57bd9f2f4e12ad5bc607088622a4608780d0c",
+        "sourceImageBytes": 313145,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-B-017",
+      "locale": "pt-br",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Coloque um Pokémon aleatório do seu baralho na sua mão.",
+      "value": "Coloque 1 Pokémon aleatório do seu baralho na sua mão.",
+      "rawOCR": "Coloque 1 Pokémon aleatório do seu baralho na sua",
+      "candidateIndex": 223,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/017.ts",
+      "evidence": {
+        "sourceImageSha256": "9fd66de31936a7c7e3264967770f8d8098b4f5245f8ad327c15641a05468adc7",
+        "sourceImageBytes": 286540,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-B-025",
+      "locale": "fr",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Cette attaque inflige 30 dégâts à 1 des Pokémon de votre adversaire.",
+      "value": "Cette attaque inflige 30 dégâts à l'un des Pokémon de votre adversaire.",
+      "rawOCR": "Cette attaque inflige 30 dégâts å fun des Pokémon de votre adversaire",
+      "candidateIndex": 249,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/025.ts",
+      "evidence": {
+        "sourceImageSha256": "eee94bc691838f93f94ea36b0f4d7dd82e5fb3cf0015e7fef4aa6399c896d061",
+        "sourceImageBytes": 389546,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-B-027",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "拋一枚硬幣。如果正面，則對手的戰鬥寶可夢現在處於麻痺狀態。",
+      "value": "擲1次硬幣若為正面,則將對手的戰鬥寶可夢麻痺。",
+      "rawOCR": "換1次硬幣若為正面，則將對手的戰鬥寶可夢麻痺。",
+      "candidateIndex": 258,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/027.ts",
+      "evidence": {
+        "sourceImageSha256": "2bffbdc9f5077d35453fa9dd50ce6c98e3d9455a3a3069bd9cfed1b2627ea2cd",
+        "sourceImageBytes": 244675,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-B-041",
+      "locale": "zh-tw",
+      "path": "attacks[1].effect",
+      "expectedCurrent": "丟棄該寶可夢的所有 {W} 能量。這次攻擊對對手的 1 隻寶可夢造成 130 點傷害。",
+      "value": "將這隻寶可夢身上的{W}能量全部丟棄,對手的1隻寶可夢受到130點傷害。",
+      "rawOCR": "將這隻資可夢身上的6能量全部丟棄，對手的1隻寶可夢受到 130點傷害。",
+      "candidateIndex": 292,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/041.ts",
+      "evidence": {
+        "sourceImageSha256": "0bafde444daeac24f8ca5062a71ab9a1daf4e067035a723e411f60cd004d7b60",
+        "sourceImageBytes": 354403,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-B-049",
+      "locale": "es",
+      "path": "abilities[0].effect",
+      "expectedCurrent": "Una vez durante tu turno, después de lanzar monedas para un ataque de 1 de tus Pokémon {R}, puedes ignorar todos los resultados de esos lanzamientos de monedas y comenzar a lanzarlas nuevamente. No puedes usar más de 1 habilidad Victory Star en cada turno.",
+      "value": "Una vez durante tu turno, después de lanzar las monedas para un ataque de 1 de tus Pokémon {R}, puedes ignorar todos los resultados de esos lanzamientos de monedas y lanzar esas monedas de nuevo. No puedes usar más de 1 habilidad Tinovictoria en cada turno.",
+      "rawOCR": "Una vez durante tu turno, después de lanzar las- monedas para un ataque de 1 de tus Pokémon a puedes ignerar codos los resultados de esos \"lanzamientos de monedas y lanzar esas monedas de nuevo. No puedes usar más de 1 habilidad Tinovictoria en cada turno.",
+      "candidateIndex": 308,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/049.ts",
+      "evidence": {
+        "sourceImageSha256": "ebbc4a638a4dc45e3fc79a21ee2c106464820057fd0f549574fd73c3cb757a5c",
+        "sourceImageBytes": 305783,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-B-050",
+      "locale": "zh-tw",
+      "path": "abilities[0].effect",
+      "expectedCurrent": "在你的回合開始時，如果這只寶可夢位於活躍位置，則從你的牌組中隨機將一隻 {P} 寶可夢置入你的手牌。",
+      "value": "在自己的回合開始時,若這隻寶可夢在戰鬥場上,則從自己的牌庫隨機將1張{P}寶可夢卡加入手牌。",
+      "rawOCR": "在自己的回合開始時，若這隻賽可夢在戰鬥場上，則從自己的牌 庫隨機將1張◎寶可夢卡加入手降。",
+      "candidateIndex": 314,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/050.ts",
+      "evidence": {
+        "sourceImageSha256": "74e43d0399566219e6e61fe870a5014dedb9b77795856f4c60ff2051f7837d10",
+        "sourceImageBytes": 269568,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-B-053",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "翻轉 2 個硬幣。此攻擊對每個頭造成 100 點傷害。",
+      "value": "擲2次硬幣,造成正面出現的次數×100點傷害。",
+      "rawOCR": "授2次硬幣，造成正面出現的次數× 100點傷害。",
+      "candidateIndex": 321,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/053.ts",
+      "evidence": {
+        "sourceImageSha256": "d6725b6fbcabbdfaca45d289966cd6c558dadc73ee3edf4cdb8033e2f9e33b9d",
+        "sourceImageBytes": 365125,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-B-054",
+      "locale": "zh-tw",
+      "path": "abilities[0].effect",
+      "expectedCurrent": "只要該寶可夢位於活動點，它就可以在你的第一個回合或你玩它的回合中進化。",
+      "value": "只要這隻寶可夢在戰鬥場上,就算在自己的最初回合或者剛使出的回合,也可進化。",
+      "rawOCR": "只要這隻寶可麥在戰鬥場上，就算在自己的最初回合或者剛使出 的回合，也可進化。",
+      "candidateIndex": 325,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/054.ts",
+      "evidence": {
+        "sourceImageSha256": "6701b5c74414df4caa5175680ea521926f1712a301cb173d81e829c98a106b35",
+        "sourceImageBytes": 257719,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-B-055",
+      "locale": "fr",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Lancez 2 pièces. Cette attaque inflige 100 dégâts pour chaque tête.",
+      "value": "Lancez 2 pièces. Cette attaque inflige 100 dégâts pour chaque côté face.",
+      "rawOCR": "Lancen 2 pièces. Cette attaque inflige 100 dégars pour chaque côté face.",
+      "candidateIndex": 326,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/055.ts",
+      "evidence": {
+        "sourceImageSha256": "2f7582ca92463b12e53b8c7b56135f8271c29aac6862ebefc6a29c92ef7d59be",
+        "sourceImageBytes": 355296,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-B-056",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "拋一枚硬幣。如果是反面，这只神奇宝贝也会对自己造成 60 点伤害。",
+      "value": "擲1次硬幣若為反面,則這隻寶可夢也受到60點傷害。",
+      "rawOCR": "換1次硬幣若為反面，則這隻寶可夢也受到60點傷害。",
+      "candidateIndex": 333,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/056.ts",
+      "evidence": {
+        "sourceImageSha256": "2563b8cc7ba29909d1f93382cabcc086302be39634d29383bc308f83fa385b85",
+        "sourceImageBytes": 313245,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-B-064",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該寶可夢造成的所有攻擊傷害及其效果。",
+      "value": "擲1次硬幣若為正面,則在下個對手的回合,這隻寶可夢不會受到招式的傷害與效果的影響。",
+      "rawOCR": "換1次硬幣若為正面，則在下個對手的回合，這隻寶可夢不會受到 招式的傷害與效果的影響。",
+      "candidateIndex": 356,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/064.ts",
+      "evidence": {
+        "sourceImageSha256": "d54013802ac1d3d7dfc4568a66c0aef4384cbb9aa36914014c2ad935070e3638",
+        "sourceImageBytes": 267549,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-B-067",
+      "locale": "es",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Pon 1 Pokémon Básico aleatorio de tu baraja en tu Banca.",
+      "value": "Pon 1 Pokémon Básico aleatorio de tu baraja en tu Banca.",
+      "rawOCR": "Pon 1 Pokémon Básico alcatorio de tu baraja en tu Bancal",
+      "candidateIndex": 363,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/067.ts"
+    },
+    {
+      "cardId": "P-B-067",
+      "locale": "pt-br",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Coloque 1 Pokémon Básico aleatório do seu baralho no seu Banco.",
+      "value": "Coloque 1 Pokémon Básico aleatório do seu baralho no seu Banco.",
+      "rawOCR": "Coloque 1 Pokémon Básico alcatório do scu baralho no seu Banco.",
+      "candidateIndex": 364,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/067.ts"
+    },
+    {
+      "cardId": "P-B-070",
+      "locale": "pt-br",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Pegue uma energia aleatória entre {G}, {R}, {W}, {L}, {P}, {F}, {D} e {M} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon no Banco.",
+      "value": "Pegue uma Energia aleatória dentre os tipos {G}, {R}, {W}, {L}, {P}, {F}, {D} e {M} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon no Banco.",
+      "rawOCR": "Pegue uma Energia aleatória dentre os tipos . A. 6. 4. 0. #. U e e da sua Zona de Energia e ligue-a a 1 dos seus Pokémon no Banco.",
+      "candidateIndex": 373,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/070.ts",
+      "evidence": {
+        "sourceImageSha256": "1a82f75eab2db7ee969421924522a204d618e1eb30aa03d33520e37e6a0b9ba6",
+        "sourceImageBytes": 306071,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-B-072",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該寶可夢造成的所有攻擊傷害及其效果。",
+      "value": "擲1次硬幣若為正面,則在下個對手的回合,這隻寶可夢不會受到招式的傷害與效果的影響。",
+      "rawOCR": "換1次硬幣若為正面，則在下個對手的回合，這隻寶可夢不會受到 招式的傷害與效果的影響。",
+      "candidateIndex": 382,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/072.ts",
+      "evidence": {
+        "sourceImageSha256": "796e14294809b588c805980c1e4456981f86c03cea47aa7008b5f72a40ab93fc",
+        "sourceImageBytes": 326248,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-B-077",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "展示你場上和手中所有具有小狗堆攻擊的寶可夢，此攻擊對你以這種方式展示的每隻寶可夢造成 20 點傷害。",
+      "value": "在給對手看過自己的場上與手牌所有持有「小狗滿地跑」招式的寶可夢後,造成給對手看過的寶可夢的數量×20點傷害。",
+      "rawOCR": "在给對手看過自己的場上與手牌所有持有「小狗滿地跑」招式的 寶可夢後，造成給封手看過的寶可夢的數量×20點傷害。",
+      "candidateIndex": 392,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/077.ts",
+      "evidence": {
+        "sourceImageSha256": "0b3291ab26201f33507bc8efbb34a94a177e82b020d0295d39aa2500654618db",
+        "sourceImageBytes": 294072,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-A-117",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Rápido como el viento, Absol corre por los campos y\nmontañas. Su cuerno curvo, en forma de arco, es agudamente\nsensibles a las señales de alerta de desastres naturales.",
+      "value": "Corre por montañas y prados a la velocidad del viento. Su cuerno curvado tiene tal sensibilidad que puede predecir catástrofes naturales.",
+      "rawOCR": "corre por montarias y prados alla velocidad del viento. Su cuerno curvado tene tal sens bilidad que puede predecir catastrofes naturales.",
+      "candidateIndex": 424,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/117.ts",
+      "evidence": {
+        "sourceImageSha256": "93dbc9c4c3eef42d04757993c87f86ea302d5b5d75eb18203d316ea6d872f996",
+        "sourceImageBytes": 303274,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-A-076",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Il glisse vers les gens. Puis, sans avertissement, il déclenche le\nexplosion de sa propre tête. C'est apparemment une sorte d'Ultra Beast.",
+      "value": "Il s'approche des gens avec son allure désarticulée et fait subitement exploser sa tête. Ce serait une Ultra-Chimère.",
+      "rawOCR": "Il s'approche des gens avec son allure désarticulée et fait subitement exploser s tote. Ce serait une Ultra-Chimere",
+      "candidateIndex": 462,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/076.ts",
+      "evidence": {
+        "sourceImageSha256": "7ae34060a98bed524daa34d026f88327b88eec997be567d15a759e09a548458b",
+        "sourceImageBytes": 291172,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-A-090",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Avec ses longs poils sur le dos, ce Pokémon\nabsorbe l'électricité d'autres Pokémon électriques.\nIl stocke ce qu'il absorbe dans un sac électrique.",
+      "value": "Grâce à sa longue épine dorsale, il capte le tonnerre et les attaques des Pokémon Électrik, puis stocke leur courant dans sa poche électrique.",
+      "rawOCR": "Grâce à sa longue épine dorsale, i capte e tonnerre etes attaaues des Pokemon Electrik puis stocke leur courant dans sa poche électrique.",
+      "candidateIndex": 493,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/090.ts",
+      "evidence": {
+        "sourceImageSha256": "239042144f7bee969b92f66bc9e81e6ab9ccb1d3d12c09307528477b05b8ed5c",
+        "sourceImageBytes": 325511,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-A-090",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Utiliza el apéndice de la cabeza para absorber los raoys o los\nataques de los Pokémon de tipo Eléctrico para recargar su bolsa.",
+      "value": "Utiliza el apéndice de la cabeza para absorber los rayos o los ataques de los Pokémon de tipo Eléctrico para recargar su bolsa.",
+      "rawOCR": "* Utiliza el apendice de la cabeza para absorber los rayos o los ataques de los Pokémon de tipo Bléctrito para recargar su boiss.",
+      "candidateIndex": 495,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/090.ts",
+      "evidence": {
+        "sourceImageSha256": "2bdd2cca865ab3518f112b9484281b395430b62c81bea6ded6b42033e5a6a536",
+        "sourceImageBytes": 324498,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    },
+    {
+      "cardId": "P-A-094",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Horsea s'installe dans les océans avec la douceur\ncourants. Si ce Pokémon est attaqué, il crache\nsort de l'encre noire et s'échappe.",
+      "value": "Il vit dans les mers calmes. Quand on l'attaque, il crache de l'encre noire et profite de la diversion pour s'enfuir.",
+      "rawOCR": "1 vit dans les mers calmes. Quand on Fattaque, il crache de l'encre noire et profite de la diversion pour s'enfuir.",
+      "candidateIndex": 503,
+      "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/094.ts",
+      "evidence": {
+        "sourceImageSha256": "015520be4ad070469342877ca71b39a3148262b4d7762eaa58de812d285af2d0",
+        "sourceImageBytes": 279803,
+        "review": "Reviewed native OCR wording, conditions, numbers and energy symbols against pinned dictionary/flavor candidate. B067 es/pt uses native singular Básico; reject plural renderer output."
+      }
+    }
+  ]
+}

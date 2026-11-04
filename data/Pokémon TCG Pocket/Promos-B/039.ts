@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/039",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/039",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/039",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/039",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/039",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/039",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/039",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/039",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/039"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/039/fa746abcf4560481",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/039/fa746abcf4560481",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/039/fa746abcf4560481",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/039/fa746abcf4560481",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/039/fa746abcf4560481",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/039/fa746abcf4560481",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/039/fa746abcf4560481",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/039/fa746abcf4560481",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/039/fa746abcf4560481"
     },
     name: {
         en: "Pawmi",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "パモ"
     },
     illustrator: "sowsow",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     hp: 60,
     types: ["Lightning"],
@@ -34,12 +34,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "The pads of its paws are electricity-discharging organs. Pawmi fires electricity from its forepaws while standing unsteadily on its hind legs.",
-        fr: "Les coussinets de ses pattes sont des organes qui déchargent de l'électricité. Pohm tire de l'électricité depuis ses pattes antérieures tout en se tenant de manière instable sur ses pattes postérieures.",
-        es: "Las almohadillas de sus patas son órganos que descargan electricidad. Pawmi dispara electricidad desde sus patas delanteras mientras se mantiene inestable sobre sus patas traseras.",
-        it: "I cuscinetti delle zampe sono organi che scaricano elettricità. Pawmi spara elettricità dalle zampe anteriori mentre sta instabile sulle zampe posteriori.",
-        de: "Die Ballen seiner Pfoten sind elektrisch ableitende Organe. Pamo feuert Elektrizität aus seinen Vorderpfoten ab, während es unsicher auf seinen Hinterbeinen steht.",
-        "pt-br": "As almofadas de suas patas são órgãos que descarregam eletricidade. Pawmi dispara eletricidade com suas patas dianteiras enquanto fica instável nas patas traseiras.",
-        "zh-tw": "它的爪墊是放電器官。 布撥 用後腿搖搖晃晃地站立，並從前爪發射電流。",
+        fr: "Ses coussinets servent à projeter de l'électricité. Quand il parvient à se tenir sur ses pattes arrière, il envoie des décharges avec ses pattes avant.",
+        es: "Sus almohadillas le permiten liberar electricidad. Cuando logra erguirse sobre las patas traseras, usa las palmas para soltar descargas eléctricas.",
+        it: "I cuscinetti delle zampe anteriori sono organi che scaricano elettricità. Quando riesce a stare sulle zampe posteriori può lanciare attacchi elettrici.",
+        de: "Seine Pfotenballen sind Organe zur elektrischen Entladung. Gelingt es ihm, auf den Hinterbeinen zu stehen, schießt es Strom aus den Vorderpfoten.",
+        "pt-br": "As almofadas em suas patas são órgãos que disparam eletricidade. Pawmi lança eletricidade de suas patas dianteiras enquanto tenta se equilibrar em suas patas traseiras.",
+        "zh-tw": "手的肉球是放電的器官。會費勁地用後腳站起來，然後從手掌釋放出電擊。",
         ja: "手の 肉球が 放電器官。 後ろ脚で ようやく 立ち上がると 手のひらから 電撃を 放つ。",
         ko: "손의 볼록살이 방전 기관이다.\n뒷발로 겨우 일어선 다음\n손바닥에서 전격을 내보낸다."
     },
@@ -59,12 +59,12 @@ const card: Card = {
             },
             effect: {
                 en: "This attack does 10 damage to 1 of your opponent's Pokémon.",
-                fr: "Cette attaque inflige 10 dégâts à 1 des Pokémon de votre adversaire.",
+                fr: "Cette attaque inflige 10 dégâts à l'un des Pokémon de votre adversaire.",
                 es: "Este ataque hace 10 puntos de daño a 1 de los Pokémon de tu rival.",
-                it: "Questo attacco infligge 10 danni a 1 dei Pokémon del tuo avversario.",
-                de: "Dieser Angriff fügt 1 Pokémon deines Gegners 10 Schadenspunkte zu.",
+                it: "Questo attacco infligge 10 danni a uno dei Pokémon del tuo avversario.",
+                de: "Diese Attacke fügt 1 Pokémon deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 10 pontos de dano a 1 dos Pokémon do seu oponente.",
-                "zh-tw": "這次攻擊對對手的 1 只寶可夢造成 10 點傷害。",
+                "zh-tw": "對手的1隻寶可夢受到10點傷害。",
                 ja: "相手のポケモン1匹に10ダメージ。",
                 ko: "상대의 포켓몬 1마리에게 10데미지를 준다."
             }

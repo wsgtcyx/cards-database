@@ -1,0 +1,2553 @@
+{
+  "schemaVersion": 1,
+  "decisions": [
+    {
+      "cardId": "P-A-009",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Quando s'arrabbia, libera subito l'energia\naccumulata nelle sacche sulle guance.",
+      "value": "Quando s'arrabbia, libera subito l'energia\naccumulata nelle sacche sulle guance.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "34f219654403876458edfd829231875ad66e8f4e4055894d5372fc73d790a363",
+      "sourceImageBytes": 313061,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/009.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/009.ts"
+    },
+    {
+      "cardId": "P-A-010",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Creato da uno scienziato dopo anni di\norribili esperimenti di ingegneria genetica.",
+      "value": "Creato da uno scienziato dopo anni di\norribili esperimenti di ingegneria genetica.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "eaca96248becaf27e71b96c632a379651e346ce971a83e4b0fab4faf1a7992bb",
+      "sourceImageBytes": 320416,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/010.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/010.ts"
+    },
+    {
+      "cardId": "P-A-011",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Un Pokémon altruista che depone\nuova molto nutrienti e le condivide\ncon persone o Pokémon feriti.",
+      "value": "Un Pokémon altruista che depone\nuova molto nutrienti e le condivide\ncon persone o Pokémon feriti.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "90a7dcce95044ff9eea01b006c1268182ca9a411b171cdeb97cb81ea0e065367",
+      "sourceImageBytes": 298610,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/011.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/011.ts"
+    },
+    {
+      "cardId": "P-A-012",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Di giorno non fa che dormire, mentre la notte\nperlustra il suo territorio con gli occhi luccicanti.",
+      "value": "Di giorno non fa che dormire, mentre la notte\nperlustra il suo territorio con gli occhi luccicanti.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "8a2947f95ca24e4cc9ead2fcc2b455f4417b4ca22e13d39db9d237478913f706",
+      "sourceImageBytes": 268230,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/012.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/012.ts"
+    },
+    {
+      "cardId": "P-A-013",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Sbatte le ali a gran velocità per liberare\nle sue polveri tossiche nell'aria.",
+      "value": "Sbatte le ali a gran velocità per liberare\nle sue polveri tossiche nell'aria.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "d1915c07912b3cd0d5cb9f10266d6313a9c127b5b781c122f14ddb5b2c4f2b68",
+      "sourceImageBytes": 268813,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/013.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/013.ts"
+    },
+    {
+      "cardId": "P-A-015",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Quando s'arrabbia, libera subito l'energia\naccumulata nelle sacche sulle guance.",
+      "value": "Quando s'arrabbia, libera subito l'energia\naccumulata nelle sacche sulle guance.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "74297f71a83cfc9bd899e5232419758951f101e71b8616af1a48aa70a446e84f",
+      "sourceImageBytes": 227094,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/015.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/015.ts"
+    },
+    {
+      "cardId": "P-A-016",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Si dice che vedere un gruppo di Clefairy ballare\ncon la luna piena sia di ottimo auspicio.",
+      "value": "Si dice che vedere un gruppo di Clefairy ballare\ncon la luna piena sia di ottimo auspicio.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "430715d91a3a74d88b4f07f63856e3bb236c9dd467ebe2c437fd05acbd6c5af9",
+      "sourceImageBytes": 272004,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/016.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/016.ts"
+    },
+    {
+      "cardId": "P-A-017",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Vivono in branchi in cima agli alberi. Se perdono\nil contatto con il gruppo s'infuriano per la solitudine.",
+      "value": "Vivono in branchi in cima agli alberi. Se perdono\nil contatto con il gruppo s'infuriano per la solitudine.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "49da0362e8f7e49b7c87fe4b8f21ff0d8cacf640bcfe920f2879d191453bb4a0",
+      "sourceImageBytes": 298545,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/017.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/017.ts"
+    },
+    {
+      "cardId": "P-A-018",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Il fiore sboccia assorbendo energia solare.\nSi muove continuamente in cerca di luce.",
+      "value": "Il fiore sboccia assorbendo energia solare.\nSi muove continuamente in cerca di luce.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "c6425240e8771ce5f87b842df93fd169d70a9cf4ed4479819281307e3a077c69",
+      "sourceImageBytes": 409384,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/018.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/018.ts"
+    },
+    {
+      "cardId": "P-A-019",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Crea lame d'acqua micidiali che ruotano ad alta\nvelocità e, se lanciate, possono perforare il metallo.",
+      "value": "Crea lame d'acqua micidiali che ruotano ad alta\nvelocità e, se lanciate, possono perforare il metallo.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "da51d5cc24dec4f5117d78cda212290dee7003db1fcdabae31eb4e6efd48e21a",
+      "sourceImageBytes": 325094,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/019.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/019.ts"
+    },
+    {
+      "cardId": "P-A-020",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Adora stare in agguato nei luoghi bui e toccare\nle spalle delle vittime con le sue mani gassose.\nIl suo tocco causa brividi incontenibili.",
+      "value": "Adora stare in agguato nei luoghi bui e toccare\nle spalle delle vittime con le sue mani gassose.\nIl suo tocco causa brividi incontenibili.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "fa07788b1488f14a409ea249e32f25c5fea282ac9f2ad33779349cfd35bc2267",
+      "sourceImageBytes": 247613,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/020.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/020.ts"
+    },
+    {
+      "cardId": "P-A-021",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Scava nel terreno assorbendo gli oggetti\npiù duri per irrobustire il suo corpo.",
+      "value": "Scava nel terreno assorbendo gli oggetti\npiù duri per irrobustire il suo corpo.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "4b9cff35444a005b1bdd164f1cf2be732a5abaae527943eb0ba9b536c0c5445b",
+      "sourceImageBytes": 316893,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/021.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/021.ts"
+    },
+    {
+      "cardId": "P-A-022",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Quando i suoi occhioni rotondi tremolano, canta\nuna misteriosa melodia che fa addormentare.",
+      "value": "Quando i suoi occhioni rotondi tremolano, canta\nuna misteriosa melodia che fa addormentare.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "60ba6d88f3452630d9c9c6bbe0f39f6f630e9919a7076edffd7b42c0c43ecd96",
+      "sourceImageBytes": 256867,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/022.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/022.ts"
+    },
+    {
+      "cardId": "P-A-023",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Fin dalla nascita questo Pokémon ha sulla\nschiena un seme che cresce lentamente.",
+      "value": "Fin dalla nascita questo Pokémon ha sulla\nschiena un seme che cresce lentamente.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "2904df84b396eea7efd285358e2c85b58251dca5b866c7ed100d37387ece6622",
+      "sourceImageBytes": 260361,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/023.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/023.ts"
+    },
+    {
+      "cardId": "P-A-024",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Le onde elettromagnetiche generate dagli\nelementi laterali neutralizzano la gravità\npermettendogli di levitare a mezz'aria.",
+      "value": "Le onde elettromagnetiche generate dagli\nelementi laterali neutralizzano la gravità\npermettendogli di levitare a mezz'aria.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "b9bc1d9e31ac89e80602968a2858e68bb503a9b445b30dde12504c7ca93e1633",
+      "sourceImageBytes": 204483,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/024.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/024.ts"
+    },
+    {
+      "cardId": "P-A-026",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Quando s'arrabbia, libera subito l'energia\naccumulata nelle sacche sulle guance.",
+      "value": "Quando s'arrabbia, libera subito l'energia\naccumulata nelle sacche sulle guance.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "e4e91571b367a308dbb3db6d1c40d78b21dd1f80180d2e4a43ee791480fed6e2",
+      "sourceImageBytes": 298354,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/026.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/026.ts"
+    },
+    {
+      "cardId": "P-A-027",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Quando è esposto alla luce solare può muoversi più\nvelocemente. Usa le sue liane meglio dei suoi stessi arti.",
+      "value": "Quando è esposto alla luce solare può muoversi più\nvelocemente. Usa le sue liane meglio dei suoi stessi arti.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "014b0b6eb1ecfcfe6787104ce56b3ce0a060a12d94f5a4514f2e9505154649d5",
+      "sourceImageBytes": 281055,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/027.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/027.ts"
+    },
+    {
+      "cardId": "P-A-028",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Chi vive in regioni calde odia il suo corpo\ninfuocato, ma nelle terre più fredde viene\nvenerato come l'incarnazione stessa del sole.",
+      "value": "Chi vive in regioni calde odia il suo corpo\ninfuocato, ma nelle terre più fredde viene\nvenerato come l'incarnazione stessa del sole.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "a24ef53e13d4eb8e95cc19724d247fd724b48d328bd172cf47d14a462dca880e",
+      "sourceImageBytes": 283151,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/028.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/028.ts"
+    },
+    {
+      "cardId": "P-A-029",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Mette KO gli avversari schiacciandoli sotto il corpo\npossente. Se è in difficoltà, può ritrarsi nella corazza.",
+      "value": "Mette KO gli avversari schiacciandoli sotto il corpo\npossente. Se è in difficoltà, può ritrarsi nella corazza.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "4eb98bdba5ee4b7bfd336b6f92db4312bd484491068e0eba3b568c18ecf69aca",
+      "sourceImageBytes": 364838,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/029.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/029.ts"
+    },
+    {
+      "cardId": "P-A-030",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "La capacità di evolversi in diverse specie gli permette\ndi adattarsi perfettamente a qualsiasi tipo di ambiente.",
+      "value": "La capacità di evolversi in diverse specie gli permette\ndi adattarsi perfettamente a qualsiasi tipo di ambiente.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "2e80ea1d046af4765ab695c2c39a73b9303d2d1813037c4ded2b70fccee1f181",
+      "sourceImageBytes": 278105,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/030.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/030.ts"
+    },
+    {
+      "cardId": "P-A-031",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "È un maniaco della pulizia e non sopporta la\nvista neanche di un granello di polvere. Riveste\nla tana del grasso che trasuda dal suo corpo.",
+      "value": "È un maniaco della pulizia e non sopporta la\nvista neanche di un granello di polvere. Riveste\nla tana del grasso che trasuda dal suo corpo.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "571dbaeb8b83f06f29deed6b22695efb0f12d151ea952e76ec0d2cf0425c391a",
+      "sourceImageBytes": 252214,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/031.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/031.ts"
+    },
+    {
+      "cardId": "P-A-032",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Ama le cose calde. Si dice che quando piove\ngli esca vapore dalla punta della coda.",
+      "value": "Ama le cose calde. Si dice che quando piove\ngli esca vapore dalla punta della coda.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "d59ae9edc2178ddace9232ccbec0a28f45040b8c2b43e8d81ada3c689c0d502f",
+      "sourceImageBytes": 298887,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/032.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/032.ts"
+    },
+    {
+      "cardId": "P-A-033",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Quando ritrae il lungo collo dentro la\ncorazza sputa un vigoroso getto d'acqua.",
+      "value": "Quando ritrae il lungo collo dentro la\ncorazza sputa un vigoroso getto d'acqua.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "adbc59f0a0d0a0f9d6e66b0b837eb8514511efee94711fff12601d6a7e1cd64f",
+      "sourceImageBytes": 287766,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/033.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/033.ts"
+    },
+    {
+      "cardId": "P-A-034",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Molto orgoglioso. Difficile farci amicizia\nperché non ascolta mai i consigli dell'Allenatore.",
+      "value": "Molto orgoglioso. Difficile farci amicizia\nperché non ascolta mai i consigli dell'Allenatore.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "630a735c92171c6f486fc2517fb78fab309c33a1ade66d8fa08ba3c9afe053ea",
+      "sourceImageBytes": 337121,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/034.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/034.ts"
+    },
+    {
+      "cardId": "P-A-035",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Si espone ai raggi solari ed esegue la fotosintesi con\ntutto il corpo. La sua corazza è fatta di terra rassodata.",
+      "value": "Si espone ai raggi solari ed esegue la fotosintesi con\ntutto il corpo. La sua corazza è fatta di terra rassodata.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "63c07a163c138e3c043fce605cc0baf33194c8690194d0aa9541faf09e1cc55f",
+      "sourceImageBytes": 255225,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/035.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/035.ts"
+    },
+    {
+      "cardId": "P-A-036",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Produce una quantità di elettricità direttamente\nproporzionale alla sua frequenza cardiaca.\nDurante la lotta il voltaggio si alza all'istante.",
+      "value": "Produce una quantità di elettricità direttamente\nproporzionale alla sua frequenza cardiaca.\nDurante la lotta il voltaggio si alza all'istante.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "f6f93690b60f380697ceeda29d502f262ee758024f76b30cc97df36526450116",
+      "sourceImageBytes": 241717,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/036.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/036.ts"
+    },
+    {
+      "cardId": "P-A-038",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Un Pokémon che terrorizza la gente nel cuore della\nnotte. Assorbe la paura per usarla come energia.",
+      "value": "Un Pokémon che terrorizza la gente nel cuore della\nnotte. Assorbe la paura per usarla come energia.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "64ee02823abf6b08e9867454412032501f47476a30f6a916caf3550a6e0e92c6",
+      "sourceImageBytes": 260980,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/038.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/038.ts"
+    },
+    {
+      "cardId": "P-A-039",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Le piume perse da Skarmory sono utilizzate\nper produrre spade. Per questo è molto\napprezzato come motivo degli stemmi nobiliari.",
+      "value": "Le piume perse da Skarmory sono utilizzate\nper produrre spade. Per questo è molto\napprezzato come motivo degli stemmi nobiliari.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "034986eea444f676925ce13411b91746caff5611760ed745d03ef807e2737597",
+      "sourceImageBytes": 318448,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/039.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/039.ts"
+    },
+    {
+      "cardId": "P-A-040",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Le fiamme sulla coda, alimentate dai gas della\npancia, non si spengono neppure quando piove.",
+      "value": "Le fiamme sulla coda, alimentate dai gas della\npancia, non si spengono neppure quando piove.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "a09c499c28de6eb4e39779b5f2e222f9a92d554ab44e903024fa3b2414e3730e",
+      "sourceImageBytes": 283171,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/040.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/040.ts"
+    },
+    {
+      "cardId": "P-A-041",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Sembra che il suo guscio sia ricolmo di felicità.\nSi dice che porti fortuna se lo si tratta bene.",
+      "value": "Sembra che il suo guscio sia ricolmo di felicità.\nSi dice che porti fortuna se lo si tratta bene.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "f7eadc6d3e95a786fbece21820e8262b426748178e8638a9777728c7f5c6596b",
+      "sourceImageBytes": 295514,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/041.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/041.ts"
+    },
+    {
+      "cardId": "P-A-043",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Assume questa forma dopo essersi esposto\nalla luce solare e aver fatto il pieno di energia.\nResta vivace fino al crepuscolo.",
+      "value": "Assume questa forma dopo essersi esposto\nalla luce solare e aver fatto il pieno di energia.\nResta vivace fino al crepuscolo.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "dd58e93a365de53b023c9b45211fd1aea76da4b2e5cba78f2c5be2ef8ddbcc2e",
+      "sourceImageBytes": 231120,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/043.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/043.ts"
+    },
+    {
+      "cardId": "P-A-044",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "La sua coda scarica elettricità a terra,\nproteggendolo dalle scosse elettriche.",
+      "value": "La sua coda scarica elettricità a terra,\nproteggendolo dalle scosse elettriche.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "1267c6ea092e222ab589284068b1ded4c11aab41e51a7d28a7c839f38a80d0e4",
+      "sourceImageBytes": 308076,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/044.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/044.ts"
+    },
+    {
+      "cardId": "P-A-045",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Si sposta di 1 cm all'anno, ma quando si trova in difficoltà\nruota su se stesso e in un attimo si nasconde sottoterra.",
+      "value": "Si sposta di 1 cm all'anno, ma quando si trova in difficoltà\nruota su se stesso e in un attimo si nasconde sottoterra.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "ab25660550a3072e7600859f609255fc62e87a9a6c21e3ab296085b8ba89f88d",
+      "sourceImageBytes": 329685,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/045.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/045.ts"
+    },
+    {
+      "cardId": "P-A-046",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Aspetta nemici e prede in agguato nella sua\ntana. Quando gli arrivano a tiro, li addenta\ncon tale forza che a volte si spezza i denti.",
+      "value": "Aspetta nemici e prede in agguato nella sua\ntana. Quando gli arrivano a tiro, li addenta\ncon tale forza che a volte si spezza i denti.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "116304d3316e4b21d7018259d087c59999ca9fb1c854ec79699cf39782aec361",
+      "sourceImageBytes": 338993,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/046.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/046.ts"
+    },
+    {
+      "cardId": "P-A-047",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Non appena si evolve, lascia lo stormo e affronta la\nvita da solo. Le sue ali sono estremamente robuste.",
+      "value": "Non appena si evolve, lascia lo stormo e affronta la\nvita da solo. Le sue ali sono estremamente robuste.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "3271fea7525bea7ed7205410dd5ca674f7a529240606cc8b608761253b7d74cd",
+      "sourceImageBytes": 315553,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/047.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/047.ts"
+    },
+    {
+      "cardId": "P-A-048",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Dispone di un potere innato che lo fa\nlegare con qualsiasi specie di Pokémon.",
+      "value": "Dispone di un potere innato che lo fa\nlegare con qualsiasi specie di Pokémon.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "54dd57eaf0ed82252d227bbd992c1a936e9bad8c59df4975b8be29c1cc85a011",
+      "sourceImageBytes": 297545,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/048.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/048.ts"
+    },
+    {
+      "cardId": "P-A-049",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Dopo aver trangugiato i suoi immancabili 400 kg\ndi cibo quotidiani, cade in un sonno profondo.",
+      "value": "Dopo aver trangugiato i suoi immancabili 400 kg\ndi cibo quotidiani, cade in un sonno profondo.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "70be652baba66910c11907753a186a6f38f01db8230481b84faab38bff8e2e15",
+      "sourceImageBytes": 273923,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/049.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/049.ts"
+    },
+    {
+      "cardId": "P-A-051",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Sembra che trasportasse esseri umani sul\ndorso già nell'antichità. È rappresentato in\npitture rupestri risalenti a 10.000 anni fa.",
+      "value": "Sembra che trasportasse esseri umani sul\ndorso già nell'antichità. È rappresentato in\npitture rupestri risalenti a 10.000 anni fa.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "5c13cffd3ade908c85faeb089eb5ba4d54c9cfee93ac62658bccf79de8517f08",
+      "sourceImageBytes": 319204,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/051.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/051.ts"
+    },
+    {
+      "cardId": "P-A-052",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Il suo pelo vellutato ha una composizione simile a quella delle\npiante. Si lava il muso di frequente per evitare che si disidrati.",
+      "value": "Il suo pelo vellutato ha una composizione simile a quella delle\npiante. Si lava il muso di frequente per evitare che si disidrati.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "ba83a51c91e28591d44e072cc1c904354800a62735571e1f749f49bac00b3ed2",
+      "sourceImageBytes": 223802,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/052.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/052.ts"
+    },
+    {
+      "cardId": "P-A-053",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Col galleggiante gonfio, può trasportare delle\npersone sul dorso. Per immergersi lo sgonfia.",
+      "value": "Col galleggiante gonfio, può trasportare delle\npersone sul dorso. Per immergersi lo sgonfia.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "b6db6abe8aa7d533166b0a2967842b6d985cbed9666a77a6379545037e9b5d60",
+      "sourceImageBytes": 289644,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/053.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/053.ts"
+    },
+    {
+      "cardId": "P-A-054",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Di solito è piuttosto flemmatico, ma\nquando si trova a lottare atterra il\nnemico con movimenti fulminei.",
+      "value": "Di solito è piuttosto flemmatico, ma\nquando si trova a lottare atterra il\nnemico con movimenti fulminei.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "14355be1486622cd200071b2cfbf10bc174e795cf2d21e31864e265a3b2a988f",
+      "sourceImageBytes": 375079,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/054.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/054.ts"
+    },
+    {
+      "cardId": "P-A-055",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Agita velocemente le quattro braccia tempestando\ngli avversari di pugni e colpi da ogni direzione.",
+      "value": "Agita velocemente le quattro braccia tempestando\ngli avversari di pugni e colpi da ogni direzione.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "d1fd8b3292ed4a7708ae65bf081da49b2962f54061dfd4a16523aedfc17da846",
+      "sourceImageBytes": 323605,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/055.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/055.ts"
+    },
+    {
+      "cardId": "P-A-056",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Può sganciare la mandibola per ingoiare\nintere prede più grosse di lui. Dopo il pasto,\nsi arrotola su se stesso per riposarsi.",
+      "value": "Può sganciare la mandibola per ingoiare\nintere prede più grosse di lui. Dopo il pasto,\nsi arrotola su se stesso per riposarsi.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "1dca2a8b80052a1ec094920b3fc71b5608effed661344a47ae735091415ae585",
+      "sourceImageBytes": 289306,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/056.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/056.ts"
+    },
+    {
+      "cardId": "P-A-057",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Ha i nervi d'acciaio e niente può turbarlo.\nÈ più agile e attivo di quanto sembri.",
+      "value": "Ha i nervi d'acciaio e niente può turbarlo.\nÈ più agile e attivo di quanto sembri.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "6068dc2f7c57544c2fb8419fa8e5792abdfdc642794a82485adf7bfa4221a137",
+      "sourceImageBytes": 311284,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/057.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/057.ts"
+    },
+    {
+      "cardId": "P-A-058",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Appartiene alla tipologia di Pokémon\nmuniti di sacche elettriche sulle guance.\nRilascia dalla coda l'elettricità accumulata.",
+      "value": "Appartiene alla tipologia di Pokémon\nmuniti di sacche elettriche sulle guance.\nRilascia dalla coda l'elettricità accumulata.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "1bd36abccbf993e9ac5498ad1dbf12eefab9561177a3560be9eb3ea6e6dd8e4d",
+      "sourceImageBytes": 232110,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/058.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/058.ts"
+    },
+    {
+      "cardId": "P-A-059",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Comunica con i suoi simili tramite l'aura.\nPuò correre un'intera notte senza stancarsi.",
+      "value": "Comunica con i suoi simili tramite l'aura.\nPuò correre un'intera notte senza stancarsi.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "d234e1f163e928810151c1ee53e0b5eb174194c73394da398028ce9d53daa9fe",
+      "sourceImageBytes": 302237,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/059.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/059.ts"
+    },
+    {
+      "cardId": "P-A-060",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Somiglia a un mucchio di uova, ma è\nun Pokémon a tutti gli effetti. Pare che\ncomunichi con i suoi simili telepaticamente.",
+      "value": "Somiglia a un mucchio di uova, ma è\nun Pokémon a tutti gli effetti. Pare che\ncomunichi con i suoi simili telepaticamente.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "ff8b28f1e664a9ea5464ec7f4478f71d9a9c79e279c97b63bd81ac1efed0dfe6",
+      "sourceImageBytes": 288897,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/060.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/060.ts"
+    },
+    {
+      "cardId": "P-A-061",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Dal petto e dalla schiena secerne una schiuma che gli\npermette di attutire i danni causati dagli attacchi nemici.",
+      "value": "Dal petto e dalla schiena secerne una schiuma che gli\npermette di attutire i danni causati dagli attacchi nemici.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "6f583cac0e8538b371e6c484ce189cf6c9c61591cbd851be56459490f7a2f82a",
+      "sourceImageBytes": 289344,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/061.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/061.ts"
+    },
+    {
+      "cardId": "P-A-062",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Colpisce gli avversari con un gambo, che\nbrandisce con l'ala come se fosse una spada.\nIn caso di necessità, può anche mangiarselo.",
+      "value": "Colpisce gli avversari con un gambo, che\nbrandisce con l'ala come se fosse una spada.\nIn caso di necessità, può anche mangiarselo.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "943c197fd6a8fe28597cf84808c1329b8f4642bed605765d7c2c73157412114e",
+      "sourceImageBytes": 295616,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/062.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/062.ts"
+    },
+    {
+      "cardId": "P-A-063",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Vive nello strato di ozono oltre le nuvole\ne non può essere avvistato da terra.",
+      "value": "Vive nello strato di ozono oltre le nuvole\ne non può essere avvistato da terra.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "b1d049212aafc70a8ec4d58b99fd4e52f6006dfca4acf6a12866b44f6797630d",
+      "sourceImageBytes": 326951,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/063.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/063.ts"
+    },
+    {
+      "cardId": "P-A-066",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Vive nell'ombra, lontano dalla luce del sole. Quando appare davanti\nalle persone si nasconde sotto un panno che somiglia a un Pikachu.",
+      "value": "Vive nell'ombra, lontano dalla luce del sole. Quando appare davanti\nalle persone si nasconde sotto un panno che somiglia a un Pikachu.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "442231ee749c50be27c35a0b6c949f2d70e29bc367a545ae40ef525d6d3c5431",
+      "sourceImageBytes": 336328,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/066.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/066.ts"
+    },
+    {
+      "cardId": "P-A-067",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Il suo corpo è formato da un gas instabile. Potrebbe volare via\nal minimo soffio di vento, ma non sembra preoccuparsene.",
+      "value": "Il suo corpo è formato da un gas instabile. Potrebbe volare via\nal minimo soffio di vento, ma non sembra preoccuparsene.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "15f46d00d554438dfa581e511e37b2c6e05dbc68c618a2444a2f6769af6447f0",
+      "sourceImageBytes": 288829,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/067.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/067.ts"
+    },
+    {
+      "cardId": "P-A-068",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Caccia la sua preda usando le zanne e gli artigli affilatissimi.\nAscolta fedelmente le indicazioni degli Allenatori di cui si fida.",
+      "value": "Caccia la sua preda usando le zanne e gli artigli affilatissimi.\nAscolta fedelmente le indicazioni degli Allenatori di cui si fida.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "ac0bd1987c3d5950e0e1a2f9c2c1452afae7abc620892c4133104b923bd0d86d",
+      "sourceImageBytes": 308742,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/068.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/068.ts"
+    },
+    {
+      "cardId": "P-A-069",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "L'esposizione a intensi raggi solari ha risvegliato\nl'aspetto e il potere originari di questo Pokémon.",
+      "value": "L'esposizione a intensi raggi solari ha risvegliato\nl'aspetto e il potere originari di questo Pokémon.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "b317c82b192efb910f1657ecc29248714073db1694cae268640be4f9a00cc6be",
+      "sourceImageBytes": 299961,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/069.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/069.ts"
+    },
+    {
+      "cardId": "P-A-070",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "In passato viveva su un impenetrabile monte innevato,\ndimora di una divinità di cui era considerato l'incarnazione.",
+      "value": "In passato viveva su un impenetrabile monte innevato,\ndimora di una divinità di cui era considerato l'incarnazione.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "8a710372449fabc66028153ba184c50fd18f5823c5fa249799d060b97999ac36",
+      "sourceImageBytes": 375533,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/070.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/070.ts"
+    },
+    {
+      "cardId": "P-A-071",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Prende a pugni gli alberi, per poi cibarsi delle\nbacche che cadono dai rami. In questo modo,\nsi allena e si procaccia il cibo simultaneamente.",
+      "value": "Prende a pugni gli alberi, per poi cibarsi delle\nbacche che cadono dai rami. In questo modo,\nsi allena e si procaccia il cibo simultaneamente.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "e1def1b1c2ef083ac9a5dff117ac0e28fad6f08939c51a52c59ee91b5510d4d4",
+      "sourceImageBytes": 272353,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/071.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/071.ts"
+    },
+    {
+      "cardId": "P-A-072",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Negli impianti di smaltimento rifiuti di Alola ne vivono circa\n100 esemplari che lavorano sodo mangiando rifiuti in quantità.",
+      "value": "Negli impianti di smaltimento rifiuti di Alola ne vivono circa\n100 esemplari che lavorano sodo mangiando rifiuti in quantità.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "26d9bfa0f108d68ec45c7c5a00ce823c24bae19cab2a64d12678f788c508103b",
+      "sourceImageBytes": 273310,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/072.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/072.ts"
+    },
+    {
+      "cardId": "P-A-073",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "I Toucannon comunicano tra di loro sbattendo i becchi. La forza\ne il numero dei colpi indicano i sentimenti che vogliono esprimere.",
+      "value": "I Toucannon comunicano tra di loro sbattendo i becchi. La forza\ne il numero dei colpi indicano i sentimenti che vogliono esprimere.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "8937b6491d99197040f88f425dd46eaeaf83412c8eb20d1ce55d5d91cc542a8c",
+      "sourceImageBytes": 292406,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/073.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/073.ts"
+    },
+    {
+      "cardId": "P-A-074",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Elettrizza i suoi artigli e dilania i suoi avversari\na parte loro. Anche se schivano il suo attacco,\nsaranno fulminati dalle scintille volanti.",
+      "value": "Fa a pezzi l'avversario con le unghie cariche di elettricità. Anche se il nemico schiva il colpo, viene raggiunto da una scarica folgorante.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "ddd8e897301c32d158671a65b3719441f955140060ccf12d7c9fa073b7dcf5d3",
+      "sourceImageBytes": 320682,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/074.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/074.ts",
+      "evidence": {
+        "sourceImageSha256": "ddd8e897301c32d158671a65b3719441f955140060ccf12d7c9fa073b7dcf5d3",
+        "sourceImageBytes": 320682,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-075",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Il corpo di questa Ultracreatura, che è altrettanto magro\ncome la carta, è come una spada affilata.",
+      "value": "Ultracreatura dal corpo sottile come un foglio di carta e affilato come la lama di una spada.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "57e3e940d58e4bd017f285b0287af3999679345c33887fdfaac3d9bc3c38f1e0",
+      "sourceImageBytes": 278157,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/075.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/075.ts",
+      "evidence": {
+        "sourceImageSha256": "57e3e940d58e4bd017f285b0287af3999679345c33887fdfaac3d9bc3c38f1e0",
+        "sourceImageBytes": 278157,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-076",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Scivola verso le persone. Quindi, senza preavviso, si attiva il\nesplosione della propria testa. Apparentemente è un tipo di Ultracreatura.",
+      "value": "Sembra che sia un'Ultracreatura. Si avvicina alle persone ondeggiando e fa esplodere la sua testa all'improvviso.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "116d4bf0e587fab116326e9038804c2f72c8db879286926688ea0612973dfb2a",
+      "sourceImageBytes": 291914,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/076.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/076.ts",
+      "evidence": {
+        "sourceImageSha256": "116d4bf0e587fab116326e9038804c2f72c8db879286926688ea0612973dfb2a",
+        "sourceImageBytes": 291914,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-077",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Nel nostro mondo il suo aspetto appare strano e minaccioso, ma sembra che in quello da cui proviene sia una creatura molto comune.",
+      "value": "Nel nostro mondo il suo aspetto appare strano e minaccioso, ma sembra che in quello da cui proviene sia una creatura molto comune.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "90736d38d37b773a4c7c0040764dd9b41226738546c3f44d61150e9c6b316785",
+      "sourceImageBytes": 256183,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/077.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/077.ts"
+    },
+    {
+      "cardId": "P-A-078",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Lunala non ha più una volontà propria. Ora sotto il\ncontrollo di Necrozma, espelle continuamente tutta la sua energia.",
+      "value": "In questa forma, Lunala è rimasto privo di volontà. Necrozma controlla ogni suo movimento e lo svuota poco a poco di tutte le sue energie.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "ce6144b9b399c2e6a55aa775bfee4cdb8d9d48499c425b98493223786f3cd232",
+      "sourceImageBytes": 307916,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/078.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/078.ts",
+      "evidence": {
+        "sourceImageSha256": "ce6144b9b399c2e6a55aa775bfee4cdb8d9d48499c425b98493223786f3cd232",
+        "sourceImageBytes": 307916,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-079",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Questa è la sua forma mentre divora la luce dell'\nSolgaleo. Si avventa sui nemici e poi colpisce\nloro con gli artigli sui quattro arti e sulla schiena.",
+      "value": "Necrozma assume questa forma quando si nutre della luce di Solgaleo. Lacera i nemici con gli artigli che ha sulla schiena e sugli arti.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "a11334ae1d0dc88985e56f465977b1cb9ccd97e6e0ba905a128c5554fe70ee8f",
+      "sourceImageBytes": 322249,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/079.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/079.ts",
+      "evidence": {
+        "sourceImageSha256": "a11334ae1d0dc88985e56f465977b1cb9ccd97e6e0ba905a128c5554fe70ee8f",
+        "sourceImageBytes": 322249,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-080",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "È apparso da un Ultravarco. Ognuno\nsembra essere composto da molte forme di vita\nimpilati uno sopra l'altro.",
+      "value": "È arrivato attraverso un Ultravarco. Sembra essere costituito da più creature impilate che formano una singola unità.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "5075959260a8ba4d1603925b6ff19ea036164f4af2aff6b8387f424ab3cd718b",
+      "sourceImageBytes": 300764,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/080.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/080.ts",
+      "evidence": {
+        "sourceImageSha256": "5075959260a8ba4d1603925b6ff19ea036164f4af2aff6b8387f424ab3cd718b",
+        "sourceImageBytes": 300764,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-082",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Questa Ultracreatura piace abbastanza da essere\nscelto come primo partner nel proprio mondo.",
+      "value": "Un'Ultracreatura talmente socievole da essere spesso scelta come compagno di viaggio nel mondo da cui proviene.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "288f64c29d517bac1cdcae331b3c6f08bf69f2df372b313d52e3ae7fc84276ec",
+      "sourceImageBytes": 317777,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/082.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/082.ts",
+      "evidence": {
+        "sourceImageSha256": "288f64c29d517bac1cdcae331b3c6f08bf69f2df372b313d52e3ae7fc84276ec",
+        "sourceImageBytes": 317777,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-083",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "La sua soffice pelliccia è un piacere da accarezzare, ma si allunga con noncuranza\ntoccare questo Pokémon potrebbe provocare dolorose ritorsioni.",
+      "value": "Il suo soffice manto è molto piacevole da accarezzare, ma se lo si sfiora inavvertitamente si rischia di venire attaccati.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "f7f67549055e049ce55d1700a1016809957ad114e1e60be9d3679e1487d19c29",
+      "sourceImageBytes": 271330,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/083.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/083.ts",
+      "evidence": {
+        "sourceImageSha256": "f7f67549055e049ce55d1700a1016809957ad114e1e60be9d3679e1487d19c29",
+        "sourceImageBytes": 271330,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-085",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Non può vivere nei luoghi caldi. Fa nevicare esalando un alito gelido e poi si addormenta immerso nella neve che si è accumulata.",
+      "value": "Non può vivere nei luoghi caldi. Fa nevicare esalando un alito gelido e poi si addormenta immerso nella neve che si è accumulata.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "10df23c984daf39654015796f991dfefb0f9a014f0a367ea7f211a2391ce935c",
+      "sourceImageBytes": 242648,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/085.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/085.ts"
+    },
+    {
+      "cardId": "P-A-086",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Concentra le deboli cariche elettriche emesse\ndalle sue cellule e lancia fulmini malvagi.",
+      "value": "Concentra la debole carica elettrica emessa dalle sue cellule per lanciare potenti scariche.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "4a6916440314623065ad265f47bf21124aea227cebfbfc908b84a937cf7f29e0",
+      "sourceImageBytes": 227576,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/086.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/086.ts",
+      "evidence": {
+        "sourceImageSha256": "4a6916440314623065ad265f47bf21124aea227cebfbfc908b84a937cf7f29e0",
+        "sourceImageBytes": 227576,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-087",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Quando si fida di un Allenatore, lo tratterà\nai frutti di bosco si decora con panna.",
+      "value": "Agli Allenatori di cui si fida regala bacche decorate con la panna.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "5fc5d22ff9753e3a8392a4abaa3dd511b158a21798d096a94d50f8345aa08c9e",
+      "sourceImageBytes": 320435,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/087.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/087.ts",
+      "evidence": {
+        "sourceImageSha256": "5fc5d22ff9753e3a8392a4abaa3dd511b158a21798d096a94d50f8345aa08c9e",
+        "sourceImageBytes": 320435,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-088",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Dicono che se emette un'aura dal suo insieme\ncorpo, il tempo inizierà a cambiare immediatamente.",
+      "value": "Dicono che quando il suo corpo emana un'aura, il tempo cambierà immediatamente.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "aebd89f375074696e05df3fa91dfceeb52da20cad2e410df6ff3d74c4dc25ac9",
+      "sourceImageBytes": 273582,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/088.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/088.ts",
+      "evidence": {
+        "sourceImageSha256": "aebd89f375074696e05df3fa91dfceeb52da20cad2e410df6ff3d74c4dc25ac9",
+        "sourceImageBytes": 273582,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-089",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Questo Pokémon ha un cuore gentile. Toccando con le sue antenne,\nAudino può valutare i sentimenti e le condizioni fisiche delle altre creature.",
+      "value": "Questo Pokémon dal cuore tenero è in grado di percepire le condizioni fisiche e mentali di chi tocca con le antenne.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "01a63a602402143b272be617f32888096e1716334469d40fbf1f0fb0f40a1762",
+      "sourceImageBytes": 244013,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/089.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/089.ts",
+      "evidence": {
+        "sourceImageSha256": "01a63a602402143b272be617f32888096e1716334469d40fbf1f0fb0f40a1762",
+        "sourceImageBytes": 244013,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-090",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Con i lunghi peli sulla schiena, questo Pokémon\nassorbe l'elettricità da altri Pokémon elettrici.\nConserva ciò che assorbe in una sacca elettrica.",
+      "value": "Si serve della lunga spina che ha sulla schiena per attirare e incamerare l'energia elettrica dei fulmini e dei Pokémon di tipo Elettro.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "d8e8d6e8be9277516c6cf5857897c4ba0280191b555479b91decdb785060d11e",
+      "sourceImageBytes": 325016,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/090.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/090.ts",
+      "evidence": {
+        "sourceImageSha256": "d8e8d6e8be9277516c6cf5857897c4ba0280191b555479b91decdb785060d11e",
+        "sourceImageBytes": 325016,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-091",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Questo Pokémon scappa con un mucchio di bacche cadute avvolgendole\nnella sua coda, che è circa il doppio della lunghezza del suo corpo.",
+      "value": "Fa cadere grandi quantità di bacche dagli alberi e poi se le porta via tutte avvolgendole con la coda lunga due volte il resto del corpo.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "83fc8e9b5dfd7a8be5880ec4ac8fb929cb2cbf3a2d49ac38f60d9a7b6128dc58",
+      "sourceImageBytes": 287098,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/091.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/091.ts",
+      "evidence": {
+        "sourceImageSha256": "83fc8e9b5dfd7a8be5880ec4ac8fb929cb2cbf3a2d49ac38f60d9a7b6128dc58",
+        "sourceImageBytes": 287098,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-092",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "La sua capacità di evolversi in molte forme glielo consente\nadattarsi agevolmente e perfettamente a qualsiasi ambiente.",
+      "value": "La capacità di evolversi in diverse specie gli permette di adattarsi perfettamente a qualsiasi tipo di ambiente.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "c61ebd216d586a5499de449c9e45c0ba9f49b789631513a483a1151e8b49589f",
+      "sourceImageBytes": 292201,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/092.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/092.ts",
+      "evidence": {
+        "sourceImageSha256": "c61ebd216d586a5499de449c9e45c0ba9f49b789631513a483a1151e8b49589f",
+        "sourceImageBytes": 292201,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-093",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Secondo voci locali, i Cleffa vengono visti spesso\nnei luoghi dove sono cadute le stelle cadenti.",
+      "value": "Si dice che sia facile incontrarlo dove sono precipitate delle stelle cadenti.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "f3e6345361ca0336b57790a7e97c67088250c59f2f5467c1b09c8d78b7c4edef",
+      "sourceImageBytes": 252084,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/093.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/093.ts",
+      "evidence": {
+        "sourceImageSha256": "f3e6345361ca0336b57790a7e97c67088250c59f2f5467c1b09c8d78b7c4edef",
+        "sourceImageBytes": 252084,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-094",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Horsea vive negli oceani con delicatezza\ncorrenti. Se questo Pokémon è sotto attacco, sputa\nesce inchiostro nero come la pece e fugge.",
+      "value": "Vive in mari dalle correnti tranquille. Quando viene attaccato spruzza inchiostro nero e ne approfitta per fuggire.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "9fb37cfc78306653bc5d52e80d59bcac1ef418c2d50a0c1a7b84cb7e3af53a9b",
+      "sourceImageBytes": 278795,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/094.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/094.ts",
+      "evidence": {
+        "sourceImageSha256": "9fb37cfc78306653bc5d52e80d59bcac1ef418c2d50a0c1a7b84cb7e3af53a9b",
+        "sourceImageBytes": 278795,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-095",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Le sue antenne, evolutesi da una pinna, hanno entrambe le cose\ncariche positive e negative che li attraversano.",
+      "value": "Le sue antenne, evoluzione di pinne primitive, sono attraversate da energia elettrica, positiva in una e negativa nell'altra.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "0bcf26f50cbf40f9f9e4557acf1b19fc44326de632b63c0c5a07f51f331d5a8a",
+      "sourceImageBytes": 246683,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/095.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/095.ts",
+      "evidence": {
+        "sourceImageSha256": "0bcf26f50cbf40f9f9e4557acf1b19fc44326de632b63c0c5a07f51f331d5a8a",
+        "sourceImageBytes": 246683,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-096",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Se vieni bruciato dalle fiamme spara dalle sue\nbocca, il dolore non andrà mai via.",
+      "value": "Se si viene ustionati dalle fiamme che sputa dalla bocca, il dolore rimarrà per sempre.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "e7725dca5b37d7f145219337f7c013c6c90484dc8ac224bb0b8fda80a2eb4793",
+      "sourceImageBytes": 304428,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/096.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/096.ts",
+      "evidence": {
+        "sourceImageSha256": "e7725dca5b37d7f145219337f7c013c6c90484dc8ac224bb0b8fda80a2eb4793",
+        "sourceImageBytes": 304428,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-097",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Anche se porta il suo bambino in un marsupio\nil suo ventre, Kangaskhan è veloce in piedi. Esso\nintimidisce i suoi avversari con colpi rapidi.",
+      "value": "Ha un agile gioco di gambe, nonostante si porti appresso il cucciolo nel marsupio ventrale. Intimidisce gli avversari con jab velocissimi.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "164c7993ba96fa44dca40f112363ae8739a9085f90d7c0795b0789c70f9d5fd7",
+      "sourceImageBytes": 315626,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/097.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/097.ts",
+      "evidence": {
+        "sourceImageSha256": "164c7993ba96fa44dca40f112363ae8739a9085f90d7c0795b0789c70f9d5fd7",
+        "sourceImageBytes": 315626,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-099",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "La pelliccia sul suo corpo respinge naturalmente l'acqua. Può\nresta asciutto anche quando gioca nell'acqua.",
+      "value": "La pelliccia è idrorepellente. Così, rimane asciutto anche giocando nell'acqua.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "019ebe7f318ee5674cbab5828c2563d40e40587aef73d3af4c35a589c66d84ba",
+      "sourceImageBytes": 294334,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/099.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/099.ts",
+      "evidence": {
+        "sourceImageSha256": "019ebe7f318ee5674cbab5828c2563d40e40587aef73d3af4c35a589c66d84ba",
+        "sourceImageBytes": 294334,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-100",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "L'evoluzione lo ha reso ancora più subdolo.\nComunica artigliando segni nei massi.",
+      "value": "L'evoluzione lo ha reso ancor più subdolo. Comunica incidendo segni sui massi con i suoi artigli.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "42e80c559b20e121cc9be4fd20472677e31f0fb663ce4df758ba3471a1a3d729",
+      "sourceImageBytes": 306289,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/100.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/100.ts",
+      "evidence": {
+        "sourceImageSha256": "42e80c559b20e121cc9be4fd20472677e31f0fb663ce4df758ba3471a1a3d729",
+        "sourceImageBytes": 306289,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-101",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Comunica usando la telepatia. Il suo corpo lo è\nricoperto di piumino che rifrange la luce per fare\nè invisibile.",
+      "value": "Sa comunicare telepaticamente. Le piume sul suo corpo riflettono la luce e lo rendono invisibile.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "4233e9b532366ac8f9989b0e1e55565ad10b67d5943fbd76d55ef51bdc0c747f",
+      "sourceImageBytes": 335069,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/101.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/101.ts",
+      "evidence": {
+        "sourceImageSha256": "4233e9b532366ac8f9989b0e1e55565ad10b67d5943fbd76d55ef51bdc0c747f",
+        "sourceImageBytes": 335069,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-102",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Vive nelle giungle tropicali. Il grappolo di frutta\nintorno al collo è delizioso. Il frutto cresce\ndue volte l'anno.",
+      "value": "Vive in giungle tropicali. Due volte all'anno gli crescono attorno al collo dei frutti dolci dal sapore squisito.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "5a4212a5b0ca962ecd5c63236cbb98d19225109bcd70decd75fe4cb8ca53a152",
+      "sourceImageBytes": 291824,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/102.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/102.ts",
+      "evidence": {
+        "sourceImageSha256": "5a4212a5b0ca962ecd5c63236cbb98d19225109bcd70decd75fe4cb8ca53a152",
+        "sourceImageBytes": 291824,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-103",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Per Poliwag nuotare è più facile che camminare.\nIl motivo a vortice sulla sua pancia ne è in realtà parte\nle viscere del Pokémon si vedono attraverso la pelle.",
+      "value": "È più portato per il nuoto che per la corsa. Il motivo spiraliforme sul ventre è parte dei suoi organi interni visibili in trasparenza.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "4e3c669ca892102d446e017b380d770abbd2db8cd43bb5b773146507f37d33e6",
+      "sourceImageBytes": 264198,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/103.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/103.ts",
+      "evidence": {
+        "sourceImageSha256": "4e3c669ca892102d446e017b380d770abbd2db8cd43bb5b773146507f37d33e6",
+        "sourceImageBytes": 264198,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-104",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "È considerato il Pokémon più bello del mondo ed è fonte d'ispirazione per tantissimi artisti.",
+      "value": "È considerato il Pokémon più bello del mondo ed è fonte d'ispirazione per tantissimi artisti.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "a4b930d6b42973ddaaa9b107edc8c838bff93008bfed5e1902f12a98af5f4f2a",
+      "sourceImageBytes": 316935,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/104.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/104.ts"
+    },
+    {
+      "cardId": "P-A-105",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Si trasforma nelle forme degli altri per sorprendere\nloro. Apparentemente, spesso si trasforma in a\nbambino silenzioso.",
+      "value": "Sorprende gli altri assumendo il loro aspetto. Pare che si trasformi spesso in un bambino taciturno.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "d71fe9376d0da8efb0639485bd5f7eecad363d0926df553c8d0cda89eab14038",
+      "sourceImageBytes": 314114,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/105.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/105.ts",
+      "evidence": {
+        "sourceImageSha256": "d71fe9376d0da8efb0639485bd5f7eecad363d0926df553c8d0cda89eab14038",
+        "sourceImageBytes": 314114,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-106",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Le storie dicono che coloro che hanno cercato di catturare Zoroark lo sono stati\nintrappolato in un'illusione e punito.",
+      "value": "Gira voce che quelli che osano cercare di catturarlo restano imprigionati dentro mondi di fantasia che lui stesso crea.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "02f03220074b3abab71179ca84e6644bf442bcbcbf6d9ac6652c2a9cd41c6197",
+      "sourceImageBytes": 322459,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/106.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/106.ts",
+      "evidence": {
+        "sourceImageSha256": "02f03220074b3abab71179ca84e6644bf442bcbcbf6d9ac6652c2a9cd41c6197",
+        "sourceImageBytes": 322459,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-107",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Miltank produce latte altamente nutriente, quindi è così\nhanno sostenuto la vita di persone e altri\nPokémon fin dai tempi antichi.",
+      "value": "Il suo latte altamente nutriente contribuisce al sostentamento di persone e Pokémon da tempo immemore.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "fb6d0f7cf90195f00d0daff738fff3ea7d64e427990a167901453c8b49923f12",
+      "sourceImageBytes": 286993,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/107.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/107.ts",
+      "evidence": {
+        "sourceImageSha256": "fb6d0f7cf90195f00d0daff738fff3ea7d64e427990a167901453c8b49923f12",
+        "sourceImageBytes": 286993,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-108",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Questo Pokémon vive e nidifica sulla riva di un fiume.\nDopo aver giocato nel fango, non sarà in grado di farlo\nsistemarsi a meno che non si lavi il corpo.",
+      "value": "Vive in tane che costruisce in riva ai fiumi. Dopo aver giocato nel fango, non riesce a star tranquillo finché non si è lavato.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "9b1c086cda6e42b0e5325a951787af9c98c6727e727654091cc64ed70e52d47e",
+      "sourceImageBytes": 303998,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/108.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/108.ts",
+      "evidence": {
+        "sourceImageSha256": "9b1c086cda6e42b0e5325a951787af9c98c6727e727654091cc64ed70e52d47e",
+        "sourceImageBytes": 303998,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-111",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Quando s'arrabbia, libera subito l'energia\naccumulata nelle sacche sulle guance.",
+      "value": "Quando s'arrabbia, libera subito l'energia\naccumulata nelle sacche sulle guance.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "302b34b889a54fc948ff510e1eb96f98a71b0980de66928b03c47f2736e1c464",
+      "sourceImageBytes": 219484,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/111.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/111.ts"
+    },
+    {
+      "cardId": "P-A-113",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Questo Pokémon vive in luoghi oscuri non toccati\nluce solare. Quando appare davanti agli umani, si nasconde\nsotto un panno che ricorda un Pikachu.",
+      "value": "Vive nell'ombra, lontano dalla luce del sole. Quando appare davanti alle persone si nasconde sotto un panno che somiglia a un Pikachu.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "8dd9357a5a4454fa3511be454aac5125136312982ec12310f529afcae9bdf386",
+      "sourceImageBytes": 289237,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/113.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/113.ts",
+      "evidence": {
+        "sourceImageSha256": "8dd9357a5a4454fa3511be454aac5125136312982ec12310f529afcae9bdf386",
+        "sourceImageBytes": 289237,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-A-114",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Agita velocemente le quattro braccia tempestando\ngli avversari di pugni e colpi da ogni direzione.",
+      "value": "Agita velocemente le quattro braccia tempestando\ngli avversari di pugni e colpi da ogni direzione.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "ca3e3b655ed0dc9e1b9acc38ee7b446244a3e58d89ea86dc1d3491fe5c55dcdc",
+      "sourceImageBytes": 308179,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/114.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/114.ts"
+    },
+    {
+      "cardId": "P-A-115",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Si dice che abbia creato dei Pokémon simili a sé\nusando una montagna ghiacciata, rocce e magma.",
+      "value": "Si dice che abbia creato dei Pokémon simili a sé\nusando una montagna ghiacciata, rocce e magma.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "5498a9d2b4d12d8f64a709a13c505d2254ce7ccb996170c17a8fe5a731924a77",
+      "sourceImageBytes": 281608,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/115.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/115.ts"
+    },
+    {
+      "cardId": "P-A-116",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Può dissolvere le tossine nell'aria per mutare\nall'istante una terra arida in un rigoglioso campo fiorito.",
+      "value": "Può dissolvere le tossine nell'aria per mutare\nall'istante una terra arida in un rigoglioso campo fiorito.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "bb362d46c2a7c201f93238e9479e708a2086cc9ec81127752b0e829fd75c7d5d",
+      "sourceImageBytes": 294301,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/116.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/116.ts"
+    },
+    {
+      "cardId": "P-A-117",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Veloce come il vento, Absol corre attraverso i campi e\nmontagne. Il suo corno ricurvo, a forma di arco, è acuto\nsensibile ai segnali premonitori dei disastri naturali.",
+      "value": "Corre veloce come il vento attraverso colline e campi. Il suo corno ricurvo è in grado di prevedere con precisione le calamità naturali.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "76e788fdcac613cac8d1aca945116746ca5314be20b27b1e4ee061cf82b8b5c4",
+      "sourceImageBytes": 303248,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-A/it/117.png",
+      "file": "data/Pokémon TCG Pocket/Promos-A/117.ts",
+      "evidence": {
+        "sourceImageSha256": "76e788fdcac613cac8d1aca945116746ca5314be20b27b1e4ee061cf82b8b5c4",
+        "sourceImageBytes": 303248,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-001",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Quando s'arrabbia, libera subito l'energia\naccumulata nelle sacche sulle guance.",
+      "value": "Quando s'arrabbia, libera subito l'energia\naccumulata nelle sacche sulle guance.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "f8f05425a13a481664079702027c5c6605ddd47b9516cdfa18c6518fa7177ae9",
+      "sourceImageBytes": 277842,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/001.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/001.ts"
+    },
+    {
+      "cardId": "P-B-002",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Se le foglie sulla sua testa vengono potate regolarmente, questo Pokémon può crescere fino ad assumere una forma bella e paffuta.",
+      "value": "Le foglie che ha sul capo vanno spuntate di tanto in tanto per permettergli di crescere florido e bello rotondo.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "24b8de611f230395ff8d6fdf03bfc3762bd208cfa798385362b8b11e265d336c",
+      "sourceImageBytes": 287847,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/002.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/002.ts",
+      "evidence": {
+        "sourceImageSha256": "24b8de611f230395ff8d6fdf03bfc3762bd208cfa798385362b8b11e265d336c",
+        "sourceImageBytes": 287847,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-003",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Si protegge avvolgendo il corpo in una schiuma delicata.\nNonostante l’aria spensierata, scruta sempre l’ambiente\ncircostante con molta attenzione.",
+      "value": "Si protegge avvolgendo il corpo in una schiuma delicata.\nNonostante l’aria spensierata, scruta sempre l’ambiente\ncircostante con molta attenzione.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "98943f4337b2b4bca1b65e91d6c142d7082b8a32b525a97342a132a04ff32684",
+      "sourceImageBytes": 282190,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/003.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/003.ts"
+    },
+    {
+      "cardId": "P-B-004",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "L’abilità radioscopica di Luxray si rivela utile quando gli fa\nscoprire oggetti pericolosi.",
+      "value": "L'abilità radioscopica di Luxray si rivela molto utile quando si vuole rilevare la presenza di oggetti pericolosi.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "3745db5404b8867edd1e3496bc5802708aeaf1ce94aa23a0992387f49a5241a4",
+      "sourceImageBytes": 244274,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/004.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/004.ts",
+      "evidence": {
+        "sourceImageSha256": "3745db5404b8867edd1e3496bc5802708aeaf1ce94aa23a0992387f49a5241a4",
+        "sourceImageBytes": 244274,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-005",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "È docile e preferisce evitare i conflitti. Ma se viene\ndisturbato, contrattacca ferocemente.",
+      "value": "È docile e preferisce evitare i conflitti. Ma se viene\ndisturbato, contrattacca ferocemente.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "56d60ab1fa854f6c6070e8aa374886440d767d77608610c217c1d2810998a18e",
+      "sourceImageBytes": 282961,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/005.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/005.ts"
+    },
+    {
+      "cardId": "P-B-007",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Nel suo corpo brucia una fiamma e abbracciandolo\nsi avverte calore. Lancia palle di fuoco a 1000 °C.",
+      "value": "Nel suo corpo brucia una fiamma e abbracciandolo si avverte calore. Lancia palle di fuoco a 1.000 °C.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "120b7d9afa8b505cd78e086611bd345f93ea04040223a56296c98ac04186d756",
+      "sourceImageBytes": 244762,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/007.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/007.ts",
+      "evidence": {
+        "sourceImageSha256": "120b7d9afa8b505cd78e086611bd345f93ea04040223a56296c98ac04186d756",
+        "sourceImageBytes": 244762,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-008",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Se il suo mal di testa cronico raggiunge il picco, può mostrare strani poteri. Sembra incapace di ricordare un episodio del genere.",
+      "value": "Se il suo mal di testa cronico si acuisce, può manifestare strani poteri di cui in seguito non ha memoria.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "131ce4a7d11782b52c6b5a568d27f7834ca5ad80fadf1746c5b4c5b9ee265032",
+      "sourceImageBytes": 295157,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/008.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/008.ts",
+      "evidence": {
+        "sourceImageSha256": "131ce4a7d11782b52c6b5a568d27f7834ca5ad80fadf1746c5b4c5b9ee265032",
+        "sourceImageBytes": 295157,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-010",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Trasportano persone e Pokémon, ma il vento può trasportarli, quindi non può esserci una destinazione fissa.",
+      "value": "Trasporta Pokémon e persone, ma poiché si lascia trascinare dal vento, non sa mai dove andrà a finire.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "e99d3c5c5ecc433372eea280d62579534091b6d958b0a206214917d56e876cc4",
+      "sourceImageBytes": 263423,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/010.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/010.ts",
+      "evidence": {
+        "sourceImageSha256": "e99d3c5c5ecc433372eea280d62579534091b6d958b0a206214917d56e876cc4",
+        "sourceImageBytes": 263423,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-011",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Il suo codice genetico è irregolare. Potrebbe mutare se esposto alle radiazioni delle pietre elementali.",
+      "value": "A causa del suo codice genetico anomalo, può trasformarsi improvvisamente se esposto alle radiazioni emesse dalle pietre.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "7ff770727c99b2a4085f9c032d3debe5d746192326205c1de53ac4aa709b4383",
+      "sourceImageBytes": 292397,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/011.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/011.ts",
+      "evidence": {
+        "sourceImageSha256": "7ff770727c99b2a4085f9c032d3debe5d746192326205c1de53ac4aa709b4383",
+        "sourceImageBytes": 292397,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-012",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Può ricombinare a piacere la propria struttura\ncellulare per trasformarsi in altri esseri viventi.",
+      "value": "Può ricombinare a piacere la propria struttura cellulare per trasformarsi in altre forme di vita.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "6919e96de429c3d34b04e86151da36d6f88d162e5f4c168bc702e8b54b603c0e",
+      "sourceImageBytes": 311220,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/012.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/012.ts",
+      "evidence": {
+        "sourceImageSha256": "6919e96de429c3d34b04e86151da36d6f88d162e5f4c168bc702e8b54b603c0e",
+        "sourceImageBytes": 311220,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-013",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Il suo incredibile ruggito ispira un senso di maestosità.\nChiunque lo senta non può far a meno di prostrarsi.",
+      "value": "Il suo maestoso ruggito ispira un senso di ammirazione. Chiunque lo senta non può far a meno di prostrarsi.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "db51499aaef14df66d57f49e393e7b91a5719ce39375688391c299b9eb3f289d",
+      "sourceImageBytes": 277897,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/013.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/013.ts",
+      "evidence": {
+        "sourceImageSha256": "db51499aaef14df66d57f49e393e7b91a5719ce39375688391c299b9eb3f289d",
+        "sourceImageBytes": 277897,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-014",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Anticamente era molto più forte dell’odierno\ndiscendente, che è debolissimo.",
+      "value": "Pare che anticamente fosse un tantino più forte. Oggi è così debole da fare quasi pena.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "771c8a7c155eece312f2f4081fdad1a00e4948c02c1eca7f84ce0df114076d81",
+      "sourceImageBytes": 305078,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/014.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/014.ts",
+      "evidence": {
+        "sourceImageSha256": "771c8a7c155eece312f2f4081fdad1a00e4948c02c1eca7f84ce0df114076d81",
+        "sourceImageBytes": 305078,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-015",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Il suo vello cresce continuamente. In estate il vello cade completamente, ma ricresce in una settimana.",
+      "value": "Il vello gli cresce di continuo. In estate lo perde completamente, ma si riforma nel giro di una settimana.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "ca46d29714757515e5a4b98ab0782b59824d05ad1cc0b77c6d5b6f2479b627a2",
+      "sourceImageBytes": 201439,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/015.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/015.ts",
+      "evidence": {
+        "sourceImageSha256": "ca46d29714757515e5a4b98ab0782b59824d05ad1cc0b77c6d5b6f2479b627a2",
+        "sourceImageBytes": 201439,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-016",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "I suoi occhi gli permettono di individuare prede\nminuscole a 50 km di distanza persino nelle\ntempeste di sabbia.",
+      "value": "I suoi occhi gli permettono di individuare prede\nminuscole a 50 km di distanza persino nelle\ntempeste di sabbia.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "c65ff33c8098b55cf459c4a6540bbe76590115e00966f49dba1195cb462e4df1",
+      "sourceImageBytes": 292603,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/016.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/016.ts"
+    },
+    {
+      "cardId": "P-B-017",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Non può rilassarsi se lui o i suoi dintorni non sono puliti. Elimina lo sporco con le ali.",
+      "value": "Non riesce a star tranquillo se c'è sporcizia su di sé o attorno a sé. Quando la trova, la spazza subito via con le ali.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "030304e4f791fb83ebbf2953b4f6be780d46e6ff8bc5b88f3a9ccd4045e5cf32",
+      "sourceImageBytes": 286090,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/017.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/017.ts",
+      "evidence": {
+        "sourceImageSha256": "030304e4f791fb83ebbf2953b4f6be780d46e6ff8bc5b88f3a9ccd4045e5cf32",
+        "sourceImageBytes": 286090,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-018",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "L'energia prodotta da un Heliolisk quando apre\nil suo collare in un luogo soleggiato è sufficiente\na soddisfare il fabbisogno di una metropoli.",
+      "value": "L'energia prodotta da un Heliolisk quando apre\nil suo collare in un luogo soleggiato è sufficiente\na soddisfare il fabbisogno di una metropoli.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "e0d6176d250cf66ae512e75523a59bcc905eeaf90707c564def4c9cbe950b15f",
+      "sourceImageBytes": 228140,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/018.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/018.ts"
+    },
+    {
+      "cardId": "P-B-019",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Attacca estendendo con impeto l’orecchio\narrotolato. Più si allena, più la potenza\ndei suoi attacchi aumenta.",
+      "value": "Attacca estendendo con impeto l’orecchio\narrotolato. Più si allena, più la potenza\ndei suoi attacchi aumenta.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "85eb3f9ad49703dfd85ac780761a4b6d74457ad0996e4aade51be9e6e27a4d5e",
+      "sourceImageBytes": 285504,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/019.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/019.ts"
+    },
+    {
+      "cardId": "P-B-020",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Se s’infervora nella lotta, sputa potenti fiamme\nche inceneriscono l’area circostante.",
+      "value": "Se s’infervora nella lotta, sputa potenti fiamme\nche inceneriscono l’area circostante.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "9c89c3cecb0e3279285bcafe7689e97fb5e16b41f536797a5254b9f231682fa9",
+      "sourceImageBytes": 293724,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/020.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/020.ts"
+    },
+    {
+      "cardId": "P-B-021",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Scava nel terreno a una velocità di 80 km/h\ncontorcendo e agitando il corpo grande\ne possente.",
+      "value": "Scava nel terreno a una velocità di 80 km/h\ncontorcendo e agitando il corpo grande\ne possente.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "3eff8e701243c5f0323e322372f6ff62a8ebed85bf9435a72fbaa8849512a49e",
+      "sourceImageBytes": 290100,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/021.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/021.ts"
+    },
+    {
+      "cardId": "P-B-022",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Hawlucha vivono tranquillamente senza accalcarsi insieme. Combattono costantemente con i loro nemici naturali: gruppi rumorosi di Primeape.",
+      "value": "Gli Hawlucha vivono in solitudine e tranquillità. Si scontrano spesso con i Primeape, loro acerrimi nemici, perché formano branchi chiassosi.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "de9e905f176fe35ef3a1a1a53f42b1e658353ac4470b97850c6b14f6f745ce27",
+      "sourceImageBytes": 298808,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/022.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/022.ts",
+      "evidence": {
+        "sourceImageSha256": "de9e905f176fe35ef3a1a1a53f42b1e658353ac4470b97850c6b14f6f745ce27",
+        "sourceImageBytes": 298808,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-023",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Antico Pokémon Coleottero modificato dal Team Plasma,\nche ne ha notevolmente potenziato il cannone sulla schiena.",
+      "value": "Esiste da più di 300 milioni di anni. Il Team Plasma ne ha modificato il corpo montandogli un cannone sul dorso.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "b2a3563abf0c08167001b7399fb40d7ae318997827910e33bf213c64e531ae02",
+      "sourceImageBytes": 299616,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/023.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/023.ts",
+      "evidence": {
+        "sourceImageSha256": "b2a3563abf0c08167001b7399fb40d7ae318997827910e33bf213c64e531ae02",
+        "sourceImageBytes": 299616,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-025",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Ha l’abilità di realizzare ogni desiderio, ma soltanto\nper una settimana ogni 1000 anni.",
+      "value": "Ha l'abilità di realizzare ogni desiderio, ma soltanto per una settimana ogni 1.000 anni.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "52a881b623839da66f855bd99f49320432d05d129ba02744e9e693d94a75e0eb",
+      "sourceImageBytes": 389350,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/025.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/025.ts",
+      "evidence": {
+        "sourceImageSha256": "52a881b623839da66f855bd99f49320432d05d129ba02744e9e693d94a75e0eb",
+        "sourceImageBytes": 389350,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-026",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Quando usa la sua grande pinna caudale, acquista rapidamente velocità nell'acqua. È forte nonostante le sue piccole dimensioni.",
+      "value": "Può acquisire una straordinaria velocità agitando la grande pinna caudale nell'acqua. È minuto, ma forte.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "21fd4a6afabed8b983855724017df33bbfe0b3a0161eba6b42656d08ffd14e48",
+      "sourceImageBytes": 277969,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/026.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/026.ts",
+      "evidence": {
+        "sourceImageSha256": "21fd4a6afabed8b983855724017df33bbfe0b3a0161eba6b42656d08ffd14e48",
+        "sourceImageBytes": 277969,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-027",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Questo Pokémon assorbe l'elettricità dai pali del telefono. Mette in cortocircuito l'elettricità immagazzinata nel suo corpo per creare rumori.",
+      "value": "Assorbe elettricità dai pali della luce, la accumula e poi crea dei rumorosi cortocircuiti.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "8f424e67638c410220da28d2080858e423dc2bfc4d7d5fc1d60365dbe9bfa007",
+      "sourceImageBytes": 246467,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/027.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/027.ts",
+      "evidence": {
+        "sourceImageSha256": "8f424e67638c410220da28d2080858e423dc2bfc4d7d5fc1d60365dbe9bfa007",
+        "sourceImageBytes": 246467,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-028",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "È molto sensibile agli umori delle persone e\ndegli altri Pokémon. Se avverte ostilità, va a\nnascondersi.",
+      "value": "È molto sensibile all'umore delle persone e degli altri Pokémon. Non appena avverte ostilità, si nasconde subito nell'ombra.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "4ec523621be49cbbd0ebba4788b4f4b9c378ff48287c0d771792167940aa6a01",
+      "sourceImageBytes": 297555,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/028.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/028.ts",
+      "evidence": {
+        "sourceImageSha256": "4ec523621be49cbbd0ebba4788b4f4b9c378ff48287c0d771792167940aa6a01",
+        "sourceImageBytes": 297555,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-030",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "L’energia sprigionata dalla coda di Tornadus provoca una\nviolenta tempesta in grado di spazzare via le case.",
+      "value": "L’energia sprigionata dalla coda di Tornadus provoca una\nviolenta tempesta in grado di spazzare via le case.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "2825cf4f806f16f2c7fab8184560de1b388ed44575feaccaedfa39e69813605a",
+      "sourceImageBytes": 292255,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/030.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/030.ts"
+    },
+    {
+      "cardId": "P-B-031",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Usando una palla creata con le fiamme, Cinderace acceca i suoi avversari e li tiene a bada.",
+      "value": "Adopera la sua palla di fuoco per tenere a bada l'avversario e accecarlo.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "d10a841fdd135ca31edf5c41f89ca1c7c407f860c5eeebdb6e78948cb398cd86",
+      "sourceImageBytes": 288342,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/031.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/031.ts",
+      "evidence": {
+        "sourceImageSha256": "d10a841fdd135ca31edf5c41f89ca1c7c407f860c5eeebdb6e78948cb398cd86",
+        "sourceImageBytes": 288342,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-032",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Quando fa caldo, questo Pokémon crea frammenti di ghiaccio con le sue sei code e li spruzza intorno per rinfrescarsi.",
+      "value": "Quando fa caldo, abbassa la temperatura corporea sparpagliando tutto attorno a sé pezzi di ghiaccio che crea dalle sue sei code.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "30d2de32da5a55c24d37a01f3a6d91bc90cfe0ebe7670f0ce1793f4364c4d827",
+      "sourceImageBytes": 302823,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/032.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/032.ts",
+      "evidence": {
+        "sourceImageSha256": "30d2de32da5a55c24d37a01f3a6d91bc90cfe0ebe7670f0ce1793f4364c4d827",
+        "sourceImageBytes": 302823,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-033",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Le sue zampe forti gli permettono di nuotare facilmente anche nei fiumi dalla corrente veloce. Gli piace mantenere le cose in ordine ed è incline a pensare troppo alle cose.",
+      "value": "Può nuotare tranquillamente persino nei fiumi più impetuosi grazie ai potenti arti inferiori. Tiene molto alla pulizia ed è incline a rimuginare.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "0bf76091c76145b63d9de829433a49a18a1ff014eef00adc61dbcbcdb13db71c",
+      "sourceImageBytes": 329714,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/033.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/033.ts",
+      "evidence": {
+        "sourceImageSha256": "0bf76091c76145b63d9de829433a49a18a1ff014eef00adc61dbcbcdb13db71c",
+        "sourceImageBytes": 329714,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-034",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Questo Pokémon converte le sostanze nutritive in olio, che immagazzina nel frutto sulla sua testa. Può facilmente passare un'intera settimana senza mangiare o bere.",
+      "value": "Trasforma in olio ciò di cui si nutre e lo conserva nel frutto sulla testa. Può facilmente resistere senza bere né mangiare per una settimana intera.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "dbc15e78669b2b95f34e045247d2f37e414ce8afc2c2b36ca9bda6df4efee56d",
+      "sourceImageBytes": 275588,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/034.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/034.ts",
+      "evidence": {
+        "sourceImageSha256": "dbc15e78669b2b95f34e045247d2f37e414ce8afc2c2b36ca9bda6df4efee56d",
+        "sourceImageBytes": 275588,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-035",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "La sua potenza di fuoco aumenta quando combatte, raggiungendo oltre 1.800 gradi Fahrenheit. Gli piacciono le bacche ricche di grassi.",
+      "value": "La sua energia termica aumenta di intensità durante le lotte, raggiungendo i 1.000 °C. Adora le bacche ricche di grassi.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "2801c852c06e365bf58e9267a660b844140527b3dc1ee936e250a080f7cfa196",
+      "sourceImageBytes": 294887,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/035.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/035.ts",
+      "evidence": {
+        "sourceImageSha256": "2801c852c06e365bf58e9267a660b844140527b3dc1ee936e250a080f7cfa196",
+        "sourceImageBytes": 294887,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-036",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Tatsugiri è un Pokémon estremamente astuto. Finge debolezza per attirare la preda, quindi ordina al suo partner di attaccare.",
+      "value": "È un Pokémon estremamente astuto. Attira la preda fingendosi stremato, lasciando che sia il suo alleato ad attaccarla.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "8cfb18721b3de036b0d5734487ee83da574d07e59915aa9580bbd888dc70a4f3",
+      "sourceImageBytes": 328833,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/036.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/036.ts",
+      "evidence": {
+        "sourceImageSha256": "8cfb18721b3de036b0d5734487ee83da574d07e59915aa9580bbd888dc70a4f3",
+        "sourceImageBytes": 328833,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-037",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Questo Pokémon vive nelle foreste e nelle zone scoscese. Usando la potenza della sua pinna dorsale, raffredda l'interno del suo nido come un frigorifero.",
+      "value": "Vive nelle foreste e in aree rocciose. Usa la cresta dorsale per raffreddare l'interno della tana quasi come fosse un frigorifero.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "2cac646c2e7fcb156f8ebc28f16da6dfbe7ef41fd4cb40b979f6be5809e98d76",
+      "sourceImageBytes": 280259,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/037.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/037.ts",
+      "evidence": {
+        "sourceImageSha256": "2cac646c2e7fcb156f8ebc28f16da6dfbe7ef41fd4cb40b979f6be5809e98d76",
+        "sourceImageBytes": 280259,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-038",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Il martello pesa più di 220 libbre, ma Tinkaton lo fa girare facilmente mentre ruba tutto ciò che vuole e trasporta il suo bottino a casa.",
+      "value": "È capace di brandire il suo martello pesante oltre 100 kg come se niente fosse. Se vede qualcosa che gli piace, lo ruba e lo porta nella sua tana.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "878bb2f3065210496bd67956771d20bc2d9712e6a7b3b12100e94c4f2c4695ce",
+      "sourceImageBytes": 301091,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/038.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/038.ts",
+      "evidence": {
+        "sourceImageSha256": "878bb2f3065210496bd67956771d20bc2d9712e6a7b3b12100e94c4f2c4695ce",
+        "sourceImageBytes": 301091,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-039",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "I cuscinetti delle zampe sono organi che scaricano elettricità. Pawmi spara elettricità dalle zampe anteriori mentre sta instabile sulle zampe posteriori.",
+      "value": "I cuscinetti delle zampe anteriori sono organi che scaricano elettricità. Quando riesce a stare sulle zampe posteriori può lanciare attacchi elettrici.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "8defb5c0a2bc8bc78b13114521946361deaa96cf75b8f56f44d94f70c716283e",
+      "sourceImageBytes": 261223,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/039.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/039.ts",
+      "evidence": {
+        "sourceImageSha256": "8defb5c0a2bc8bc78b13114521946361deaa96cf75b8f56f44d94f70c716283e",
+        "sourceImageBytes": 261223,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-040",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Vive sul fondo di stagni e paludi. Trasporterà Wooper sul dorso e li traghetterà attraverso l'acqua da una riva all'altra.",
+      "value": "Vive sui fondali degli stagni e delle paludi. Si carica i Wooper sulla schiena e li traghetta da una sponda all'altra.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "eff4ee0165e9dfa7a620fe2bcb83e79e7d8c613ecd620322448f9fea1df04edf",
+      "sourceImageBytes": 285616,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/040.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/040.ts",
+      "evidence": {
+        "sourceImageSha256": "eff4ee0165e9dfa7a620fe2bcb83e79e7d8c613ecd620322448f9fea1df04edf",
+        "sourceImageBytes": 285616,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-042",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "È sempre assorto, ma nessuno sa a cosa stia\npensando. Si serve della coda per pescare.",
+      "value": "È sempre assorto, ma nessuno sa a cosa stia\npensando. Si serve della coda per pescare.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "d237ebbbb26091bfb5ca4f130d225c1a901b7a2578e4d19d69997dd50faf5b21",
+      "sourceImageBytes": 225688,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/042.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/042.ts"
+    },
+    {
+      "cardId": "P-B-043",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Accumula elettricità statica nella pelliccia. Nella\nstagione secca, il suo corpo sprizza scintille.",
+      "value": "Accumula elettricità statica nella pelliccia. Nella\nstagione secca, il suo corpo sprizza scintille.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "4b42ce4e61c8e2ce10020a626f70725c8df1c5b062d63452cab8d0466f7d30a0",
+      "sourceImageBytes": 221925,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/043.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/043.ts"
+    },
+    {
+      "cardId": "P-B-044",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "La sezione in acciaio è il corpo vero e proprio di Varoom. Questo Pokémon si aggrappa alle rocce e converte i minerali al suo interno in energia per alimentare le sue attività.",
+      "value": "Il suo corpo è la parte d'acciaio. Si attacca alle rocce per trasformare la materia di cui sono composte nell'energia che usa per muoversi.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "09ebd9d894f4d4f961d07ecf2c852dce4c42a2b1464c14a3d137d39a8da02081",
+      "sourceImageBytes": 277880,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/044.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/044.ts",
+      "evidence": {
+        "sourceImageSha256": "09ebd9d894f4d4f961d07ecf2c852dce4c42a2b1464c14a3d137d39a8da02081",
+        "sourceImageBytes": 277880,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-045",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Travolge i nemici con le sue preziose zanne, abbastanza affilate da tagliare una torre di trasmissione metallica con un solo colpo.",
+      "value": "Soggioga il nemico con le zanne, di cui va fiero. Queste sono così affilate da poter tagliare un traliccio d'acciaio con un solo colpo.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "8ac5d566d9707b9770ade7fb2f4c9ce0aa64bc7976a06dc306ac3189c8d547b2",
+      "sourceImageBytes": 297612,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/045.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/045.ts",
+      "evidence": {
+        "sourceImageSha256": "8ac5d566d9707b9770ade7fb2f4c9ce0aa64bc7976a06dc306ac3189c8d547b2",
+        "sourceImageBytes": 297612,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-046",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Può imparare il linguaggio umano. Se un gruppo si raduna,\ntutti imparano le stesse parole.",
+      "value": "Può imparare il linguaggio umano. Se un gruppo si raduna,\ntutti imparano le stesse parole.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "dde51aacffb73a4b5f3ba641e05048270d3e54b01ec094b1573615c5e99d0672",
+      "sourceImageBytes": 272993,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/046.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/046.ts"
+    },
+    {
+      "cardId": "P-B-047",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Il suo corpo sottile è fatto di gas. Avvolge nemici\ndi ogni dimensione, soffocandoli.",
+      "value": "Il suo corpo impalpabile è fatto di gas. Avvolge nemici di ogni dimensione, soffocandoli.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "d008a6d9f16d7f17cd0a424b48b0b7ff6254e6986fff1cefcdc733e966cb3011",
+      "sourceImageBytes": 292092,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/047.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/047.ts",
+      "evidence": {
+        "sourceImageSha256": "d008a6d9f16d7f17cd0a424b48b0b7ff6254e6986fff1cefcdc733e966cb3011",
+        "sourceImageBytes": 292092,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-048",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "La pelliccia ricca e soffice che ricopre il suo corpo è così bella che chiunque la senta non può smettere di toccarla.",
+      "value": "Il suo folto pelo è così morbido che chiunque lo tocchi non può fare a meno di continuare ad accarezzarlo.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "d00f8c30edb6c90d55ce41e12f6d5447e8026b043033df1af16b1b38acb8425b",
+      "sourceImageBytes": 282974,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/048.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/048.ts",
+      "evidence": {
+        "sourceImageSha256": "d00f8c30edb6c90d55ce41e12f6d5447e8026b043033df1af16b1b38acb8425b",
+        "sourceImageBytes": 282974,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-049",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Può condividere l’energia infinita che emana, donando un\npotere immenso a chi la riceve.",
+      "value": "Può condividere l’energia infinita che emana, donando un\npotere immenso a chi la riceve.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "be6117d99fe1eb01e4fd0537c53b4b519d89fd06be986b1cf226963abffacfee",
+      "sourceImageBytes": 303777,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/049.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/049.ts"
+    },
+    {
+      "cardId": "P-B-050",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Controlla a suo piacimento le emozioni di coloro che ascoltano\ni suoi singolari vocalizzi.",
+      "value": "Controlla a suo piacimento le emozioni di coloro che ascoltano\ni suoi singolari vocalizzi.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "587a0c5e0c5c121a3009e3cbbdc34088faa21958fb43118a34c5511e6669ac3d",
+      "sourceImageBytes": 272520,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/050.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/050.ts"
+    },
+    {
+      "cardId": "P-B-051",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Nata quando circa il 10% delle cellule di Zygarde è stata raccolta da ogni parte, questa forma è abile nel combattimento a distanza ravvicinata.",
+      "value": "Forma di Zygarde derivante dall'aggregazione del 10% delle sue cellule sparse nel mondo. Eccelle nelle lotte corpo a corpo.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "26a0d1d5d251573b14f21c6ee559cf85a06a1b9820f7d114c049d3ad31ef0c8f",
+      "sourceImageBytes": 272970,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/051.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/051.ts",
+      "evidence": {
+        "sourceImageSha256": "26a0d1d5d251573b14f21c6ee559cf85a06a1b9820f7d114c049d3ad31ef0c8f",
+        "sourceImageBytes": 272970,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-052",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Si dice che possa assumere una forma ancora\npiù potente quando si trova di fronte un nemico\nche rappresenta una minaccia per l’ecosistema.",
+      "value": "Si dice che possa assumere una forma ancora\npiù potente quando si trova di fronte un nemico\nche rappresenta una minaccia per l’ecosistema.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "ddaf89d1636170728334d482603db938b5ed2e9df7fabaf1d8f59c60aadb35f9",
+      "sourceImageBytes": 300515,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/052.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/052.ts"
+    },
+    {
+      "cardId": "P-B-054",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Il suo codice genetico è irregolare. Potrebbe mutare se esposto alle radiazioni delle pietre elementali.",
+      "value": "A causa del suo codice genetico anomalo, può trasformarsi improvvisamente se esposto alle radiazioni emesse dalle pietre.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "e8cca76c3e3b63b831dbbbfeedd6bb46e4ad850a67ae9b09729bef44d6f3c819",
+      "sourceImageBytes": 262866,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/054.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/054.ts",
+      "evidence": {
+        "sourceImageSha256": "e8cca76c3e3b63b831dbbbfeedd6bb46e4ad850a67ae9b09729bef44d6f3c819",
+        "sourceImageBytes": 262866,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-057",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Castform assume questa forma quando si crogiola alla luce del sole. Quando tocchi la sua pelle luminosa, sembra tutta secca!",
+      "value": "Castform assume questa forma quando viene scaldato dai raggi del sole. Il suo corpo ardente è molto secco al tatto.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "eb8571cd243ee29d9ec277b9afd917de166793099e5c35c9048e263277341d28",
+      "sourceImageBytes": 269860,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/057.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/057.ts",
+      "evidence": {
+        "sourceImageSha256": "eb8571cd243ee29d9ec277b9afd917de166793099e5c35c9048e263277341d28",
+        "sourceImageBytes": 269860,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-058",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Questo Pokémon è un ghiottone famelico. Usa il suo eccellente senso dell'olfatto per trovare il cibo, quindi lo cuoce fino a renderlo croccante prima di mangiarlo.",
+      "value": "È un insaziabile ghiottone. Usa il suo sensibilissimo naso per scovare il cibo, che mangia dopo averlo abbrustolito a puntino.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "212ca1530a33f6aaf05b33004007ac837406f4e5ad57cf24327ad8a4a204839a",
+      "sourceImageBytes": 271287,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/058.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/058.ts",
+      "evidence": {
+        "sourceImageSha256": "212ca1530a33f6aaf05b33004007ac837406f4e5ad57cf24327ad8a4a204839a",
+        "sourceImageBytes": 271287,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-059",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "A volte, quando non riesce a trovare una pietra\nadatta, usa come sua dimora i pori\ndi Hippowdon.",
+      "value": "A volte, quando non riesce a trovare una pietra\nadatta, usa come sua dimora i pori\ndi Hippowdon.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "96884667234805cc86923fbb3048678a1077ffe447d7b3c74795c6d91b55aff6",
+      "sourceImageBytes": 277266,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/059.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/059.ts"
+    },
+    {
+      "cardId": "P-B-060",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Se si staccano, le liane del suo corpo diventano\nnutrimento per il suolo, favorendo lo sviluppo\ndelle piante della foresta.",
+      "value": "Se si staccano, le liane del suo corpo diventano\nnutrimento per il suolo, favorendo lo sviluppo\ndelle piante della foresta.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "1dc6225820dbbc7ef59cde2d7e0cca995fd6453722b12f08e552f4f72fcfdf8c",
+      "sourceImageBytes": 313575,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/060.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/060.ts"
+    },
+    {
+      "cardId": "P-B-061",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Treecko può ridimensionare rapidamente anche le superfici verticali. Rileva l’umidità con la coda per prevedere il tempo del giorno successivo.",
+      "value": "Riesce a scalare rapidamente anche pareti verticali. Rileva l'umidità attraverso la coda per prevedere il tempo dell'indomani.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "5d11f9a7170d6a1efc043b2cfdc42f103214b721ca51d2964cdcb28941b1cea3",
+      "sourceImageBytes": 283568,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/061.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/061.ts",
+      "evidence": {
+        "sourceImageSha256": "5d11f9a7170d6a1efc043b2cfdc42f103214b721ca51d2964cdcb28941b1cea3",
+        "sourceImageBytes": 283568,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-062",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Quando cerca di proteggere qualcuno, allunga i gomiti come se fossero spade e combatte ferocemente.",
+      "value": "Quando protegge qualcuno estende i gomiti come se fossero spade e combatte furiosamente.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "3c20e0a16ff8f5fc12c6b97fac2fbc563c6e90d0a2a960dd79523b1817440dcf",
+      "sourceImageBytes": 311139,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/062.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/062.ts",
+      "evidence": {
+        "sourceImageSha256": "3c20e0a16ff8f5fc12c6b97fac2fbc563c6e90d0a2a960dd79523b1817440dcf",
+        "sourceImageBytes": 311139,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-064",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "La sua potenza di fuoco aumenta quando combatte, raggiungendo oltre 1.800 gradi Fahrenheit. Gli piacciono le bacche ricche di grassi.",
+      "value": "La sua energia termica aumenta di intensità durante le lotte, raggiungendo i 1.000 °C. Adora le bacche ricche di grassi.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "7101b96355f9cce50610b9d84e289085409a1e6d6694e44722bde40f552b5726",
+      "sourceImageBytes": 271754,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/064.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/064.ts",
+      "evidence": {
+        "sourceImageSha256": "7101b96355f9cce50610b9d84e289085409a1e6d6694e44722bde40f552b5726",
+        "sourceImageBytes": 271754,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-065",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "La sua composizione cellulare è simile alle molecole d'acqua. Di conseguenza, non può essere visto quando si scioglie nell’acqua.",
+      "value": "La sua composizione cellulare è simile a quella delle molecole d'acqua, in cui si può dissolvere diventando invisibile.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "4dc87c2e397f935e0daec611c88b3f16c4b0cf44c9ac000cbfbd41d827e8d6ce",
+      "sourceImageBytes": 305886,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/065.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/065.ts",
+      "evidence": {
+        "sourceImageSha256": "4dc87c2e397f935e0daec611c88b3f16c4b0cf44c9ac000cbfbd41d827e8d6ce",
+        "sourceImageBytes": 305886,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-067",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Qualsiasi scheggiatura nelle sue lame gli sarebbe fatale. Dopo ogni battaglia, mantiene diligentemente le sue lame utilizzando la sua pietra per affilare preferita.",
+      "value": "Avere le lame smussate gli può essere fatale. Alla fine di ogni lotta se ne prende cura scrupolosamente con la sua cote preferita.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "90113aa735863fd7b7962757ea8434bcdfb37ef1ab64bfa6027f9b7784c23243",
+      "sourceImageBytes": 321843,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/067.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/067.ts",
+      "evidence": {
+        "sourceImageSha256": "90113aa735863fd7b7962757ea8434bcdfb37ef1ab64bfa6027f9b7784c23243",
+        "sourceImageBytes": 321843,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-068",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Scaccia i nemici dal nido aspirando abbastanza aria da riempire i suoi polmoni lunghi e stretti, per poi rilasciarla con un'intensa esplosione.",
+      "value": "Scaccia i nemici che si intrufolano nella sua tana con violente raffiche di vento che emette dai lunghi polmoni dopo averli riempiti d'aria.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "6898141f793e499f43ac6d2a28e2278235ad3f73cbd41fd725de678b6ca04329",
+      "sourceImageBytes": 295832,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/068.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/068.ts",
+      "evidence": {
+        "sourceImageSha256": "6898141f793e499f43ac6d2a28e2278235ad3f73cbd41fd725de678b6ca04329",
+        "sourceImageBytes": 295832,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-069",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "La durezza della pelliccia di Floragato dipende dall'umore del Pokémon. Quando Floragato è pronto a combattere, la sua pelliccia diventa appuntita e affilata.",
+      "value": "La durezza della pelliccia cambia in base al suo stato d'animo. Quando si accinge alla lotta, il suo pelo diventa irto di punte acuminate come aghi.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "865c36615d97f02a28d807b81ba3df684ffd9e6b9f37c1f5119e1841fbca2583",
+      "sourceImageBytes": 283425,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/069.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/069.ts",
+      "evidence": {
+        "sourceImageSha256": "865c36615d97f02a28d807b81ba3df684ffd9e6b9f37c1f5119e1841fbca2583",
+        "sourceImageBytes": 283425,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-070",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Le sostanze contenute nelle gemme che\ningerisce emergono a livello epidermico e\nformano i motivi più disparati.",
+      "value": "Le sostanze contenute nelle gemme che\ningerisce emergono a livello epidermico e\nformano i motivi più disparati.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "20d7cf73594f32085f9f2b64e0139eeb5db6dc6be44a671ee084274d01a3f6e2",
+      "sourceImageBytes": 304012,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/070.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/070.ts"
+    },
+    {
+      "cardId": "P-B-071",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Se il suo mal di testa cronico raggiunge il picco, può mostrare strani poteri. Sembra incapace di ricordare un episodio del genere.",
+      "value": "Se il suo mal di testa cronico si acuisce, può manifestare strani poteri di cui in seguito non ha memoria.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "df4fe821c837a8166f7720d25f7153e29062ae4a3840420fe993de660fbe24bf",
+      "sourceImageBytes": 290224,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/071.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/071.ts",
+      "evidence": {
+        "sourceImageSha256": "df4fe821c837a8166f7720d25f7153e29062ae4a3840420fe993de660fbe24bf",
+        "sourceImageBytes": 290224,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-072",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "È il Pokémon più squallido di tutti. Forma banchi e vive sul fondo dei fiumi brulicanti di vita vegetale.",
+      "value": "Il Pokémon dall'aspetto più misero. Vive in grandi gruppi nei letti dei fiumi ricchi di piante acquatiche.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "31b871f17e65062b7d94f4397a23a4b324b605bebc277798fdb3bd4b626ec69f",
+      "sourceImageBytes": 330193,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/072.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/072.ts",
+      "evidence": {
+        "sourceImageSha256": "31b871f17e65062b7d94f4397a23a4b324b605bebc277798fdb3bd4b626ec69f",
+        "sourceImageBytes": 330193,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-073",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Congela la preda emettendo il suo respiro a -58 gradi Fahrenheit. Si dice che poi mostri segretamente la sua preda.",
+      "value": "Congela le prede con un alito glaciale a -50 °C. Si dice che poi le metta in mostra in un luogo segreto.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "1449e35da3532b32e44b6c46e206b97087206ff72b37b7862a7636d9bb928f20",
+      "sourceImageBytes": 312824,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/073.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/073.ts",
+      "evidence": {
+        "sourceImageSha256": "1449e35da3532b32e44b6c46e206b97087206ff72b37b7862a7636d9bb928f20",
+        "sourceImageBytes": 312824,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-074",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Se le tasche elettriche sulle sue guance si caricano completamente, entrambe le orecchie rimarranno dritte.",
+      "value": "Quando le sacche elettriche sulle sue guance si caricano completamente, gli si rizzano le orecchie.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "7a4a4b367097fdb72d58fb545e4da2f8fcb3f164f3eabd3fa72e934fa6f4f5d6",
+      "sourceImageBytes": 214429,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/074.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/074.ts",
+      "evidence": {
+        "sourceImageSha256": "7a4a4b367097fdb72d58fb545e4da2f8fcb3f164f3eabd3fa72e934fa6f4f5d6",
+        "sourceImageBytes": 214429,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-075",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "A causa del suo atteggiamento rilassato e spensierato, mentre nuota spesso sbatte la testa contro i massi del letto dei fiumi e gli scafi delle barche.",
+      "value": "Per via della sua indole rilassata e noncurante, quando nuota urta spesso i fondali rocciosi dei fiumi e gli scafi delle barche.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "5961121d15d38598167f4c16cb8586ccc098225666f2c9f6f174d023bfbc79d0",
+      "sourceImageBytes": 304318,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/075.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/075.ts",
+      "evidence": {
+        "sourceImageSha256": "5961121d15d38598167f4c16cb8586ccc098225666f2c9f6f174d023bfbc79d0",
+        "sourceImageBytes": 304318,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-076",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Un'anima un tempo defunta, tornata in vita a Hisui. Trae potere dal risentimento, che sale come energia sulla sua testa e assume la forma di nemici. In questo modo, Zorua dà sfogo alla malizia persistente.",
+      "value": "Uno spirito defunto, tornato a nuova vita nella terra di Hisui. Il suo sdegno si fa energia e promana dal capo, tramutandosi nell'avversario per ordire vendetta.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "433fe385e8d3cd52137ee664c186c0e6ed3add1322674575af384ddb1158e625",
+      "sourceImageBytes": 293598,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/076.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/076.ts",
+      "evidence": {
+        "sourceImageSha256": "433fe385e8d3cd52137ee664c186c0e6ed3add1322674575af384ddb1158e625",
+        "sourceImageBytes": 293598,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-077",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "È molto amichevole e fedele alle persone. Cercherà di respingere i nemici abbaiando e mordendo.",
+      "value": "È un Pokémon molto socievole e fedele. Allontana i nemici abbaiando e mordendoli.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata.",
+      "sourceImageSha256": "5f595d83d437cc3bcf38e00bcc1037e505d27edf0c90ee1f88b98a27a3cdc5a1",
+      "sourceImageBytes": 295893,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/077.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/077.ts",
+      "evidence": {
+        "sourceImageSha256": "5f595d83d437cc3bcf38e00bcc1037e505d27edf0c90ee1f88b98a27a3cdc5a1",
+        "sourceImageBytes": 295893,
+        "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Transcribed native text correcting prior metadata."
+      }
+    },
+    {
+      "cardId": "P-B-078",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Va ghiotto di bacche dolci. A volte accumula\ntroppo cibo nelle guance e fa fatica a volare.",
+      "value": "Va ghiotto di bacche dolci. A volte accumula\ntroppo cibo nelle guance e fa fatica a volare.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "4e674db1e66344a53c9483fc48b7ee9abe06a00321173d4970311c07821287ee",
+      "sourceImageBytes": 225561,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/078.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/078.ts"
+    },
+    {
+      "cardId": "P-B-081",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "È dotato di denti affilati e mascelle robuste.\nChi viaggia per mare si tiene accuratamente\nalla larga dalle tane dei Carvanha.",
+      "value": "È dotato di denti affilati e mascelle robuste.\nChi viaggia per mare si tiene accuratamente\nalla larga dalle tane dei Carvanha.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "1e382e7a8352b0f794ecdcc7af38998169e116125eb72c4fae6e8169749b2f28",
+      "sourceImageBytes": 307182,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/081.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/081.ts"
+    },
+    {
+      "cardId": "P-B-088",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Le falci sulle sue zampe anteriori diventano sempre più affilate man mano che tranciano oggetti duri.",
+      "value": "Le falci sulle sue zampe anteriori diventano sempre più affilate man mano che tranciano oggetti duri.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "8734c9b1ae436a188a3df686f43544ac8855fb130289b35ea65c1003376fdd4c",
+      "sourceImageBytes": 295418,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/088.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/088.ts"
+    },
+    {
+      "cardId": "P-B-089",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "La sua grande intelligenza gli permette di capire anche il linguaggio umano. Ama nuotare in mare trasportando persone.",
+      "value": "La sua grande intelligenza gli permette di capire anche il linguaggio umano. Ama nuotare in mare trasportando persone.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "7e46671cb4f1dcfa52a5e43caf5005fa75c8dcb9eb538388c08842cba7a1c184",
+      "sourceImageBytes": 300330,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/089.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/089.ts"
+    },
+    {
+      "cardId": "P-B-090",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Vola scivolando sulla brezza marina come un aliante. D'inverno, nasconde il cibo attorno al nido.",
+      "value": "Vola scivolando sulla brezza marina come un aliante. D'inverno, nasconde il cibo attorno al nido.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "b5570c24ab44fe9240d517d4b86be0c92e1b7da18ff53ba845bf8b520bccab2e",
+      "sourceImageBytes": 289367,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/090.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/090.ts"
+    },
+    {
+      "cardId": "P-B-091",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Vive nel silenzio e nell'oscurità per nascondere la coda nera come la pece. Non attacca mai per primo.",
+      "value": "Vive nel silenzio e nell'oscurità per nascondere la coda nera come la pece. Non attacca mai per primo.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "aac517af008fe7fdfb7efced728e0f2d88a1da719a054ed9ae05c060668d586c",
+      "sourceImageBytes": 276974,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/091.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/091.ts"
+    },
+    {
+      "cardId": "P-B-092",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Evolvendosi è diventato tutt'uno con il teschio della madre che prima indossava e ha acquisito un temperamento violento.",
+      "value": "Evolvendosi è diventato tutt'uno con il teschio della madre che prima indossava e ha acquisito un temperamento violento.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "9c46adfa61f6c0e31402faea3078e34d8b7f94de891608f5cc91bab1b4c052fd",
+      "sourceImageBytes": 294324,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/092.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/092.ts"
+    },
+    {
+      "cardId": "P-B-093",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "I ramoscelli sono il suo spuntino preferito. Sgranocchiarli gli infonde il coraggio di affrontare i nemici più forti.",
+      "value": "I ramoscelli sono il suo spuntino preferito. Sgranocchiarli gli infonde il coraggio di affrontare i nemici più forti.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "80fd3fd50d7a5416d3e6e19619f1093998b6e1739733a2e2e2561cc9d961eb16",
+      "sourceImageBytes": 277584,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/093.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/093.ts"
+    },
+    {
+      "cardId": "P-B-094",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "I motivi a forma di occhio all'interno delle orecchie sono la fonte del suo potere psichico. Li tiene coperti per controllarne l'immensa potenza.",
+      "value": "I motivi a forma di occhio all'interno delle orecchie sono la fonte del suo potere psichico. Li tiene coperti per controllarne l'immensa potenza.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "4a5753a753b7c97f2060563731d03c91ac53205a78d8d99998f897a245e78193",
+      "sourceImageBytes": 278850,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/094.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/094.ts"
+    },
+    {
+      "cardId": "P-B-095",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Respinge umani e Pokémon dal suo territorio inducendoli a un sonno profondo e provocando incubi.",
+      "value": "Respinge umani e Pokémon dal suo territorio inducendoli a un sonno profondo e provocando incubi.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "0d20778fe075fb547c2f183b657b81656973d49600a948fda9aef290016aa76b",
+      "sourceImageBytes": 363663,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/095.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/095.ts"
+    },
+    {
+      "cardId": "P-B-096",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "L'elemento che viene considerato il capo usa il proprio corno estensibile per indicare al gruppo in che tipo di formazione schierarsi.",
+      "value": "L'elemento che viene considerato il capo usa il proprio corno estensibile per indicare al gruppo in che tipo di formazione schierarsi.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "72e6e95958e602bb1e2d8e585527a5076c947dc5437302dae1a9680048ddc3cf",
+      "sourceImageBytes": 309702,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/096.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/096.ts"
+    },
+    {
+      "cardId": "P-B-097",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Vive in gallerie scaldate dal calore geotermico. Se sente un nemico arrivare, salta fuori e lo addenta.",
+      "value": "Vive in gallerie scaldate dal calore geotermico. Se sente un nemico arrivare, salta fuori e lo addenta.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "3235454e768339a78d325522d00800e15aa4b9d8999c84f31765806e6f24aa35",
+      "sourceImageBytes": 254119,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/097.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/097.ts"
+    },
+    {
+      "cardId": "P-B-098",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Adora gli oggetti luccicanti. Va a caccia di tesori nelle grotte e li trasporta nel suo nido.",
+      "value": "Adora gli oggetti luccicanti. Va a caccia di tesori nelle grotte e li trasporta nel suo nido.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "b91edbed15533114a9422ca78dbf3c23036a6cea2a968c96d45757c559dc503f",
+      "sourceImageBytes": 298480,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/098.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/098.ts"
+    },
+    {
+      "cardId": "P-B-100",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Ha successo fra gli Allenatori di sesso femminile per la sua bellissima pelliccia. Non ha una tana fissa.",
+      "value": "Ha successo fra gli Allenatori di sesso femminile per la sua bellissima pelliccia. Non ha una tana fissa.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "f1e5bcbfff3fced3217a377741e20b6afa76dc573e0233152b491eb31a8f53ac",
+      "sourceImageBytes": 269128,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/100.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/100.ts"
+    },
+    {
+      "cardId": "P-B-101",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "Se è in forma, la fiamma che ha sulla punta della coda brucia con forza e non si spegne neanche se la coda si bagna un po’.",
+      "value": "Se è in forma, la fiamma che ha sulla punta della coda brucia con forza e non si spegne neanche se la coda si bagna un po’.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "6323aa37857d5123bb1b3641434971459b89dfd94a200c38bf0dee85a63c00e4",
+      "sourceImageBytes": 286066,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/101.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/101.ts"
+    },
+    {
+      "cardId": "P-B-102",
+      "locale": "it",
+      "path": "description",
+      "expectedCurrent": "È socievole e di indole gentile ma quando\nsi arrabbia provoca venti dalla terribile\nforza distruttiva.",
+      "value": "È socievole e di indole gentile ma quando\nsi arrabbia provoca venti dalla terribile\nforza distruttiva.",
+      "review": "Direct visual review of native Italian card footer; contact sheet enlarged for reading only; no machine translation. Existing text matches native card; retained.",
+      "sourceImageSha256": "c18873f666d691f745e8857b57e98f63d53d1b57ea7d15c864fad4c153c1b896",
+      "sourceImageBytes": 288247,
+      "sourceImagePath": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/102.png",
+      "file": "data/Pokémon TCG Pocket/Promos-B/102.ts"
+    }
+  ]
+}

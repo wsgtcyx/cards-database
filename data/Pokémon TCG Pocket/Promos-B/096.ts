@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/096",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/096",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/096",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/096",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/096",
-        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/096",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/096",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/096",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/096"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/096/7f99e49efd2a0ba9",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/096/7f99e49efd2a0ba9",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/096/7f99e49efd2a0ba9",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/096/7f99e49efd2a0ba9",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/096/7f99e49efd2a0ba9",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/096/7f99e49efd2a0ba9",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/096/7f99e49efd2a0ba9",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/096/7f99e49efd2a0ba9",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/096/7f99e49efd2a0ba9"
     },
     name: {
         en: "Falinks",

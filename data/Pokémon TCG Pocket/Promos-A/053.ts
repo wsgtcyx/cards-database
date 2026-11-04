@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/053",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/053",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/053",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/053",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/053",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/053",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/053",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/053",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/053"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/053/41f3faed94eae3dd",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/053/41f3faed94eae3dd",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/053/41f3faed94eae3dd",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/053/41f3faed94eae3dd",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/053/41f3faed94eae3dd",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/053/41f3faed94eae3dd",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/053/41f3faed94eae3dd",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/053/41f3faed94eae3dd",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/053/41f3faed94eae3dd"
     },
     name: {
         en: "Floatzel",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "浮潛鼬",
     },
     illustrator: "Shin Nagasawa",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     hp: 100,
     types: ["Water"],
@@ -38,7 +38,7 @@ const card: Card = {
         'pt-br': "Com sua bolsa de flutuação inflada, pode transportar\npessoas nas costas. Esvazia a bolsa antes de mergulhar.",
         ja: "浮き袋を ふくらませると 人を 背中に 乗せることが できる。 浮き袋を しぼませて 潜る。",
         ko: "부낭을 부풀리면 사람을\n등에 태울 수 있다.\n부낭을 오그라들게 하여 잠수한다.",
-        "zh-tw": "浮囊充氣後可載人\n在它的背上。它在潛水前將囊放氣。"
+        "zh-tw": "膨脹起浮囊後就能讓人坐在自己背上。排出浮囊的氣來潛水。"
     },
     stage: "Stage1",
     evolveFrom: {
@@ -62,7 +62,7 @@ const card: Card = {
                 'pt-br': "Atacar a Ferida",
                 ja: "きずにうちこむ",
                 ko: "상처때리기",
-                "zh-tw": "攻擊傷口"
+                "zh-tw": "傷口撒鹽"
             },
             cost: ["Water"],
             damage: "10+",
@@ -75,7 +75,7 @@ const card: Card = {
                 'pt-br': "Se o Pokémon Ativo do seu oponente estiver danificado, este ataque causará 60 pontos de dano a mais.",
                 ja: "相手のバトルポケモンがダメージを受けているなら、60ダメージ追加。",
                 ko: "상대의 배틀 포켓몬이 데미지를 받고 있다면 60데미지를 추가한다.",
-                "zh-tw": "如果對手的活躍寶可夢受到傷害，則這次攻擊造成的傷害增加 60 點。"
+                "zh-tw": "若對手的戰鬥寶可夢有受到傷害,則增加60點傷害。"
             }
         }],
     weaknesses: [{

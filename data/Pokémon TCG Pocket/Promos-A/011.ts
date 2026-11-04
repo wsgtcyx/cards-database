@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/011",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/011",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/011",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/011",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/011",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/011",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/011",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/011",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/011"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/011/1bb0f05ec37e52fa",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/011/1bb0f05ec37e52fa",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/011/1bb0f05ec37e52fa",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/011/1bb0f05ec37e52fa",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/011/1bb0f05ec37e52fa",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/011/1bb0f05ec37e52fa",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/011/1bb0f05ec37e52fa",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/011/1bb0f05ec37e52fa",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/011/1bb0f05ec37e52fa"
     },
     name: {
         en: "Chansey",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "吉利蛋"
     },
     illustrator: "sowsow",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     types: ["Colorless"],
     stage: "Basic",
@@ -39,7 +39,7 @@ const card: Card = {
                 'pt-br': "Tapinha",
                 ja: "ひっぱたく",
                 ko: "세게때리기",
-                "zh-tw": "輕輕一巴掌"
+                "zh-tw": "重摑"
             },
             cost: ["Colorless", "Colorless", "Colorless"],
             damage: 60
@@ -54,7 +54,7 @@ const card: Card = {
         'pt-br': "Este Pokémon gentil bota ovos bastante nutritivos\ne os compartilha com pessoas ou Pokémon feridos.",
         ja: "傷ついた ポケモンや 人がいると 栄養満点の タマゴを産み 分け与える 優しい ポケモン。",
         ko: "상처 입은 포켓몬이나 사람이 있으면\n영양 만점의 알을 낳아\n나눠 주는 상냥한 포켓몬이다.",
-        "zh-tw": "這只善良的神奇寶貝會產下營養豐富的蛋\n並與受傷的神奇寶貝或人分享。"
+        "zh-tw": "心地很善良的寶可夢，會生出營養滿分的蛋分給受傷的寶可夢和人類。"
     },
     weaknesses: [{
             type: "Fighting",

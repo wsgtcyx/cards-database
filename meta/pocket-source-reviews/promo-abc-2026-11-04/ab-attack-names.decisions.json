@@ -1,0 +1,3964 @@
+{
+  "schemaVersion": 1,
+  "baseRef": "5ce7b83ea9555e7e7196a64c555812108ac7a511",
+  "sources": {
+    "game-dictionary-zh": {
+      "file": "meta/pocket-source-reviews/C1/zh.dictionary.json",
+      "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+      "role": "Game-localized attack label selected by stable nameI18nId, not machine translation",
+      "version": "C1 committed dictionary snapshot; identities rechecked against 2026-11-04 master",
+      "license": "Attributed game text transcription; no separate data licence located",
+      "url": "https://ptcgp.raenonx.cc/zh"
+    },
+    "game-dictionary-fr": {
+      "file": "meta/pocket-source-reviews/C1/fr.dictionary.json",
+      "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+      "role": "Game-localized attack label selected by stable nameI18nId, not machine translation",
+      "version": "C1 committed dictionary snapshot; identities rechecked against 2026-11-04 master",
+      "license": "Attributed game text transcription; no separate data licence located",
+      "url": "https://ptcgp.raenonx.cc/fr"
+    },
+    "game-dictionary-pt": {
+      "file": "meta/pocket-source-reviews/C1/pt.dictionary.json",
+      "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+      "role": "Game-localized attack label selected by stable nameI18nId, not machine translation",
+      "version": "C1 committed dictionary snapshot; identities rechecked against 2026-11-04 master",
+      "license": "Attributed game text transcription; no separate data licence located",
+      "url": "https://ptcgp.raenonx.cc/pt"
+    },
+    "game-dictionary-es": {
+      "file": "meta/pocket-source-reviews/C1/es.dictionary.json",
+      "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+      "role": "Game-localized attack label selected by stable nameI18nId, not machine translation",
+      "version": "C1 committed dictionary snapshot; identities rechecked against 2026-11-04 master",
+      "license": "Attributed game text transcription; no separate data licence located",
+      "url": "https://ptcgp.raenonx.cc/es"
+    }
+  },
+  "decisions": [
+    {
+      "entityKind": "card",
+      "entityId": "P-A-018",
+      "file": "data/Pokémon TCG Pocket/Promos-A/018.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "巨型排水管",
+      "expectedEnglish": "Mega Drain",
+      "value": "超級吸取",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-013",
+      "file": "data/Pokémon TCG Pocket/Promos-A/013.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "陣風",
+      "expectedEnglish": "Gust",
+      "value": "起風",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-032",
+      "file": "data/Pokémon TCG Pocket/Promos-A/032.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "餘燼",
+      "expectedEnglish": "Ember",
+      "value": "火花",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-025",
+      "file": "data/Pokémon TCG Pocket/Promos-A/025.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "地獄之舞",
+      "expectedEnglish": "Inferno Dance",
+      "value": "烈火之舞",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-025",
+      "file": "data/Pokémon TCG Pocket/Promos-A/025.ts",
+      "path": "attacks[1].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "熱風",
+      "expectedEnglish": "Heat Blast",
+      "value": "高溫爆破",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-029",
+      "file": "data/Pokémon TCG Pocket/Promos-A/029.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "液壓泵",
+      "expectedEnglish": "Hydro Pump",
+      "value": "水炮",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-061",
+      "file": "data/Pokémon TCG Pocket/Promos-A/061.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "翻牌",
+      "expectedEnglish": "Flop",
+      "value": "活蹦亂跳",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-019",
+      "file": "data/Pokémon TCG Pocket/Promos-A/019.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "霧斬",
+      "expectedEnglish": "Mist Slash",
+      "value": "霞斬",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-026",
+      "file": "data/Pokémon TCG Pocket/Promos-A/026.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "啃",
+      "expectedEnglish": "Gnaw",
+      "value": "咬",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-015",
+      "file": "data/Pokémon TCG Pocket/Promos-A/015.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "啃",
+      "expectedEnglish": "Gnaw",
+      "value": "咬",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-009",
+      "file": "data/Pokémon TCG Pocket/Promos-A/009.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "啃",
+      "expectedEnglish": "Gnaw",
+      "value": "咬",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-024",
+      "file": "data/Pokémon TCG Pocket/Promos-A/024.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "閃電球",
+      "expectedEnglish": "Lightning Ball",
+      "value": "光彈",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-016",
+      "file": "data/Pokémon TCG Pocket/Promos-A/016.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "拍擊",
+      "expectedEnglish": "Slap",
+      "value": "巴掌",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-010",
+      "file": "data/Pokémon TCG Pocket/Promos-A/010.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "能量衝擊波",
+      "expectedEnglish": "Power Blast",
+      "value": "力量爆破",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-050",
+      "file": "data/Pokémon TCG Pocket/Promos-A/050.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "心靈領域",
+      "expectedEnglish": "Psychic Sphere",
+      "value": "念動彈",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-050",
+      "file": "data/Pokémon TCG Pocket/Promos-A/050.ts",
+      "path": "attacks[1].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "心靈驅動器",
+      "expectedEnglish": "Psydrive",
+      "value": "精神衝鋒",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-021",
+      "file": "data/Pokémon TCG Pocket/Promos-A/021.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "土地擠壓",
+      "expectedEnglish": "Land Crush",
+      "value": "大地粉碎",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-012",
+      "file": "data/Pokémon TCG Pocket/Promos-A/012.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "發薪日",
+      "expectedEnglish": "Pay Day",
+      "value": "聚寶功",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-062",
+      "file": "data/Pokémon TCG Pocket/Promos-A/062.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "韭菜拍打",
+      "expectedEnglish": "Leek Slap",
+      "value": "蔥擊",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-011",
+      "file": "data/Pokémon TCG Pocket/Promos-A/011.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "輕輕一巴掌",
+      "expectedEnglish": "Gentle Slap",
+      "value": "重摑",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-092",
+      "file": "data/Pokémon TCG Pocket/Promos-A/092.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Tacle",
+      "expectedEnglish": "Tackle",
+      "value": "Charge",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-092",
+      "file": "data/Pokémon TCG Pocket/Promos-A/092.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Enfrentar",
+      "expectedEnglish": "Tackle",
+      "value": "Investida",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-092",
+      "file": "data/Pokémon TCG Pocket/Promos-A/092.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "處理",
+      "expectedEnglish": "Tackle",
+      "value": "撞擊",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-031",
+      "file": "data/Pokémon TCG Pocket/Promos-A/031.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "做波浪",
+      "expectedEnglish": "Do the Wave",
+      "value": "朋友之環",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-060",
+      "file": "data/Pokémon TCG Pocket/Promos-A/060.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "成長突飛猛進",
+      "expectedEnglish": "Growth Spurt",
+      "value": "微生長",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-028",
+      "file": "data/Pokémon TCG Pocket/Promos-A/028.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "火山灰",
+      "expectedEnglish": "Volcanic Ash",
+      "value": "火碎流",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-014",
+      "file": "data/Pokémon TCG Pocket/Promos-A/014.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "氣泡排水管",
+      "expectedEnglish": "Bubble Drain",
+      "value": "泡沫吸取",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-017",
+      "file": "data/Pokémon TCG Pocket/Promos-A/017.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "魯莽衝鋒",
+      "expectedEnglish": "Reckless Charge",
+      "value": "突擊",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-027",
+      "file": "data/Pokémon TCG Pocket/Promos-A/027.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "處理",
+      "expectedEnglish": "Tackle",
+      "value": "撞擊",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-030",
+      "file": "data/Pokémon TCG Pocket/Promos-A/030.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "咆哮",
+      "expectedEnglish": "Growl",
+      "value": "叫聲",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-035",
+      "file": "data/Pokémon TCG Pocket/Promos-A/035.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "咬",
+      "expectedEnglish": "Bite",
+      "value": "咬住",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-116",
+      "file": "data/Pokémon TCG Pocket/Promos-A/116.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "翻牌",
+      "expectedEnglish": "Flop",
+      "value": "活蹦亂跳",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-040",
+      "file": "data/Pokémon TCG Pocket/Promos-A/040.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "划痕",
+      "expectedEnglish": "Scratch",
+      "value": "抓",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-034",
+      "file": "data/Pokémon TCG Pocket/Promos-A/034.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "午睡",
+      "expectedEnglish": "Nap",
+      "value": "小憩",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-048",
+      "file": "data/Pokémon TCG Pocket/Promos-A/048.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "海洋禮物",
+      "expectedEnglish": "Oceanic Gift",
+      "value": "大海贈禮",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-036",
+      "file": "data/Pokémon TCG Pocket/Promos-A/036.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "勵磁電壓",
+      "expectedEnglish": "Exciting Voltage",
+      "value": "激動伏特",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-041",
+      "file": "data/Pokémon TCG Pocket/Promos-A/041.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "磅",
+      "expectedEnglish": "Pound",
+      "value": "拍擊",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-042",
+      "file": "data/Pokémon TCG Pocket/Promos-A/042.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "黑暗棱鏡",
+      "expectedEnglish": "Dark Prism",
+      "value": "暗黑稜鏡",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-039",
+      "file": "data/Pokémon TCG Pocket/Promos-A/039.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "金屬武器",
+      "expectedEnglish": "Metal Arms",
+      "value": "金屬武裝",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-115",
+      "file": "data/Pokémon TCG Pocket/Promos-A/115.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "狂怒之鎚",
+      "expectedEnglish": "Raging Hammer",
+      "value": "激怒之錘",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-043",
+      "file": "data/Pokémon TCG Pocket/Promos-A/043.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "水蛭種子",
+      "expectedEnglish": "Leech Seed",
+      "value": "寄生種子",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-044",
+      "file": "data/Pokémon TCG Pocket/Promos-A/044.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "火花",
+      "expectedEnglish": "Spark",
+      "value": "電光",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-046",
+      "file": "data/Pokémon TCG Pocket/Promos-A/046.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "處理",
+      "expectedEnglish": "Tackle",
+      "value": "撞擊",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-049",
+      "file": "data/Pokémon TCG Pocket/Promos-A/049.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "坍塌",
+      "expectedEnglish": "Collapse",
+      "value": "倒下",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-037",
+      "file": "data/Pokémon TCG Pocket/Promos-A/037.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "心靈閃光",
+      "expectedEnglish": "Psychic Flash",
+      "value": "精神閃光",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-038",
+      "file": "data/Pokémon TCG Pocket/Promos-A/038.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "迷惑雷",
+      "expectedEnglish": "Confuse Ray",
+      "value": "奇異之光",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-045",
+      "file": "data/Pokémon TCG Pocket/Promos-A/045.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "鋼鐵防禦",
+      "expectedEnglish": "Iron Defense",
+      "value": "鐵壁",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-047",
+      "file": "data/Pokémon TCG Pocket/Promos-A/047.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "翼攻擊",
+      "expectedEnglish": "Wing Attack",
+      "value": "翅膀攻擊",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-053",
+      "file": "data/Pokémon TCG Pocket/Promos-A/053.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "攻擊傷口",
+      "expectedEnglish": "Attack the Wound",
+      "value": "傷口撒鹽",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-054",
+      "file": "data/Pokémon TCG Pocket/Promos-A/054.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "電動沖床",
+      "expectedEnglish": "Electric Punch",
+      "value": "麻麻拳",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-055",
+      "file": "data/Pokémon TCG Pocket/Promos-A/055.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "動力出版社",
+      "expectedEnglish": "Power Press",
+      "value": "力量壓制",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-056",
+      "file": "data/Pokémon TCG Pocket/Promos-A/056.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "毒刺",
+      "expectedEnglish": "Poison Sting",
+      "value": "毒針",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-057",
+      "file": "data/Pokémon TCG Pocket/Promos-A/057.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "頭撞",
+      "expectedEnglish": "Headbutt",
+      "value": "頭錘",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-058",
+      "file": "data/Pokémon TCG Pocket/Promos-A/058.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "電漿",
+      "expectedEnglish": "Plasma",
+      "value": "等離子",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-059",
+      "file": "data/Pokémon TCG Pocket/Promos-A/059.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "沖床",
+      "expectedEnglish": "Punch",
+      "value": "出拳",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-052",
+      "file": "data/Pokémon TCG Pocket/Promos-A/052.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "求救",
+      "expectedEnglish": "Cry for Help",
+      "value": "呼朋喚友",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-051",
+      "file": "data/Pokémon TCG Pocket/Promos-A/051.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "超加速",
+      "expectedEnglish": "Overacceleration",
+      "value": "失控暴衝",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-066",
+      "file": "data/Pokémon TCG Pocket/Promos-A/066.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "暗影打擊",
+      "expectedEnglish": "Shadow Hit",
+      "value": "暗影擊",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-067",
+      "file": "data/Pokémon TCG Pocket/Promos-A/067.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "傳送",
+      "expectedEnglish": "Teleport",
+      "value": "瞬間移動",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-071",
+      "file": "data/Pokémon TCG Pocket/Promos-A/071.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "沖床",
+      "expectedEnglish": "Punch",
+      "value": "出拳",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-068",
+      "file": "data/Pokémon TCG Pocket/Promos-A/068.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "緊縮",
+      "expectedEnglish": "Crunch",
+      "value": "咬碎",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-072",
+      "file": "data/Pokémon TCG Pocket/Promos-A/072.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "毒氣",
+      "expectedEnglish": "Poison Gas",
+      "value": "毒瓦斯",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-073",
+      "file": "data/Pokémon TCG Pocket/Promos-A/073.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "喙爆炸",
+      "expectedEnglish": "Beak Blast",
+      "value": "鳥嘴加農炮",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-075",
+      "file": "data/Pokémon TCG Pocket/Promos-A/075.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Thrash métal",
+      "expectedEnglish": "Thrash Metal",
+      "value": "Thrash Metal",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-075",
+      "file": "data/Pokémon TCG Pocket/Promos-A/075.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Trashmetal",
+      "expectedEnglish": "Thrash Metal",
+      "value": "Thrash Metal",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-075",
+      "file": "data/Pokémon TCG Pocket/Promos-A/075.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "鞭打金屬",
+      "expectedEnglish": "Thrash Metal",
+      "value": "死亡迅斬",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-076",
+      "file": "data/Pokémon TCG Pocket/Promos-A/076.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Battre le punk",
+      "expectedEnglish": "Beat Punk",
+      "value": "Punk Pop",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-076",
+      "file": "data/Pokémon TCG Pocket/Promos-A/076.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Vença o punk",
+      "expectedEnglish": "Beat Punk",
+      "value": "Beat Punk",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-076",
+      "file": "data/Pokémon TCG Pocket/Promos-A/076.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "擊敗朋克",
+      "expectedEnglish": "Beat Punk",
+      "value": "爆奏龐克",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-077",
+      "file": "data/Pokémon TCG Pocket/Promos-A/077.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Électronique",
+      "expectedEnglish": "Electronica",
+      "value": "Electronica",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-077",
+      "file": "data/Pokémon TCG Pocket/Promos-A/077.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "電子樂",
+      "expectedEnglish": "Electronica",
+      "value": "束電音",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-078",
+      "file": "data/Pokémon TCG Pocket/Promos-A/078.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Psicobilly",
+      "expectedEnglish": "Psychobilly",
+      "value": "Psychobilly",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-078",
+      "file": "data/Pokémon TCG Pocket/Promos-A/078.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "心理比利",
+      "expectedEnglish": "Psychobilly",
+      "value": "瘋狂比翼",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-079",
+      "file": "data/Pokémon TCG Pocket/Promos-A/079.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Métal noir",
+      "expectedEnglish": "Black Metal",
+      "value": "Black Metal",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-079",
+      "file": "data/Pokémon TCG Pocket/Promos-A/079.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Metal Negro",
+      "expectedEnglish": "Black Metal",
+      "value": "Black Metal",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-079",
+      "file": "data/Pokémon TCG Pocket/Promos-A/079.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "黑金屬",
+      "expectedEnglish": "Black Metal",
+      "value": "鬃黑金屬",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-080",
+      "file": "data/Pokémon TCG Pocket/Promos-A/080.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Roche de laiton",
+      "expectedEnglish": "Brass Rock",
+      "value": "Brass Rock",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-080",
+      "file": "data/Pokémon TCG Pocket/Promos-A/080.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Rocha de latão",
+      "expectedEnglish": "Brass Rock",
+      "value": "Brass Rock",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-080",
+      "file": "data/Pokémon TCG Pocket/Promos-A/080.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "黃銅岩",
+      "expectedEnglish": "Brass Rock",
+      "value": "銅搖石滾",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-081",
+      "file": "data/Pokémon TCG Pocket/Promos-A/081.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Griffe photonique",
+      "expectedEnglish": "Photon Claw",
+      "value": "Griffe de Photons",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-081",
+      "file": "data/Pokémon TCG Pocket/Promos-A/081.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Garra de Fóton",
+      "expectedEnglish": "Photon Claw",
+      "value": "Garra de Fótons",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-081",
+      "file": "data/Pokémon TCG Pocket/Promos-A/081.ts",
+      "path": "attacks[1].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Regard sur les chaussures",
+      "expectedEnglish": "Shoegaze",
+      "value": "Shoegazing",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-081",
+      "file": "data/Pokémon TCG Pocket/Promos-A/081.ts",
+      "path": "attacks[1].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Sapato",
+      "expectedEnglish": "Shoegaze",
+      "value": "Shoegaze",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-081",
+      "file": "data/Pokémon TCG Pocket/Promos-A/081.ts",
+      "path": "attacks[1].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "凝視鞋",
+      "expectedEnglish": "Shoegaze",
+      "value": "噴洩搖滾",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-085",
+      "file": "data/Pokémon TCG Pocket/Promos-A/085.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Relais des Bonbons",
+      "expectedEnglish": "Sweets Relay",
+      "value": "Saupoudrage Sucré",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-085",
+      "file": "data/Pokémon TCG Pocket/Promos-A/085.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Revezamento de Doces",
+      "expectedEnglish": "Sweets Relay",
+      "value": "Revezamento Doce",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-085",
+      "file": "data/Pokémon TCG Pocket/Promos-A/085.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "糖果接力賽",
+      "expectedEnglish": "Sweets Relay",
+      "value": "甜點砸砸砸",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-086",
+      "file": "data/Pokémon TCG Pocket/Promos-A/086.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Boulon de début",
+      "expectedEnglish": "Beginning Bolt",
+      "value": "Premier Éclair",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-086",
+      "file": "data/Pokémon TCG Pocket/Promos-A/086.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Parafuso Inicial",
+      "expectedEnglish": "Beginning Bolt",
+      "value": "Raio Inicial",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-086",
+      "file": "data/Pokémon TCG Pocket/Promos-A/086.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "起始螺栓",
+      "expectedEnglish": "Beginning Bolt",
+      "value": "起始伏特",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-087",
+      "file": "data/Pokémon TCG Pocket/Promos-A/087.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Surcharge de bonbons",
+      "expectedEnglish": "Sweets Overload",
+      "value": "Avalanche Sucrée",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-087",
+      "file": "data/Pokémon TCG Pocket/Promos-A/087.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Sobrecarga de doces",
+      "expectedEnglish": "Sweets Overload",
+      "value": "Sobrecarga Açucarada",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-087",
+      "file": "data/Pokémon TCG Pocket/Promos-A/087.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "糖果超載",
+      "expectedEnglish": "Sweets Overload",
+      "value": "甜點堆堆堆",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-088",
+      "file": "data/Pokémon TCG Pocket/Promos-A/088.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Peau perdue",
+      "expectedEnglish": "Shed Skin",
+      "value": "Mue",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-088",
+      "file": "data/Pokémon TCG Pocket/Promos-A/088.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Pele derramada",
+      "expectedEnglish": "Shed Skin",
+      "value": "Pele Vertente",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-088",
+      "file": "data/Pokémon TCG Pocket/Promos-A/088.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "脫皮",
+      "expectedEnglish": "Shed Skin",
+      "value": "蛻皮",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-089",
+      "file": "data/Pokémon TCG Pocket/Promos-A/089.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Claque de vidange",
+      "expectedEnglish": "Drain Slap",
+      "value": "Baffe Sangsue",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-089",
+      "file": "data/Pokémon TCG Pocket/Promos-A/089.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Tapa de drenagem",
+      "expectedEnglish": "Drain Slap",
+      "value": "Bofetada Drenagem",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-089",
+      "file": "data/Pokémon TCG Pocket/Promos-A/089.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "排水管拍打",
+      "expectedEnglish": "Drain Slap",
+      "value": "吸取巴掌",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-082",
+      "file": "data/Pokémon TCG Pocket/Promos-A/082.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "2 étapes",
+      "expectedEnglish": "2-Step",
+      "value": "Two-Step",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-082",
+      "file": "data/Pokémon TCG Pocket/Promos-A/082.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "2 etapas",
+      "expectedEnglish": "2-Step",
+      "value": "2-Step",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-082",
+      "file": "data/Pokémon TCG Pocket/Promos-A/082.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "2步",
+      "expectedEnglish": "2-Step",
+      "value": "倍倍舞曲",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-083",
+      "file": "data/Pokémon TCG Pocket/Promos-A/083.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Bélier",
+      "expectedEnglish": "Ram",
+      "value": "Collision",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-083",
+      "file": "data/Pokémon TCG Pocket/Promos-A/083.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Bater",
+      "expectedEnglish": "Ram",
+      "value": "Aríete",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-083",
+      "file": "data/Pokémon TCG Pocket/Promos-A/083.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "內存",
+      "expectedEnglish": "Ram",
+      "value": "衝撞",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-090",
+      "file": "data/Pokémon TCG Pocket/Promos-A/090.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Pointes hérissées",
+      "expectedEnglish": "Bristling Spikes",
+      "value": "Épines Hérissées",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-090",
+      "file": "data/Pokémon TCG Pocket/Promos-A/090.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "豎立的尖刺",
+      "expectedEnglish": "Bristling Spikes",
+      "value": "豎刺",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-091",
+      "file": "data/Pokémon TCG Pocket/Promos-A/091.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Croc amélioré",
+      "expectedEnglish": "Enhanced Fang",
+      "value": "Croc Amélioré",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-091",
+      "file": "data/Pokémon TCG Pocket/Promos-A/091.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Presa Aprimorada",
+      "expectedEnglish": "Enhanced Fang",
+      "value": "Presa Acentuada",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-091",
+      "file": "data/Pokémon TCG Pocket/Promos-A/091.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "強化方牙",
+      "expectedEnglish": "Enhanced Fang",
+      "value": "強擊門牙",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-074",
+      "file": "data/Pokémon TCG Pocket/Promos-A/074.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Griffe de foudre",
+      "expectedEnglish": "Lightning Claw",
+      "value": "Griffe Éclair",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-074",
+      "file": "data/Pokémon TCG Pocket/Promos-A/074.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Garra Relâmpago",
+      "expectedEnglish": "Lightning Claw",
+      "value": "Garra de Raio",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-074",
+      "file": "data/Pokémon TCG Pocket/Promos-A/074.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "閃電爪",
+      "expectedEnglish": "Lightning Claw",
+      "value": "雷之爪",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-084",
+      "file": "data/Pokémon TCG Pocket/Promos-A/084.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Ouragan plasmatique",
+      "expectedEnglish": "Plasma Hurricane",
+      "value": "Ouragan Plasma",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-084",
+      "file": "data/Pokémon TCG Pocket/Promos-A/084.ts",
+      "path": "attacks[1].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Boulon de Mach",
+      "expectedEnglish": "Mach Bolt",
+      "value": "Éclair Fulgurant",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-084",
+      "file": "data/Pokémon TCG Pocket/Promos-A/084.ts",
+      "path": "attacks[1].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Parafuso Mach",
+      "expectedEnglish": "Mach Bolt",
+      "value": "Raio Supersônico",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-084",
+      "file": "data/Pokémon TCG Pocket/Promos-A/084.ts",
+      "path": "attacks[1].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "馬赫螺栓",
+      "expectedEnglish": "Mach Bolt",
+      "value": "音速伏特",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-113",
+      "file": "data/Pokémon TCG Pocket/Promos-A/113.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Essayez d'imiter",
+      "expectedEnglish": "Try to Imitate",
+      "value": "Tentative d'Imitation",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-113",
+      "file": "data/Pokémon TCG Pocket/Promos-A/113.ts",
+      "path": "attacks[0].name",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Intenta imitar",
+      "expectedEnglish": "Try to Imitate",
+      "value": "Intento de Imitación",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-es",
+          "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-113",
+      "file": "data/Pokémon TCG Pocket/Promos-A/113.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Tente imitar",
+      "expectedEnglish": "Try to Imitate",
+      "value": "Tentar Imitar",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-113",
+      "file": "data/Pokémon TCG Pocket/Promos-A/113.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "嘗試模仿",
+      "expectedEnglish": "Try to Imitate",
+      "value": "試著模仿",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-109",
+      "file": "data/Pokémon TCG Pocket/Promos-A/109.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Mordre",
+      "expectedEnglish": "Bite",
+      "value": "Morsure",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-109",
+      "file": "data/Pokémon TCG Pocket/Promos-A/109.ts",
+      "path": "attacks[0].name",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Morder",
+      "expectedEnglish": "Bite",
+      "value": "Mordisco",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-es",
+          "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-109",
+      "file": "data/Pokémon TCG Pocket/Promos-A/109.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Morder",
+      "expectedEnglish": "Bite",
+      "value": "Mordida",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-109",
+      "file": "data/Pokémon TCG Pocket/Promos-A/109.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "咬",
+      "expectedEnglish": "Bite",
+      "value": "咬住",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-099",
+      "file": "data/Pokémon TCG Pocket/Promos-A/099.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Tacle",
+      "expectedEnglish": "Tackle",
+      "value": "Charge",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-099",
+      "file": "data/Pokémon TCG Pocket/Promos-A/099.ts",
+      "path": "attacks[0].name",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Abordar",
+      "expectedEnglish": "Tackle",
+      "value": "Placaje",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-es",
+          "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-099",
+      "file": "data/Pokémon TCG Pocket/Promos-A/099.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Enfrentar",
+      "expectedEnglish": "Tackle",
+      "value": "Investida",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-099",
+      "file": "data/Pokémon TCG Pocket/Promos-A/099.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "處理",
+      "expectedEnglish": "Tackle",
+      "value": "撞擊",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-093",
+      "file": "data/Pokémon TCG Pocket/Promos-A/093.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Appel scintillant",
+      "expectedEnglish": "Twinkly Call",
+      "value": "Appel qui Brille",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-093",
+      "file": "data/Pokémon TCG Pocket/Promos-A/093.ts",
+      "path": "attacks[0].name",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Llamada centelleante",
+      "expectedEnglish": "Twinkly Call",
+      "value": "Llamada Centelleante",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-es",
+          "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-093",
+      "file": "data/Pokémon TCG Pocket/Promos-A/093.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Chamada cintilante",
+      "expectedEnglish": "Twinkly Call",
+      "value": "Chamado Brilhante",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-093",
+      "file": "data/Pokémon TCG Pocket/Promos-A/093.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "閃爍的召喚",
+      "expectedEnglish": "Twinkly Call",
+      "value": "閃閃呼喚",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-100",
+      "file": "data/Pokémon TCG Pocket/Promos-A/100.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Sabrer",
+      "expectedEnglish": "Slash",
+      "value": "Tranche",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-100",
+      "file": "data/Pokémon TCG Pocket/Promos-A/100.ts",
+      "path": "attacks[0].name",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Barra oblicua",
+      "expectedEnglish": "Slash",
+      "value": "Cuchillada",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-es",
+          "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-100",
+      "file": "data/Pokémon TCG Pocket/Promos-A/100.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Barra",
+      "expectedEnglish": "Slash",
+      "value": "Talho",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-100",
+      "file": "data/Pokémon TCG Pocket/Promos-A/100.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "削減",
+      "expectedEnglish": "Slash",
+      "value": "劈開",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-096",
+      "file": "data/Pokémon TCG Pocket/Promos-A/096.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Balayage de plongée",
+      "expectedEnglish": "Diving Swipe",
+      "value": "Rafle Plongeante",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-096",
+      "file": "data/Pokémon TCG Pocket/Promos-A/096.ts",
+      "path": "attacks[0].name",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Deslizamiento de buceo",
+      "expectedEnglish": "Diving Swipe",
+      "value": "Robo en Picado",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-es",
+          "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-096",
+      "file": "data/Pokémon TCG Pocket/Promos-A/096.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Mergulho",
+      "expectedEnglish": "Diving Swipe",
+      "value": "Mergulho Furtivo",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-096",
+      "file": "data/Pokémon TCG Pocket/Promos-A/096.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "潛水滑動",
+      "expectedEnglish": "Diving Swipe",
+      "value": "行搶俯衝",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-117",
+      "file": "data/Pokémon TCG Pocket/Promos-A/117.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Sautez par-dessus",
+      "expectedEnglish": "Leap Over",
+      "value": "Élan Bondissant",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-117",
+      "file": "data/Pokémon TCG Pocket/Promos-A/117.ts",
+      "path": "attacks[0].name",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Saltar",
+      "expectedEnglish": "Leap Over",
+      "value": "Gran Brinco",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-es",
+          "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-117",
+      "file": "data/Pokémon TCG Pocket/Promos-A/117.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Saltar",
+      "expectedEnglish": "Leap Over",
+      "value": "Pulão",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-117",
+      "file": "data/Pokémon TCG Pocket/Promos-A/117.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "跨越",
+      "expectedEnglish": "Leap Over",
+      "value": "飛越",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-097",
+      "file": "data/Pokémon TCG Pocket/Promos-A/097.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Coupe transversale",
+      "expectedEnglish": "Cross-Cut",
+      "value": "Coupe Transversale",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-097",
+      "file": "data/Pokémon TCG Pocket/Promos-A/097.ts",
+      "path": "attacks[0].name",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Corte transversal",
+      "expectedEnglish": "Cross-Cut",
+      "value": "Atajar",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-es",
+          "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-097",
+      "file": "data/Pokémon TCG Pocket/Promos-A/097.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Corte transversal",
+      "expectedEnglish": "Cross-Cut",
+      "value": "Corte em Cruz",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-097",
+      "file": "data/Pokémon TCG Pocket/Promos-A/097.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "橫切",
+      "expectedEnglish": "Cross-Cut",
+      "value": "揮擊",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-094",
+      "file": "data/Pokémon TCG Pocket/Promos-A/094.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Flèche d'eau",
+      "expectedEnglish": "Water Arrow",
+      "value": "Flèche d'Eau",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-094",
+      "file": "data/Pokémon TCG Pocket/Promos-A/094.ts",
+      "path": "attacks[0].name",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Flecha de agua",
+      "expectedEnglish": "Water Arrow",
+      "value": "Flecha de Agua",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-es",
+          "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-094",
+      "file": "data/Pokémon TCG Pocket/Promos-A/094.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Flecha de Água",
+      "expectedEnglish": "Water Arrow",
+      "value": "Flecha d'Água",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-095",
+      "file": "data/Pokémon TCG Pocket/Promos-A/095.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Attirer la lueur",
+      "expectedEnglish": "Luring Glow",
+      "value": "Lueur Attrayante",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-095",
+      "file": "data/Pokémon TCG Pocket/Promos-A/095.ts",
+      "path": "attacks[0].name",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Resplandor atractivo",
+      "expectedEnglish": "Luring Glow",
+      "value": "Resplandor Atrayente",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-es",
+          "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-095",
+      "file": "data/Pokémon TCG Pocket/Promos-A/095.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Brilho atraente",
+      "expectedEnglish": "Luring Glow",
+      "value": "Brilho Sedutor",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-095",
+      "file": "data/Pokémon TCG Pocket/Promos-A/095.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "誘人的光芒",
+      "expectedEnglish": "Luring Glow",
+      "value": "誘導之光",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-098",
+      "file": "data/Pokémon TCG Pocket/Promos-A/098.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Joyeux coup de poing",
+      "expectedEnglish": "Happy Punch",
+      "value": "Coup d'Joie",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-098",
+      "file": "data/Pokémon TCG Pocket/Promos-A/098.ts",
+      "path": "attacks[0].name",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Golpe feliz",
+      "expectedEnglish": "Happy Punch",
+      "value": "Puño Feliz",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-es",
+          "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-098",
+      "file": "data/Pokémon TCG Pocket/Promos-A/098.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Soco feliz",
+      "expectedEnglish": "Happy Punch",
+      "value": "Soco Feliz",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-098",
+      "file": "data/Pokémon TCG Pocket/Promos-A/098.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "快樂沖床",
+      "expectedEnglish": "Happy Punch",
+      "value": "幸福拳",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-103",
+      "file": "data/Pokémon TCG Pocket/Promos-A/103.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Attaque surprise",
+      "expectedEnglish": "Surprise Attack",
+      "value": "Attaque Surprise",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-103",
+      "file": "data/Pokémon TCG Pocket/Promos-A/103.ts",
+      "path": "attacks[0].name",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Ataque sorpresa",
+      "expectedEnglish": "Surprise Attack",
+      "value": "Ataque Sorpresa",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-es",
+          "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-103",
+      "file": "data/Pokémon TCG Pocket/Promos-A/103.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Ataque surpresa",
+      "expectedEnglish": "Surprise Attack",
+      "value": "Ataque Surpresa",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-104",
+      "file": "data/Pokémon TCG Pocket/Promos-A/104.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Bord Aqua",
+      "expectedEnglish": "Aqua Edge",
+      "value": "Aqua-Dague",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-104",
+      "file": "data/Pokémon TCG Pocket/Promos-A/104.ts",
+      "path": "attacks[0].name",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Borde acuático",
+      "expectedEnglish": "Aqua Edge",
+      "value": "Filo Agua",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-es",
+          "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-104",
+      "file": "data/Pokémon TCG Pocket/Promos-A/104.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Borda Aqua",
+      "expectedEnglish": "Aqua Edge",
+      "value": "Aqua Gume",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-104",
+      "file": "data/Pokémon TCG Pocket/Promos-A/104.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "水色邊緣",
+      "expectedEnglish": "Aqua Edge",
+      "value": "水之刀鋒",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-105",
+      "file": "data/Pokémon TCG Pocket/Promos-A/105.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Bélier",
+      "expectedEnglish": "Ram",
+      "value": "Collision",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-105",
+      "file": "data/Pokémon TCG Pocket/Promos-A/105.ts",
+      "path": "attacks[0].name",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "RAM",
+      "expectedEnglish": "Ram",
+      "value": "Apisonar",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-es",
+          "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-105",
+      "file": "data/Pokémon TCG Pocket/Promos-A/105.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Bater",
+      "expectedEnglish": "Ram",
+      "value": "Aríete",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-105",
+      "file": "data/Pokémon TCG Pocket/Promos-A/105.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "內存",
+      "expectedEnglish": "Ram",
+      "value": "衝撞",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-106",
+      "file": "data/Pokémon TCG Pocket/Promos-A/106.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Étourdissement nocturne",
+      "expectedEnglish": "Night Daze",
+      "value": "Explonuit",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-106",
+      "file": "data/Pokémon TCG Pocket/Promos-A/106.ts",
+      "path": "attacks[0].name",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Aturdimiento nocturno",
+      "expectedEnglish": "Night Daze",
+      "value": "Pulso Noche",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-es",
+          "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-106",
+      "file": "data/Pokémon TCG Pocket/Promos-A/106.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Noite atordoada",
+      "expectedEnglish": "Night Daze",
+      "value": "Ofuscamento Noturno",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-106",
+      "file": "data/Pokémon TCG Pocket/Promos-A/106.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "夜發呆",
+      "expectedEnglish": "Night Daze",
+      "value": "暗黑爆破",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-111",
+      "file": "data/Pokémon TCG Pocket/Promos-A/111.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Attaque rapide",
+      "expectedEnglish": "Quick Attack",
+      "value": "Vive-Attaque",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-111",
+      "file": "data/Pokémon TCG Pocket/Promos-A/111.ts",
+      "path": "attacks[0].name",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Ataque rápido",
+      "expectedEnglish": "Quick Attack",
+      "value": "Ataque Rápido",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-es",
+          "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-112",
+      "file": "data/Pokémon TCG Pocket/Promos-A/112.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Investida Volt",
+      "expectedEnglish": "Volt Tackle",
+      "value": "Investida Trovão",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-107",
+      "file": "data/Pokémon TCG Pocket/Promos-A/107.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Frénésie roulante",
+      "expectedEnglish": "Rolling Frenzy",
+      "value": "Roulade Frénétique",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-107",
+      "file": "data/Pokémon TCG Pocket/Promos-A/107.ts",
+      "path": "attacks[0].name",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Frenesí rodante",
+      "expectedEnglish": "Rolling Frenzy",
+      "value": "Frenesí Rodante",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-es",
+          "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-107",
+      "file": "data/Pokémon TCG Pocket/Promos-A/107.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Frenesi rolante",
+      "expectedEnglish": "Rolling Frenzy",
+      "value": "Frenesi Rolante",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-107",
+      "file": "data/Pokémon TCG Pocket/Promos-A/107.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "滾滾狂亂",
+      "expectedEnglish": "Rolling Frenzy",
+      "value": "越滾越勇",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-108",
+      "file": "data/Pokémon TCG Pocket/Promos-A/108.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Fléau",
+      "expectedEnglish": "Flail",
+      "value": "Gigotage",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-108",
+      "file": "data/Pokémon TCG Pocket/Promos-A/108.ts",
+      "path": "attacks[0].name",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Mayal",
+      "expectedEnglish": "Flail",
+      "value": "Azote",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-es",
+          "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-108",
+      "file": "data/Pokémon TCG Pocket/Promos-A/108.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "連枷",
+      "expectedEnglish": "Flail",
+      "value": "抓狂",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-101",
+      "file": "data/Pokémon TCG Pocket/Promos-A/101.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Vols de traversée",
+      "expectedEnglish": "Crossing Flights",
+      "value": "Vols Croisés",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-101",
+      "file": "data/Pokémon TCG Pocket/Promos-A/101.ts",
+      "path": "attacks[0].name",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Vuelos de cruce",
+      "expectedEnglish": "Crossing Flights",
+      "value": "Vuelo Cruzado",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-es",
+          "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-101",
+      "file": "data/Pokémon TCG Pocket/Promos-A/101.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Cruzando Voos",
+      "expectedEnglish": "Crossing Flights",
+      "value": "Voos Cruzados",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-101",
+      "file": "data/Pokémon TCG Pocket/Promos-A/101.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "過境航班",
+      "expectedEnglish": "Crossing Flights",
+      "value": "交錯飛行",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-110",
+      "file": "data/Pokémon TCG Pocket/Promos-A/110.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Battement fulgurant",
+      "expectedEnglish": "Blazing Beatdown",
+      "value": "Dérouillée Flamboyante",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-110",
+      "file": "data/Pokémon TCG Pocket/Promos-A/110.ts",
+      "path": "attacks[0].name",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Paliza ardiente",
+      "expectedEnglish": "Blazing Beatdown",
+      "value": "Paliza Abrasadora",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-es",
+          "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-110",
+      "file": "data/Pokémon TCG Pocket/Promos-A/110.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Beatdown ardente",
+      "expectedEnglish": "Blazing Beatdown",
+      "value": "Batida Escaldante",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-110",
+      "file": "data/Pokémon TCG Pocket/Promos-A/110.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "熾熱的擊敗",
+      "expectedEnglish": "Blazing Beatdown",
+      "value": "火焰奏擊",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-064",
+      "file": "data/Pokémon TCG Pocket/Promos-A/064.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "天龍流星",
+      "expectedEnglish": "Draco Meteor",
+      "value": "流星群",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-065",
+      "file": "data/Pokémon TCG Pocket/Promos-A/065.ts",
+      "path": "attacks[0].name",
+      "locale": "zh-tw",
+      "mode": "correction",
+      "expectedCurrent": "天龍流星",
+      "expectedEnglish": "Draco Meteor",
+      "value": "流星群",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-zh",
+          "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-065",
+      "file": "data/Pokémon TCG Pocket/Promos-B/065.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Mettre en fourrière",
+      "expectedEnglish": "Impound",
+      "value": "Confiscation",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-065",
+      "file": "data/Pokémon TCG Pocket/Promos-B/065.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Apreender",
+      "expectedEnglish": "Impound",
+      "value": "Apreensão",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-070",
+      "file": "data/Pokémon TCG Pocket/Promos-B/070.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Cadeau bijou",
+      "expectedEnglish": "Jeweled Gift",
+      "value": "Cadeau Joyau",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-070",
+      "file": "data/Pokémon TCG Pocket/Promos-B/070.ts",
+      "path": "attacks[0].name",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Regalo con joyas",
+      "expectedEnglish": "Jeweled Gift",
+      "value": "Regalo Precioso",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-es",
+          "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-070",
+      "file": "data/Pokémon TCG Pocket/Promos-B/070.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Presente com joias",
+      "expectedEnglish": "Jeweled Gift",
+      "value": "Prenda Preciosa",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-068",
+      "file": "data/Pokémon TCG Pocket/Promos-B/068.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Forage soudain",
+      "expectedEnglish": "Sudden Drilling",
+      "value": "Perçage Soudain",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-068",
+      "file": "data/Pokémon TCG Pocket/Promos-B/068.ts",
+      "path": "attacks[0].name",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Perforación repentina",
+      "expectedEnglish": "Sudden Drilling",
+      "value": "Taladro Súbito",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-es",
+          "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-068",
+      "file": "data/Pokémon TCG Pocket/Promos-B/068.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Perfuração Súbita",
+      "expectedEnglish": "Sudden Drilling",
+      "value": "Escavação Repentina",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-066",
+      "file": "data/Pokémon TCG Pocket/Promos-B/066.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Entaille chatoyante",
+      "expectedEnglish": "Shimmering Slash",
+      "value": "Lame Chatoyante",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-066",
+      "file": "data/Pokémon TCG Pocket/Promos-B/066.ts",
+      "path": "attacks[0].name",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Tajo brillante",
+      "expectedEnglish": "Shimmering Slash",
+      "value": "Corte Destello",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-es",
+          "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-066",
+      "file": "data/Pokémon TCG Pocket/Promos-B/066.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Corte Cintilante",
+      "expectedEnglish": "Shimmering Slash",
+      "value": "Talho Brilhante",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-075",
+      "file": "data/Pokémon TCG Pocket/Promos-B/075.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Presse énergétique",
+      "expectedEnglish": "Energy Press",
+      "value": "Pression Énergétique",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-075",
+      "file": "data/Pokémon TCG Pocket/Promos-B/075.ts",
+      "path": "attacks[0].name",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Prensa energética",
+      "expectedEnglish": "Energy Press",
+      "value": "Presión Energética",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-es",
+          "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-075",
+      "file": "data/Pokémon TCG Pocket/Promos-B/075.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Imprensa de Energia",
+      "expectedEnglish": "Energy Press",
+      "value": "Aperto de Energia",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-076",
+      "file": "data/Pokémon TCG Pocket/Promos-B/076.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Courir partout",
+      "expectedEnglish": "Run Around",
+      "value": "Course Effrénée",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-076",
+      "file": "data/Pokémon TCG Pocket/Promos-B/076.ts",
+      "path": "attacks[0].name",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Correr por todas partes",
+      "expectedEnglish": "Run Around",
+      "value": "Correr Alrededor",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-es",
+          "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-076",
+      "file": "data/Pokémon TCG Pocket/Promos-B/076.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Correr",
+      "expectedEnglish": "Run Around",
+      "value": "Zoar",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-078",
+      "file": "data/Pokémon TCG Pocket/Promos-B/078.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Tonnerre à remonter",
+      "expectedEnglish": "Windup Thunder",
+      "value": "Tonnerre Mécanique",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-078",
+      "file": "data/Pokémon TCG Pocket/Promos-B/078.ts",
+      "path": "attacks[0].name",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Trueno de cuerda",
+      "expectedEnglish": "Windup Thunder",
+      "value": "Trueno a Cuerda",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-es",
+          "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-078",
+      "file": "data/Pokémon TCG Pocket/Promos-B/078.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Trovão de encerramento",
+      "expectedEnglish": "Windup Thunder",
+      "value": "Trovão de Corda",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-071",
+      "file": "data/Pokémon TCG Pocket/Promos-B/071.ts",
+      "path": "attacks[0].name",
+      "locale": "fr",
+      "mode": "correction",
+      "expectedCurrent": "Vague de confusion",
+      "expectedEnglish": "Confusion Wave",
+      "value": "Vague de Confusion",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-fr",
+          "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-071",
+      "file": "data/Pokémon TCG Pocket/Promos-B/071.ts",
+      "path": "attacks[0].name",
+      "locale": "es",
+      "mode": "correction",
+      "expectedCurrent": "Ola de confusión",
+      "expectedEnglish": "Confusion Wave",
+      "value": "Ola de Confusión",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-es",
+          "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-071",
+      "file": "data/Pokémon TCG Pocket/Promos-B/071.ts",
+      "path": "attacks[0].name",
+      "locale": "pt-br",
+      "mode": "correction",
+      "expectedCurrent": "Onda de confusão",
+      "expectedEnglish": "Confusion Wave",
+      "value": "Onda de Confusão",
+      "evidence": [
+        {
+          "sourceId": "game-dictionary-pt",
+          "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+          "locator": "#/Game/Master/Attack/Name"
+        }
+      ]
+    }
+  ]
+}

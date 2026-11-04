@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/002",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/002",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/002",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/002",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/002",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/002",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/002",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/002",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/002"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/002/95807e0865262f1a",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/002/95807e0865262f1a",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/002/95807e0865262f1a",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/002/95807e0865262f1a",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/002/95807e0865262f1a",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/002/95807e0865262f1a",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/002/95807e0865262f1a",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/002/95807e0865262f1a",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/002/95807e0865262f1a"
     },
     name: {
         en: "Petilil",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "チュリネ"
     },
     illustrator: "Yukiko Baba",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     hp: 50,
     types: ["Grass"],
@@ -34,12 +34,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "If the leaves on its head are pruned with regularity, this Pokémon can be grown into a fine plump shape.",
-        fr: "Si les feuilles sur sa tête sont taillées régulièrement, ce Pokémon peut prendre une forme fine et charnue.",
-        es: "Si las hojas de su cabeza se podan con regularidad, este Pokémon puede desarrollar una forma fina y regordeta.",
-        it: "Se le foglie sulla sua testa vengono potate regolarmente, questo Pokémon può crescere fino ad assumere una forma bella e paffuta.",
-        de: "Wenn die Blätter auf seinem Kopf regelmäßig beschnitten werden, kann dieses Pokémon zu einer schönen, prallen Form heranwachsen.",
-        "pt-br": "Se as folhas de sua cabeça forem podadas com regularidade, este Pokémon pode crescer e adquirir uma forma rechonchuda e fina.",
-        "zh-tw": "如果定期修剪頭上的葉子，這隻寶可夢就能長成精緻豐滿的形狀。",
+        fr: "Si on taille ses feuilles de temps à autre, cela lui donne une forme parfaitement ronde et harmonieuse.",
+        es: "Adquiere un aspecto esplendoroso cuando se le recortan las hojas de la cabeza con cierta asiduidad.",
+        it: "Le foglie che ha sul capo vanno spuntate di tanto in tanto per permettergli di crescere florido e bello rotondo.",
+        de: "Wenn man ab und zu seine Blätter schneidet, wächst sein Körper rund und prächtig heran.",
+        "pt-br": "Se as folhas em sua cabeça forem podadas regularmente, este Pokémon pode crescer com um elegante formato rechonchudo.",
+        "zh-tw": "如果偶爾修剪葉子，就會長成圓鼓鼓很華麗的樣子。",
         ja: "たまに 葉っぱを トリミングすると 丸々とした 立派な 姿に 育っていくのだ。",
         ko: "가끔 잎을 손질해 주면\n둥글둥글하게 훌륭한 모습으로\n자라난다."
     },
@@ -59,12 +59,12 @@ const card: Card = {
             },
             effect: {
                 en: "Flip a coin. If tails, this attack does nothing.",
-                fr: "Lancez une pièce de monnaie. Si c’est pile, cette attaque ne fait rien.",
-                es: "Lanza una moneda. Si sale cruz, este ataque no hace nada.",
-                it: "Lancia una moneta. Se esce croce, questo attacco non ha alcun effetto.",
-                de: "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
-                "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
-                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
+                fr: "Lancez une pièce. Si c'est pile, cette attaque ne fait rien.",
+                es: "Lanza 1 moneda. Si sale cruz, este ataque no hace nada.",
+                it: "Lancia una moneta. Se esce croce, questo attacco non ha effetto.",
+                de: "Wirf 1 Münze. Bei Zahl hat diese Attacke keine Auswirkungen.",
+                "pt-br": "Jogue uma moeda. Se sair coroa, este ataque não fará nada.",
+                "zh-tw": "擲1次硬幣若為反面,則這個招式失敗。",
                 ja: "コインを1回投げウラなら、このワザは失敗。",
                 ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
             },

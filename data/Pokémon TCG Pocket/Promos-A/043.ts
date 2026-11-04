@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/043",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/043",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/043",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/043",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/043",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/043",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/043",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/043",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/043"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/043/f2d08d4a4a19acc2",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/043/f2d08d4a4a19acc2",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/043/f2d08d4a4a19acc2",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/043/f2d08d4a4a19acc2",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/043/f2d08d4a4a19acc2",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/043/f2d08d4a4a19acc2",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/043/f2d08d4a4a19acc2",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/043/f2d08d4a4a19acc2",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/043/f2d08d4a4a19acc2"
     },
     name: {
         en: "Cherrim",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "櫻花兒",
     },
     illustrator: "MAHOU",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     hp: 80,
     types: ["Grass"],
@@ -49,7 +49,7 @@ const card: Card = {
         'pt-br': "Após absorver uma grande quantidade de luz solar,\nCherrim assume esta forma. Enquanto estiver assim, fica\ncheio de energia, e seu vigor permanece até o cair do sol.",
         ja: "太陽の 光を 浴びて 元気いっぱいの 姿。 日暮れまでは 活発だ。",
         ko: "태양의 빛을 받아\n기운이 넘치는 모습.\n해가 지기 전까지는 활발하다.",
-        "zh-tw": "吸收充足的陽光後，Cherrim 採取\n這種形式。這樣一來就充滿了能量，\n它的熱鬧將會持續到日落。"
+        "zh-tw": "充分沐浴到陽光後，活力滿滿的樣子。會一直活潑到日落。"
     },
     stage: "Stage1",
     attacks: [{
@@ -62,7 +62,7 @@ const card: Card = {
                 'pt-br': "Semente Sanguessuga",
                 ja: "やどりぎのタネ",
                 ko: "씨뿌리기",
-                "zh-tw": "水蛭種子"
+                "zh-tw": "寄生種子"
             },
             damage: 60,
             cost: ["Grass", "Grass"],
@@ -75,7 +75,7 @@ const card: Card = {
                 'pt-br': "Cure 20 pontos de dano deste Pokémon.",
                 ja: "このポケモンのHPを20回復。",
                 ko: "이 포켓몬의 HP를 20회복.",
-                "zh-tw": "治療該神奇寶貝造成的 20 點傷害。"
+                "zh-tw": "將這隻寶可夢恢復20HP。"
             }
         }],
     weaknesses: [{

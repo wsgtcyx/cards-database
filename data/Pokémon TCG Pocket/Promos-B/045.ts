@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/045",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/045",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/045",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/045",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/045",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/045",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/045",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/045",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/045"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/045/19714ddabc8e7a03",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/045/19714ddabc8e7a03",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/045/19714ddabc8e7a03",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/045/19714ddabc8e7a03",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/045/19714ddabc8e7a03",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/045/19714ddabc8e7a03",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/045/19714ddabc8e7a03",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/045/19714ddabc8e7a03",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/045/19714ddabc8e7a03"
     },
     name: {
         en: "Haxorus",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "オノノクス"
     },
     illustrator: "Uta",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     hp: 150,
     types: ["Dragon"],
@@ -45,12 +45,12 @@ const card: Card = {
     stage: "Stage2",
     description: {
         en: "It overwhelms enemies with its prized tusks, which are sharp enough to cut through a metal transmission tower in one strike.",
-        fr: "Il submerge les ennemis avec ses précieuses défenses, suffisamment tranchantes pour couper une tour de transmission métallique d'un seul coup.",
-        es: "Abruma a los enemigos con sus preciados colmillos, que son lo suficientemente afilados como para atravesar una torre de transmisión de metal de un solo golpe.",
-        it: "Travolge i nemici con le sue preziose zanne, abbastanza affilate da tagliare una torre di trasmissione metallica con un solo colpo.",
-        de: "Es überwältigt Feinde mit seinen wertvollen Stoßzähnen, die scharf genug sind, um mit einem Schlag einen metallenen Sendemast zu durchdringen.",
-        "pt-br": "Ele domina os inimigos com suas presas valiosas, que são afiadas o suficiente para cortar uma torre de transmissão de metal com um único golpe.",
-        "zh-tw": "它用珍貴的獠牙壓倒敵人，這些獠牙足夠鋒利，一擊就能切穿金屬傳輸塔。",
+        fr: "Il terrasse ses ennemis grâce à ses crocs, dont il est fier. Ceux-ci sont si tranchants qu'ils peuvent découper un pylône en métal d'un seul coup.",
+        es: "Abruma al enemigo con sus preciados colmillos, tan afilados que pueden cortar de un tajo una torre metálica.",
+        it: "Soggioga il nemico con le zanne, di cui va fiero. Queste sono così affilate da poter tagliare un traliccio d'acciaio con un solo colpo.",
+        de: "Die Stoßzähne, mit denen es Feinde überwältigt, sind so scharf, dass sie Hochspannungsmasten mit einem Streich zerteilen. Sie sind sein ganzer Stolz.",
+        "pt-br": "Atordoa seus inimigos com suas presas vultosas, que são afiadas o bastante para partir uma torre de transmissão de metal com apenas um golpe.",
+        "zh-tw": "會以自傲的牙齒壓制敵人。牙齒的鋒利程度無與倫比，就連鐵塔都能夠一斬而斷。",
         ja: "自慢の キバで 敵を 圧倒。 鉄塔を 一刀のもとに 切り捨てる 切れ味を 誇る。",
         ko: "자랑스러운 어금니로 상대를 압도한다.\n철탑을 단칼에 베어 버리는\n예리함을 자랑한다."
     },
@@ -70,12 +70,12 @@ const card: Card = {
             },
             effect: {
                 en: "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's).",
-                fr: "Cette attaque inflige 20 dégâts supplémentaires pour chaque Pokémon du Banc (le vôtre et celui de votre adversaire).",
-                es: "Este ataque hace 20 puntos de daño más por cada Pokémon en Banca (tanto tuyo como de tu rival).",
-                it: "Questo attacco infligge 20 danni in più per ogni Pokémon in panchina (sia il tuo che quello del tuo avversario).",
-                de: "Dieser Angriff fügt jedem Pokémon auf der Bank (sowohl deinem als auch dem deines Gegners) 20 weitere Schadenspunkte zu.",
-                "pt-br": "Este ataque causa 20 danos a mais para cada Pokémon no Banco (seu e do seu oponente).",
-                "zh-tw": "此攻擊對每個後備寶可夢（包括你的和對手的）造成 20 點額外傷害。",
+                fr: "Cette attaque inflige 20 dégâts supplémentaires pour chaque Pokémon de Banc (les vôtres et ceux de votre adversaire).",
+                es: "Este ataque hace 20 puntos de daño más por cada Pokémon en Banca (tanto tuyos como de tu rival).",
+                it: "Questo attacco infligge 20 danni in più per ogni Pokémon in panchina, sia tuo che del tuo avversario.",
+                de: "Diese Attacke fügt für jedes Pokémon auf der Bank (deine und die deines Gegners) 20 Schadenspunkte mehr zu.",
+                "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Pokémon no Banco (seus e do seu oponente).",
+                "zh-tw": "增加雙方的備戰寶可夢的數量×20點傷害。",
                 ja: "おたがいのベンチポケモンの数×20ダメージ追加。",
                 ko: "서로의 벤치 포켓몬의 수 × 20데미지를 추가한다."
             },

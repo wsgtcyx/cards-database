@@ -1,0 +1,709 @@
+{
+  "schemaVersion": 1,
+  "decisions": [
+    {
+      "cardId": "P-A-109",
+      "locale": "es",
+      "path": "abilities[0].effect",
+      "expectedCurrent": "Este Pokémon puede evolucionar a cualquier Pokémon que evolucione de Eevee si lo juegas desde tu mano contra este Pokémon. (Este Pokémon no puede evolucionar durante tu primer turno ni durante el turno en el que lo juegas).",
+      "value": "Este Pokémon puede evolucionar a cualquier Pokémon que evolucione de Eevee si pones en juego ese Pokémon sobre este Pokémon desde tu mano. (Este Pokémon no puede evolucionar durante tu primer turno ni durante el turno en que lo pongas en juego).",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Este Pokémon puede evolucionar a cualquier Pokémon que evolucione de Eevee si pones en juego ese Pokémon sobre este Pokémon desde tu mano. (Este Pokémon no puede evglucionar durante tu primer turnoni durante el turno en que lo pongas en juego",
+      "candidateIndex": 25,
+      "file": "data/Pokémon TCG Pocket/Promos-A/109.ts",
+      "evidence": {
+        "sourceImageSha256": "0732cc1e75b6be739ea6e12544d5f17fb8813fcb8515375bd7797319dd17a1b8",
+        "sourceImageBytes": 306212,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-A-109",
+      "locale": "pt-br",
+      "path": "abilities[0].effect",
+      "expectedCurrent": "Este Pokémon pode evoluir para qualquer Pokémon que evolua de Eevee se você jogá-lo da sua mão neste Pokémon. (Este Pokémon não pode evoluir durante o seu primeiro turno ou no turno em que você o joga.)",
+      "value": "Este Pokémon pode evoluir para qualquer Pokémon que evolua de Eevee se você jogá-lo da sua mão sobre este Pokémon. (Este Pokémon não poderá evoluir durante o seu primeiro turno ou durante o turno em que for colocado em jogo.)",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Este Pokémon pode evoluir para qualquer Pokémon que evolua de Eevee se você jogá-lo da sua mão sobre este Pokémon» (Este Pokemon não pedera evoluir durante o seu primeiro turno ou durante o turno em que for colocado em jogo.)",
+      "candidateIndex": 26,
+      "file": "data/Pokémon TCG Pocket/Promos-A/109.ts",
+      "evidence": {
+        "sourceImageSha256": "a789a26d0840dc6c4c4417405c9b85a45b7b06f39dcbdad58e1845c459592ab6",
+        "sourceImageBytes": 305094,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-A-110",
+      "locale": "pt-br",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Se este Pokémon tiver pelo menos 2 energias {R} extras anexadas, este ataque causará 60 de dano a mais.",
+      "value": "Se este Pokémon tiver pelo menos 2 Energias {R} extras ligadas a ele, este ataque causará 60 pontos de dano a mais.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Se este Pokémon tiver pelo menos 2 Energias e extras ligadas a ele, este ataque causará 60 pontos de dano a mais.",
+      "candidateIndex": 32,
+      "file": "data/Pokémon TCG Pocket/Promos-A/110.ts",
+      "evidence": {
+        "sourceImageSha256": "e9f566c4a5f41fb5eb7ca71919828368ce914b653d482a57635ac1e7a71b4dc0",
+        "sourceImageBytes": 362277,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-A-029",
+      "locale": "pt-br",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Se este Pokémon tiver pelo menos 2 Energia {W} extra ligada a ele, este ataque causará 60 pontos de dano a mais.",
+      "value": "Se este Pokémon tiver pelo menos 2 Energias {W} extras ligadas a ele, este ataque causará 60 pontos de dano a mais.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Se este Pokémon tiver pelo menos 2 Energias (3 extras ligada a ele, este ataque causará 60 pontos de dano a mais.",
+      "candidateIndex": 74,
+      "file": "data/Pokémon TCG Pocket/Promos-A/029.ts",
+      "evidence": {
+        "sourceImageSha256": "5c94874602a09310fea73b47c3bd45f47106023deaa87efaabeb54ffadded6dc",
+        "sourceImageBytes": 366704,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-A-036",
+      "locale": "pt-br",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Se este Pokémon tiver pelo menos 2 Energia {L} extra ligada a ele, este ataque causará 80 pontos de dano a mais.",
+      "value": "Se este Pokémon tiver pelo menos 2 Energias {L} extras ligadas a ele, este ataque causará 80 pontos de dano a mais.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Se este Pokémon tiver pelo menos 2 Energias 4 extras ligada a ele, este ataque causará 80 pontos de dano a mais.",
+      "candidateIndex": 80,
+      "file": "data/Pokémon TCG Pocket/Promos-A/036.ts",
+      "evidence": {
+        "sourceImageSha256": "e1d913aeb130186016d79c186491304a232cdaec51490e7f861cfe6083da2664",
+        "sourceImageBytes": 245319,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-A-055",
+      "locale": "pt-br",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Se este Pokémon tiver pelo menos 2 Energia {F} extra ligada a ele, este ataque causará 50 pontos de dano a mais.",
+      "value": "Se este Pokémon tiver pelo menos 2 Energias {F} extras ligadas a ele, este ataque causará 50 pontos de dano a mais.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Se este Pokémon tiver pelo menos 2 Energias W extras ligada a ele, este ataque causará 50 pontos de dano a mais.",
+      "candidateIndex": 100,
+      "file": "data/Pokémon TCG Pocket/Promos-A/055.ts",
+      "evidence": {
+        "sourceImageSha256": "daecd160132bc3ce37c648ab271cc40910bc8100369f345f495382499f157f68",
+        "sourceImageBytes": 307952,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-A-060",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "從你的能量區取出一個{G}能量並將其附加到這只神奇寶貝身上。",
+      "value": "從自己的能量區抽出1個{G}能量,附於這隻寶可夢身上。",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "從自己的能量區抽出1個会能量，附於這隻寶可夢身上。",
+      "candidateIndex": 103,
+      "file": "data/Pokémon TCG Pocket/Promos-A/060.ts",
+      "evidence": {
+        "sourceImageSha256": "edaf8602f7528cca8ea3c8dbed6384a5b6c8c80b694bd9c2eb0705a1c90cec7f",
+        "sourceImageBytes": 264441,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-A-074",
+      "locale": "pt-br",
+      "path": "abilities[0].effect",
+      "expectedCurrent": "No final do seu primeiro turno, pegue uma Energia {L} da sua Zona de Energia e ligue-a a este Pokémon.",
+      "value": "No final do seu primeiro turno, pegue 1 Energia {L} da sua Zona de Energia e ligue-a a este Pokémon.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "No tinal do seu primeiro turno, pegue 1 Energia 4 da sua Zona de Energia e ligue a a este Pokémon:",
+      "candidateIndex": 114,
+      "file": "data/Pokémon TCG Pocket/Promos-A/074.ts",
+      "evidence": {
+        "sourceImageSha256": "27133a3f266ea6421d04ea2a276ef50594183bc133ef9786bc0cb3facd6c4db4",
+        "sourceImageBytes": 323043,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-A-079",
+      "locale": "pt-br",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Descarte uma Energia {M} deste Pokémon.",
+      "value": "Descarte 1 Energia {M} deste Pokémon.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Descarte 1 Energia 9 deste Pokémon.",
+      "candidateIndex": 125,
+      "file": "data/Pokémon TCG Pocket/Promos-A/079.ts",
+      "evidence": {
+        "sourceImageSha256": "61e11a40efe9645faad0f874b625ed093b3dba9b4dfc108a84eba0d68306cd19",
+        "sourceImageBytes": 326195,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-A-084",
+      "locale": "fr",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Prenez une Énergie {L} de votre Zone d'Énergie et attachez-la à ce Pokémon.",
+      "value": "Prenez une Énergie {L} de votre zone Énergie et attachez-la à ce Pokémon.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Prenez une Énergie 4 de votre zone Énergie et attachez- la à ce Pokémon.",
+      "candidateIndex": 136,
+      "file": "data/Pokémon TCG Pocket/Promos-A/084.ts",
+      "evidence": {
+        "sourceImageSha256": "db62fc497b901d2cfbc1c67534af461905bfb7c6a78dcb22879b4caae4bfb9df",
+        "sourceImageBytes": 347684,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-A-084",
+      "locale": "pt-br",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Pegue uma Energia {L} da sua Zona de Energia e ligue-a a este Pokémon.",
+      "value": "Pegue 1 Energia {L} da sua Zona de Energia e ligue-a a este Pokémon.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Pegue 1 Energia 4 da sua Zona de Energia e ligue-a a este Pokémon.",
+      "candidateIndex": 137,
+      "file": "data/Pokémon TCG Pocket/Promos-A/084.ts",
+      "evidence": {
+        "sourceImageSha256": "5da101c5737921161640377c89e6a1018a2ec5c12d951367ff4e0285cccb75c2",
+        "sourceImageBytes": 311384,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-A-084",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "從你的能量區取出一個{L}能量並將其附加到該神奇寶貝上。",
+      "value": "從自己的能量區抽出1個{L}能量,附於這隻寶可夢身上。",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "從自己的能量區抽出1個乡能量，附於這隻寶可夢身上。",
+      "candidateIndex": 138,
+      "file": "data/Pokémon TCG Pocket/Promos-A/084.ts",
+      "evidence": {
+        "sourceImageSha256": "275c1d3af1ae4bdbda95a67b9a04e76fba8ff3be4f5519f628ee6afa86bf27da",
+        "sourceImageBytes": 307853,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-A-097",
+      "locale": "fr",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Si le Pokémon Actif de votre adversaire est un Pokémon Evolution, cette attaque inflige 40 dégâts supplémentaires.",
+      "value": "Si le Pokémon Actif de votre adversaire est un Pokémon Évolutif, cette attaque inflige 40 dégâts supplémentaires.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Si le Pokémon Actif de votre adversaire est un Pokémon Evolutif, cette attaque inflige 40 dégâts supplémentaires.",
+      "candidateIndex": 171,
+      "file": "data/Pokémon TCG Pocket/Promos-A/097.ts",
+      "evidence": {
+        "sourceImageSha256": "3f7bfc8914ad4adf2630da10c764ddfad3806696b687aaf46089e8b723b0de62",
+        "sourceImageBytes": 315858,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-B-006",
+      "locale": "pt-br",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Jogue 3 moedas. Para cada cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente. Se todos derem coroa, este ataque não fará nada.",
+      "value": "Jogue 3 moedas. Para cada cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente. Se todas saírem coroa, este ataque não fará nada.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Jogue 3 moedas. Para cada cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente. Se todas sairem coroa, este ataque não fará nada.",
+      "candidateIndex": 194,
+      "file": "data/Pokémon TCG Pocket/Promos-B/006.ts",
+      "evidence": {
+        "sourceImageSha256": "274cfa43d6753641d92f19a600d40da2e5767ea60e2cea9bc9176b6ade6734a6",
+        "sourceImageBytes": 328782,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-B-012",
+      "locale": "es",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Elige 1 de los ataques de tus Pokémon en Banca, excepto cualquier Pokémon ex, y úsalo como este ataque. Si este Pokémon no tiene la Energía necesaria para usar ese ataque, este ataque no hace nada.",
+      "value": "Elige 1 de los ataques de tus Pokémon en Banca, excepto cualquier Pokémon ex, y úsalo para este ataque. Si este Pokémon no tiene la Energía necesaria para usar ese ataque, este ataque no hace nada.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Elige 1 de los ataques de tus Pokémon en Banca,, excepto cualquier Pokémon eX. y usalo para este ataque. Si este Pokémon no tiene la Energia necesaria para usar ese ataque, este ataque no hace nada.",
+      "candidateIndex": 206,
+      "file": "data/Pokémon TCG Pocket/Promos-B/012.ts",
+      "evidence": {
+        "sourceImageSha256": "86e68458020221f7fa08d7f84c9f8d0d0489064bf13d4225dd0e5cf2b0a84511",
+        "sourceImageBytes": 311405,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-B-012",
+      "locale": "pt-br",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Escolha 1 dos ataques do seu Pokémon no Banco, exceto qualquer Pokémon ex, e use-o como este ataque. Se este Pokémon não tiver a Energia necessária para usar aquele ataque, este ataque não fará nada.",
+      "value": "Escolha 1 dos ataques dos seus Pokémon no Banco, exceto por quaisquer Pokémon ex, e use como este ataque. Se este Pokémon não tiver a Energia necessária para usar aquele ataque, este ataque não fará nada.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Escolha 1 dos ataques dos seus Pokémon no, Bancos exceto por quaisquer Pokémon eX, e use como este araque Se este Pokémon não tivera Energia necessaria para usar aquele ataque, este ataque não fará nada.",
+      "candidateIndex": 207,
+      "file": "data/Pokémon TCG Pocket/Promos-B/012.ts",
+      "evidence": {
+        "sourceImageSha256": "7faef30ae8c30016504cddd3764e293f5fb355915131e39831929e00302df722",
+        "sourceImageBytes": 312547,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-B-016",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "拋一枚硬幣，直到出現反面。對於每個頭，丟棄對手的活躍寶可夢中的隨機能量。",
+      "value": "擲硬幣直到出現反面,將對手的戰鬥寶可夢身上的能量隨機丟棄與正面出現的次數相同數量。",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "擲硬幣直到出現反面，將對手的戰門寶可夢身上的能量隨機丟棄 與正面出現的次數相同數量。",
+      "candidateIndex": 220,
+      "file": "data/Pokémon TCG Pocket/Promos-B/016.ts",
+      "evidence": {
+        "sourceImageSha256": "cd33e0e901337ffeea26ca6d4efc0b1064bcad90d5d53db6efff5ffa082350fa",
+        "sourceImageBytes": 289658,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-B-020",
+      "locale": "fr",
+      "path": "abilities[0].effect",
+      "expectedCurrent": "Une fois pendant votre tour, lorsque vous jouez ce Pokémon depuis votre main pour faire évoluer 1 de vos Pokémon, vous pouvez prendre une Énergie {R} de votre Zone d'Énergie et l'attacher à votre Pokémon Actif {R}.",
+      "value": "Une fois pendant votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer un de vos Pokémon, vous pouvez prendre une Énergie {R} de votre zone Énergie et l'attacher à votre Pokémon {R} Actif.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Une fois pendant votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer un de vos Pokémon, vous pouvez prendre une Énergie de de votre zone Énergie et l'attacher à votre Pokémon & Actif.",
+      "candidateIndex": 232,
+      "file": "data/Pokémon TCG Pocket/Promos-B/020.ts",
+      "evidence": {
+        "sourceImageSha256": "e9da632ba40b034c967d36bf82a0e695710039084fa4554f435cb50ab83c7945",
+        "sourceImageBytes": 295281,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-B-020",
+      "locale": "pt-br",
+      "path": "abilities[0].effect",
+      "expectedCurrent": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá pegar uma Energia {R} da sua Zona de Energia e ligá-la aos seus Pokémon {R} Ativos.",
+      "value": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá pegar 1 Energia {R} da sua Zona de Energia e ligá-la ao seu Pokémon {R} Ativo.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá pegar 1 Energia e da sua Zona de Energia e ligá-la ao seu Pokémon & Ativo.",
+      "candidateIndex": 234,
+      "file": "data/Pokémon TCG Pocket/Promos-B/020.ts",
+      "evidence": {
+        "sourceImageSha256": "992b5c1cbec2e4d0a3e1f246af4967cb0b400c7aa5947e9b2471111c820f8b19",
+        "sourceImageBytes": 294692,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-B-020",
+      "locale": "zh-tw",
+      "path": "abilities[0].effect",
+      "expectedCurrent": "在你的回合中，當你從手上使用這只寶可夢來進化你的一隻寶可夢時，你可以從你的能量區取出一個{R}能量並將其附加到你的活躍{R}寶可夢上。",
+      "value": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。從自己的能量區抽出1個{R}能量,附於戰鬥場的{R}寶可夢身上。",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "在自己的回合，當從手牌使出這張卡並完成進化時，可使用1次。 從自己的能量區抽出1個心能量，附於戰鬥場的心寶可夢身上。",
+      "candidateIndex": 235,
+      "file": "data/Pokémon TCG Pocket/Promos-B/020.ts",
+      "evidence": {
+        "sourceImageSha256": "ea64de3d93379de6f39ecf12ac0282ebda5539aed0bab740ae0de9813b98612d",
+        "sourceImageBytes": 289106,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-B-023",
+      "locale": "es",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Este ataque hace 20 daños más por cada {M} Energía unida a este Pokémon.",
+      "value": "Este ataque hace 20 puntos de daño más por cada Energía {M} unida a este Pokémon.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Este ataque hace 20 puntos de daño más por cada Energía 9 unida a este Pokémon.",
+      "candidateIndex": 244,
+      "file": "data/Pokémon TCG Pocket/Promos-B/023.ts",
+      "evidence": {
+        "sourceImageSha256": "eb490386f741be827038ba26c1f2529cfdeec30aa8c5d72514597f4f03d321cb",
+        "sourceImageBytes": 300807,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-B-029",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "如果這隻寶可夢附加了任何{P}能量，則該攻擊造成的傷害增加 40 點。這次攻擊的傷害不受對手的活躍寶可夢的任何效果影響。",
+      "value": "若這隻寶可夢身上附有{P}能量,則增加40點傷害。這個招式的傷害不計算對手的戰鬥寶可夢身上的附加效果。",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "若這隻寶可夢身上附有◎能量，則增加40點傷害。這個招式的傷 害不計算封手的戰鬥寶可夢身上的附加效果。",
+      "candidateIndex": 264,
+      "file": "data/Pokémon TCG Pocket/Promos-B/029.ts",
+      "evidence": {
+        "sourceImageSha256": "95d3e5f79a1d6be309f669cbd99b91fecd57529dbb1e785f95fa89336aa6d795",
+        "sourceImageBytes": 310609,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-B-033",
+      "locale": "fr",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Lancez une pièce de monnaie. Si c'est face, lors du prochain tour de votre adversaire, prévenez tous les dégâts et effets des attaques infligées à ce Pokémon.",
+      "value": "Lancez une pièce. Si c'est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts et les effets d'attaques infligés à ce Pokémon.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Lancez une piece. Si c'est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts et les effets dattaques infligés à ce Pokémon.",
+      "candidateIndex": 269,
+      "file": "data/Pokémon TCG Pocket/Promos-B/033.ts",
+      "evidence": {
+        "sourceImageSha256": "7e1abaafc235e34dff9c66d37088ddc50a3b1d6984aa427f011097d05bd0ff66",
+        "sourceImageBytes": 330599,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-B-033",
+      "locale": "es",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Lanza una moneda. Si sale cara, durante el próximo turno de tu rival, evita todo el daño y los efectos de los ataques realizados a este Pokémon.",
+      "value": "Lanza 1 moneda. Si sale cara, durante el próximo turno de tu rival, evita todo el daño y todos los efectos de los ataques infligidos a este Pokémon.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Lanza 1 moneda. Si sale cara, durante el proximo turno de tu rival, evita todo el daño y todos los efectos de los Lataques infligidos a este Pokémon.",
+      "candidateIndex": 270,
+      "file": "data/Pokémon TCG Pocket/Promos-B/033.ts",
+      "evidence": {
+        "sourceImageSha256": "98172f8c0783a6bf4eca762764ba00af7cea9729df99f91b589fb530b7770118",
+        "sourceImageBytes": 330042,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-B-033",
+      "locale": "pt-br",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, evite todos os danos e efeitos de ataques feitos a este Pokémon.",
+      "value": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Jogue uma moeda. Se sair cara, durante o proximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon.",
+      "candidateIndex": 271,
+      "file": "data/Pokémon TCG Pocket/Promos-B/033.ts",
+      "evidence": {
+        "sourceImageSha256": "e9b58312db6b314c5b2455d8f958385f8491774b82cb60627267e8b674572ac9",
+        "sourceImageBytes": 329971,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-B-038",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "在你的下一個回合中，這隻寶可夢無法使用十億噸錘。",
+      "value": "在下個自己的回合,這隻寶可夢無法使用「巨力錘」。",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "在下個自己的回合，這隻寶可夢無法使用「巨力 」",
+      "candidateIndex": 283,
+      "file": "data/Pokémon TCG Pocket/Promos-B/038.ts",
+      "evidence": {
+        "sourceImageSha256": "981ed3fc5ac683a3b1a11f9cc5ca6793b7df4094c565b57b306b0db52a132d09",
+        "sourceImageBytes": 298091,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-B-041",
+      "locale": "fr",
+      "path": "attacks[1].effect",
+      "expectedCurrent": "Défaussez toute l'énergie {W} de ce Pokémon. Cette attaque inflige 130 dégâts à 1 des Pokémon de votre adversaire.",
+      "value": "Défaussez toutes les Énergies {W} de ce Pokémon. Cette attaque inflige 130 dégâts à l'un des Pokémon de votre adversaire.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Défaussez toutes les Énergies 6 de ce Pokémon. Cette attaque inflige 130 dégâts à l'un des Pokémon de votre adversaire.",
+      "candidateIndex": 290,
+      "file": "data/Pokémon TCG Pocket/Promos-B/041.ts",
+      "evidence": {
+        "sourceImageSha256": "0a3febca1b98b5f22e86bea0dc7c1fb8d9b48f7a0cb8f85592b4b660cf38d3e6",
+        "sourceImageBytes": 360591,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-B-041",
+      "locale": "es",
+      "path": "attacks[1].effect",
+      "expectedCurrent": "Descarta toda la Energía {W} de este Pokémon. Este ataque hace 130 puntos de daño a 1 de los Pokémon de tu rival.",
+      "value": "Descarta todas las Energías {W} de este Pokémon. Este ataque hace 130 puntos de daño a 1 de los Pokémon de tu rival.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Descarta todas las Energias 6 de este Pokémon. Este ataque hace 130 puntos de daño a 1 de los Pokémon de tu rival.",
+      "candidateIndex": 291,
+      "file": "data/Pokémon TCG Pocket/Promos-B/041.ts",
+      "evidence": {
+        "sourceImageSha256": "420368d0a69c1f0e9192f672a18ad3514331ff664073f516f188aeb266f80b1b",
+        "sourceImageBytes": 359931,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-B-049",
+      "locale": "pt-br",
+      "path": "abilities[0].effect",
+      "expectedCurrent": "Uma vez durante o seu turno, depois de lançar qualquer moeda para um ataque de 1 dos seus Pokémon {R}, você pode ignorar todos os resultados desses lançamentos de moedas e começar a lançá-las novamente. Você não pode usar mais de 1 habilidade Victory Star por turno.",
+      "value": "Uma vez durante o seu turno, após jogar moedas para um ataque de 1 dos seus Pokémon {R}, você poderá ignorar todos os resultados das moedas e jogá-las novamente. Você não pode usar mais de 1 Habilidade Estrela da Vitória por turno.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Uma vez durante o seu turno, após jogar moedas para • um ataque de 1 dos seus Pokémon do você poderá ignorar codos os resultados das moedas e jogá-las \"novamente. Você não pode usar mais del Habilidade Estrela da Vitória por turno.",
+      "candidateIndex": 309,
+      "file": "data/Pokémon TCG Pocket/Promos-B/049.ts",
+      "evidence": {
+        "sourceImageSha256": "b51fded2af811cb8e75821fc7da8b5a477c6f6523e8babd55028adf948468c44",
+        "sourceImageBytes": 304711,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-B-055",
+      "locale": "pt-br",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Jogue 2 moedas. Este ataque causa 100 de dano para cada cabeça.",
+      "value": "Jogue 2 moedas. Este ataque causa 100 pontos de dano para cada cara.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "logue 2 moedas, Este ataque causa 100 pontos de dano para cada cara.",
+      "candidateIndex": 328,
+      "file": "data/Pokémon TCG Pocket/Promos-B/055.ts",
+      "evidence": {
+        "sourceImageSha256": "48ecfe27afba9b4159c1ffd2852a97555e8bdeae88af5fa857c8c63bc44bac6a",
+        "sourceImageBytes": 355115,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-B-060",
+      "locale": "fr",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Si l'un de vos {D} Pokémon a été mis KO par les dégâts d'une attaque lors du dernier tour de votre adversaire, cette attaque inflige 80 dégâts supplémentaires.",
+      "value": "Si au moins un de vos Pokémon {D} a été mis K.O. par les dégâts d'une attaque pendant le dernier tour de votre adversaire, cette attaque inflige 80 dégâts supplémentaires.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Si au moins un de vos Pokémon V a été mis K.O. par les dégâts d'une attaque pendant le dernier tour de votre adversaire. cette attaque inflige 80 dégâts supplémentaires.",
+      "candidateIndex": 343,
+      "file": "data/Pokémon TCG Pocket/Promos-B/060.ts",
+      "evidence": {
+        "sourceImageSha256": "c84be6d6b16aba0d02020a64ea19c6dcf7082b7563ba9094e443cd6ef4deef9c",
+        "sourceImageBytes": 315964,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-B-060",
+      "locale": "es",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Si alguno de tus Pokémon {D} quedó fuera de combate por el daño de un ataque durante el último turno de tu oponente, este ataque hace 80 puntos de daño más.",
+      "value": "Si alguno de tus Pokémon {D} quedó Fuera de Combate por el daño de un ataque durante el último turno de tu rival, este ataque hace 80 puntos de daño más.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Si alguno de tus Pokémon • quedo Fuera de Combate por el daño de un ataque durante el último turno de tu rival, este ataque hace 80 puntos de daño más.",
+      "candidateIndex": 344,
+      "file": "data/Pokémon TCG Pocket/Promos-B/060.ts",
+      "evidence": {
+        "sourceImageSha256": "11edc6435961eb8c130f43ce98b8fcc70eb3681b8ae54e7e0db80dff5645914e",
+        "sourceImageBytes": 313853,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-B-060",
+      "locale": "pt-br",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Se algum dos seus Pokémon {D} foi Nocauteado pelo dano de um ataque durante o último turno do seu oponente, este ataque causará 80 de dano a mais.",
+      "value": "Se algum dos seus Pokémon {D} tiver sido Nocauteado pelo dano de um ataque durante o último turno do seu oponente, este ataque causará 80 pontos de dano a mais.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Se algum dos seus Pokémon O tiver sido Nocauteado pelo dano de um ataque durante o último turno do seu oponente, este ataque causará 80 pontos de dano a mais",
+      "candidateIndex": 345,
+      "file": "data/Pokémon TCG Pocket/Promos-B/060.ts",
+      "evidence": {
+        "sourceImageSha256": "09caa9b690984faf72a9169d6f7098c0f36dde897906c6b93ae7de2e4f829f77",
+        "sourceImageBytes": 315619,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-B-063",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "從對手的戰鬥場和備戰區中選擇一個位置。對手的下一回合結束時，對你選擇的位置的寶可夢造成 70 點傷害。",
+      "value": "選擇對手的戰鬥場或1個備戰區位置。在下個對手的回合結束時,位於所選位置的寶可夢受到70點傷害。",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "選擇封手的戰鬥場或1個備戰區位置。在下個對手的回合結束時， 位於所選位置的寶可夢受到70點傷害。",
+      "candidateIndex": 352,
+      "file": "data/Pokémon TCG Pocket/Promos-B/063.ts",
+      "evidence": {
+        "sourceImageSha256": "89602c58767a8cefbca71b3c0fba733427cd71539337c253ce18c8d82c5f1122",
+        "sourceImageBytes": 326943,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-B-066",
+      "locale": "fr",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Défaussez une Énergie aléatoire parmi les Énergies attachées à tous les Pokémon (le vôtre et celui de votre adversaire).",
+      "value": "Défaussez une Énergie au hasard parmi celles attachées à tous les Pokémon en jeu (les vôtres et ceux de votre adversaire).",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Défaussez une Energie au hasard parmi celles attachées à tous les Pokémon en jeu (les vôtres et ceux de votre adversaire).",
+      "candidateIndex": 359,
+      "file": "data/Pokémon TCG Pocket/Promos-B/066.ts",
+      "evidence": {
+        "sourceImageSha256": "cd4c2ab46e3c13e46e355abcb78ca94006458662b4cf3102267618978c73b3b9",
+        "sourceImageBytes": 350368,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-A-103",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Pour Poliwag, nager est plus facile que marcher.\nLe motif tourbillonnant sur son ventre fait en fait partie de\nles entrailles du Pokémon visibles à travers la peau.",
+      "value": "Il est plus à l'aise dans l'eau que sur la terre ferme. Le motif de spirale sur son ventre est en fait une partie de ses organes visibles à travers la peau.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "*est plus à Taise dans Teau que sur la terre ferme. Le motif de spirale sur son ventre est en fait une partie de ses organes visibles à travers la peau.",
+      "candidateIndex": 406,
+      "file": "data/Pokémon TCG Pocket/Promos-A/103.ts",
+      "evidence": {
+        "sourceImageSha256": "97b74784449d750a9285c7f38ce6aefe62747f4023f09ce8c9d38b3304afbdbf",
+        "sourceImageBytes": 263343,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-A-103",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Para Poliwag, nadar es más fácil que caminar.\nEl patrón de remolino en su vientre es en realidad parte de\nLas entrañas del Pokémon se ven a través de la piel.",
+      "value": "Es más ágil en el agua que en la tierra. La espiral de su vientre no es más que parte de sus vísceras que se ven a través de la piel.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Es más agi en el agua que en la tierra. La espiral de su vientre no es más que parte de sus visceras que se ven a través de la piel.",
+      "candidateIndex": 408,
+      "file": "data/Pokémon TCG Pocket/Promos-A/103.ts",
+      "evidence": {
+        "sourceImageSha256": "d3788906ce449da5600d9de3184caf440f0f7cb3224134d735e5953000d2898d",
+        "sourceImageBytes": 263901,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-A-104",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Milotic a inspiré de nombreux artistes.\nIl a même été qualifié de plus\nbeau Pokémon de tous.",
+      "value": "Célébré comme l'un des plus beaux Pokémon, il sert souvent de modèle et d'inspiration aux plus grands artistes.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Celebré comme l'un des plus beaux Pokémon. il sert souvent de modèle et d'inspiration aux plus grands artistes.",
+      "candidateIndex": 411,
+      "file": "data/Pokémon TCG Pocket/Promos-A/104.ts",
+      "evidence": {
+        "sourceImageSha256": "ba2da5ef2bd2e1d2494637ef1ce0e76639bccfebc5786451cfe6308550a8347e",
+        "sourceImageBytes": 318049,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-A-077",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Bien que ce soit étranger à ce monde et qu'il représente un danger ici, c'est apparemment\nun organisme commun dans le monde où il vit normalement.",
+      "value": "Cette créature venue d'ailleurs est dangereuse dans notre monde, mais il semblerait qu'elle soit très commune dans le sien.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Cette créature venue d'aileurs est dangereuse dans notre monde, mais il semblemit qu'elle soit très commune dans le sien.",
+      "candidateIndex": 466,
+      "file": "data/Pokémon TCG Pocket/Promos-A/077.ts",
+      "evidence": {
+        "sourceImageSha256": "d99f215f937375c8f3704fd313d1f844491f4dec9c375c0eacdd62841e3eaf7e",
+        "sourceImageBytes": 257141,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-A-080",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Il est apparu depuis un Ultra Wormhole. Chacun\nsemble être composé de nombreuses formes de vie\nempilés les uns sur les autres.",
+      "value": "Il est sorti d'une Ultra-Brèche. Il est composé de plusieurs petites entités qui s'assemblent pour n'en former qu'une seule.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "* lest sorti d'une Ultra-Brèche. Il est composé de plusieurs petites entités qui s'assemblent pour n'en former qu'une seule.",
+      "candidateIndex": 469,
+      "file": "data/Pokémon TCG Pocket/Promos-A/080.ts",
+      "evidence": {
+        "sourceImageSha256": "6d3f8f6c902324cbb74f9c91168194c7899221b58dcc6acb737aac90060da452",
+        "sourceImageBytes": 301323,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-A-083",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Sa fourrure duveteuse est un plaisir à caresser, mais à tendre la main avec insouciance\ntoucher ce Pokémon pourrait entraîner des représailles douloureuses.",
+      "value": "Sa fourrure duveteuse est très agréable à caresser, mais ceux qui la touchent sans prévenir s'exposent à une correction brutale.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Sa fourrure duveteuse est très agréable a caresser, mais ceux qui la touchent sans prévenir s'exposent à une correction brutale.",
+      "candidateIndex": 477,
+      "file": "data/Pokémon TCG Pocket/Promos-A/083.ts",
+      "evidence": {
+        "sourceImageSha256": "cde42185ceb881672c52d0fa6fb487a118cc5c8241e4bd6a23d3c027e8d69f33",
+        "sourceImageBytes": 272617,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-A-085",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Incapable de survivre dans les zones chaudes, il se crée\nconfortable en expirant de l'air suffisamment froid pour\nprovoquer de la neige. Il s'enfouit dans la neige pour dormir.",
+      "value": "Il ne peut pas vivre dans les contrées chaudes. Il souffle un air glacial pour faire tomber la neige, puis s'y plonge pour dormir.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Il ne peut pas vivre dans les contrées chaudes. Il souffie un air glacial pour faire comber la neige, puis sy plonge pour dormir.",
+      "candidateIndex": 481,
+      "file": "data/Pokémon TCG Pocket/Promos-A/085.ts",
+      "evidence": {
+        "sourceImageSha256": "e2c28fe59782266a9337f6e7fb60c09935d2ade5de7ac3285301c0908068c968",
+        "sourceImageBytes": 243618,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-A-089",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Ce Pokémon a un bon cœur. En touchant avec ses palpeurs,\nAudino peut évaluer les sentiments et les conditions physiques des autres créatures.",
+      "value": "Ce Pokémon gentil est capable de deviner les émotions et l'état de santé des autres rien qu'en les touchant avec ses antennes.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Ce Pokémon gentil est capable de deviner les émotions et etat de sante des autres rien qu'en les touchant avec ses antennes.",
+      "candidateIndex": 489,
+      "file": "data/Pokémon TCG Pocket/Promos-A/089.ts",
+      "evidence": {
+        "sourceImageSha256": "2290a59ef0adccd8515c7342f11366e6cf7b83b718c842c3b9c38b53b9dace40",
+        "sourceImageBytes": 244710,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    },
+    {
+      "cardId": "P-A-094",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Horsea hace su hogar en los océanos con suave\ncorrientes. Si este Pokémon está siendo atacado, escupe\nSale tinta negra como boca de lobo y se escapa.",
+      "value": "Habita en mares de aguas tranquilas. Si se siente en peligro, expulsará por la boca una densa tinta negra para poder huir.",
+      "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked.",
+      "rawOCR": "Habita en mares de aguas tranquilas. Si se siente en peligro, expulsará por la boca una densa cinta negra para poder huir.",
+      "candidateIndex": 505,
+      "file": "data/Pokémon TCG Pocket/Promos-A/094.ts",
+      "evidence": {
+        "sourceImageSha256": "928e4624fe2997b37143dfa4dfcaafdf33dffca53f9aa6d1425a24e19d9d1f4d",
+        "sourceImageBytes": 279143,
+        "review": "Reviewed native OCR against pinned game dictionary or same-English/version flavor corpus: differences are OCR accent/letter recognition or energy icons; all numeric values, objects and conditions checked."
+      }
+    }
+  ]
+}

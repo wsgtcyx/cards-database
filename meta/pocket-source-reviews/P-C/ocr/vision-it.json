@@ -1,0 +1,1539 @@
+[
+  {
+    "cardId": "P-C-001",
+    "locale": "it",
+    "sourceImageSha256": "1535177fd476e030b3eecb201b2d29dc001a7d920ae07359727be9d94f466c59",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/1_it.png",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9296875001953124,
+          "x": 0.05434782798913036,
+          "width": 0.11413043478260869,
+          "height": 0.01953125000000011
+        },
+        "text": "BASE",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9133327061073904,
+          "x": 0.15738444476859925,
+          "width": 0.2667528442714525,
+          "height": 0.04442833736538887
+        },
+        "text": "Pikachu",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.910156250546875,
+          "x": 0.7445652185326087,
+          "width": 0.20108695652173914,
+          "height": 0.0546875
+        },
+        "text": "PS60 4",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.31250000015625,
+          "x": 0.2989130469565217,
+          "width": 0.3478260869565218,
+          "height": 0.0390625
+        },
+        "text": "Scoppiotuono",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.32031250019531243,
+          "x": 0.8586956526785714,
+          "width": 0.07065217391304346,
+          "height": 0.03515625
+        },
+        "text": "30",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2773437504882812,
+          "x": 0.06521738566576103,
+          "width": 0.842391304347826,
+          "height": 0.0390625
+        },
+        "text": "Questo Pokémon infligge anche 10 danni a se stesso.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937500014204549,
+          "x": 0.28260869567687746,
+          "width": 0.125,
+          "height": 0.03125
+        },
+        "text": "@+20",
+        "confidence": 1
+      }
+    ],
+    "language": "it-IT"
+  },
+  {
+    "cardId": "P-C-002",
+    "locale": "it",
+    "sourceImageSha256": "7c9da33ece62da6031805ebd1f2542b1f24d563f70ba9d565956cc83b5437c46",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/2_it.png",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9257812499023438,
+          "x": 0.05434782493206525,
+          "width": 0.09239130434782608,
+          "height": 0.0234375
+        },
+        "text": "BASE",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.90624999984375,
+          "x": 0.1413043421739131,
+          "width": 0.5652173913043479,
+          "height": 0.0546875
+        },
+        "text": "• Mega Mewtwo Y eX",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9101562496582032,
+          "x": 0.7119565197690219,
+          "width": 0.15760869565217395,
+          "height": 0.04296875
+        },
+        "text": "Ps 170",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8867187501302083,
+          "x": 0.6467391322463768,
+          "width": 0.10869565217391308,
+          "height": 0.015625
+        },
+        "text": "La forma",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8828124998046876,
+          "x": 0.7554347795289856,
+          "width": 0.18478260869565222,
+          "height": 0.01953125
+        },
+        "text": "megsevoluta di",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.871093750335453,
+          "x": 0.6467391288043478,
+          "width": 0.09782608695652173,
+          "height": 0.015624999068677425
+        },
+        "text": "Mewtwo",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3554687497395834,
+          "x": 0.30978261855813766,
+          "width": 0.6521738715793775,
+          "height": 0.03125
+        },
+        "text": "Detonazione Psichica 60×",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.31640625019531243,
+          "x": 0.07065218831521693,
+          "width": 0.8641304347826088,
+          "height": 0.02734375
+        },
+        "text": "Lancia una moneta per ogni Energia ® assegnata a",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.28125000029296876,
+          "x": 0.07065218471467367,
+          "width": 0.8641304347826086,
+          "height": 0.03125
+        },
+        "text": "questo Pokémon. Questo attacco infligge 60 danni ogni",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.25390624980468757,
+          "x": 0.06521739623559056,
+          "width": 0.3260869357896887,
+          "height": 0.01953125
+        },
+        "text": "volta che esce testa.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937500019531243,
+          "x": 0.2826086966938406,
+          "width": 0.12499999999999994,
+          "height": 0.03125
+        },
+        "text": "•+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08984375019531243,
+          "x": 0.09239132422471988,
+          "width": 0.19021737057229746,
+          "height": 0.01171875
+        },
+        "text": "PLANETA Tomashila",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07031250013020829,
+          "x": 0.3641304394021737,
+          "width": 0.27717391304347827,
+          "height": 0.0234375
+        },
+        "text": "Regola EX Megaevoluzione",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.06640624980468757,
+          "x": 0.7934782585144929,
+          "width": 0.14130434782608692,
+          "height": 0.01953125
+        },
+        "text": "goodigna 3 punt",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05078124980468757,
+          "x": 0.7608695636069264,
+          "width": 0.1358695548513662,
+          "height": 0.01171875
+        },
+        "text": "pone i Ke",
+        "confidence": 1
+      }
+    ],
+    "language": "it-IT"
+  },
+  {
+    "cardId": "P-C-003",
+    "locale": "it",
+    "sourceImageSha256": "6447cebc7a88cb0b7c8de64b48bee73297bd9e87c2db98e06ec4a229dc3eaf47",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/3_it.png",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9335937500459559,
+          "x": 0.05434782581521739,
+          "width": 0.09239130434782608,
+          "height": 0.015625
+        },
+        "text": "BASE",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9070749312753494,
+          "x": 0.17817052478545217,
+          "width": 0.2413966137429943,
+          "height": 0.04411269351840019
+        },
+        "text": "Deoxys",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9101562495703125,
+          "x": 0.7173913035869566,
+          "width": 0.15217391304347827,
+          "height": 0.04296875
+        },
+        "text": "PS 100",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.49999999980468757,
+          "x": 0.26630434003623216,
+          "width": 0.46739130434782605,
+          "height": 0.01953125
+        },
+        "text": "N° 0386 Pokémon DNA Altezza: 1,7 m Peso: 60,8 kg",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3398437501171875,
+          "x": 0.30978261157608694,
+          "width": 0.28804347826086957,
+          "height": 0.02734375
+        },
+        "text": "Psicoslancio",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.33593749980468757,
+          "x": 0.8369565210791926,
+          "width": 0.09239130434782605,
+          "height": 0.03515625
+        },
+        "text": "100",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3007812502441407,
+          "x": 0.07608696725543457,
+          "width": 0.8586956521739131,
+          "height": 0.02734375
+        },
+        "text": "Durante il tuo prossimo turno, l'attacco Psicoslancio di",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2656249997558593,
+          "x": 0.07065216698369584,
+          "width": 0.5543478260869565,
+          "height": 0.02734375
+        },
+        "text": "questo Pokémon infligge -50 danni.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937500019531243,
+          "x": 0.2826086966938406,
+          "width": 0.12499999999999994,
+          "height": 0.03125
+        },
+        "text": "•+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593750014648438,
+          "x": 0.07065217574728255,
+          "width": 0.14673913043478262,
+          "height": 0.01953125
+        },
+        "text": "Ill. Saya Tsuruta",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.06640624986979171,
+          "x": 0.5217391235507248,
+          "width": 0.4130434782608696,
+          "height": 0.0234375
+        },
+        "text": "E il risultato della mutazione genetica di",
+        "confidence": 1
+      }
+    ],
+    "language": "it-IT"
+  },
+  {
+    "cardId": "P-C-004",
+    "locale": "it",
+    "sourceImageSha256": "9988b26e5950d1d75da9bb8d479d727411d42ea90611ab9a331956e895b03582",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/4_it.png",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9296875001953124,
+          "x": 0.05434782762681157,
+          "width": 0.09239130434782608,
+          "height": 0.01953125000000011
+        },
+        "text": "BASE",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9062499995312501,
+          "x": 0.15217391483695647,
+          "width": 0.20108695652173914,
+          "height": 0.046875
+        },
+        "text": "JInkay",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9101562496484374,
+          "x": 0.7445652161413043,
+          "width": 0.125,
+          "height": 0.04296875
+        },
+        "text": "PS 60",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.49999999980468757,
+          "x": 0.2554347744565221,
+          "width": 0.48913043478260865,
+          "height": 0.01953125
+        },
+        "text": "N° 0686 Pokémon Voiteggio Alterra: 0,4 m Peso: 3,5 kg",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3203125004104892,
+          "x": 0.3097826091485507,
+          "width": 0.24456521739130432,
+          "height": 0.03124999813735485
+        },
+        "text": "Sconcerto",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.28515624993489586,
+          "x": 0.06521740489130393,
+          "width": 0.8152173913043479,
+          "height": 0.02734375
+        },
+        "text": "Il Pokémon attivo del tuo avversario viene confuso.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937499980468757,
+          "x": 0.2826086946105072,
+          "width": 0.125,
+          "height": 0.03125
+        },
+        "text": "•+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08984375019531243,
+          "x": 0.0706521792219408,
+          "width": 0.054347820903943925,
+          "height": 0.01171875
+        },
+        "text": "IV. sul",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07812500029296876,
+          "x": 0.445652169429348,
+          "width": 0.4891304347826087,
+          "height": 0.0234375
+        },
+        "text": "Fa perdere la motivazione agli avversari facendo",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05859375019531243,
+          "x": 0.445652218829874,
+          "width": 0.4836956107098123,
+          "height": 0.01171875
+        },
+        "text": "Imperare i moun che na sul corpo. In questo",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.03515624980468757,
+          "x": 0.4728260793478262,
+          "width": 0.45652173913043476,
+          "height": 0.01953125
+        },
+        "text": "modo riesce a difendersi dai nemici più forti.",
+        "confidence": 1
+      }
+    ],
+    "language": "it-IT"
+  },
+  {
+    "cardId": "P-C-005",
+    "locale": "it",
+    "sourceImageSha256": "356bfd8bea1ca8c90e8f52b9af4d9eda03506145d482c3e3c043b5fa4bc1590d",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/5_it.png",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9140624999023438,
+          "x": 0.03804347302989144,
+          "width": 0.4184782608695653,
+          "height": 0.0390625
+        },
+        "text": "FASET Malamar",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8867187501953124,
+          "x": 0.16304348070652167,
+          "width": 0.14673913043478262,
+          "height": 0.01953125
+        },
+        "text": "Si evolve da inkay",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9101562502232143,
+          "x": 0.7500000008928572,
+          "width": 0.125,
+          "height": 0.046875
+        },
+        "text": "PS 90",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.5039062498046876,
+          "x": 0.2554348277972654,
+          "width": 0.489130393318508,
+          "height": 0.01171875
+        },
+        "text": "N° 0687 Pokémon Giravata Akerza: 1,5 m Peso: 47,0 kg",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3398437501171875,
+          "x": 0.309782612173913,
+          "width": 0.34782608695652173,
+          "height": 0.02734375
+        },
+        "text": "Confusattacco",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.33593749980468757,
+          "x": 0.8641304338586957,
+          "width": 0.09239130434782605,
+          "height": 0.03515625
+        },
+        "text": "10+",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.30078124993489586,
+          "x": 0.07065218831521693,
+          "width": 0.8641304347826088,
+          "height": 0.02734375
+        },
+        "text": "Se il Pokémon attivo del tuo avversario è confuso,",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.26562500006510414,
+          "x": 0.07065218396739094,
+          "width": 0.6032608695652174,
+          "height": 0.02734375
+        },
+        "text": "questo attacco infligge 90 danni in più.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937500019531243,
+          "x": 0.2826086966938406,
+          "width": 0.12499999999999994,
+          "height": 0.03125
+        },
+        "text": "•+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593750014648438,
+          "x": 0.07065217642663038,
+          "width": 0.2010869565217391,
+          "height": 0.01953125
+        },
+        "text": "Ill. Tomokazu Komiya",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07031249990234378,
+          "x": 0.38586957236248587,
+          "width": 0.5434782194054645,
+          "height": 0.01171875
+        },
+        "text": "ha pocen proud straore nanamente tor, tanto che",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.046874999902343784,
+          "x": 0.40217392073205105,
+          "width": 0.521739088970682,
+          "height": 0.01171875
+        },
+        "text": "chi croc in suo controllo ne perde por ogni ricordo",
+        "confidence": 1
+      }
+    ],
+    "language": "it-IT"
+  },
+  {
+    "cardId": "P-C-006",
+    "locale": "it",
+    "sourceImageSha256": "ffadf995c25ba80c3b89b5aa8c6a723201ae009c5a640ccc843a00559d8ce771",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/6_it.png",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9330063313739886,
+          "x": 0.05416238280896593,
+          "width": 0.09276219036268152,
+          "height": 0.016799837350845337
+        },
+        "text": "BASE",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9091258312827243,
+          "x": 0.17311654719432862,
+          "width": 0.2681955047275709,
+          "height": 0.04150324687361717
+        },
+        "text": "Cosmog",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9101562496484374,
+          "x": 0.7445652161413043,
+          "width": 0.125,
+          "height": 0.04296875
+        },
+        "text": "PS 60",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.49999999980468757,
+          "x": 0.2554347744565221,
+          "width": 0.48913043478260865,
+          "height": 0.01953125
+        },
+        "text": "N° 0789 Pokémon Nebulosa Alterza: 0.2 m Peso: 0,1 kg",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3120485061655589,
+          "x": 0.30423886064205163,
+          "width": 0.31000054400900134,
+          "height": 0.03996548801660538
+        },
+        "text": "Coglipolvere",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.28489005188857686,
+          "x": 0.07003493344388614,
+          "width": 0.25679555146590527,
+          "height": 0.027962859719991684
+        },
+        "text": "Pesca una carta.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937500019531243,
+          "x": 0.2826086966938406,
+          "width": 0.12499999999999994,
+          "height": 0.03125
+        },
+        "text": "•+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08984375019531243,
+          "x": 0.07065219297471996,
+          "width": 0.1739130227462105,
+          "height": 0.01171875
+        },
+        "text": "IV. Shin Nogasawa",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.06640624985351562,
+          "x": 0.36956521032608713,
+          "width": 0.5652173913043479,
+          "height": 0.01953125
+        },
+        "text": "Proviene da un altro universo. l suo corpo fatto di gas è",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.04687500019531243,
+          "x": 0.331521774672267,
+          "width": 0.5923912628837253,
+          "height": 0.015625
+        },
+        "text": "talmente leggero che può volar via al minimo soffio di vento",
+        "confidence": 1
+      }
+    ],
+    "language": "it-IT"
+  },
+  {
+    "cardId": "P-C-007",
+    "locale": "it",
+    "sourceImageSha256": "34f7bcaba253bad937eb97c29a304a4a3d34bc56824b16a02ebdf42936bdca3d",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/7_it.png",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9335937505958696,
+          "x": 0.043478262862318776,
+          "width": 0.11956521739130434,
+          "height": 0.015624999068677425
+        },
+        "text": "FASE?",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.91406249984375,
+          "x": 0.15760869217391307,
+          "width": 0.34782608695652173,
+          "height": 0.0390625
+        },
+        "text": "Cosmoem",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8867187501953124,
+          "x": 0.16304348079710135,
+          "width": 0.15217391304347827,
+          "height": 0.01953125
+        },
+        "text": "Si evolve da Cosm",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9101562501953125,
+          "x": 0.7173913058695652,
+          "width": 0.15217391304347827,
+          "height": 0.04296875
+        },
+        "text": "PS 100",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.49999999980468757,
+          "x": 0.2391304260869568,
+          "width": 0.5217391304347826,
+          "height": 0.01953125
+        },
+        "text": "N° 0790 Pokémon Protostela Altezza: 0,1 m Pesa: 999,9 kg",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3001466600095182,
+          "x": 0.3040783107431015,
+          "width": 0.15814772896144702,
+          "height": 0.036425430327653885
+        },
+        "text": "Carica",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.30078125019531243,
+          "x": 0.8586956526154891,
+          "width": 0.07065217391304346,
+          "height": 0.0390625
+        },
+        "text": "30",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.12109375046566129,
+          "x": 0.1413043581721425,
+          "width": 0.10326085919919223,
+          "height": 0.007812499068677425
+        },
+        "text": "acrocell",
+        "confidence": 0.5
+      },
+      {
+        "box": {
+          "y": 0.08984375004111844,
+          "x": 0.07065217364130433,
+          "width": 0.10326086956521738,
+          "height": 0.015625
+        },
+        "text": "IN. OKUBO",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937500019531243,
+          "x": 0.2826086966938406,
+          "width": 0.12499999999999994,
+          "height": 0.03125
+        },
+        "text": "•+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11328124980468757,
+          "x": 0.6902173908967392,
+          "width": 0.032608695652173836,
+          "height": 0.0234375
+        },
+        "text": "*",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.06640624985351562,
+          "x": 0.33152173158967413,
+          "width": 0.6032608695652174,
+          "height": 0.01953125
+        },
+        "text": "Il suo esoscheletro è più duro di qualunque cosa che gli esseri",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05078124980468757,
+          "x": 0.3804347761668357,
+          "width": 0.5434782194054644,
+          "height": 0.01171875
+        },
+        "text": "umari conoscano. Cresce assorbendo 3 luce delle stelle",
+        "confidence": 1
+      }
+    ],
+    "language": "it-IT"
+  },
+  {
+    "cardId": "P-C-008",
+    "locale": "it",
+    "sourceImageSha256": "9fbcf0f94840b0a4abf2a8628a80ad065a79df06b7f384cee32e15e7021194a2",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/8_it.png",
+    "lines": [
+      {
+        "box": {
+          "y": 0.914062499921875,
+          "x": 0.032608692119565276,
+          "width": 0.35326086956521735,
+          "height": 0.0390625
+        },
+        "text": "FASE2 Lunala",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8867187501953124,
+          "x": 0.16304348052536224,
+          "width": 0.13586956521739127,
+          "height": 0.01953125
+        },
+        "text": "Si evolve da Cos",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9101562495703125,
+          "x": 0.7173913035869566,
+          "width": 0.15217391304347827,
+          "height": 0.04296875
+        },
+        "text": "PS 150",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.49999999980468757,
+          "x": 0.2554347744565221,
+          "width": 0.48913043478260865,
+          "height": 0.01953125
+        },
+        "text": "N° 0792 Pokémon Lunare Altezza 4,0 m Pesa: 120,0 kg",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.33593750003551137,
+          "x": 0.30434782582139336,
+          "width": 0.24456521739130438,
+          "height": 0.03125
+        },
+        "text": "Ali Lunari",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3320312495117188,
+          "x": 0.8423913046195651,
+          "width": 0.08695652173913038,
+          "height": 0.0390625
+        },
+        "text": "110",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3007812501464844,
+          "x": 0.07065218471467367,
+          "width": 0.8641304347826086,
+          "height": 0.02734375
+        },
+        "text": "Sposta tutte le Energie da questo Pokémon a quelli nella",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2656250001464844,
+          "x": 0.07065218131793456,
+          "width": 0.592391304347826,
+          "height": 0.02734375
+        },
+        "text": "tua panchina nel modo che preferisci.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937500014204549,
+          "x": 0.28260869567687746,
+          "width": 0.125,
+          "height": 0.03125
+        },
+        "text": "•+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593750019531243,
+          "x": 0.07065218190402697,
+          "width": 0.16847825050354004,
+          "height": 0.01953125
+        },
+        "text": "Ill. 5bon Graphies",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.045560536428848386,
+          "x": 0.35851772452619207,
+          "width": 0.5655029131018598,
+          "height": 0.017055479809641838
+        },
+        "text": "Converte qualsiasi tpo di luce in cheta per sostentant",
+        "confidence": 1
+      }
+    ],
+    "language": "it-IT"
+  },
+  {
+    "cardId": "P-C-009",
+    "locale": "it",
+    "sourceImageSha256": "7c9c1e42d1d15bda73c9a08c3a3819f47bcda369dfb424733e4063de3015524f",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/9_it.png",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9414062498046875,
+          "x": 0.048913041195652214,
+          "width": 0.2282608695652174,
+          "height": 0.02734375
+        },
+        "text": "Strumento",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9375000004394531,
+          "x": 0.5434782558423915,
+          "width": 0.4130434782608695,
+          "height": 0.03515625
+        },
+        "text": "| ALLENATORE",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8750000001953124,
+          "x": 0.04891304986413032,
+          "width": 0.7663043478260868,
+          "height": 0.0390625
+        },
+        "text": "Convertitore Genomico Y",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.32421875019531243,
+          "x": 0.11413044449728244,
+          "width": 0.7771739130434783,
+          "height": 0.03125
+        },
+        "text": "Sposta tutte le Energie ® da uno dei tuoi",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2890625005208334,
+          "x": 0.1195652209239129,
+          "width": 0.766304347826087,
+          "height": 0.031249999068677425
+        },
+        "text": "Pokémon ® in panchina al tuo Mega Mewtwo Y-",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.25390625006510414,
+          "x": 0.11956522355072441,
+          "width": 0.3695652173913043,
+          "height": 0.02734375
+        },
+        "text": "ex in posizione attiva.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593750019531243,
+          "x": 0.07065217644927527,
+          "width": 0.15217391304347827,
+          "height": 0.01953125
+        },
+        "text": "Ill. Toyste Beach",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08203125019531243,
+          "x": 0.33695652819293465,
+          "width": 0.5163043478260869,
+          "height": 0.0234375
+        },
+        "text": "Puoi giocare tutte le carte Strumento che vuoi",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05859375013020829,
+          "x": 0.33695652563405787,
+          "width": 0.23369565217391308,
+          "height": 0.0234375
+        },
+        "text": "durante il tuo turno.",
+        "confidence": 1
+      }
+    ],
+    "language": "it-IT"
+  },
+  {
+    "cardId": "P-C-010",
+    "locale": "it",
+    "sourceImageSha256": "1e299a4b46b1db8ac00662bd18b30a89d3e61b10e1247dd5feb45843a145d9a0",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/10_it.png",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9335937505958696,
+          "x": 0.05434782762681157,
+          "width": 0.09239130434782608,
+          "height": 0.015624999068677425
+        },
+        "text": "BASE",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9138503333896264,
+          "x": 0.15210736028095895,
+          "width": 0.2881765780241593,
+          "height": 0.0472993329167366
+        },
+        "text": "Stantler",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9140625003580729,
+          "x": 0.744565217164855,
+          "width": 0.125,
+          "height": 0.04296875
+        },
+        "text": "PS 80",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.32565956023056863,
+          "x": 0.29806029793083666,
+          "width": 0.2945992635644,
+          "height": 0.041933462023735046
+        },
+        "text": "Supercorna",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.29296875007812506,
+          "x": 0.06521740005434766,
+          "width": 0.875,
+          "height": 0.0390625
+        },
+        "text": "Se questo Pokémen ha un Oggetto Pokémen assegnato,",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.25781250019531243,
+          "x": 0.06521739904891286,
+          "width": 0.6195652173913043,
+          "height": 0.0390625
+        },
+        "text": "questo attacco tuiligge 50 danni to pit.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11298752782496146,
+          "x": 0.2879147075068563,
+          "width": 0.11982276128685992,
+          "height": 0.027931194752454758
+        },
+        "text": "* +20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07031250007503631,
+          "x": 0.3369565131233576,
+          "width": 0.5869564802750298,
+          "height": 0.015624999534338713
+        },
+        "text": "Pars is be esced whoses te mosten sut suntersi boash",
+        "confidence": 0.5
+      },
+      {
+        "box": {
+          "y": 0.03906250024414071,
+          "x": 0.3315217466032606,
+          "width": 0.5978260869565217,
+          "height": 0.02734375
+        },
+        "text": "a par puana sesana poset patiile sncsoss pat pessant ot wisss",
+        "confidence": 0.5
+      }
+    ],
+    "language": "it-IT"
+  },
+  {
+    "cardId": "P-C-011",
+    "locale": "it",
+    "sourceImageSha256": "24ca8d26c90bef264340fd50a7776ad982874f9afd18899c6830f43a7faca1d0",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/11_it.png",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9136737456133225,
+          "x": 0.17380580908216753,
+          "width": 0.2991275165392005,
+          "height": 0.043746259063482285
+        },
+        "text": "Alcremie",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8867187501953124,
+          "x": 0.16304348061594195,
+          "width": 0.14130434782608695,
+          "height": 0.01953125
+        },
+        "text": "Si evolve da Mica",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9101562496744792,
+          "x": 0.7445652163043479,
+          "width": 0.13043478260869568,
+          "height": 0.046875
+        },
+        "text": "PS 80",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3554687501302083,
+          "x": 0.30978261249999994,
+          "width": 0.4565217391304348,
+          "height": 0.03125
+        },
+        "text": "Dolce Sovraccarico",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3515625004882812,
+          "x": 0.8586956512228262,
+          "width": 0.09782608695652184,
+          "height": 0.0390625
+        },
+        "text": "40%",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.31640625019531243,
+          "x": 0.07608696367753609,
+          "width": 0.8586956521739131,
+          "height": 0.03125
+        },
+        "text": "Questo attacco infligge 40 danni per ogni volta che i tuoi",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2851562505208334,
+          "x": 0.07065216721014522,
+          "width": 0.8586956521739131,
+          "height": 0.031249999068677425
+        },
+        "text": "Pokémon hanno usato Dolce Staffetta durante questa",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2539062501464844,
+          "x": 0.07065217540760867,
+          "width": 0.11956521739130434,
+          "height": 0.01953125
+        },
+        "text": "partita.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937499980468757,
+          "x": 0.2771739114130435,
+          "width": 0.13043478260869568,
+          "height": 0.03125
+        },
+        "text": "©+20",
+        "confidence": 1
+      }
+    ],
+    "language": "it-IT"
+  },
+  {
+    "cardId": "P-C-012",
+    "locale": "it",
+    "sourceImageSha256": "0491837b882fc86dfb0527a13f60de3e562a34b5dd20f51bcf571d4632d2a50d",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/12_it.png",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9140624998697917,
+          "x": 0.04891304026268122,
+          "width": 0.38586956521739124,
+          "height": 0.046875
+        },
+        "text": "BASE Delibird",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9140625001775569,
+          "x": 0.7445652179594862,
+          "width": 0.125,
+          "height": 0.046875
+        },
+        "text": "PS 80",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.6523437503689236,
+          "x": 0.5380434784118358,
+          "width": 0.1684782608695653,
+          "height": 0.06640625
+        },
+        "text": "6D",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.36328125016276047,
+          "x": 0.3043478292119565,
+          "width": 0.37500000000000006,
+          "height": 0.04296875
+        },
+        "text": "Pacco Sorpresa",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3281250001464844,
+          "x": 0.06521740217391278,
+          "width": 0.8695652173913042,
+          "height": 0.03515625
+        },
+        "text": "Lancia una moneta. Se esce testa, questo attacco infligge",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.29473206358261006,
+          "x": 0.06473555725481439,
+          "width": 0.8704114167586616,
+          "height": 0.04125889390707016
+        },
+        "text": "70 danni al Pokémon attivo del tuo avversario. Se esce",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2656249997558593,
+          "x": 0.05978259782608721,
+          "width": 0.8695652173913044,
+          "height": 0.02734375
+        },
+        "text": "croce, cura il Pokémon attivo, del tuo avversario da 30",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.23828125006893375,
+          "x": 0.07065217364130433,
+          "width": 0.09239130434782608,
+          "height": 0.0234375
+        },
+        "text": "danni.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.20915372152282696,
+          "x": 0.2837710499452355,
+          "width": 0.254241010417109,
+          "height": 0.06078395992517471
+        },
+        "text": "22g:20\"",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.12109375002170131,
+          "x": 0.14130434755434781,
+          "width": 0.09782608695652173,
+          "height": 0.0078125
+        },
+        "text": "acrocea",
+        "confidence": 0.5
+      },
+      {
+        "box": {
+          "y": 0.10937500023437496,
+          "x": 0.27717391434782607,
+          "width": 0.13043478260869562,
+          "height": 0.03125
+        },
+        "text": "©+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.04687500014648438,
+          "x": 0.45652174504076076,
+          "width": 0.4728260869565218,
+          "height": 0.01953125
+        },
+        "text": "sare 1 stoart assero Pevanno per stiandand",
+        "confidence": 1
+      }
+    ],
+    "language": "it-IT"
+  },
+  {
+    "cardId": "P-C-013",
+    "locale": "it",
+    "sourceImageSha256": "ca1318a6d1c5a9a378bfa277e63f135e5b8f02ec1ccdd2d0d2d75226e0dfc169",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/13_it.png",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9062499999348959,
+          "x": 0.032608688088768246,
+          "width": 0.9076086956521738,
+          "height": 0.0546875
+        },
+        "text": "FAst2 Mega Dragonite eX Ps 240 C",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8867187501953124,
+          "x": 0.16847826295289853,
+          "width": 0.125,
+          "height": 0.01953125
+        },
+        "text": "Si evolve de De",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8828124998046876,
+          "x": 0.6467391255434783,
+          "width": 0.2934782608695653,
+          "height": 0.01953125
+        },
+        "text": "La forma megaevalute di",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8671874998535156,
+          "x": 0.6467391289402175,
+          "width": 0.11956521739130432,
+          "height": 0.01953125
+        },
+        "text": "Dragonite",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3308476299198748,
+          "x": 0.3686642700660017,
+          "width": 0.458239804143491,
+          "height": 0.04316752776503563
+        },
+        "text": "Meteora del Drago",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.30078124954427077,
+          "x": 0.07065218514492723,
+          "width": 0.8586956521739131,
+          "height": 0.02734375
+        },
+        "text": "Viene scelto un Pokémon avversario a caso. Quel",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.26953125015625,
+          "x": 0.070652178423913,
+          "width": 0.45108695652173914,
+          "height": 0.0234375
+        },
+        "text": "Pokémon subisce 250 danni.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593749993489586,
+          "x": 0.09239130672286777,
+          "width": 0.16847825050354004,
+          "height": 0.01953125
+        },
+        "text": "PLANETA Mamiya",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07031250013020829,
+          "x": 0.36413043931159406,
+          "width": 0.2717391304347826,
+          "height": 0.0234375
+        },
+        "text": "Regola EX Megaevoluzione",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11328124985351562,
+          "x": 0.7771739126358695,
+          "width": 0.03260869565217395,
+          "height": 0.01953125
+        },
+        "text": "*",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11328125019531243,
+          "x": 0.8206521745471015,
+          "width": 0.03804347826086962,
+          "height": 0.01953125
+        },
+        "text": "*",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.06640625019531243,
+          "x": 0.7989130458333331,
+          "width": 0.14130434782608703,
+          "height": 0.01953125
+        },
+        "text": "goodigna 3 punt",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05078125019531243,
+          "x": 0.7826087068134469,
+          "width": 0.11956520702527917,
+          "height": 0.01171875
+        },
+        "text": "oche is Ko",
+        "confidence": 1
+      }
+    ],
+    "language": "it-IT"
+  }
+]

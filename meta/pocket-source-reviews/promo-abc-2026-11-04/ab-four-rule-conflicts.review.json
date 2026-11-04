@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "decisions": [
+    {
+      "cardId": "P-A-058",
+      "file": "data/Pokémon TCG Pocket/Promos-A/058.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "expectedCurrent": "Pegue 1 Energia {L} da sua Zona de Energia e a 1 dos seus Pokémon {L} no Banco.",
+      "value": "Pegue 1 Energia {L} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon {L} no Banco.",
+      "gameTemplateId": "35",
+      "evidence": {
+        "sourceImageSha256": "6976986ee2a2b913a5641c462955f7af07cdd293e5005fb5e87e8b6aa87f76d7",
+        "sourceImageBytes": 231302,
+        "source": "PokeOS native card image",
+        "review": "Manually inspected native card; resolve template by stable game descriptionI18nId, not English-text ambiguity."
+      }
+    },
+    {
+      "cardId": "P-A-058",
+      "file": "data/Pokémon TCG Pocket/Promos-A/058.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "expectedCurrent": "從你的能量區取出一個 {L} 能量並將其附加到你後備的 1 個 {L} 神奇寶貝上。",
+      "value": "從自己的能量區抽出1個{L}能量,附於備戰區的{L}寶可夢身上。",
+      "gameTemplateId": "35",
+      "evidence": {
+        "sourceImageSha256": "205f8c92905467b01fb9d16e54848810b4b2e5d2f739811935b0ab1a524c043d",
+        "sourceImageBytes": 229267,
+        "source": "PokeOS native card image",
+        "review": "Manually inspected native card; resolve template by stable game descriptionI18nId, not English-text ambiguity."
+      }
+    },
+    {
+      "cardId": "P-A-067",
+      "file": "data/Pokémon TCG Pocket/Promos-A/067.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "expectedCurrent": "將此神奇寶貝與你的 1 個替補神奇寶貝交換。",
+      "value": "將這隻寶可夢與備戰寶可夢互換。",
+      "gameTemplateId": "40",
+      "evidence": {
+        "sourceImageSha256": "8dfb671fa93a443fc99eb8c5fbdc305fbf15ca6195ca58b0ee3fa65428fae20e",
+        "sourceImageBytes": 261421,
+        "source": "PokeOS native card image",
+        "review": "Manually inspected native card; resolve template by stable game descriptionI18nId, not English-text ambiguity."
+      }
+    },
+    {
+      "cardId": "P-B-076",
+      "file": "data/Pokémon TCG Pocket/Promos-B/076.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "expectedCurrent": "Échangez ce Pokémon avec 1 de vos Pokémon de Banc.",
+      "value": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc.",
+      "gameTemplateId": "40",
+      "evidence": {
+        "sourceImageSha256": "7dc2e8cd5da725ca9e79ac2ecc50b5b1b22dad9c4398a52f83ec283e3060ea2d",
+        "sourceImageBytes": 295236,
+        "source": "PokeOS native card image",
+        "review": "Manually inspected native card; resolve template by stable game descriptionI18nId, not English-text ambiguity."
+      }
+    },
+    {
+      "cardId": "P-B-076",
+      "file": "data/Pokémon TCG Pocket/Promos-B/076.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "expectedCurrent": "將此寶可夢與你的 1 個備戰寶可夢交換。",
+      "value": "將這隻寶可夢與備戰寶可夢互換。",
+      "gameTemplateId": "40",
+      "evidence": {
+        "sourceImageSha256": "43433a8e94d653ea9ab54399018381b9005fcc5c348d52c2e986c67397260d88",
+        "sourceImageBytes": 288864,
+        "source": "PokeOS native card image",
+        "review": "Manually inspected native card; resolve template by stable game descriptionI18nId, not English-text ambiguity."
+      }
+    },
+    {
+      "cardId": "P-B-087",
+      "file": "data/Pokémon TCG Pocket/Promos-B/087.ts",
+      "path": "attacks[0].effect",
+      "locale": "en",
+      "expectedCurrent": "Discard Grass{G} Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned.",
+      "value": "Discard a {G} Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned.",
+      "gameTemplateId": "187",
+      "evidence": {
+        "sourceImageSha256": "a9e36ac63f24b6ca0f61a80b96836f79a12b5f7bb4e459b4c3f2affaa398c1dc",
+        "sourceImageBytes": 395245,
+        "source": "PokeOS native card image",
+        "review": "Manually inspected native card; resolve template by stable game descriptionI18nId, not English-text ambiguity."
+      }
+    },
+    {
+      "cardId": "P-B-087",
+      "file": "data/Pokémon TCG Pocket/Promos-B/087.ts",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "expectedCurrent": "Défaussez l'Énergie Plante{G} de ce Pokémon. Le Pokémon Actif de votre adversaire est désormais Empoisonné.",
+      "value": "Défaussez une Énergie {G} de ce Pokémon. Le Pokémon Actif de votre adversaire est maintenant Empoisonné.",
+      "gameTemplateId": "187",
+      "evidence": {
+        "sourceImageSha256": "2e17556ae17c4dec0ad05ab04f9a7fe2ea41086258471707f2210ba97c435f4b",
+        "sourceImageBytes": 312084,
+        "source": "PokeOS native card image",
+        "review": "Manually inspected native card; resolve template by stable game descriptionI18nId, not English-text ambiguity."
+      }
+    },
+    {
+      "cardId": "P-B-087",
+      "file": "data/Pokémon TCG Pocket/Promos-B/087.ts",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "expectedCurrent": "Descarta Energía Hierba{G} de este Pokémon. El Pokémon Activo de tu rival ahora está Envenenado.",
+      "value": "Descarta 1 Energía {G} de este Pokémon. El Pokémon Activo de tu rival pasa a estar Envenenado.",
+      "gameTemplateId": "187",
+      "evidence": {
+        "sourceImageSha256": "190ef8bf98c2f4dedebbf82b73d9b33e40502b368d589150d1c2b306af45d0a5",
+        "sourceImageBytes": 311266,
+        "source": "PokeOS native card image",
+        "review": "Manually inspected native card; resolve template by stable game descriptionI18nId, not English-text ambiguity."
+      }
+    },
+    {
+      "cardId": "P-B-087",
+      "file": "data/Pokémon TCG Pocket/Promos-B/087.ts",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "expectedCurrent": "Descarte a Energia Grass{G} deste Pokémon. O Pokémon Ativo do seu oponente agora está Envenenado.",
+      "value": "Descarte 1 Energia {G} deste Pokémon. O Pokémon Ativo do seu oponente agora está Envenenado.",
+      "gameTemplateId": "187",
+      "evidence": {
+        "sourceImageSha256": "5aa0a80e6d48b431b340842a1b8203eb40e9c0f4e60e81a7a2c0c391277b5aab",
+        "sourceImageBytes": 311640,
+        "source": "PokeOS native card image",
+        "review": "Manually inspected native card; resolve template by stable game descriptionI18nId, not English-text ambiguity."
+      }
+    },
+    {
+      "cardId": "P-B-087",
+      "file": "data/Pokémon TCG Pocket/Promos-B/087.ts",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "expectedCurrent": "丟棄該寶可夢的草{G}能量。你對手的主動寶可夢現在中毒了。",
+      "value": "將這隻寶可夢身上的1個{G}能量丟棄。將對手的戰鬥寶可夢中毒。",
+      "gameTemplateId": "187",
+      "evidence": {
+        "sourceImageSha256": "26959f9bc9f5a59b40d8430ea4e53948b289ca30dea6ca361f3c048012d4d394",
+        "sourceImageBytes": 307194,
+        "source": "PokeOS native card image",
+        "review": "Manually inspected native card; resolve template by stable game descriptionI18nId, not English-text ambiguity."
+      }
+    },
+    {
+      "cardId": "P-B-087",
+      "file": "data/Pokémon TCG Pocket/Promos-B/087.ts",
+      "path": "attacks[0].effect",
+      "locale": "de",
+      "expectedCurrent": "Lege Grass{G}-Energie von diesem Pokémon ab. Das aktive Pokémon deines Gegners ist jetzt vergiftet.",
+      "value": "Lege 1 {G}-Energie von diesem Pokémon ab. Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
+      "gameTemplateId": "187",
+      "evidence": {
+        "sourceImageSha256": "8ed7906510b323207f3922a1ff82c5c857f5dd0e1600470e4e8ef1471a608ad8",
+        "sourceImageBytes": 313424,
+        "source": "PokeOS native card image",
+        "review": "Manually inspected native card; resolve template by stable game descriptionI18nId, not English-text ambiguity."
+      }
+    },
+    {
+      "cardId": "P-B-087",
+      "file": "data/Pokémon TCG Pocket/Promos-B/087.ts",
+      "path": "attacks[0].effect",
+      "locale": "it",
+      "expectedCurrent": "Scarta Energia Grass{G} da questo Pokémon. Il Pokémon attivo del tuo avversario ora è avvelenato.",
+      "value": "Rimuovi un’Energia {G} da questo Pokémon. Il Pokémon attivo del tuo avversario viene avvelenato.",
+      "gameTemplateId": "187",
+      "evidence": {
+        "sourceImageSha256": "4efdff024aef93fe357f857b613a978daba94ef171432ec9d0f7488cc676703e",
+        "sourceImageBytes": 310973,
+        "source": "PokeOS native card image",
+        "review": "Manually inspected native card; resolve template by stable game descriptionI18nId, not English-text ambiguity."
+      }
+    }
+  ]
+}

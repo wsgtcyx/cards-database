@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/046",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/046",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/046",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/046",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/046",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/046",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/046",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/046",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/046"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/046/9027ee2d5e02c5aa",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/046/9027ee2d5e02c5aa",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/046/9027ee2d5e02c5aa",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/046/9027ee2d5e02c5aa",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/046/9027ee2d5e02c5aa",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/046/9027ee2d5e02c5aa",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/046/9027ee2d5e02c5aa",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/046/9027ee2d5e02c5aa",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/046/9027ee2d5e02c5aa"
     },
     name: {
         en: "Gible",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "圓陸鯊",
     },
     illustrator: "Uninori",
-    rarity: "None",
+    rarity: "One Star",
     category: "Pokemon",
     hp: 60,
     types: ["Fighting"],
@@ -38,7 +38,7 @@ const card: Card = {
         'pt-br': "Esconde-se em cavernas e quando presas ou inimigos\npassam, sai e os devora. A força do seu ataque às vezes\nquebra seus dentes.",
         ja: "穴倉に 潜み 獲物や 敵が 横切ると 飛びだして 噛みつく。 勢い余り 歯が 欠けることも。",
         ko: "구멍에 숨어서 먹이나 적이\n지나가면 뛰쳐나가 문다.\n기세가 대단해 이가 빠질 때도 있다.",
-        "zh-tw": "它躲藏在洞穴裡，當獵物或敵人時\n當他們經過時，它會跳出來咬掉他們。\n它的攻擊力有時會碎掉牙齒。"
+        "zh-tw": "潛伏在地洞內，如果有獵物或敵人經過，就會撲出來咬住。有時會用力過猛而咬壞牙齒。"
     },
     stage: "Basic",
     attacks: [{
@@ -51,7 +51,7 @@ const card: Card = {
                 'pt-br': "Investida",
                 ja: "たいあたり",
                 ko: "몸통박치기",
-                "zh-tw": "處理"
+                "zh-tw": "撞擊"
             },
             damage: 20,
             cost: ["Fighting"]

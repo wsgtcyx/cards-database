@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/042",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/042",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/042",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/042",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/042",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/042",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/042",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/042",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/042"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/042/5e6f4a830800ea6d",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/042/5e6f4a830800ea6d",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/042/5e6f4a830800ea6d",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/042/5e6f4a830800ea6d",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/042/5e6f4a830800ea6d",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/042/5e6f4a830800ea6d",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/042/5e6f4a830800ea6d",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/042/5e6f4a830800ea6d",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/042/5e6f4a830800ea6d"
     },
     name: {
         en: "Slowpoke",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "ヤドン"
     },
     illustrator: "Yoshimi Miyoshi",
-    rarity: "None",
+    rarity: "One Star",
     category: "Pokemon",
     hp: 70,
     types: ["Water"],
@@ -34,12 +34,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail.",
-        fr: "Ramoloss semble toujours perdu dans ses pensées,\nmais personne ne sait vraiment à quoi il pense.\nIl adore pêcher en utilisant sa queue.",
+        fr: "Ramoloss semble toujours distrait, mais personne ne sait vraiment à quoi il pense. Il adore pêcher à l'aide de sa queue.",
         es: "Está siempre en su mundo, pero nadie sabe en qué\npiensa. Suele pescar con la cola.",
         it: "È sempre assorto, ma nessuno sa a cosa stia\npensando. Si serve della coda per pescare.",
-        de: "Es ist stets in Gedanken versunken und niemand\nweiß, worüber es nachdenkt. Es kann mit seiner\nRute gut angeln.",
-        "pt-br": "Está sempre vagamente perdido em pensamentos, mas ninguém sabe no que está pensando. É bom pescar com a cauda.",
-        "zh-tw": "它总是茫然若失，却无人知道它在想什么。它擅長用尾巴釣魚。",
+        de: "Flegmon ist stets in Gedanken versunken, aber niemand weiß, worüber es nachdenkt. Seine Rute nutzt es geschickt zum Angeln.",
+        "pt-br": "Está sempre distraidamente perdido em pensamentos, mas ninguém sabe o que ele está pensando. Tem muita habilidade em pescar com a cauda.",
+        "zh-tw": "總是一副發呆的樣子，不知道在想些什麼。擅長用尾巴來釣食物。",
         ja: "いつも ボーッとしていて なにを 考えているか わからない。 尻尾で エサを 釣るのが 得意。",
         ko: "항상 멍하니 있어서\n무슨 생각을 하고 있는지 알 수 없다.\n꼬리로 먹이를 낚는 것이 특기다."
     },

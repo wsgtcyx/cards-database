@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/025",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/025",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/025",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/025",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/025",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/025",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/025",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/025",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/025"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/025/c25fcecda70858c8",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/025/c25fcecda70858c8",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/025/c25fcecda70858c8",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/025/c25fcecda70858c8",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/025/c25fcecda70858c8",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/025/c25fcecda70858c8",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/025/c25fcecda70858c8",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/025/c25fcecda70858c8",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/025/c25fcecda70858c8"
     },
     name: {
         en: "Moltres ex",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "火焰鳥ex",
     },
     illustrator: "PLANETA Igarashi",
-    rarity: "None",
+    rarity: "Four Diamond",
     category: "Pokemon",
     hp: 140,
     types: ["Fire"],
@@ -36,12 +36,12 @@ const card: Card = {
                 en: "Inferno Dance",
                 fr: "Danse Infernale",
                 es: "Danza Infernal",
-                it: "Danza Fiammeggiante",
+                it: "Danza Infuocata",
                 de: "Infernotanz",
                 'pt-br': "Dança Infernal",
                 ja: "れっかのまい",
                 ko: "열화의춤",
-                "zh-tw": "地獄之舞"
+                "zh-tw": "烈火之舞"
             },
             cost: ["Fire"],
             effect: {
@@ -53,7 +53,7 @@ const card: Card = {
                 'pt-br': "Jogue 3 moedas. Pegue uma quantidade de Energia {R} da sua Zona de Energia equivalente ao número de caras e ligue aos seus Pokémon {R} no Banco como desejar.",
                 ja: "コインを3回投げ、オモテの数ぶんの{R}エネルギーを自分のエネルギーゾーンから出し、ベンチの{R}ポケモンに好きなようにつける。",
                 ko: "동전을 3번 던져서 앞면이 나온 수만큼의 {R}에너지를 자신의 에너지존에서 내보내 벤치의 {R}포켓몬에게 원하는 대로 붙인다.",
-                "zh-tw": "翻轉 3 個硬幣。從你的能量區取出相當於頭部數量的 {R} 能量，並以你喜歡的任何方式將其附加到你的後備 {R} 神奇寶貝上。"
+                "zh-tw": "擲3次硬幣,從自己的能量區抽出與正面出現的次數相同數量的{R}能量,以任意方式附於備戰區的{R}寶可夢身上。"
             }
         }, {
             name: {
@@ -65,7 +65,7 @@ const card: Card = {
                 'pt-br': "Raio de Calor",
                 ja: "ヒートブラスト",
                 ko: "히트블라스트",
-                "zh-tw": "熱風"
+                "zh-tw": "高溫爆破"
             },
             damage: 70,
             cost: ["Fire", "Colorless", "Colorless"]

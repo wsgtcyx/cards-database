@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/052",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/052",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/052",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/052",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/052",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/052",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/052",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/052",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/052"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/052/befc9e4282b25943",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/052/befc9e4282b25943",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/052/befc9e4282b25943",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/052/befc9e4282b25943",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/052/befc9e4282b25943",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/052/befc9e4282b25943",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/052/befc9e4282b25943",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/052/befc9e4282b25943",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/052/befc9e4282b25943"
     },
     name: {
         en: "Sprigatito",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "新葉喵",
     },
     illustrator: "MINAMINAMI Take",
-    rarity: "None",
+    rarity: "One Star",
     category: "Pokemon",
     hp: 60,
     types: ["Grass"],
@@ -38,7 +38,7 @@ const card: Card = {
         'pt-br': "A composição de seu pelo fofinho é semelhante\nà das plantas. Este Pokémon lava o rosto frequentemente\npara evitar que fique ressecado.",
         ja: "フワフワの 体毛は 植物に 近い 成分。 こまめに 顔を 洗って 乾燥を 防ぐ。",
         ko: "복슬복슬한 털은 식물에 가까운 성분으로\n이루어져 있다. 수시로 세수를 하면서\n건조해지는 것을 방지한다.",
-        "zh-tw": "它蓬鬆的皮毛與植物的成分相似。\n這只神奇寶貝經常洗臉以保持健康\n防止它變乾。"
+        "zh-tw": "毛茸茸的體毛有著近似於植物的成分。會勤快地洗臉以防止乾燥。"
     },
     stage: "Basic",
     attacks: [{
@@ -51,7 +51,7 @@ const card: Card = {
                 'pt-br': "Pedir Ajuda",
                 ja: "ともだちをよぶ",
                 ko: "친구부르기",
-                "zh-tw": "求救"
+                "zh-tw": "呼朋喚友"
             },
             cost: ["Grass"],
             effect: {
@@ -63,7 +63,7 @@ const card: Card = {
                 'pt-br': "Coloque 1 Pokémon {G} aleatório do seu baralho na sua mão.",
                 ja: "自分の山札から{G}ポケモンをランダムに1枚、手札に加える。",
                 ko: "자신의 덱에서 {G}포켓몬을 랜덤으로 1장 패로 가져온다.",
-                "zh-tw": "從你的卡組中隨機將 1 只 {G} 神奇寶貝加入你的手牌。"
+                "zh-tw": "從自己的牌庫隨機將1張{G}寶可夢卡加入手牌。"
             }
         }],
     weaknesses: [{

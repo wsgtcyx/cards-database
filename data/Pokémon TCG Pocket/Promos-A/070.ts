@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/070",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/070",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/070",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/070",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/070",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/070",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/070",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/070",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/070"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/070/240547e44f466c97",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/070/240547e44f466c97",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/070/240547e44f466c97",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/070/240547e44f466c97",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/070/240547e44f466c97",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/070/240547e44f466c97",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/070/240547e44f466c97",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/070/240547e44f466c97",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/070/240547e44f466c97"
     },
     name: {
         en: "Alolan Ninetales",
@@ -49,7 +49,7 @@ const card: Card = {
         'pt-br': "Uma divindade vive nas montanhas nevadas que são o lar\ndeste Pokémon. Em tempos antigos, foi venerado como\na encarnação dessa divindade.",
         ja: "雪に 閉ざされた 神様の いる 山で 暮らしていたため 昔は 神の化身と 敬われていた。",
         ko: "눈으로 폐쇄된 신이 사는\n산에 살았기 때문에 과거에는\n신의 화신으로 숭상받아왔다.",
-        "zh-tw": "這只神奇寶貝居住的雪山里棲息著一位神靈。在古代，它被視為神的化身而受到崇拜。"
+        "zh-tw": "由於牠生活在被冰雪封閉、有著神明居住的山上，在過去被人們敬仰為神的化身。"
     },
     stage: "Stage1",
     attacks: [{
@@ -75,7 +75,7 @@ const card: Card = {
                 'pt-br': "Este ataque também causa 20 pontos de dano a cada Pokémon no Banco do seu oponente.",
                 ja: "相手のベンチポケモン全員にも20ダメージ。",
                 ko: "상대의 벤치 포켓몬 전원에게도 20데미지를 준다.",
-                "zh-tw": "這次攻擊還會對對手的後備神奇寶貝各造成 20 點傷害。"
+                "zh-tw": "對手的所有備戰寶可夢也受到20點傷害。"
             }
         }],
     weaknesses: [{

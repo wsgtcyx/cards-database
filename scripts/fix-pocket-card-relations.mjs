@@ -111,7 +111,10 @@ for (const [identity, variants] of mechanicNames) {
 }
 
 const uniqueNames = new Map()
+const evolutionTargets = new Set(parsedCards.map(({ card }) => normalized(stringValue(objectValue(card, 'evolveFrom'), 'en'))).filter(Boolean))
 for (const [key, entries] of names) {
+	// Native card titles can vary in punctuation; only evolution references require one target spelling.
+	if (!evolutionTargets.has(key)) continue
 	const values = {}
 	for (const locale of LOCALES) {
 		const options = [...new Set(entries.map(entry => entry[locale]).filter(Boolean))]

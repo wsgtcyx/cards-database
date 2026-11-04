@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/028",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/028",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/028",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/028",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/028",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/028",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/028",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/028",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/028"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/028/9367e880b6209e43",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/028/9367e880b6209e43",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/028/9367e880b6209e43",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/028/9367e880b6209e43",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/028/9367e880b6209e43",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/028/9367e880b6209e43",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/028/9367e880b6209e43",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/028/9367e880b6209e43",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/028/9367e880b6209e43"
     },
     name: {
         en: "Ralts",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "ラルトス"
     },
     illustrator: "Hajime Kusajima",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     hp: 60,
     types: ["Psychic"],
@@ -34,11 +34,11 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "It is highly attuned to the emotions of people and Pokémon. It hides if it senses hostility.",
-        fr: "Il est très sensible aux émotions des gens\net des Pokémon. Il se cache au moindre\nsigne d’hostilité.",
+        fr: "Très sensible aux émotions des êtres humains et des Pokémon, il se cache au moindre signe d'hostilité.",
         es: "Capta muy bien lo que sienten las personas y\nlos Pokémon. Cuando nota cierta hostilidad, se\nesconde.",
-        it: "È molto sensibile agli umori delle persone e\ndegli altri Pokémon. Se avverte ostilità, va a\nnascondersi.",
+        it: "È molto sensibile all'umore delle persone e degli altri Pokémon. Non appena avverte ostilità, si nasconde subito nell'ombra.",
         de: "Es hat ein feines Gespür für die Gefühle der\nMenschen und Pokémon. Wenn es Feindseligkeit\nwahrnimmt, versteckt es sich.",
-        "pt-br": "Está altamente sintonizado com as emoções das pessoas e dos Pokémon. Ele se esconde se sentir hostilidade.",
+        "pt-br": "Está altamente sintonizado com as emoções das pessoas e Pokémon. Esconde-se se pressentir hostilidade.",
         "zh-tw": "能敏銳地感知人和寶可夢\n的感情。一旦感受到敵意\n就會躲進暗處。",
         ja: "人や ポケモンの 感情を 敏感に キャッチ。敵意を 感じると 物陰に 隠れる。",
         ko: "사람이나 포켓몬의 감정을\n민감하게 캐치한다.\n적의가 느껴지면 그늘로 숨는다."
@@ -60,11 +60,11 @@ const card: Card = {
             effect: {
                 en: "Heal 10 damage from this Pokémon.",
                 fr: "Soignez 10 dégâts de ce Pokémon.",
-                es: "Cura 10 puntos de daño de este Pokémon.",
+                es: "Cura 10 puntos de daño a este Pokémon.",
                 it: "Cura questo Pokémon da 10 danni.",
                 de: "Heile 10 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 10 pontos de dano deste Pokémon.",
-                "zh-tw": "治療該寶可夢造成的 10 點傷害。",
+                "zh-tw": "將這隻寶可夢恢復10HP。",
                 ja: "このポケモンのHPを10回復。",
                 ko: "이 포켓몬의 HP를 10회복."
             },

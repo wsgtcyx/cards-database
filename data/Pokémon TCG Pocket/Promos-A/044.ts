@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/044",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/044",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/044",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/044",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/044",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/044",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/044",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/044",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/044"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/044/2187e3006b957676",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/044/2187e3006b957676",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/044/2187e3006b957676",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/044/2187e3006b957676",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/044/2187e3006b957676",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/044/2187e3006b957676",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/044/2187e3006b957676",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/044/2187e3006b957676",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/044/2187e3006b957676"
     },
     name: {
         en: "Raichu",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "雷丘",
     },
     illustrator: "Kazumasa Yasukuni",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     hp: 90,
     types: ["Lightning"],
@@ -49,7 +49,7 @@ const card: Card = {
         'pt-br': "Sua cauda descarrega a eletricidade\nno solo, protegendo-o contra choques.",
         ja: "尻尾が アースの 役目をはたして 電気を 地面に 逃がすので 自分自身は しびれたりしない。",
         ko: "꼬리가 어스 역할을 하여\n전기를 지면으로 흘려보내므로\n자신은 감전되거나 하지 않는다.",
-        "zh-tw": "它的尾巴向地面釋放電力，\n保護它不被電擊。"
+        "zh-tw": "尾巴會發揮接地線的作用把電氣導入地面，所以自己不會被電得發麻。"
     },
     stage: "Stage1",
     abilities: [{
@@ -74,7 +74,7 @@ const card: Card = {
                 'pt-br': "Se você tiver Arceus ou Arceus ex em jogo, este Pokémon receberá −30 pontos de dano de ataques.",
                 ja: "自分の場に「アルセウス」または「アルセウスex」がいるなら、このポケモンが受けるワザのダメージを-30する。",
                 ko: "자신의 필드에 「아르세우스」 또는 「아르세우스 ex」가 있다면 이 포켓몬이 받는 기술의 데미지를 -30한다.",
-                "zh-tw": "如果你場上有阿爾宙斯或阿爾宙斯 ex，這只神奇寶貝受到的攻擊傷害為 -30。"
+                "zh-tw": "若自己的場上有「阿爾宙斯」或者「阿爾宙斯ex」,則這隻寶可夢受到招式的傷害-30點。"
             }
         }],
     attacks: [{
@@ -87,7 +87,7 @@ const card: Card = {
                 'pt-br': "Faísca",
                 ja: "スパーク",
                 ko: "스파크",
-                "zh-tw": "火花"
+                "zh-tw": "電光"
             },
             damage: 40,
             cost: ["Lightning", "Lightning"],
@@ -100,7 +100,7 @@ const card: Card = {
                 'pt-br': "Este ataque também causa 20 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
                 ja: "相手のベンチポケモン1匹にも20ダメージ。",
                 ko: "상대의 벤치 포켓몬 1마리에게도 20데미지를 준다.",
-                "zh-tw": "這次攻擊也會對對手後備的 1 只神奇寶貝造成 20 點傷害。"
+                "zh-tw": "對手的1隻備戰寶可夢也受到20點傷害。"
             }
         }],
     weaknesses: [{

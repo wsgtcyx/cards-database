@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/015",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/015",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/015",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/015",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/015",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/015",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/015",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/015",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/015"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/015/81618b3f48be313b",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/015/81618b3f48be313b",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/015/81618b3f48be313b",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/015/81618b3f48be313b",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/015/81618b3f48be313b",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/015/81618b3f48be313b",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/015/81618b3f48be313b",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/015/81618b3f48be313b",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/015/81618b3f48be313b"
     },
     name: {
         en: "Mareep",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "メリープ"
     },
     illustrator: "okayamatakatoshi",
-    rarity: "None",
+    rarity: "One Star",
     category: "Pokemon",
     hp: 70,
     types: ["Lightning"],
@@ -34,12 +34,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "Its fleece grows continually. In the summer, the fleece is fully shed, but it grows back in a week.",
-        fr: "Sa toison s'agrandit continuellement. En été, la toison tombe entièrement, mais elle repousse en une semaine.",
-        es: "Su vellón crece continuamente. En verano, el vellón se muda por completo, pero vuelve a crecer en una semana.",
-        it: "Il suo vello cresce continuamente. In estate il vello cade completamente, ma ricresce in una settimana.",
-        de: "Sein Fell wächst kontinuierlich. Im Sommer wird das Vlies vollständig abgeworfen, aber es wächst innerhalb einer Woche wieder nach.",
-        "pt-br": "Seu velo cresce continuamente. No verão, o velo cai completamente, mas volta a crescer em uma semana.",
-        "zh-tw": "它的羊毛不斷生長。夏天，羊毛會完全脫落，但一週後又會長回來。",
+        fr: "Sa toison pousse constamment. L'été, toute sa laine tombe, mais elle repousse en moins d'une semaine.",
+        es: "Su lana crece continuamente. En verano la pierde toda, pero le vuelve a crecer en una semana.",
+        it: "Il vello gli cresce di continuo. In estate lo perde completamente, ma si riforma nel giro di una settimana.",
+        de: "Sein Fell wächst ständig. Im Sommer wirft es sein ganzes Fell ab, aber dieses wächst binnen einer Woche wieder nach.",
+        "pt-br": "Seu pelo cresce sem parar. No verão, perde toda a sua lã, mas ela cresce de volta em uma semana.",
+        "zh-tw": "體毛會不斷地變長。即使每到夏天就會掉光，也能在1週內長回原樣。",
         ja: "体毛は どんどん 伸びる。 夏になると 全部 抜け落ちるが 1週間で 元通りになる。",
         ko: "몸의 털은 점점 자란다.\n여름이 되면 전부 빠지지만\n일주일 정도면 원래대로 자라난다."
     },

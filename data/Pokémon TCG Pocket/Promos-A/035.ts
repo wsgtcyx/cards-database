@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/035",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/035",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/035",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/035",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/035",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/035",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/035",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/035",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/035"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/035/6c15269e36a1845f",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/035/6c15269e36a1845f",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/035/6c15269e36a1845f",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/035/6c15269e36a1845f",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/035/6c15269e36a1845f",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/035/6c15269e36a1845f",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/035/6c15269e36a1845f",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/035/6c15269e36a1845f",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/035/6c15269e36a1845f"
     },
     name: {
         en: "Turtwig",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "草苗龜",
     },
     illustrator: "Atsuko Nishida",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     hp: 80,
     types: ["Grass"],
@@ -38,7 +38,7 @@ const card: Card = {
         'pt-br': "Usa o corpo todo para fazer fotossíntese ao se expor\nà luz do sol. Seu casco é feito de solo endurecido.",
         ja: "太陽の 光を 浴びて 全身で 光合成を する。 甲羅は 土が 硬くなったもの。",
         ko: "태양의 빛을 쬐어\n전신으로 광합성을 한다.\n등껍질은 흙이 딱딱해진 것이다.",
-        "zh-tw": "當它進行光合作用時，它會利用整個身體\n暴露在陽光下。它的外殼是由\n硬化的土壤。"
+        "zh-tw": "沐浴著陽光，用全身進行光合作用。甲殼是泥土變硬後形成的。"
     },
     stage: "Basic",
     attacks: [{
@@ -51,7 +51,7 @@ const card: Card = {
                 'pt-br': "Mordida",
                 ja: "かみつく",
                 ko: "물기",
-                "zh-tw": "咬"
+                "zh-tw": "咬住"
             },
             damage: 30,
             cost: ["Grass", "Colorless"]

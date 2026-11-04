@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/015",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/015",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/015",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/015",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/015",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/015",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/015",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/015",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/015"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/015/3cf735e2e0d01f8f",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/015/3cf735e2e0d01f8f",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/015/3cf735e2e0d01f8f",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/015/3cf735e2e0d01f8f",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/015/3cf735e2e0d01f8f",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/015/3cf735e2e0d01f8f",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/015/3cf735e2e0d01f8f",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/015/3cf735e2e0d01f8f",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/015/3cf735e2e0d01f8f"
     },
     name: {
         en: "Pikachu",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "皮卡丘"
     },
     illustrator: "Kouki Saitou",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     types: ["Lightning"],
     stage: "Basic",
@@ -39,7 +39,7 @@ const card: Card = {
                 'pt-br': "Roída",
                 ja: "かじる",
                 ko: "갉기",
-                "zh-tw": "啃"
+                "zh-tw": "咬"
             },
             cost: ["Lightning"],
             damage: 20
@@ -54,7 +54,7 @@ const card: Card = {
         'pt-br': "Quando está com raiva, descarrega\nimediatamente a energia armazenada\nnas bolsas em suas bochechas.",
         ja: "両頬には 電気を 溜めこむ 袋がある。 怒ると 溜めこんだ 電気を 一気に 放ってくる。",
         ko: "양 볼에는 전기를 저장하는 주머니가 있다.\n화가 나면 저장한 전기를 단숨에 방출한다.",
-        "zh-tw": "當它被激怒時，它會立即釋放\n能量儲存在臉頰的眼袋裡。"
+        "zh-tw": "雙頰上有儲存電力的囊袋。一旦生氣就會把儲存的電力一口氣釋放出來。"
     },
     weaknesses: [{
             type: "Fighting",

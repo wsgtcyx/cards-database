@@ -1,0 +1,1129 @@
+{
+  "schemaVersion": 1,
+  "sourceHashes": {
+    "A": {
+      "url": "https://www.pokeos.com/api/tcg/set/cards?id=443",
+      "sha256": "44459c0100aa714eb03fab14f75b8ac1ac473ff9f9ca396c38b906230d8e552c"
+    },
+    "B": {
+      "url": "https://www.pokeos.com/api/tcg/set/cards?id=551",
+      "sha256": "b30e8fca4c0748a4636e2f086c3b9173a6f740f0aecfbc470f3ab5471ff7bc65"
+    }
+  },
+  "corrections": [
+    {
+      "cardId": "P-A-001",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 40038,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-A-002",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 40039,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-A-003",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 40040,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-A-004",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 40041,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-A-005",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 40042,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-A-006",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 40043,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-A-007",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 40044,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-A-008",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 41025,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-A-009",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Star",
+      "pokeosId": 40046,
+      "pokeosRarity": "Art Rare"
+    },
+    {
+      "cardId": "P-A-010",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Star",
+      "pokeosId": 40047,
+      "pokeosRarity": "Art Rare"
+    },
+    {
+      "cardId": "P-A-011",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 40048,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-A-012",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 40049,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-A-013",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 40050,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-A-014",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Four Diamond",
+      "pokeosId": 40051,
+      "pokeosRarity": "Double Rare"
+    },
+    {
+      "cardId": "P-A-015",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 40052,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-A-016",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 40053,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-A-017",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 40054,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-A-018",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Star",
+      "pokeosId": 40055,
+      "pokeosRarity": "Art Rare"
+    },
+    {
+      "cardId": "P-A-019",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 40056,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-A-020",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 40057,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-A-021",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 40058,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-A-022",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 40059,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-A-023",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 40060,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-A-024",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 40061,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-A-025",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Four Diamond",
+      "pokeosId": 41026,
+      "pokeosRarity": "Double Rare"
+    },
+    {
+      "cardId": "P-A-026",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Star",
+      "pokeosId": 41027,
+      "pokeosRarity": "Art Rare"
+    },
+    {
+      "cardId": "P-A-027",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 41028,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-A-028",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 41029,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-A-029",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Star",
+      "pokeosId": 41030,
+      "pokeosRarity": "Art Rare"
+    },
+    {
+      "cardId": "P-A-030",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 41031,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-A-031",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 41032,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-A-032",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 41033,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-A-033",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 41034,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-A-034",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Star",
+      "pokeosId": 41430,
+      "pokeosRarity": "Art Rare"
+    },
+    {
+      "cardId": "P-A-035",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 41431,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-A-036",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 41432,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-A-037",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Four Diamond",
+      "pokeosId": 41433,
+      "pokeosRarity": "Double Rare"
+    },
+    {
+      "cardId": "P-A-038",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 41434,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-A-039",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 41435,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-A-040",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 41436,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-A-041",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 41437,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-A-042",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Four Diamond",
+      "pokeosId": 41797,
+      "pokeosRarity": "Double Rare"
+    },
+    {
+      "cardId": "P-A-043",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 41796,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-A-044",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 41795,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-A-045",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 41794,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-A-046",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Star",
+      "pokeosId": 41793,
+      "pokeosRarity": "Art Rare"
+    },
+    {
+      "cardId": "P-A-047",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 41792,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-A-048",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 41791,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-A-049",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 41790,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-A-050",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Two Shiny",
+      "pokeosId": 42026,
+      "pokeosRarity": "Shiny Super Rare"
+    },
+    {
+      "cardId": "P-A-051",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Shiny",
+      "pokeosId": 42027,
+      "pokeosRarity": "Shiny Rare"
+    },
+    {
+      "cardId": "P-A-052",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Star",
+      "pokeosId": 42028,
+      "pokeosRarity": "Art Rare"
+    },
+    {
+      "cardId": "P-A-053",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 42029,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-A-054",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Star",
+      "pokeosId": 42030,
+      "pokeosRarity": "Art Rare"
+    },
+    {
+      "cardId": "P-A-055",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 42031,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-A-056",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 42032,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-A-057",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 42033,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-A-058",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 42034,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-A-059",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 42035,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-A-076",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 42824,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-001",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Star",
+      "pokeosId": 51520,
+      "pokeosRarity": "Art Rare"
+    },
+    {
+      "cardId": "P-B-002",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 51519,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-003",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 51518,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-004",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 51517,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-B-005",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 51516,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-006",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Four Diamond",
+      "pokeosId": 51515,
+      "pokeosRarity": "Double Rare"
+    },
+    {
+      "cardId": "P-B-007",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 51514,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-B-008",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 51513,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-B-009",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Four Diamond",
+      "pokeosId": 51512,
+      "pokeosRarity": "Double Rare"
+    },
+    {
+      "cardId": "P-B-010",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 51511,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-B-011",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 51510,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-B-012",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Star",
+      "pokeosId": 52567,
+      "pokeosRarity": "Art Rare"
+    },
+    {
+      "cardId": "P-B-013",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 52566,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-014",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 52565,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-015",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Star",
+      "pokeosId": 52564,
+      "pokeosRarity": "Art Rare"
+    },
+    {
+      "cardId": "P-B-016",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 52563,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-B-017",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 52562,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-018",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 52561,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-B-019",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 52560,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-B-020",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 52559,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-021",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 52558,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-022",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 52557,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-023",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 52556,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-B-024",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Four Diamond",
+      "pokeosId": 52555,
+      "pokeosRarity": "Double Rare"
+    },
+    {
+      "cardId": "P-B-025",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Star",
+      "pokeosId": 54268,
+      "pokeosRarity": "Art Rare"
+    },
+    {
+      "cardId": "P-B-026",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 54267,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-027",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 54266,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-028",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 54265,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-029",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Four Diamond",
+      "pokeosId": 54264,
+      "pokeosRarity": "Double Rare"
+    },
+    {
+      "cardId": "P-B-030",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 54263,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-B-031",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 54262,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-B-032",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 54261,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-B-033",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Star",
+      "pokeosId": 54753,
+      "pokeosRarity": "Art Rare"
+    },
+    {
+      "cardId": "P-B-034",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 54752,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-035",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Star",
+      "pokeosId": 54751,
+      "pokeosRarity": "Art Rare"
+    },
+    {
+      "cardId": "P-B-036",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 54750,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-037",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 54749,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-038",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 54748,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-B-039",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 54747,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-B-040",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 54746,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-B-041",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Four Diamond",
+      "pokeosId": 55019,
+      "pokeosRarity": "Double Rare"
+    },
+    {
+      "cardId": "P-B-042",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Star",
+      "pokeosId": 55020,
+      "pokeosRarity": "Art Rare"
+    },
+    {
+      "cardId": "P-B-043",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 55021,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-044",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 55022,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-045",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 55023,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-B-046",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 55024,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-047",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 55025,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-B-048",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 55026,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-B-049",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Star",
+      "pokeosId": 58014,
+      "pokeosRarity": "Art Rare"
+    },
+    {
+      "cardId": "P-B-050",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Two Diamond",
+      "pokeosId": 58015,
+      "pokeosRarity": "Uncommon"
+    },
+    {
+      "cardId": "P-B-051",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 58016,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-052",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 58017,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-B-053",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Four Diamond",
+      "pokeosId": 58018,
+      "pokeosRarity": "Double Rare"
+    },
+    {
+      "cardId": "P-B-054",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 58019,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-055",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Two Star",
+      "pokeosId": 58020,
+      "pokeosRarity": "Super Rare"
+    },
+    {
+      "cardId": "P-B-056",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Four Diamond",
+      "pokeosId": 58027,
+      "pokeosRarity": "Double Rare"
+    },
+    {
+      "cardId": "P-B-057",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 58021,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-058",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 58022,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-059",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 58023,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-060",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 58024,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-B-061",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 58025,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-B-062",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 58026,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-B-063",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Four Diamond",
+      "pokeosId": 58656,
+      "pokeosRarity": "Double Rare"
+    },
+    {
+      "cardId": "P-B-064",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 58655,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-065",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 58654,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-066",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Four Diamond",
+      "pokeosId": 58653,
+      "pokeosRarity": "Double Rare"
+    },
+    {
+      "cardId": "P-B-067",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 58652,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-068",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 58651,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-B-069",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 58650,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-B-070",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 58649,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-B-071",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Star",
+      "pokeosId": 59463,
+      "pokeosRarity": "Art Rare"
+    },
+    {
+      "cardId": "P-B-072",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 59464,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-073",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 59465,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-B-074",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Two Diamond",
+      "pokeosId": 59466,
+      "pokeosRarity": "Uncommon"
+    },
+    {
+      "cardId": "P-B-075",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Diamond",
+      "pokeosId": 59467,
+      "pokeosRarity": "Common"
+    },
+    {
+      "cardId": "P-B-076",
+      "field": "rarity",
+      "current": "None",
+      "expected": "One Star",
+      "pokeosId": 59468,
+      "pokeosRarity": "Art Rare"
+    },
+    {
+      "cardId": "P-B-077",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 59469,
+      "pokeosRarity": "Rare"
+    },
+    {
+      "cardId": "P-B-078",
+      "field": "rarity",
+      "current": "None",
+      "expected": "Three Diamond",
+      "pokeosId": 59470,
+      "pokeosRarity": "Rare"
+    }
+  ],
+  "rejected": [
+    {
+      "cardId": "P-A-108",
+      "field": "illustrator",
+      "chosen": "Asako Ito",
+      "rejectedMaster": "Kagemaru Himeno",
+      "reason": "PokeOS card image visibly prints Asako Ito; preserve native-card evidence over mismatched master illustrator ID.",
+      "sourceImageSha256": "7000f6728a4e1a28b07a6ddfa01f9e1787ae0a7b12c0dbd9ac04b1580ec9f443"
+    }
+  ]
+}

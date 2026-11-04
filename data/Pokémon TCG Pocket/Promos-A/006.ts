@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/006",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/006",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/006",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/006",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/006",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/006",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/006",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/006",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/006"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/006/d097bb6ea4fe5b0c",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/006/d097bb6ea4fe5b0c",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/006/d097bb6ea4fe5b0c",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/006/d097bb6ea4fe5b0c",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/006/d097bb6ea4fe5b0c",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/006/d097bb6ea4fe5b0c",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/006/d097bb6ea4fe5b0c",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/006/d097bb6ea4fe5b0c",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/006/d097bb6ea4fe5b0c"
     },
     name: {
         en: "Red Card",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "紅牌"
     },
     illustrator: "5ban Graphics",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Trainer",
     effect: {
         en: "Your opponent shuffles their hand into their deck and draws 3 cards.",
@@ -36,7 +36,7 @@ const card: Card = {
         ja: "相手の手札をすべて山札にもどす。相手は山札を3枚引く。",
         ko: "상대의 패를 모두 덱으로 되돌린다. 상대는 덱을 3장 뽑는다.",
         'pt-br': "Seu oponente embaralha a mão dele no baralho dele e compra 3 cartas.",
-        "zh-tw": "你的對手將手牌洗入牌庫並抓 3 張牌。"
+        "zh-tw": "將對手的手牌全部放回牌庫。對手從牌庫抽出3張卡。"
     },
     trainerType: "Item",
     boosters: []

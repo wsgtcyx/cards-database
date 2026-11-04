@@ -4,14 +4,16 @@ import Set from "../Promos-A";
 const card: Card = {
 	set: Set,
 	image: {
-		en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/114",
-		fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/114",
-		es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/114",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/114",
-		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/114",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/114",
-		ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/114"
-	},
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/114/d53d4863ecb3e834",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/114/d53d4863ecb3e834",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/114/d53d4863ecb3e834",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/114/d53d4863ecb3e834",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/114/d53d4863ecb3e834",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/114/d53d4863ecb3e834",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/114/d53d4863ecb3e834",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/114/d53d4863ecb3e834",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/114/d53d4863ecb3e834"
+    },
 	name: {
 		en: "Machamp",
 		fr: "Mackogneur",
@@ -48,7 +50,7 @@ const card: Card = {
 		"pt-br": "Ele balança velozmente seus quatro braços para\natingir seus oponentes com socos e pancadas\nincessantes de todos os ângulos.",
 		ja: "４本の腕を すばやく 動かし あらゆる 角度から 休むことなく パンチや チョップを 叩きこむ。",
 		ko: "4개의 팔을 재빠르게 움직여서\n모든 각도에서 쉬지 않고\n펀치와 당수를 날린다.",
-		"zh-tw": "它迅速揮動四隻手臂，從各個角度不斷地出拳和砍擊，震撼對手。"
+		"zh-tw": "能夠迅速活動4隻手臂，從各種角度毫不停歇地使出拳擊或手刀。"
 	},
 	stage: "Stage2",
 	attacks: [
@@ -73,7 +75,7 @@ const card: Card = {
 				it: "Lancia 4 volte una moneta. Questo attacco infligge 50 danni ogni volta che esce testa.",
 				de: "Wirf 4 Münzen. Diese Attacke fügt 50 Schadenspunkte pro Kopf zu.",
 				"pt-br": "Jogue 4 moedas. Este ataque causa 50 pontos de dano para cada cara.",
-				"zh-tw": "翻轉4個硬幣。每出現1次正面，這個招式造成50點傷害。",
+				"zh-tw": "擲4次硬幣,造成正面出現的次數×50點傷害。",
 				ja: "コインを4回投げ、オモテの数×50ダメージ。",
 				ko: "동전을 4번 던져서 앞면이 나온 수 × 50데미지를 준다."
 			}

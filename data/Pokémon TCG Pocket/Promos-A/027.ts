@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/027",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/027",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/027",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/027",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/027",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/027",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/027",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/027",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/027"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/027/f4087aed73bde903",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/027/f4087aed73bde903",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/027/f4087aed73bde903",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/027/f4087aed73bde903",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/027/f4087aed73bde903",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/027/f4087aed73bde903",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/027/f4087aed73bde903",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/027/f4087aed73bde903",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/027/f4087aed73bde903"
     },
     name: {
         en: "Snivy",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "藤藤蛇",
     },
     illustrator: "Yoriyuki Ikegami",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     hp: 60,
     types: ["Grass"],
@@ -38,7 +38,7 @@ const card: Card = {
         'pt-br': "Quando exposto à luz solar, seus movimentos tornam-se mais\nrápidos. Ele usa as trepadeiras com mais destreza que suas mãos.",
         ja: "太陽の 光を 浴びると いつもよりも 素早く 動ける。 手よりも ツルを うまく使う。",
         ko: "태양의 빛을 받으면\n평소보다 빨리 움직일 수 있다.\n손보다 덩굴을 잘 사용한다.",
-        "zh-tw": "暴露在陽光下使其運動\n更快。它比雙手更擅長使用藤蔓。"
+        "zh-tw": "只要沐浴在陽光下，動作就會變得比平常更加迅速。用起蔓藤時比用手更加靈活。"
     },
     stage: "Basic",
     attacks: [{
@@ -51,7 +51,7 @@ const card: Card = {
                 'pt-br': "Investida",
                 ja: "たいあたり",
                 ko: "몸통박치기",
-                "zh-tw": "處理"
+                "zh-tw": "撞擊"
             },
             damage: 20,
             cost: ["Grass"]

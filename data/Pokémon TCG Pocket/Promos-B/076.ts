@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/076",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/076",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/076",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/076",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/076",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/076",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/076",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/076",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/076"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/076/a092c5df73f479eb",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/076/a092c5df73f479eb",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/076/a092c5df73f479eb",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/076/a092c5df73f479eb",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/076/a092c5df73f479eb",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/076/a092c5df73f479eb",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/076/a092c5df73f479eb",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/076/a092c5df73f479eb",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/076/a092c5df73f479eb"
     },
     name: {
         en: "Hisuian Zorua",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "ヒスイゾロア"
     },
     illustrator: "Teeziro",
-    rarity: "None",
+    rarity: "One Star",
     category: "Pokemon",
     hp: 60,
     types: ["Colorless"],
@@ -34,12 +34,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "A once-departed soul, returned to life in Hisui. Derives power from resentment, which rises as energy atop its head and takes on the forms of foes. In this way, Zorua vents lingering malice.",
-        fr: "Une âme autrefois disparue, revenue à la vie à Hisui. Il tire son pouvoir du ressentiment, qui s'élève sous forme d'énergie au sommet de sa tête et prend la forme d'ennemis. De cette façon, Zorua évacue la méchanceté persistante.",
-        es: "Un alma que una vez partió, volvió a la vida en Hisui. Obtiene poder del resentimiento, que se eleva como energía sobre su cabeza y adopta la forma de enemigos. De esta manera, Zorua desahoga la malicia persistente.",
-        it: "Un'anima un tempo defunta, tornata in vita a Hisui. Trae potere dal risentimento, che sale come energia sulla sua testa e assume la forma di nemici. In questo modo, Zorua dà sfogo alla malizia persistente.",
-        de: "Eine einst verstorbene Seele, die in Hisui zum Leben zurückgekehrt ist. Bezieht seine Kraft aus Ressentiments, die als Energie auf seinem Kopf aufsteigen und die Gestalt von Feinden annehmen. Auf diese Weise macht Zorua der anhaltenden Bosheit Luft.",
-        "pt-br": "Uma alma que já partiu, voltou à vida em Hisui. Deriva o poder do ressentimento, que surge como energia acima de sua cabeça e assume a forma de inimigos. Dessa forma, Zorua exala malícia persistente.",
-        "zh-tw": "曾經離去的靈魂，在翡翠中重生。從怨恨中獲得力量，怨恨在頭頂上以能量的形式升起，並呈現出敵人的形態。就這樣，索羅亞發洩了揮之不去的惡意。",
+        fr: "Zorua serait une âme disparue, ressuscitée à Hisui. Sa rancœur émane sous forme d'énergie au-dessus de sa tête, puis adopte l'apparence de ses ennemis, et finit par se dissiper.",
+        es: "Es un alma difunta resucitada en Hisui que transforma su rencor en energía. Esta surge de su cabeza y adopta la forma de su oponente, disipando así su inquina.",
+        it: "Uno spirito defunto, tornato a nuova vita nella terra di Hisui. Il suo sdegno si fa energia e promana dal capo, tramutandosi nell'avversario per ordire vendetta.",
+        de: "Eine verstorbene Seele, die in Hisui zu neuem Leben erwachte. Groll verleiht ihm Kraft und quillt aus seinem Kopf, um als Ventil für den eigenen Hass die Gestalt seiner Feinde anzunehmen.",
+        "pt-br": "Uma alma que partiu deste mundo e voltou à vida em Hisui. Seu poder é oriundo do rancor, que se converte em energia no topo de sua cabeça e toma a forma de seus inimigos. Desta maneira, Zorua se liberta da malícia persistente.",
+        "zh-tw": "死後靈魂在洗翠地區復甦。怨恨化為力量，從其頭部冉冉飄升。會化成對手的樣貌去洗刷仇恨。",
         ja: "死した魂 ヒスイの地にて 蘇る。 怨嗟は 力となり 頭より 立ち昇り 相手の姿に 変じ 恨み 晴らしたり。",
         ko: "죽은 영혼이 히스이 땅에서 되살아났다.\n원한은 곧 힘이 되어 머리에 피어오르고\n상대의 모습으로 변하여 원한을 풀려 한다."
     },
@@ -48,23 +48,23 @@ const card: Card = {
             cost: ["Colorless"],
             name: {
                 en: "Run Around",
-                fr: "Courir partout",
-                es: "Correr por todas partes",
-                it: "Corri in giro",
-                de: "Herumlaufen",
-                "pt-br": "Correr",
+                fr: "Course Effrénée",
+                es: "Correr Alrededor",
+                it: "Correre Intorno",
+                de: "Herumrennen",
+                "pt-br": "Zoar",
                 "zh-tw": "雀躍",
                 ja: "はしゃぐ",
                 ko: "들뜸"
             },
             effect: {
                 en: "Switch this Pokémon with 1 of your Benched Pokémon.",
-                fr: "Échangez ce Pokémon avec 1 de vos Pokémon de Banc.",
+                fr: "Échangez ce Pokémon contre l'un de vos Pokémon de Banc.",
                 es: "Cambia este Pokémon por 1 de tus Pokémon en Banca.",
-                it: "Scambia questo Pokémon con 1 dei tuoi Pokémon in panchina.",
-                de: "Tausche dieses Pokémon gegen eines deiner Bank-Pokémon aus.",
+                it: "Scambia questo Pokémon con uno della tua panchina.",
+                de: "Tausche dieses Pokémon gegen 1 Pokémon auf deiner Bank aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
-                "zh-tw": "將此寶可夢與你的 1 個備戰寶可夢交換。",
+                "zh-tw": "將這隻寶可夢與備戰寶可夢互換。",
                 ja: "このポケモンをベンチポケモンと入れ替える。",
                 ko: "이 포켓몬을 벤치 포켓몬과 교체한다."
             }

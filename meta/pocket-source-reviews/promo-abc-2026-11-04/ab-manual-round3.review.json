@@ -1,0 +1,720 @@
+{
+  "schemaVersion": 1,
+  "decisions": [
+    {
+      "cardId": "P-A-102",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "翻轉 2 個硬幣。這次攻擊對每個頭造成 40 點傷害。",
+      "value": "擲2次硬幣,造成正面出現的次數×40點傷害。",
+      "rawOCR": "換2次硬幣，造成正面出現的次數× 40點傷害。",
+      "candidateIndex": 3,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/102.ts",
+      "evidence": {
+        "sourceImageSha256": "354963e5f7a100607a499601995347c05376b507bb7e609f93fd227a891b9843",
+        "sourceImageBytes": 289735,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-A-103",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
+      "value": "擲1次硬幣若為反面,則這個招式失敗。",
+      "rawOCR": "每1次硬幣若為反面，則這個招式失敗。",
+      "candidateIndex": 7,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/103.ts",
+      "evidence": {
+        "sourceImageSha256": "10c5d8d3ae9deabc9d01012b72f31566d0eb3c5110102d72d849b2bba7fc83cd",
+        "sourceImageBytes": 261454,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-A-106",
+      "locale": "fr",
+      "path": "abilities[0].effect",
+      "expectedCurrent": "Si le Pokémon de votre adversaire est mis KO par les dégâts des attaques de ce Pokémon, pendant le prochain tour de votre adversaire, prévenez tous les dégâts et effets des attaques infligées à ce Pokémon.",
+      "value": "Si le Pokémon de votre adversaire est mis K.O. par les dégâts des attaques de ce Pokémon, pendant le prochain tour de votre adversaire, évitez tous les dégâts et les effets d'attaques infligés à ce Pokémon.",
+      "rawOCR": "Si le Pokémon de votre adyersatre est mis K.O. par les dégâts des attaques de ce Pokémen, pendant le prochain tour de votre adversaire, éviter tous les degats et les elfets dattaques hiligés à ce Pokémon.",
+      "candidateIndex": 12,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/106.ts",
+      "evidence": {
+        "sourceImageSha256": "1b785aef7f0b7589c6d335350e7eec164ca22387b07092c88cf5e1cb4399190f",
+        "sourceImageBytes": 322253,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-A-106",
+      "locale": "es",
+      "path": "abilities[0].effect",
+      "expectedCurrent": "Si el Pokémon de tu rival queda fuera de combate por el daño de los ataques de este Pokémon, durante el próximo turno de tu rival, evita todo el daño (y los efectos de) los ataques realizados a este Pokémon.",
+      "value": "Si alguno de los Pokémon de tu rival queda Fuera de Combate por el daño de los ataques de este Pokémon, durante el próximo turno de tu rival, se evitan todo el daño y todos los efectos de los ataques infligidos a este Pokémon.",
+      "rawOCR": "Si alguno de los Pokémon de cu rival queda fuera de Combate por el dano dellos ataques de este Pokémon. duranter el próximo turno de au rival, se evien todo el datio y todos los efectos de los ataques tulizidos a este Pokémon.",
+      "candidateIndex": 13,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/106.ts",
+      "evidence": {
+        "sourceImageSha256": "f55632295f91933b458d39f3f42c6cc1bb33fe8717d055f9a463f17bf51b021c",
+        "sourceImageBytes": 324047,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-A-107",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "在該寶可夢離開活動點之前，該寶可夢的翻滾狂暴攻擊造成+30點傷害。該效果可以疊加。",
+      "value": "在這隻寶可夢離開戰鬥場前,這隻寶可夢的「越滾越勇」的傷害+30點。這個效果會重複。",
+      "rawOCR": "在這隻寶可夢離開戰門場前，這隻實可夢的「越滾越勇」的傷害 +30點。這個效果會重復。",
+      "candidateIndex": 19,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/107.ts",
+      "evidence": {
+        "sourceImageSha256": "62050a7058195426e2bda53dc5af39b2cd1df08425bc836c7d4205252f62ea9c",
+        "sourceImageBytes": 284258,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-A-111",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
+      "value": "擲1次硬幣若為正面,則增加30點傷害。",
+      "rawOCR": "換1次硬幣若為正面，則增加30點傷害。",
+      "candidateIndex": 39,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/111.ts",
+      "evidence": {
+        "sourceImageSha256": "dad056bcb38413819b8575ba0466692277590d8d41e22ba40acec13ddb812518",
+        "sourceImageBytes": 217106,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-A-114",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "翻轉4個硬幣。每出現1次正面，這個招式造成50點傷害。",
+      "value": "擲4次硬幣,造成正面出現的次數×50點傷害。",
+      "rawOCR": "摸4次硬幣，造成正面出現的次數×50點衛害。",
+      "candidateIndex": 44,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/114.ts",
+      "evidence": {
+        "sourceImageSha256": "8cf03e2ce5354bb1bf99713480e3f90c5c6adddfef406befe9c1ac3799f97e0d",
+        "sourceImageBytes": 305101,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-A-001",
+      "locale": "zh-tw",
+      "path": "effect",
+      "expectedCurrent": "治療你的 1 只神奇寶貝造成的 20 點傷害。",
+      "value": "將自己的1隻寶可夢恢復20HP。",
+      "rawOCR": "將自己的1隻寶可參恢復20HP。",
+      "candidateIndex": 49,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/001.ts",
+      "evidence": {
+        "sourceImageSha256": "1698589160859f6dabb0e7f8398909b70e0fb6a7d74db7a6e96a07d750a41cd1",
+        "sourceImageBytes": 175901,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-A-003",
+      "locale": "zh-tw",
+      "path": "effect",
+      "expectedCurrent": "你的對手亮出了他們的牌。",
+      "value": "查看對手所有手牌的正面。",
+      "rawOCR": "查看到手所有手牌的正面。",
+      "candidateIndex": 51,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/003.ts",
+      "evidence": {
+        "sourceImageSha256": "5e0e2aa33ad18c7fdbbd4ac5923b14d129f391fe940f5d8ff201c5ba47aca100",
+        "sourceImageBytes": 180608,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-A-020",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
+      "value": "擲1次硬幣若為反面,則這個招式失敗。",
+      "rawOCR": "換1次硬幣若為反面，則這個招式失敗。",
+      "candidateIndex": 70,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/020.ts",
+      "evidence": {
+        "sourceImageSha256": "0381dcf3d947b057171c94195a62336400aaf2d6c5ab593b597e6f02a55525f7",
+        "sourceImageBytes": 244727,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-A-022",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "你對手的活躍神奇寶貝現在處於睡眠狀態。",
+      "value": "將對手的戰鬥寶可夢睡眠。",
+      "rawOCR": "將對手的戰門寶可夢睡眠。",
+      "candidateIndex": 71,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/022.ts",
+      "evidence": {
+        "sourceImageSha256": "883dc024904571bdc784ac50916005d4508c034a7cf9c80643fcee7326297cf9",
+        "sourceImageBytes": 253984,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-A-048",
+      "locale": "fr",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Choisissez 2 de vos Pokémon de Banc. Pour chacun de ces Pokémon, prenez une Énergie {W} de votre zone Énergie et attachez-la à ce Pokémon.",
+      "value": "Choisissez 2 de vos Pokémon de Banc. Pour chacun de ces Pokémon, prenez une Énergie {W} de votre zone Énergie et attachez-la à ce Pokémon.",
+      "rawOCR": "Choisissez 2 de vos Pokémon de Banc. Pour chacun de ces Pokémon, prenez une Énergie 6 de votre zone Énergie et attachez-la à ce Pokémon.",
+      "candidateIndex": 91,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/048.ts"
+    },
+    {
+      "cardId": "P-A-048",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "選擇 2 個後備神奇寶貝。對於每一個神奇寶貝，從你的能量區獲取一個 {W} 能量並將其附加到該神奇寶貝上。",
+      "value": "選擇自己的2隻備戰寶可夢,從能量區抽出{W}能量,附給那些寶可夢各1個{W}能量。",
+      "rawOCR": "選擇自己的2隻備戰寶可夢，從能量區抽出事能量，附給那些實可 夢各1個6能量。",
+      "candidateIndex": 92,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/048.ts",
+      "evidence": {
+        "sourceImageSha256": "5c6749f9b53d9241dd3d80c03db3afc8cdeb9eeab2bb699caab5062b8d162251",
+        "sourceImageBytes": 295775,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-A-053",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "如果對手的活躍寶可夢受到傷害，則這次攻擊造成的傷害增加 60 點。",
+      "value": "若對手的戰鬥寶可夢有受到傷害,則增加60點傷害。",
+      "rawOCR": "若對手的戰門實可夢有受到傷害，則增加60點傷害",
+      "candidateIndex": 98,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/053.ts",
+      "evidence": {
+        "sourceImageSha256": "88b3bcac0b9d4bdb01ca5387a06eff92585b1f6e3625e2792698f9f4d6b29519",
+        "sourceImageBytes": 305080,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-A-068",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "拋一枚硬幣。如果出現正面，則丟棄對手的活躍神奇寶貝中的隨機能量。",
+      "value": "擲1次硬幣若為正面,則將對手的戰鬥寶可夢身上的隨機1個能量丟棄。",
+      "rawOCR": "換1次硬幣若為正面，則將對手的戰門寶可夢身上的隨機1個能量",
+      "candidateIndex": 108,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/068.ts",
+      "evidence": {
+        "sourceImageSha256": "61f6445b55b0636641f7d9484bbea5ed9e42ccebc635db2d9a4a3968657953b3",
+        "sourceImageBytes": 300580,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-A-069",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
+      "value": "擲1次硬幣若為反面,則這個招式失敗。",
+      "rawOCR": "換1次硬幣若為反面，則這個招式失敗。",
+      "candidateIndex": 109,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/069.ts",
+      "evidence": {
+        "sourceImageSha256": "320ae2b8fcbafd2cdcc73dec4fc276e2ceca1a0cce5f88c1e85284ab6af9343d",
+        "sourceImageBytes": 276821,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-A-073",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在被燒毀。",
+      "value": "擲1次硬幣若為正面,則將對手的戰鬥寶可夢灼傷。",
+      "rawOCR": "換1次硬幣若為正面，則將對手的戰門寶可夢灼傷。",
+      "candidateIndex": 112,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/073.ts",
+      "evidence": {
+        "sourceImageSha256": "0140a0c9b4bfbc1d15d23db2b803aa6d6ba2671f8c667515b1bd03fe8166cc24",
+        "sourceImageBytes": 297003,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-A-096",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "隨機丟棄對手手上的一張牌。",
+      "value": "從對手的手牌隨機抽出1張卡丟棄。",
+      "rawOCR": "從對手的手牌隨檢抽出1張卡丟棄",
+      "candidateIndex": 170,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/096.ts",
+      "evidence": {
+        "sourceImageSha256": "83ebecf6ff6aaa96942b6a3037321e7326c9bafa81057e5e15a9671c88ff3d9a",
+        "sourceImageBytes": 300081,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-B-002",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
+      "value": "擲1次硬幣若為反面,則這個招式失敗。",
+      "rawOCR": "換1次硬幣若為反面，則這個招式失敗。",
+      "candidateIndex": 183,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/002.ts",
+      "evidence": {
+        "sourceImageSha256": "e094e9751595f0ed7cf5b7df84c00cec7c01b184016f896f0d5d281320544468",
+        "sourceImageBytes": 285095,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-B-003",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "拋一枚硬幣。如果正面，則對手的戰鬥寶可夢現在處於麻痺狀態。",
+      "value": "擲1次硬幣若為正面,則將對手的戰鬥寶可夢麻痺。",
+      "rawOCR": "授1次硬幣若為正面，則將對手的戰門寶可夢麻痺。",
+      "candidateIndex": 187,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/003.ts",
+      "evidence": {
+        "sourceImageSha256": "a8837f98effa3689daff2d230c8e2df0ddb2b6395be8f0a420ecc01279e915a5",
+        "sourceImageBytes": 279457,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-B-006",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "翻轉 3 個硬幣。對於每個頭，丟棄對手的活躍寶可夢中的隨機能量。如果它們都是反面，則此攻擊不起作用。",
+      "value": "擲3次硬幣,將對手的戰鬥寶可夢身上的能量隨機丟棄與正面出現的次數相同的數量。若全部為反面,則這個招式失敗。",
+      "rawOCR": "換3次硬幣，將對手的戰門實可夢身上的能量隨機丟棄與正面出現 的次數相同的數量。若全部為反面，則這個招式失敗。",
+      "candidateIndex": 195,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/006.ts",
+      "evidence": {
+        "sourceImageSha256": "0d67e771f4f2953eb28730acf83c04dfeb4a76d0a772a5458b4003c78b5aa3ab",
+        "sourceImageBytes": 325669,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-B-014",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "翻轉 2 個硬幣。如果兩人都是正面，這次攻擊會造成額外 20 點傷害。",
+      "value": "擲2次硬幣,若全部為正面,則增加20點傷害。",
+      "rawOCR": "換2次硬幣，若全部為正面，則增加20點衛害。",
+      "candidateIndex": 216,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/014.ts",
+      "evidence": {
+        "sourceImageSha256": "5196634c18aa2a4b87182d2a55843216ba324efdcc2a589446a395b1e5c0dac8",
+        "sourceImageBytes": 301610,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-B-017",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "從你的牌組中隨機將一隻寶可夢放入你的手牌。",
+      "value": "從自己的牌庫隨機將1張寶可夢卡加入手牌。",
+      "rawOCR": "從自己的牌庫隨機將1張寶可夢卡加入手降。",
+      "candidateIndex": 224,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/017.ts",
+      "evidence": {
+        "sourceImageSha256": "c4a5e323ad46042d2d9c3035e4e0187e3041795378e273714f64cd9202735b6c",
+        "sourceImageBytes": 283611,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-B-019",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "翻轉 2 個硬幣。這次攻擊對每個頭造成 20 點傷害。",
+      "value": "擲2次硬幣,造成正面出現的次數×20點傷害。",
+      "rawOCR": "換2次硬幣，造成正面出現的次數×20點傷害。",
+      "candidateIndex": 231,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/019.ts",
+      "evidence": {
+        "sourceImageSha256": "efaf8124bdc4737148a214c8d8e3cbb5fedb1173c780193a03cfc494f0df82f5",
+        "sourceImageBytes": 281670,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-B-021",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
+      "value": "擲1次硬幣若為反面,則這個招式失敗。",
+      "rawOCR": "換1次硬幣若為反面，則這個招式失敗。",
+      "candidateIndex": 239,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/021.ts",
+      "evidence": {
+        "sourceImageSha256": "b0bebea580fb080abba30f888c2ba218199345120dbdee6913efa600d5a5ff8d",
+        "sourceImageBytes": 289095,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-B-022",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
+      "value": "擲1次硬幣若為正面,則增加30點傷害。",
+      "rawOCR": "換1次硬幣若為正面，則增加30點傷害。",
+      "candidateIndex": 243,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/022.ts",
+      "evidence": {
+        "sourceImageSha256": "4fa1b6fd4222fe447b23c65f0a7c17583b305671aff6de960f0448ab5faccf5f",
+        "sourceImageBytes": 296409,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-B-023",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "該寶可夢每附加 {M} 點能量，此攻擊就會造成 20 點額外傷害。",
+      "value": "增加這隻寶可夢身上的{M}能量的數量×20點傷害。",
+      "rawOCR": "增加這隻寶可夢身上的夕能量的數量×20點衛害。",
+      "candidateIndex": 245,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/023.ts",
+      "evidence": {
+        "sourceImageSha256": "e342f6fb2a6661e28051335d09535455b06f96e525d69e6960a33fb6878d58a7",
+        "sourceImageBytes": 296830,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-B-026",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
+      "value": "擲1次硬幣若為反面,則這個招式失敗。",
+      "rawOCR": "換1次硬幣若為反面，則這個招式失敗。",
+      "candidateIndex": 254,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/026.ts",
+      "evidence": {
+        "sourceImageSha256": "b8095fdb7437227947ce936983c0c31cce233dc2da424354aff2afbd24042b0f",
+        "sourceImageBytes": 276192,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-B-040",
+      "locale": "fr",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Défaussez la carte du dessus du deck de votre adversaire.",
+      "value": "Défaussez la première carte du dessus du deck de votre adversaire.",
+      "rawOCR": "Défaussez la première carte du dessus du deck de votre",
+      "candidateIndex": 286,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/040.ts",
+      "evidence": {
+        "sourceImageSha256": "a55bfb3f9feaae63dcc1034098a10f6f6194442c3ce080e2ecd5077c9f9846a5",
+        "sourceImageBytes": 288919,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-B-043",
+      "locale": "es",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Este Pokémon también se hace 10 daños a sí mismo.",
+      "value": "Este Pokémon también se hace 10 puntos de daño a sí mismo.",
+      "rawOCR": "Este Pokémon también se hace 10 puntos de daño a sí",
+      "candidateIndex": 294,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/043.ts",
+      "evidence": {
+        "sourceImageSha256": "4ba1a6804b18fa211271780852c981b99919fa1b12f33bfe88a643e0476b4988",
+        "sourceImageBytes": 223194,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-B-043",
+      "locale": "pt-br",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Este Pokémon também causa 10 de dano a si mesmo.",
+      "value": "Este Pokémon também causa 10 pontos de dano a si mesmo.",
+      "rawOCR": "Este Pokémon também causa 10 pontos de dano a si",
+      "candidateIndex": 295,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/043.ts",
+      "evidence": {
+        "sourceImageSha256": "a438e50d14b6c43f4e82267beca0f5064317570c1efe5c6839cf6057a462be9e",
+        "sourceImageBytes": 222708,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-B-055",
+      "locale": "es",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Lanza 2 monedas. Este ataque hace 100 de daño por cada cabeza.",
+      "value": "Lanza 2 monedas. Este ataque hace 100 puntos de daño por cada cara.",
+      "rawOCR": "Lanza 2 menedas. Este aráque hace 100 puntos de daño por cada cara.",
+      "candidateIndex": 327,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/055.ts",
+      "evidence": {
+        "sourceImageSha256": "093b1217e677f154a113e4f4e7f741b550e078cc055660a157d8a5bd10d2a605",
+        "sourceImageBytes": 355649,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-B-058",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
+      "value": "擲1次硬幣若為正面,則增加30點傷害。",
+      "rawOCR": "換1次硬幣若為正面，則增加30點傷害。",
+      "candidateIndex": 341,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/058.ts",
+      "evidence": {
+        "sourceImageSha256": "3c02898f06b61e0a9bbe6b9d498b2c2e6a44cfdfad1ca1c5245c0b00feb09cb0",
+        "sourceImageBytes": 269343,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-B-062",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "如果體育場正在進行中，則此攻擊會造成 70 點以上的傷害。",
+      "value": "若場上有競技場卡,則增加70點傷害。",
+      "rawOCR": "若場上有競技場卡，則增加70點衞害。",
+      "candidateIndex": 348,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/062.ts",
+      "evidence": {
+        "sourceImageSha256": "2301cf67ca2e6256af8341275612c4b566c465f1afa8d1a4ed248d2b11809def",
+        "sourceImageBytes": 309708,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-B-070",
+      "locale": "fr",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Prenez une Énergie aléatoire parmi les Énergies {G}, {R}, {W}, {L}, {P}, {F}, {D} et {M} de votre Zone d'Énergie et attachez-la à l'un de vos Pokémon de Banc.",
+      "value": "Prenez une Énergie au hasard parmi les Énergies {G}, {R}, {W}, {L}, {P}, {F}, {D} et {M} de votre zone Énergie et attachez‐la à un de vos Pokémon de Banc.",
+      "rawOCR": "Prenez une Energie au hasard parmi les Energies O. A. 6. 4. ©. I. U et ? de votre zone Energie et attachez-la à un de vos Pokémon de Banc.",
+      "candidateIndex": 371,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/070.ts",
+      "evidence": {
+        "sourceImageSha256": "2ae8a6b4063e77f2f31b238dbf35e82d148fc95d39dfd7cc63867de2af1fe893",
+        "sourceImageBytes": 305024,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-B-070",
+      "locale": "es",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Toma una Energía aleatoria de entre Energías {G}, {R}, {W}, {L}, {P}, {F}, {D} y {M} de tu Zona de Energía y únela a 1 de tus Pokémon en Banca.",
+      "value": "Une 1 Energía aleatoria de entre los tipos {G}, {R}, {W}, {L}, {P}, {F}, {D} y {M} de tu área de Energía a 1 de tus Pokémon en Banca.",
+      "rawOCR": "Une 1 Energia aleatoria de entre los tipos e 4.0 #. y 9 de tu área de Energia a 1 de tus Pokémon en Banca.",
+      "candidateIndex": 372,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/070.ts",
+      "evidence": {
+        "sourceImageSha256": "b92e2eb4db3b5cf3b4eb6a6fe8e201e2095ae2caaef898df14c41b04e3fb5149",
+        "sourceImageBytes": 304411,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-B-075",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "對手的活躍寶可夢身上每附加一個能量，此攻擊就會造成 30 點額外傷害。",
+      "value": "增加對手的戰鬥寶可夢身上的能量的數量×30點傷害。",
+      "rawOCR": "增加對手的戰鬥寶可夢身上的能量的數量x30點修害。",
+      "candidateIndex": 388,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/075.ts",
+      "evidence": {
+        "sourceImageSha256": "fe918e61f1f04322a7bbc6c9b63ec67684b6337146641407ac9fddb4bc6a2b69",
+        "sourceImageBytes": 299803,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-B-078",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "此攻擊對你所有寶可夢上附加的每個寶可夢工具造成 30 點傷害。",
+      "value": "造成自己的所有寶可夢身上的「寶可夢道具」卡的數量×30點傷害。",
+      "rawOCR": "造成自己的所有實可夢身上的「寶可夢道具」卡的數量×30點傷",
+      "candidateIndex": 395,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/078.ts",
+      "evidence": {
+        "sourceImageSha256": "2e4c1759223d85689fdfdf707a212c2db6546bb1f4ff5736c51ee5ef40fd73ef",
+        "sourceImageBytes": 224386,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-A-107",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Miltank produit du lait très nutritif, c'est donc\nsoutenu la vie des gens et d'autres\nPokémon depuis l'Antiquité.",
+      "value": "Grâce à son lait très nutritif, Écrémeuh contribue depuis longtemps au bien-être des humains et des Pokémon.",
+      "rawOCR": "*** Grace à son lait très nutritif, Écrémeuh contribue depuis longcemps au bien-cire des humains et des Pokemon",
+      "candidateIndex": 416,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/107.ts",
+      "evidence": {
+        "sourceImageSha256": "dedf72b2a0836017aadae36f33243f2e0599e6c566dc0ec8e59340a37985514d",
+        "sourceImageBytes": 287380,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-A-075",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Le corps de cette Ultra Beast, qui est aussi mince\ncomme le papier, c'est comme une épée aiguisée.",
+      "value": "Le corps de cette Ultra-Chimère semble fin comme du papier, mais il est aussi tranchant qu'un sabre affûté.",
+      "rawOCR": "Le corps de cette Ultra-Chimère semble fin comme du manier. mais i est ause tranchant au un sabre affute",
+      "candidateIndex": 458,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/075.ts",
+      "evidence": {
+        "sourceImageSha256": "8ae6bf5260a439d26d2a54c8ca9d292d621aa3749aab0c8bb542b1d316ff11d6",
+        "sourceImageBytes": 279096,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-A-082",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Cette Ultra Beast est assez appréciée pour être\nchoisi comme premier partenaire dans son propre monde.",
+      "value": "Dans son monde, cette Ultra-Chimère est fort appréciée pour son naturel conciliant, qui fait d'elle un compagnon de voyage idéal.",
+      "rawOCR": "Dans son monde, cette Ultra-Chimere est fort apprés de pour son nature concilant. qui fer delle un compignon de voyage idéal,",
+      "candidateIndex": 473,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/082.ts",
+      "evidence": {
+        "sourceImageSha256": "19cc3bf6ad499bd2fc3eddeb175a4f09bd263d5842278f812943be523de972fe",
+        "sourceImageBytes": 317969,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-A-095",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Sus antenas, que evolucionaron a partir de una aleta, tienen ambas\ncargas positivas y negativas que fluyen a través de ellos.",
+      "value": "Sus otrora dos aletas han evolucionado a las actuales antenas y ambas tienen carga positiva y negativa.",
+      "rawOCR": "Sus otrora dos aletas han evolucionado a las actuales antenas y amos Denen Carga positiva y negadva",
+      "candidateIndex": 510,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/095.ts",
+      "evidence": {
+        "sourceImageSha256": "e405abd72ccbfef4898967720c844baf3a2a0a51c443880dd7b45f31b2d864cd",
+        "sourceImageBytes": 247116,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-A-097",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Aunque lleva a su bebé en una bolsa\nsu vientre, Kangaskhan es veloz de pies. eso\nintimida a sus oponentes con golpes rápidos.",
+      "value": "Aunque lleve una cría en el marsupio, su juego de pies no pierde ligereza. Abruma al rival con ráfagas de ágiles puñetazos.",
+      "rawOCR": "* * * Aunque leve una cría en el marsupio, su ucto de pies no pierac pereza. Abruma al rival con ráfagas de ágiles puñetazos.",
+      "candidateIndex": 515,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/097.ts",
+      "evidence": {
+        "sourceImageSha256": "61c1edcfd571dac0807dcf211d3e4d8743c687a310949b4186adb14cf59d6c6e",
+        "sourceImageBytes": 314339,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-B-097",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Vive en agujeros en las cuevas, al amparo del calor geotérmico. Si se acerca un enemigo, se abalanza sobre él y lo muerde con su gran boca.",
+      "value": "Vive en agujeros en las cuevas, al amparo del calor geotérmico. Si se acerca un enemigo, le muerde.",
+      "rawOCR": "Vive en agujeros en las cuevas, al amparo del calor geotérmico. Si se acerca un enemigo, se",
+      "candidateIndex": 542,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/097.ts",
+      "evidence": {
+        "sourceImageSha256": "26e47ae241f6a2edf3e70a897ea863c287f321f79287fdb389e74a4360d557ab",
+        "sourceImageBytes": 255286,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    },
+    {
+      "cardId": "P-B-098",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Toujours à la recherche d'objets brillants, il arpente les grottes pour amasser son butin.",
+      "value": "Toujours à la recherche d’objets brillants, il arpente les grottes pour amasser son butin.",
+      "rawOCR": "Toujours à la recherche d'objets brillanes. arpente les grottes pour amasser son butin",
+      "candidateIndex": 543,
+      "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/098.ts",
+      "evidence": {
+        "sourceImageSha256": "0a2e9cd983a59d7a54ee8ca5f489e968a1be5c5a417d09e262dc0f094dfd568e",
+        "sourceImageBytes": 299321,
+        "review": "Manually compared candidate with native OCR; reviewed semantic conditions, numbers, energy icons and OCR misreads. A048 French count grammar and B098 French flavor use native card wording over incorrect renderer/corpus output."
+      }
+    }
+  ]
+}

@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/048",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/048",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/048",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/048",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/048",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/048",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/048",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/048",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/048"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/048/8cee929219140945",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/048/8cee929219140945",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/048/8cee929219140945",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/048/8cee929219140945",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/048/8cee929219140945",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/048/8cee929219140945",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/048/8cee929219140945",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/048/8cee929219140945",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/048/8cee929219140945"
     },
     name: {
         en: "Wigglytuff",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "プクリン"
     },
     illustrator: "Mizue",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     hp: 110,
     types: ["Colorless"],
@@ -45,12 +45,12 @@ const card: Card = {
     stage: "Stage1",
     description: {
         en: "The rich, fluffy fur that covers its body feels so good that anyone who feels it can’t stop touching it.",
-        fr: "La fourrure riche et moelleuse qui recouvre son corps est si agréable que quiconque la sent ne peut s'empêcher de la toucher.",
-        es: "El pelaje rico y esponjoso que cubre su cuerpo se siente tan bien que cualquiera que lo siente no puede dejar de tocarlo.",
-        it: "La pelliccia ricca e soffice che ricopre il suo corpo è così bella che chiunque la senta non può smettere di toccarla.",
-        de: "Das üppige, flauschige Fell, das seinen Körper bedeckt, fühlt sich so gut an, dass jeder, der es spürt, nicht aufhören kann, es zu berühren.",
-        "pt-br": "O pelo rico e fofo que cobre seu corpo é tão gostoso que qualquer um que o sente não consegue parar de tocá-lo.",
-        "zh-tw": "覆蓋它身體的濃密蓬鬆的皮毛感覺非常好，任何摸到它的人都會忍不住去觸摸它。",
+        fr: "Sa fourrure est si douce et soyeuse que si on la caresse, on ne veut ni ne peut s'arrêter.",
+        es: "Es como un peluche suave, tan agradable al tacto que, cuando alguien lo toca, no puede dejar de acariciarlo.",
+        it: "Il suo folto pelo è così morbido che chiunque lo tocchi non può fare a meno di continuare ad accarezzarlo.",
+        de: "Sein dichtes, flauschiges Fell fühlt sich so toll an, dass man nicht aufhören kann, es anzufassen.",
+        "pt-br": "A pelagem densa e macia que cobre seu corpo é tão agradável que é impossível não querer tocá-la o tempo todo.",
+        "zh-tw": "膨膨鬆鬆的體毛觸感絕佳，會令人一摸就捨不得鬆手。",
         ja: "ふわふわの 体毛に 触ると 手触りが とても 良いので 離れられなくなってしまう。",
         ko: "푹신푹신한 털을 만지면\n감촉이 아주 좋아서\n떨어지지 못하게 된다고 한다."
     },

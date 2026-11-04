@@ -4,13 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/051",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/051",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/051",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/051",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/051",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/051",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/051"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/051/746354d59320223f",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/051/746354d59320223f",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/051/746354d59320223f",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/051/746354d59320223f",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/051/746354d59320223f",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/051/746354d59320223f",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/051/746354d59320223f",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/051/746354d59320223f",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/051/746354d59320223f"
     },
     name: {
         en: "Zygarde",
@@ -24,7 +26,7 @@ const card: Card = {
         ja: "ジガルデ"
     },
     illustrator: "Akira Komayama",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     hp: 80,
     types: ["Fighting"],
@@ -32,12 +34,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "Born when around 10% of Zygarde’s cells have been gathered from all over, this form is skilled in close-range combat.",
-        fr: "Née lorsqu'environ 10 % des cellules de Zygarde ont été rassemblées partout, cette forme est habile au combat rapproché.",
-        es: "Nacida cuando alrededor del 10% de las células de Zygarde se han reunido de todas partes, esta forma es experta en combates a corta distancia.",
-        it: "Nata quando circa il 10% delle cellule di Zygarde è stata raccolta da ogni parte, questa forma è abile nel combattimento a distanza ravvicinata.",
-        de: "Diese Form wurde geboren, als etwa 10 % der Zellen von Zygarde von überall her gesammelt wurden, und ist im Nahkampf geübt.",
-        "pt-br": "Nascida quando cerca de 10% das células de Zygarde foram coletadas de todos os lugares, esta forma é hábil em combate de curta distância.",
-        "zh-tw": "當基格爾德的細胞從各地收集到10%左右時誕生，這種形態擅長近距離戰鬥。",
+        fr: "La forme que Zygarde prend lorsqu'il rassemble 10 % de ses Cellules éparpillées un peu partout. Il excelle au combat au corps-à-corps.",
+        es: "Zygarde adopta esta forma al reunir el 10% de sus células. Destaca en el combate a corta distancia.",
+        it: "Forma di Zygarde derivante dall'aggregazione del 10% delle sue cellule sparse nel mondo. Eccelle nelle lotte corpo a corpo.",
+        de: "Diese Form nimmt es an, wenn 10 % seiner Zellen gesammelt wurden. Das Spezialgebiet von diesem Pokémon ist der Nahkampf.",
+        "pt-br": "Esta forma especializada em combates a curta distância nasce quando cerca de 10% das células de Zygarde se reúnem de todas as partes.",
+        "zh-tw": "各地的基格爾德・細胞聚集了10%之後所誕生。擅長近距離戰鬥。",
         ja: "各地の ジガルデ・セルが 10% 集まったとき 生まれる。 接近戦が 得意だぞ。",
         ko: "각지의 지가르데 셀이\n10% 모였을 때 태어난다.\n접근전이 특기다."
     },

@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/057",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/057",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/057",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/057",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/057",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/057",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/057",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/057",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/057"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/057/561de1cd2b2f304b",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/057/561de1cd2b2f304b",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/057/561de1cd2b2f304b",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/057/561de1cd2b2f304b",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/057/561de1cd2b2f304b",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/057/561de1cd2b2f304b",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/057/561de1cd2b2f304b",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/057/561de1cd2b2f304b",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/057/561de1cd2b2f304b"
     },
     name: {
         en: "Castform Sunny Form",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "ポワルンたいようのすがた"
     },
     illustrator: "Yuka Morii",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     hp: 70,
     types: ["Fire"],
@@ -34,12 +34,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "Castform changes to this form when it basks in bright sunlight. When you touch its glowing skin, it feels all dried out!",
-        fr: "Morphéo prend cette forme lorsqu'il se prélasse en plein soleil. Lorsque vous touchez sa peau éclatante, elle est toute desséchée !",
-        es: "Castform cambia a esta forma cuando disfruta de la luz del sol. Cuando tocas su piel resplandeciente, ¡se siente toda seca!",
-        it: "Castform assume questa forma quando si crogiola alla luce del sole. Quando tocchi la sua pelle luminosa, sembra tutta secca!",
-        de: "Formeo nimmt diese Form an, wenn es sich in hellem Sonnenlicht sonnt. Wenn man seine strahlende Haut berührt, fühlt es sich völlig ausgetrocknet an!",
-        "pt-br": "Castform muda para esta forma quando se aquece sob a luz solar intensa. Quando você toca sua pele brilhante, ela fica toda seca!",
-        "zh-tw": "當飄浮泡泡沐浴在明亮的陽光下時，它會變成這種形式。當你觸摸它發光的皮膚時，感覺整個人都乾了！",
+        fr: "Morphéo adopte cette apparence lorsqu'il y a du soleil. Son corps rougeoyant est très sec au toucher.",
+        es: "Castform adopta esta forma cuando hace sol. Su cuerpo ardiente es muy reseco al tacto.",
+        it: "Castform assume questa forma quando viene scaldato dai raggi del sole. Il suo corpo ardente è molto secco al tatto.",
+        de: "Diese Gestalt nimmt Formeo bei einem heißen Sonnenbad an. Sein glühender Körper fühlt sich sehr trocken an.",
+        "pt-br": "Castform muda a sua forma ao tomar banho de sol. Quando você toca a sua pele brilhante, ela parece ressecada!",
+        "zh-tw": "暴露在烈日下就會變成這個樣子。如果去摸牠熱烘烘的身體，會感覺到乾巴巴的。",
         ja: "暑い 日差しを 浴びていると この姿に 変わる。 火照った 身体を 触ると パサパサするぞ。",
         ko: "뜨거운 햇볕을 받고 있으면\n이 모습으로 변한다. 화끈한\n몸을 만지면 건조해진다."
     },
@@ -59,12 +59,12 @@ const card: Card = {
             },
             effect: {
                 en: "If a Stadium is in play, your opponent's Active Pokémon is now Burned.",
-                fr: "Si un Stade est en jeu, le Pokémon Actif de votre adversaire est désormais Brûlé.",
-                es: "Si hay un Estadio en juego, el Pokémon Activo de tu rival ahora está Quemado.",
-                it: "Se è in gioco uno Stadio, il Pokémon attivo del tuo avversario viene bruciato.",
-                de: "Wenn ein Stadion im Spiel ist, ist das Aktive Pokémon deines Gegners jetzt verbrannt.",
-                "pt-br": "Se um Estádio estiver em jogo, o Pokémon Ativo do seu oponente estará Queimado.",
-                "zh-tw": "如果體育場正在進行中，對手的活躍寶可夢現在會被燒毀。",
+                fr: "Si un Stade est en jeu, le Pokémon Actif de votre adversaire est maintenant Brûlé.",
+                es: "Si hay un Estadio en juego, el Pokémon Activo de tu rival pasa a estar Quemado.",
+                it: "Se c’è in gioco una carta Stadio, il Pokémon attivo del tuo avversario viene bruciato.",
+                de: "Wenn eine Stadionkarte im Spiel ist, ist das Aktive Pokémon deines Gegners jetzt verbrannt.",
+                "pt-br": "Se um Estádio estiver em jogo, o Pokémon Ativo do seu oponente agora estará Queimado.",
+                "zh-tw": "若場上有競技場卡,則將對手的戰鬥寶可夢灼傷。",
                 ja: "場にスタジアムが出ているなら、相手のバトルポケモンをやけどにする。",
                 ko: "필드에 스타디움이 나와 있다면 상대의 배틀 포켓몬을 화상으로 만든다."
             },

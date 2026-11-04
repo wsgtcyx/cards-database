@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/023",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/023",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/023",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/023",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/023",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/023",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/023",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/023",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/023"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/023/867bf535cc4393f4",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/023/867bf535cc4393f4",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/023/867bf535cc4393f4",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/023/867bf535cc4393f4",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/023/867bf535cc4393f4",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/023/867bf535cc4393f4",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/023/867bf535cc4393f4",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/023/867bf535cc4393f4",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/023/867bf535cc4393f4"
     },
     name: {
         en: "Bulbasaur",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "妙蛙種子"
     },
     illustrator: "Kouki Saitou",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     types: ["Grass"],
     stage: "Basic",
@@ -54,7 +54,7 @@ const card: Card = {
         'pt-br': "Este Pokémon já nasce com uma semente\nnas costas. Aos poucos, a semente cresce.",
         ja: "生まれたときから 背中に 植物の タネが あって 少しずつ 大きく 育つ。",
         ko: "태어났을 때부터 등에\n식물의 씨앗이 있으며\n조금씩 크게 자란다.",
-        "zh-tw": "它的背上有一粒植物種子\n這只神奇寶貝誕生的那一天。種子慢慢地\n變大。"
+        "zh-tw": "從出生的時候開始背上就有一顆植物種子。這顆種子會漸漸地長大。"
     },
     weaknesses: [{
             type: "Fire",

@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/066",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/066",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/066",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/066",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/066",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/066",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/066",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/066",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/066"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/066/063c079ea4cdf76c",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/066/063c079ea4cdf76c",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/066/063c079ea4cdf76c",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/066/063c079ea4cdf76c",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/066/063c079ea4cdf76c",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/066/063c079ea4cdf76c",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/066/063c079ea4cdf76c",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/066/063c079ea4cdf76c",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/066/063c079ea4cdf76c"
     },
     name: {
         en: "Ceruledge ex",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "ソウブレイズex"
     },
     illustrator: "PLANETA Yamashita",
-    rarity: "None",
+    rarity: "Four Diamond",
     category: "Pokemon",
     hp: 150,
     types: ["Psychic"],
@@ -48,23 +48,23 @@ const card: Card = {
             cost: ["Psychic", "Colorless"],
             name: {
                 en: "Shimmering Slash",
-                fr: "Entaille chatoyante",
-                es: "Tajo brillante",
-                it: "Taglio scintillante",
+                fr: "Lame Chatoyante",
+                es: "Corte Destello",
+                it: "Fendente Spettrale",
                 de: "Schimmernder Schlitz",
-                "pt-br": "Corte Cintilante",
+                "pt-br": "Talho Brilhante",
                 "zh-tw": "陽炎斬",
                 ja: "かげろうぎり",
                 ko: "아지랑이베기"
             },
             effect: {
                 en: "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's).",
-                fr: "Défaussez une Énergie aléatoire parmi les Énergies attachées à tous les Pokémon (le vôtre et celui de votre adversaire).",
-                es: "Descarta una Energía aleatoria de entre las Energías unidas a todos los Pokémon (tanto los tuyos como los de tu rival).",
-                it: "Scarta un'Energia casuale tra quelle assegnate a tutti i Pokémon (sia i tuoi che quelli del tuo avversario).",
-                de: "Lege eine zufällige Energie von der Energie ab, die an alle Pokémon (sowohl deines als auch die deines Gegners) angelegt ist.",
-                "pt-br": "Descarte uma Energia aleatória dentre as Energias ligadas a todos os Pokémon (seus e do seu oponente).",
-                "zh-tw": "從所有寶可夢（你的和對手的）所附帶的能量中隨機丟棄一個能量。",
+                fr: "Défaussez une Énergie au hasard parmi celles attachées à tous les Pokémon en jeu (les vôtres et ceux de votre adversaire).",
+                es: "Descarta 1 Energía aleatoria de entre las Energías unidas a todos los Pokémon (tanto tuyos como de tu rival).",
+                it: "Rimuovi un’Energia a caso fra quelle assegnate a tutti i Pokémon, sia tuoi che del tuo avversario.",
+                de: "Lege 1 zufällige Energie von allen Energien, die an alle Pokémon (deine und die deines Gegners) angelegt sind, ab.",
+                "pt-br": "Descarte 1 Energia aleatória dentre as Energias ligadas a todos os Pokémon (seus e do seu oponente).",
+                "zh-tw": "從雙方的所有寶可夢身上附加的能量中隨機丟棄1個能量。",
                 ja: "おたがいのポケモン全員についているエネルギーからランダムに1個トラッシュ。",
                 ko: "서로의 포켓몬 전원에게 붙어 있는 에너지에서 랜덤으로 1개 트래쉬한다."
             },

@@ -13,12 +13,14 @@ function localized(value) {
 	return `{ ${locales.map(locale => `${JSON.stringify(locale)}: ${value}`).join(', ')} }`
 }
 
-function runFixture(mechanic, abilities) {
+function runFixture(mechanic, abilities, duplicateTitle = false, referenceTitle = false) {
 	const temporaryRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'pocket-relations-audit-'))
 	const data = path.join(temporaryRoot, 'data')
 	const set = path.join(data, 'Test Set')
 	fs.mkdirSync(set, { recursive: true })
 	fs.writeFileSync(path.join(set, '001.ts'), `const dynamicEffect = 'Effect'\nconst ability = { name: ${localized("'Test Ability'")}, effect: ${localized("'Effect'")} }\nconst card = { name: ${localized("'Testmon'")}, abilities: ${abilities ?? `[{ name: ${localized("'Test Ability'")}, ${mechanic} }]`} }\nexport default card\n`)
+	if (duplicateTitle) fs.writeFileSync(path.join(set, '002.ts'), `const card = { name: ${localized("'Testmon'").replace('"it": \'Testmon\'', '"it": \'Test-mon\'')} }`)
+	if (referenceTitle) fs.writeFileSync(path.join(set, '003.ts'), `const card = { name: ${localized("'Evolution'")}, evolveFrom: ${localized("'Testmon'")} }`)
 	const source = fs.readFileSync(path.join(root, 'scripts/fix-pocket-card-relations.mjs'), 'utf8')
 		.replace("const ROOT = path.resolve(import.meta.dirname, '..')", 'const ROOT = process.cwd()')
 		.replace("const DATA = path.join(ROOT, 'data/Pokémon TCG Pocket')", 'const DATA = process.env.RELATION_FIXTURE_DATA')
@@ -39,6 +41,14 @@ test('Pocket card relation metadata is clean and the fixer is idempotent', () =>
 	assert.equal(report.mechanicChanges, 0)
 	assert.equal(report.evolveFromChanges, 0)
 	assert.equal(report.totalChanges, 0)
+})
+
+test('title variants are allowed until used as an ambiguous evolution target', () => {
+	const mechanic = `effect: ${localized("'Effect'")}`
+	assert.equal(runFixture(mechanic, undefined, true).status, 0)
+	const ambiguous = runFixture(mechanic, undefined, true, true)
+	assert.notEqual(ambiguous.status, 0)
+	assert.match(ambiguous.stderr, /expected one it name, found 2/)
 })
 
 test('Pocket mechanic audit fails closed on missing and non-literal Ability effects', () => {
