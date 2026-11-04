@@ -1,0 +1,1479 @@
+[
+  {
+    "cardId": "P-C-001",
+    "locale": "en",
+    "sourceImageSha256": "b58197f56ab885fae0a36383d8dffac190c72c8700f4e74156dcfe2bd4da5b33",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/1_en.png",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9140624998828125,
+          "x": 0.04347825706521746,
+          "width": 0.3804347826086957,
+          "height": 0.04296875
+        },
+        "text": "BASIC Pikachu",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9101562503125,
+          "x": 0.744565219347826,
+          "width": 0.19565217391304357,
+          "height": 0.046875
+        },
+        "text": "HP60 4",
+        "confidence": 0.5
+      },
+      {
+        "box": {
+          "y": 0.3105507675162542,
+          "x": 0.30390294911388477,
+          "width": 0.31610714870950446,
+          "height": 0.042960964143276215
+        },
+        "text": "Thunder Jolt",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.28125000043945314,
+          "x": 0.05978260258152191,
+          "width": 0.717391304347826,
+          "height": 0.03515625
+        },
+        "text": "This Pokémon also does 10 damage to itself.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.32031250019531243,
+          "x": 0.8586956526785714,
+          "width": 0.07065217391304346,
+          "height": 0.03515625
+        },
+        "text": "30",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937500014204549,
+          "x": 0.28260869567687746,
+          "width": 0.125,
+          "height": 0.03125
+        },
+        "text": "@+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593750019531243,
+          "x": 0.054347829166666556,
+          "width": 0.18478260869565216,
+          "height": 0.01953125
+        },
+        "text": "Not ovent Sate",
+        "confidence": 0.5
+      },
+      {
+        "box": {
+          "y": 0.04296875013020829,
+          "x": 0.5760869614130434,
+          "width": 0.2934782608695652,
+          "height": 0.0234375
+        },
+        "text": "Soild and saose helmen",
+        "confidence": 0.5
+      }
+    ],
+    "language": "en-US"
+  },
+  {
+    "cardId": "P-C-002",
+    "locale": "en",
+    "sourceImageSha256": "8a0b79ca6d1f7129742a8f4d45dd358910be7101f3f7c1861beb6195d2e55931",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/2_en.png",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9218750002441406,
+          "x": 0.04347826222826083,
+          "width": 0.10869565217391304,
+          "height": 0.02734375
+        },
+        "text": "BASIC",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.906250000390625,
+          "x": 0.14130435347826073,
+          "width": 0.5652173913043478,
+          "height": 0.0546875
+        },
+        "text": "• Mega Mewtwo Y eX",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9140625001953124,
+          "x": 0.7065217413043478,
+          "width": 0.17391304347826086,
+          "height": 0.0390625
+        },
+        "text": "HP 170",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8828124999812199,
+          "x": 0.6521739132995401,
+          "width": 0.29891304347826086,
+          "height": 0.01953125
+        },
+        "text": "The Mega-Evolved form of",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.32812500023437496,
+          "x": 0.3043478298369564,
+          "width": 0.375,
+          "height": 0.0390625
+        },
+        "text": "Psychic Blaster",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.33593750019531243,
+          "x": 0.8586956528726708,
+          "width": 0.09782608695652173,
+          "height": 0.03515625
+        },
+        "text": "60*",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3007812501464844,
+          "x": 0.07065218464673892,
+          "width": 0.8586956521739131,
+          "height": 0.02734375
+        },
+        "text": "Flip a coin for each ® Energy attached to this Pokémon.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2656249996582032,
+          "x": 0.07065217595108687,
+          "width": 0.6847826086956522,
+          "height": 0.02734375
+        },
+        "text": "This attack does 60 damage for each heads.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937500019531243,
+          "x": 0.2826086966938406,
+          "width": 0.12499999999999994,
+          "height": 0.03125
+        },
+        "text": "•+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08984375019531243,
+          "x": 0.08152176036602407,
+          "width": 0.21739128361577573,
+          "height": 0.01171875
+        },
+        "text": "los. PLANETA Yamashila",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07031250013020829,
+          "x": 0.3641304394021737,
+          "width": 0.27717391304347827,
+          "height": 0.0234375
+        },
+        "text": "Mega Evolution eX rule",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07031250019531243,
+          "x": 0.663043488335186,
+          "width": 0.09782607659049658,
+          "height": 0.01171875
+        },
+        "text": "Then Youn",
+        "confidence": 0.5
+      },
+      {
+        "box": {
+          "y": 0.04687499980468757,
+          "x": 0.41847825271739153,
+          "width": 0.4891304347826088,
+          "height": 0.01953125
+        },
+        "text": "on eXis Knocked Out. Out.go.r goopsert gets 3 ponts",
+        "confidence": 1
+      }
+    ],
+    "language": "en-US"
+  },
+  {
+    "cardId": "P-C-003",
+    "locale": "en",
+    "sourceImageSha256": "b30cbfe7b367a126c2c43ffb62faab69ca53507a4aa76aca7c354d9620105420",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/3_en.png",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9335937500434028,
+          "x": 0.048913043206521734,
+          "width": 0.09782608695652173,
+          "height": 0.015625
+        },
+        "text": "BASIC",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9070828634121514,
+          "x": 0.17817075641279628,
+          "width": 0.24108660739401105,
+          "height": 0.044109541922807693
+        },
+        "text": "Deoxys",
+        "confidence": 0.5
+      },
+      {
+        "box": {
+          "y": 0.9140625001953124,
+          "x": 0.7173913056159419,
+          "width": 0.15217391304347827,
+          "height": 0.0390625
+        },
+        "text": "HP 100",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.5039062501953124,
+          "x": 0.29347830171030925,
+          "width": 0.4021738715793775,
+          "height": 0.01171875
+        },
+        "text": "NO. 0386 DINA Pokimon HT: 57' WT: 134 s",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.33203124956054686,
+          "x": 0.30978260645380434,
+          "width": 0.33152173913043476,
+          "height": 0.03515625
+        },
+        "text": "Psycho Boost",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.33593749980468757,
+          "x": 0.8369565210791926,
+          "width": 0.09239130434782605,
+          "height": 0.03515625
+        },
+        "text": "100",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3007812501464844,
+          "x": 0.07608696725543457,
+          "width": 0.8586956521739131,
+          "height": 0.02734375
+        },
+        "text": "During your next turn, this Pokémon's Psycho Boost",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2656250001464844,
+          "x": 0.07065217751358688,
+          "width": 0.28804347826086957,
+          "height": 0.02734375
+        },
+        "text": "does -50 damage.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937500019531243,
+          "x": 0.2826086966938406,
+          "width": 0.12499999999999994,
+          "height": 0.03125
+        },
+        "text": "•+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08984375009765622,
+          "x": 0.07065218317214282,
+          "width": 0.16304346789484436,
+          "height": 0.01171875
+        },
+        "text": "Ilos. Saya Iswufa",
+        "confidence": 0.5
+      },
+      {
+        "box": {
+          "y": 0.08203125019531243,
+          "x": 0.483695650895096,
+          "width": 0.44021734984024713,
+          "height": 0.01171875
+        },
+        "text": "An aren virus that tell to earth on a meteor",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.06249999980468757,
+          "x": 0.5217391715472657,
+          "width": 0.40760865418807324,
+          "height": 0.01171875
+        },
+        "text": "underwent a DNA mutation to become",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.03515624980468757,
+          "x": 0.7771739105072465,
+          "width": 0.15217391304347827,
+          "height": 0.01953125
+        },
+        "text": "this Pokémon.",
+        "confidence": 1
+      }
+    ],
+    "language": "en-US"
+  },
+  {
+    "cardId": "P-C-004",
+    "locale": "en",
+    "sourceImageSha256": "38604fe2e001f29f2deea387b9364e00c27db19b1c0bf24dc626a7e4074a7a82",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/4_en.png",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9257812502604167,
+          "x": 0.04891304528985501,
+          "width": 0.10869565217391303,
+          "height": 0.0234375
+        },
+        "text": "BASIC",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9062499995312501,
+          "x": 0.15217391483695647,
+          "width": 0.20108695652173914,
+          "height": 0.046875
+        },
+        "text": "JInkay",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9140625001953124,
+          "x": 0.744565218432971,
+          "width": 0.125,
+          "height": 0.0390625
+        },
+        "text": "HP 60",
+        "confidence": 0.5
+      },
+      {
+        "box": {
+          "y": 0.5000000001953124,
+          "x": 0.2771739203804346,
+          "width": 0.44021739130434784,
+          "height": 0.01953125
+        },
+        "text": "NO. 0686 Revolving Pokimon HT: 14° WT: 77 Bbs.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.31127852219533303,
+          "x": 0.3038894527720353,
+          "width": 0.19656892444776453,
+          "height": 0.04150545597076416
+        },
+        "text": "Perplex",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.28125000023437496,
+          "x": 0.07065218211956509,
+          "width": 0.8206521739130435,
+          "height": 0.03125
+        },
+        "text": "Your opponent's Active Pokémon is now Confused.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937499980468757,
+          "x": 0.2826086946105072,
+          "width": 0.125,
+          "height": 0.03125
+        },
+        "text": "•+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.06640625039062498,
+          "x": 0.45652174347826074,
+          "width": 0.47826086956521746,
+          "height": 0.0234375
+        },
+        "text": "It protects ieself from tough foes by flashing its",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.046875,
+          "x": 0.5326086968190088,
+          "width": 0.3913043063619862,
+          "height": 0.015625
+        },
+        "text": "luminescent spots to discourage them",
+        "confidence": 1
+      }
+    ],
+    "language": "en-US"
+  },
+  {
+    "cardId": "P-C-005",
+    "locale": "en",
+    "sourceImageSha256": "954e3baa4b96ea7e9fe16c9c93e87e77f7395e1abdd9471002e72ba96443676e",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/5_en.png",
+    "lines": [
+      {
+        "box": {
+          "y": 0.914062499921875,
+          "x": 0.03260869141304355,
+          "width": 0.4239130434782608,
+          "height": 0.0390625
+        },
+        "text": "STAGET Malamar",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8857090213030097,
+          "x": 0.16751435274846985,
+          "width": 0.14841058979863705,
+          "height": 0.02121904492378235
+        },
+        "text": "Evolves from inky",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9140625001953124,
+          "x": 0.7445652189538042,
+          "width": 0.125,
+          "height": 0.0390625
+        },
+        "text": "HP 90",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.5039062501953124,
+          "x": 0.25543482752552615,
+          "width": 0.4836956107098124,
+          "height": 0.01171875
+        },
+        "text": "NO. 0587 Overturning Pokimon HT: 411 WT: 103.6 b",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3320312494140625,
+          "x": 0.3097826152173911,
+          "width": 0.4021739130434782,
+          "height": 0.03515625
+        },
+        "text": "Pester the Dizzy",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.33593749980468757,
+          "x": 0.8641304338586957,
+          "width": 0.09239130434782605,
+          "height": 0.03515625
+        },
+        "text": "10+",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.30078125019531243,
+          "x": 0.07065218831521693,
+          "width": 0.8641304347826088,
+          "height": 0.02734375
+        },
+        "text": "If your opponent's Active Pokémon is Confused, this",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.26562499980468757,
+          "x": 0.06521738342391332,
+          "width": 0.4728260869565217,
+          "height": 0.02734375
+        },
+        "text": "attack does 90 more damage.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937499980468757,
+          "x": 0.2826086946105072,
+          "width": 0.125,
+          "height": 0.03125
+        },
+        "text": "•+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08984375009765622,
+          "x": 0.07065218957798139,
+          "width": 0.21195650100708005,
+          "height": 0.01171875
+        },
+        "text": "Ilos. Tomokazu Komiya",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07812500014648438,
+          "x": 0.483695657744565,
+          "width": 0.44565217391304346,
+          "height": 0.01953125
+        },
+        "text": "Its hypnotic powers are dangerously strong.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.06249999980468757,
+          "x": 0.4945652598624829,
+          "width": 0.4347825672315515,
+          "height": 0.01171875
+        },
+        "text": "Anvone who is under Malamar's control",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.03515625014648438,
+          "x": 0.47826087520380417,
+          "width": 0.4510869565217392,
+          "height": 0.01953125
+        },
+        "text": "loses their memories surrounding the event.",
+        "confidence": 1
+      }
+    ],
+    "language": "en-US"
+  },
+  {
+    "cardId": "P-C-006",
+    "locale": "en",
+    "sourceImageSha256": "6305d46b86e1df5df4f3fc216b42216938ac715390ec3f8a9e5d3f265066b214",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/6_en.png",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9287393471947607,
+          "x": 0.048581689670282896,
+          "width": 0.10392357992089313,
+          "height": 0.02142755500972271
+        },
+        "text": "BASIC",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9091203908502273,
+          "x": 0.17311637691737414,
+          "width": 0.26846690799878997,
+          "height": 0.0415043868124485
+        },
+        "text": "Cosmog",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9140625001302083,
+          "x": 0.744565218432971,
+          "width": 0.125,
+          "height": 0.0390625
+        },
+        "text": "HP60",
+        "confidence": 0.5
+      },
+      {
+        "box": {
+          "y": 0.5000000001953124,
+          "x": 0.293478267753623,
+          "width": 0.41304347826086957,
+          "height": 0.01953125
+        },
+        "text": "NO. 0789 Nebula Pokémon HT: 8° WT: 02 b",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.31249999980468746,
+          "x": 0.30434782291666673,
+          "width": 0.3804347826086957,
+          "height": 0.0390625
+        },
+        "text": "Dust Gathering",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2847099522819809,
+          "x": 0.070536548094057,
+          "width": 0.2013182018114173,
+          "height": 0.028236347250640392
+        },
+        "text": "Draw a card.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937500014204549,
+          "x": 0.28260869567687746,
+          "width": 0.125,
+          "height": 0.03125
+        },
+        "text": "•+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08984375019531243,
+          "x": 0.07065219378993727,
+          "width": 0.19021737057229748,
+          "height": 0.01171875
+        },
+        "text": "Iles. Shin Nogasawa",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07792787228575881,
+          "x": 0.47798579616310066,
+          "width": 0.4516449803891389,
+          "height": 0.024276698008179665
+        },
+        "text": "This Pokémon came from another universe.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05859375,
+          "x": 0.4728261305146568,
+          "width": 0.45652169766633405,
+          "height": 0.015625
+        },
+        "text": "Its gaseous body is so light that even a gentle",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.03515624980468757,
+          "x": 0.6739130392210148,
+          "width": 0.25543478260869557,
+          "height": 0.01953125
+        },
+        "text": "breeze can blow it away.",
+        "confidence": 1
+      }
+    ],
+    "language": "en-US"
+  },
+  {
+    "cardId": "P-C-007",
+    "locale": "en",
+    "sourceImageSha256": "d46f594f02affff27409cfa516f160768123388644eca88cfc5d736c0490d347",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/7_en.png",
+    "lines": [
+      {
+        "box": {
+          "y": 0.914062499921875,
+          "x": 0.03260869092391316,
+          "width": 0.47282608695652173,
+          "height": 0.0390625
+        },
+        "text": "STAGET Cosmoem",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8867187500651041,
+          "x": 0.15760869864130425,
+          "width": 0.1793478260869565,
+          "height": 0.01953125
+        },
+        "text": "Evoives from Cesmer",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.91406250015625,
+          "x": 0.7173913058695652,
+          "width": 0.15217391304347827,
+          "height": 0.0390625
+        },
+        "text": "HP 100",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.5000000001953124,
+          "x": 0.2717391379528983,
+          "width": 0.45108695652173914,
+          "height": 0.01953125
+        },
+        "text": "NO. 0790 Protestar Poleimon HT: 4 WT: 22044 Ibs",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3085937503417968,
+          "x": 0.3097826074728261,
+          "width": 0.10869565217391308,
+          "height": 0.02734375
+        },
+        "text": "Ram",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3007812495117188,
+          "x": 0.8586956519701087,
+          "width": 0.07065217391304346,
+          "height": 0.0390625
+        },
+        "text": "30",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937500019531243,
+          "x": 0.2826086966938406,
+          "width": 0.12499999999999994,
+          "height": 0.03125
+        },
+        "text": "•+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08984375019531243,
+          "x": 0.07065218507431635,
+          "width": 0.11956520702527916,
+          "height": 0.01171875
+        },
+        "text": "les. OKUBO",
+        "confidence": 0.5
+      },
+      {
+        "box": {
+          "y": 0.11328124973958331,
+          "x": 0.6902173893115943,
+          "width": 0.11956521739130432,
+          "height": 0.0234375
+        },
+        "text": "***",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07812499985351562,
+          "x": 0.4456521677989132,
+          "width": 0.4891304347826086,
+          "height": 0.01953125
+        },
+        "text": "The absorption of starlight fuels this Pokémon's",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05468750013020829,
+          "x": 0.451086964583333,
+          "width": 0.483695652173913,
+          "height": 0.0234375
+        },
+        "text": "growth. The shell that encases it is harder than",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.03515625032552083,
+          "x": 0.722826089673913,
+          "width": 0.2065217391304348,
+          "height": 0.01953125
+        },
+        "text": "any known material.",
+        "confidence": 1
+      }
+    ],
+    "language": "en-US"
+  },
+  {
+    "cardId": "P-C-008",
+    "locale": "en",
+    "sourceImageSha256": "f5839b8ec58b45133c4074fcd8fb5149553a95b8494493de5c67cc60799a982c",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/8_en.png",
+    "lines": [
+      {
+        "box": {
+          "y": 0.914062499921875,
+          "x": 0.02173912679347831,
+          "width": 0.36413043478260865,
+          "height": 0.0390625
+        },
+        "text": "STAGEZ Lunala",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8867187501953124,
+          "x": 0.16304348061594195,
+          "width": 0.14130434782608695,
+          "height": 0.01953125
+        },
+        "text": "Evoives from Cer",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9140625001953124,
+          "x": 0.7119565230525362,
+          "width": 0.15760869565217395,
+          "height": 0.0390625
+        },
+        "text": "HP 150",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.5000000001953124,
+          "x": 0.2717391379528983,
+          "width": 0.45108695652173914,
+          "height": 0.01953125
+        },
+        "text": "NO. 0792 Moone Pokémon HT: 13Y* WT: 264.6 bs.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.33203125019531243,
+          "x": 0.3097826170289853,
+          "width": 0.49999999999999994,
+          "height": 0.03515625
+        },
+        "text": "Wings of the Moone",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3359374997558594,
+          "x": 0.7989130418478261,
+          "width": 0.13043478260869557,
+          "height": 0.03515625
+        },
+        "text": "110",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.30078124993489586,
+          "x": 0.07065215951087003,
+          "width": 0.8641304347826088,
+          "height": 0.02734375
+        },
+        "text": "Move all Energy from this Pokémon to your Benched",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.26562500006510414,
+          "x": 0.07065218179347803,
+          "width": 0.4728260869565217,
+          "height": 0.02734375
+        },
+        "text": "Pokémon in any way you like.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937500014204549,
+          "x": 0.28260869567687746,
+          "width": 0.125,
+          "height": 0.03125
+        },
+        "text": "•+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593750019531243,
+          "x": 0.07065217699275353,
+          "width": 0.1847826086956522,
+          "height": 0.01953125
+        },
+        "text": "Illes. Sban Graphics",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08203125013020829,
+          "x": 0.46195652961956496,
+          "width": 0.4728260869565218,
+          "height": 0.015625
+        },
+        "text": "Known as the Beast That Calls the Moon, this",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05468750039062498,
+          "x": 0.4510869607789853,
+          "width": 0.483695652173913,
+          "height": 0.0234375
+        },
+        "text": "Pokémon lives by taking in any and all light and",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.03515625019531243,
+          "x": 0.5869565256233564,
+          "width": 0.3369564802750298,
+          "height": 0.01171875
+        },
+        "text": "converting a into as own enengy",
+        "confidence": 1
+      }
+    ],
+    "language": "en-US"
+  },
+  {
+    "cardId": "P-C-009",
+    "locale": "en",
+    "sourceImageSha256": "c2deacb53fcb7918368382396e83aed3244b038235a5c069a4790cd40ef63f06",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/9_en.png",
+    "lines": [
+      {
+        "box": {
+          "y": 0.945312500390625,
+          "x": 0.043478259873188436,
+          "width": 0.1141304347826087,
+          "height": 0.0234375
+        },
+        "text": "Item",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9375000001953125,
+          "x": 0.6413043504528986,
+          "width": 0.3152173913043478,
+          "height": 0.03125
+        },
+        "text": "TRAINER",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.875000000234375,
+          "x": 0.04891304983695647,
+          "width": 0.6358695652173914,
+          "height": 0.0390625
+        },
+        "text": "Genome Converter Y",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.32421875023437496,
+          "x": 0.11956522499999986,
+          "width": 0.7608695652173912,
+          "height": 0.03125
+        },
+        "text": "Move all ® Energy from 1 of your Benched ®",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2890625002441407,
+          "x": 0.11956522697010842,
+          "width": 0.7663043478260869,
+          "height": 0.02734375
+        },
+        "text": "Pokémon to your Mega Mewtwo Y eX in the",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2539062501464844,
+          "x": 0.11956521990489122,
+          "width": 0.20108695652173914,
+          "height": 0.02734375
+        },
+        "text": "Active Spot.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593749985351562,
+          "x": 0.07065217180706525,
+          "width": 0.1684782608695652,
+          "height": 0.01953125
+        },
+        "text": "Mos. Toyste Beach",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08203125045572923,
+          "x": 0.3369565123188409,
+          "width": 0.576086956521739,
+          "height": 0.02734375
+        },
+        "text": "You may play any number of Item cards during your",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05859375039062498,
+          "x": 0.3369565209239131,
+          "width": 0.05978260869565216,
+          "height": 0.0234375
+        },
+        "text": "turn.",
+        "confidence": 1
+      }
+    ],
+    "language": "en-US"
+  },
+  {
+    "cardId": "P-C-010",
+    "locale": "en",
+    "sourceImageSha256": "7b7ab3da406506516fad16257cf5831e58f699845d877711df0a30cf4c228272",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/10_en.png",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9140625001171875,
+          "x": 0.04347826478260863,
+          "width": 0.391304347826087,
+          "height": 0.04296875
+        },
+        "text": "BASIC Stantler",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9101562494921875,
+          "x": 0.7445652177173913,
+          "width": 0.13043478260869568,
+          "height": 0.05078125
+        },
+        "text": "CP 80",
+        "confidence": 0.5
+      },
+      {
+        "box": {
+          "y": 0.33593750043945314,
+          "x": 0.30434782778532604,
+          "width": 0.4076086956521739,
+          "height": 0.03515625
+        },
+        "text": "Enhanced Horns",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3359374998647837,
+          "x": 0.8586956523411371,
+          "width": 0.09782608695652173,
+          "height": 0.03515625
+        },
+        "text": "20*",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3007812505208334,
+          "x": 0.0706521652173916,
+          "width": 0.8695652173913042,
+          "height": 0.031249999068677425
+        },
+        "text": "If chis Pokêmon has a Pokémon Tool attached, chis:",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2656250000976562,
+          "x": 0.06521739721467373,
+          "width": 0.4728260869565218,
+          "height": 0.03125
+        },
+        "text": "attack does 50 more damage.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11328125019531254,
+          "x": 0.28804347945652176,
+          "width": 0.11956521739130438,
+          "height": 0.02734375
+        },
+        "text": "* +20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05859375039062498,
+          "x": 0.4836956459239132,
+          "width": 0.4510869565217392,
+          "height": 0.0234375
+        },
+        "text": "heise son coins, and died ceos fed",
+        "confidence": 0.5
+      }
+    ],
+    "language": "en-US"
+  },
+  {
+    "cardId": "P-C-011",
+    "locale": "en",
+    "sourceImageSha256": "ba7409084d5219bf38a7c7626493f87ce83a2ceb7e2d3c3e09271b8cad64db0b",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/11_en.png",
+    "lines": [
+      {
+        "box": {
+          "y": 0.914062499921875,
+          "x": 0.03260869130434789,
+          "width": 0.4347826086956522,
+          "height": 0.0390625
+        },
+        "text": "STAGET Alcremie",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8867187501953124,
+          "x": 0.16304348634243276,
+          "width": 0.17391303311223572,
+          "height": 0.01953125
+        },
+        "text": "Evolves from Micary",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9140625002197266,
+          "x": 0.7445652182065218,
+          "width": 0.13043478260869568,
+          "height": 0.04296875
+        },
+        "text": "HP 80",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.33593749980468757,
+          "x": 0.06521739076086958,
+          "width": 0.043478260869565216,
+          "height": 0.03125
+        },
+        "text": "*",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3320312504882812,
+          "x": 0.30434783050271735,
+          "width": 0.41847826086956524,
+          "height": 0.0390625
+        },
+        "text": "Sweets Overload",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.33593750019531243,
+          "x": 0.8641304354037267,
+          "width": 0.08695652173913049,
+          "height": 0.03515625
+        },
+        "text": "40*",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.29687500029296876,
+          "x": 0.07065218471467367,
+          "width": 0.8641304347826086,
+          "height": 0.03125
+        },
+        "text": "This attack does 40 damage for each time your",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.26562500043945314,
+          "x": 0.07065217900815213,
+          "width": 0.733695652173913,
+          "height": 0.03515625
+        },
+        "text": "Pokemon used Sweets Relay during this game.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937500019531243,
+          "x": 0.2826086966938406,
+          "width": 0.12499999999999994,
+          "height": 0.03125
+        },
+        "text": "©+20",
+        "confidence": 1
+      }
+    ],
+    "language": "en-US"
+  },
+  {
+    "cardId": "P-C-012",
+    "locale": "en",
+    "sourceImageSha256": "fcc15fe176755df46d3a5a31cc81d7a5368513df0a6f8569ac67630138d54fb5",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/12_en.png",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9140624998697917,
+          "x": 0.04347825760869569,
+          "width": 0.391304347826087,
+          "height": 0.046875
+        },
+        "text": "BASIC Delibird",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9140624997209822,
+          "x": 0.7391304338509318,
+          "width": 0.13043478260869568,
+          "height": 0.046875
+        },
+        "text": "HP80",
+        "confidence": 0.5
+      },
+      {
+        "box": {
+          "y": 0.6523437503689236,
+          "x": 0.5380434784118358,
+          "width": 0.1684782608695653,
+          "height": 0.06640625
+        },
+        "text": "6D",
+        "confidence": 0.5
+      },
+      {
+        "box": {
+          "y": 0.347656249609375,
+          "x": 0.30434782782608694,
+          "width": 0.40217391304347827,
+          "height": 0.0390625
+        },
+        "text": "Box of Surprises",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.31250000019531243,
+          "x": 0.06521739999999979,
+          "width": 0.8695652173913044,
+          "height": 0.03515625
+        },
+        "text": "Flip a coin. If heads chis attack does 70 damage to your",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.27734375053710936,
+          "x": 0.06521739646739115,
+          "width": 0.8695652173913043,
+          "height": 0.04296875
+        },
+        "text": "opponent's Active Pokémon. If tails, heal 30 damage",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2460937502734375,
+          "x": 0.05978261527173902,
+          "width": 0.6576086956521741,
+          "height": 0.03515625
+        },
+        "text": "from your opponent's Active Pokémon.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10918238371272437,
+          "x": 0.27708507490246925,
+          "width": 0.13061245628025225,
+          "height": 0.03163523226976395
+        },
+        "text": "©+20",
+        "confidence": 1
+      }
+    ],
+    "language": "en-US"
+  },
+  {
+    "cardId": "P-C-013",
+    "locale": "en",
+    "sourceImageSha256": "3541f19e2389f25be9e2899fb95739ec70333a67e39b96f807897db93ebda750",
+    "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/602/src/13_en.png",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9062499999348959,
+          "x": 0.02173912278079726,
+          "width": 0.9184782608695652,
+          "height": 0.0546875
+        },
+        "text": "STAGEZ Mega Dragonite CX HP 240 C",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8828124998046876,
+          "x": 0.646739125362319,
+          "width": 0.30434782608695654,
+          "height": 0.01953125
+        },
+        "text": "The Mega-Evolved form of",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8710937500372024,
+          "x": 0.6467391301630435,
+          "width": 0.11413043478260876,
+          "height": 0.015625
+        },
+        "text": "Dragonite",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.33984374993489586,
+          "x": 0.36956521050724656,
+          "width": 0.4130434782608696,
+          "height": 0.02734375
+        },
+        "text": "Draconic Meteor",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3007812501464844,
+          "x": 0.07065218471467367,
+          "width": 0.8641304347826086,
+          "height": 0.02734375
+        },
+        "text": "1 of your opponent's Pokémon is chosen at random. Do",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2656250001464844,
+          "x": 0.07065217737771733,
+          "width": 0.27717391304347827,
+          "height": 0.02734375
+        },
+        "text": "250 damage to it.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11328124985351562,
+          "x": 0.7771739126358695,
+          "width": 0.03260869565217395,
+          "height": 0.01953125
+        },
+        "text": "*",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11328125019531243,
+          "x": 0.8206521745471015,
+          "width": 0.03804347826086962,
+          "height": 0.01953125
+        },
+        "text": "*",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593750019531243,
+          "x": 0.10869566025547625,
+          "width": 0.1739130331122357,
+          "height": 0.01953125
+        },
+        "text": "PLANETA Mamiya",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07031250013020829,
+          "x": 0.3641304394021737,
+          "width": 0.27717391304347827,
+          "height": 0.0234375
+        },
+        "text": "Mega Evolution eX rule",
+        "confidence": 1
+      }
+    ],
+    "language": "en-US"
+  }
+]

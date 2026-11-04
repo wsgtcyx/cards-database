@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/063",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/063",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/063",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/063",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/063",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/063",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/063",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/063",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/063"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/063/a86f56ed93a9dca6",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/063/a86f56ed93a9dca6",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/063/a86f56ed93a9dca6",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/063/a86f56ed93a9dca6",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/063/a86f56ed93a9dca6",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/063/a86f56ed93a9dca6",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/063/a86f56ed93a9dca6",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/063/a86f56ed93a9dca6",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/063/a86f56ed93a9dca6"
     },
     name: {
         en: "Meowscarada ex",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "マスカーニャex"
     },
     illustrator: "5ban Graphics",
-    rarity: "None",
+    rarity: "Four Diamond",
     category: "Pokemon",
     hp: 160,
     types: ["Grass"],
@@ -59,12 +59,12 @@ const card: Card = {
             },
             effect: {
                 en: "Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, do 70 damage to the Pokémon in the spot you chose.",
-                fr: "Choisissez un emplacement parmi l'emplacement actif et le banc de votre adversaire. À la fin du prochain tour de votre adversaire, infligez 70 dégâts au Pokémon à l'endroit que vous avez choisi.",
-                es: "Elige un lugar entre el Punto Activo y el Banco de tu oponente. Al final del siguiente turno de tu rival, haz 70 puntos de daño al Pokémon en el lugar que hayas elegido.",
-                it: "Scegli un posto tra il posto attivo e la panchina del tuo avversario. Alla fine del prossimo turno del tuo avversario, infliggi 70 danni al Pokémon nel punto che hai scelto.",
-                de: "Wählen Sie einen Platz aus dem aktiven Platz und der Bank Ihres Gegners. Füge am Ende des nächsten Zuges deines Gegners dem Pokémon an der von dir gewählten Stelle 70 Schadenspunkte zu.",
-                "pt-br": "Escolha um lugar entre o Ponto Ativo e o Banco do seu oponente. No final do próximo turno do seu oponente, cause 70 de dano ao Pokémon no local que você escolheu.",
-                "zh-tw": "從對手的戰鬥場和備戰區中選擇一個位置。對手的下一回合結束時，對你選擇的位置的寶可夢造成 70 點傷害。",
+                fr: "Choisissez un emplacement parmi ceux situés sur le Banc de votre adversaire et sur son Poste Actif. À la fin du prochain tour de votre adversaire, infligez 70 dégâts au Pokémon situé sur l'emplacement choisi.",
+                es: "Elige 1 puesto de entre el Puesto Activo y la Banca de tu rival. Al final del próximo turno de tu rival, haz 70 puntos de daño al Pokémon del puesto elegido.",
+                it: "Scegli una posizione tra quella attiva e quelle nella panchina del tuo avversario. Alla fine del prossimo turno del tuo avversario, infliggi 70 danni al Pokémon che si trova in quella posizione.",
+                de: "Wähle 1 Position auf der Bank oder die Aktive Position deines Gegners aus. Füge dem Pokémon auf der Position, die du gewählt hast, am Ende des nächsten Zuges deines Gegners 70 Schadenspunkte zu.",
+                "pt-br": "Escolha 1 lugar dentre o Campo Ativo e o Banco do seu oponente. No final do próximo turno do seu oponente, cause 70 pontos de dano ao Pokémon no lugar que você escolheu.",
+                "zh-tw": "選擇對手的戰鬥場或1個備戰區位置。在下個對手的回合結束時,位於所選位置的寶可夢受到70點傷害。",
                 ja: "相手のバトル場またはベンチを1か所選ぶ。次の相手の番の終わりに、選んだ場所にいるポケモンに70ダメージ。",
                 ko: "상대 배틀필드 또는 벤치를 1군데 선택한다. 상대의 다음 차례 마지막에 선택한 장소에 있는 포켓몬에게 70데미지를 준다."
             }

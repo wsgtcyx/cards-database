@@ -1,0 +1,111 @@
+{
+  "retrievedAt": "2026-11-04T02:16:11.941291+00:00",
+  "cHighResolutionPackFound": false,
+  "assets": [
+    {
+      "file": "/private/tmp/promo-abc-sources-20261104/wiki-a1.png",
+      "sourceUrl": "https://ptcgp-wiki.metainnovation.site/storage/v1/object/public/public_files/system/set/pack/cover/promo-a-vol-1.png",
+      "sha256": "37fe2cb38edd5ef135e9c0445ba134cec91a684c3bc789767212e9063e21096f",
+      "bytes": 1033005,
+      "size": [
+        688,
+        1320
+      ],
+      "status": "accepted-A-representative",
+      "reason": "Native larger official-game A Vol1 pack appearance, visually checked; English text."
+    },
+    {
+      "file": "/private/tmp/promo-abc-sources-20261104/bulbagarden-b1.png",
+      "sourceUrl": "https://archives.bulbagarden.net/media/upload/5/51/Promo_Pack_B_Series_Vol._1.png",
+      "sha256": "3a76e1e4554cd8e0674941eaa74a6bbb1ca8a0497dae0fa83b7732f982c7ae7a",
+      "bytes": 897428,
+      "size": [
+        717,
+        1360
+      ],
+      "status": "accepted-B-representative",
+      "reason": "Source page identifies game pack B Vol1; 717x1360 native visual detail, not locally enlarged."
+    },
+    {
+      "file": "/private/tmp/promo-abc-sources-20261104/promo-c-set-logo.png",
+      "sourceUrl": "https://img.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_PROMO-C_en_US.png",
+      "sha256": "3aa4e2b03f0a0ab20c436c0832358e0ff95b45d9d72a681467b0c505ec48555c",
+      "bytes": 32156,
+      "size": [
+        256,
+        113
+      ],
+      "status": "accepted-set-logo-only",
+      "reason": "Official game set logo; not a pack cover."
+    },
+    {
+      "file": "/private/tmp/promo-abc-sources-20261104/serebii-c1.png",
+      "sourceUrl": "https://www.serebii.net/tcgpocket/promo/promopackcseriesvol.1.png",
+      "sha256": "67a061bc83bf69878f8e51380616b5e0fda8c430b2cfd6a3887b7c19e3c39c73",
+      "bytes": 51042,
+      "size": [
+        256,
+        256
+      ],
+      "status": "C-existing-native-low-resolution",
+      "reason": "256x256 icon canvas, no HD pack body found."
+    },
+    {
+      "file": "/private/tmp/promo-abc-sources-20261104/zone-c1.webp",
+      "sourceUrl": "https://assets.pokemon-zone.com/game-assets/Asset3d/Supply/Pack/Item/CP001_0010_00_000/Prefabs/CP001_0010_00_000_PackLogo_ILL.webp",
+      "sha256": "dcf4bd3253e58cefeea6689043b8748a7883a0c0db1088275351d3b31fef74d7",
+      "bytes": 24684,
+      "size": [
+        1024,
+        805
+      ],
+      "status": "rejected-as-pack-cover",
+      "reason": "1024x805 is standalone UV logo decal with transparent padding; lacks wrapper, not full pack cover."
+    },
+    {
+      "file": "/private/tmp/promo-abc-sources-20261104/promo-b-event.png",
+      "sourceUrl": "https://static.allthings.how/content/images/2026/03/image-967-1.png",
+      "sha256": "bf874e24c9018d065a61b9904cd3a345950c65c8b60d17e7543efb5da98de1e7",
+      "bytes": 1389425,
+      "size": [
+        1189,
+        669
+      ],
+      "status": "rejected-as-HD-pack",
+      "reason": "Screenshot pack portion visibly enlarged/soft, not qualified native HD."
+    },
+    {
+      "file": "/private/tmp/promo-abc-sources-20261104/shelken-a1.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/shelken/ptcgp-assets/e76e7962090dcbebbd33978a231a6227c16e7367/images/en-US/packs/PROMO-A_1.webp",
+      "sha256": "b462c61cb1728b1f64d61196b7adce337e1663399a370ff301a7d13075268ddc",
+      "bytes": 12036,
+      "size": [
+        160,
+        256
+      ],
+      "status": "rejected-as-HD-pack",
+      "reason": "160x256 small original."
+    }
+  ],
+  "otherSourcesChecked": {
+    "pokemon.com": "Dual Fusion official announcement embeds cards, game screenshots, hourglass graphics; no separate HD C pack wrapper discovered.",
+    "RaenonX": "Promo page uses pack logos256x113 only.",
+    "Bulbagarden": "B native717x1360 found; C page has no pack artwork entry.",
+    "WikiDex": "C page only set logo/icon, no pack artwork entry.",
+    "PTCGPocket.gg": "C event pack asset is256x256 native icon.",
+    "shelken": "latest fixed tree only A/B packs and no C; A/B native160x256.",
+    "flibustier": "latest fixed tree has C cards/logo but no Promo pack cover.",
+    "1niceroli/ptcg-assets": "tree has A1–5 packshots, B logo only, no C.",
+    "pokemon-tcg-pocket.wiki": "pack directory has A1–3 high resolution covers, no B/C."
+  },
+  "copyright": "Game artwork remains owned by Pokemon rights holders; mirror/site provenance is attribution, not a claim of open artwork license.",
+  "promoCUserDecision": {
+    "status": "accepted-native-low-resolution",
+    "decision": "Parent relayed explicit user acceptance of native 256x256 C pack on 2026-11-04; no upscaling or reconstructed cover permitted.",
+    "source": "serebii-c1.png",
+    "nativeSize": [
+      256,
+      256
+    ]
+  }
+}

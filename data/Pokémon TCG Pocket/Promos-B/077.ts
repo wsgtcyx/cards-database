@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/077",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/077",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/077",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/077",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/077",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/077",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/077",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/077",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/077"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/077/d1425ce3e6a59174",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/077/d1425ce3e6a59174",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/077/d1425ce3e6a59174",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/077/d1425ce3e6a59174",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/077/d1425ce3e6a59174",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/077/d1425ce3e6a59174",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/077/d1425ce3e6a59174",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/077/d1425ce3e6a59174",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/077/d1425ce3e6a59174"
     },
     name: {
         en: "Growlithe",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "ガーディ"
     },
     illustrator: "sowsow",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     hp: 80,
     types: ["Fire"],
@@ -34,12 +34,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "It’s very friendly and faithful to people. It will try to repel enemies by barking and biting.",
-        fr: "C’est très amical et fidèle aux gens. Il tentera de repousser les ennemis en aboyant et en mordant.",
-        es: "Es muy amigable y fiel con la gente. Intentará repeler a los enemigos ladrando y mordiendo.",
-        it: "È molto amichevole e fedele alle persone. Cercherà di respingere i nemici abbaiando e mordendo.",
-        de: "Es ist den Menschen gegenüber sehr freundlich und treu. Es wird versuchen, Feinde durch Bellen und Beißen abzuwehren.",
-        "pt-br": "É muito amigável e fiel às pessoas. Ele tentará repelir os inimigos latindo e mordendo.",
-        "zh-tw": "它對人非常友好和忠誠。它會嘗試透過吠叫和撕咬來擊退敵人。",
+        fr: "Ce Pokémon est particulièrement affectueux et loyal. Il aboie et mord pour se débarrasser de ses adversaires.",
+        es: "Un Pokémon afectuoso y leal por naturaleza. Para ahuyentar al enemigo, se pone a ladrar y a dar bocados.",
+        it: "È un Pokémon molto socievole e fedele. Allontana i nemici abbaiando e mordendoli.",
+        de: "Es ist sehr freundlich und treu. Durch Bellen und Beißen versucht es, Feinde zu verscheuchen.",
+        "pt-br": "É muito amigável e fiel às pessoas. Tentará repelir inimigos com latidos e mordidas.",
+        "zh-tw": "性格誠實，容易和人親近。遇到敵人時牠會吼叫追咬，試著把敵人趕走。",
         ja: "人懐こく 誠実な 性格。 敵には ほえて かみつき 追い払おうとする。",
         ko: "사람을 잘 따르는 충실한 성격이다.\n적을 보면 짖거나 물어서\n쫓아내려고 한다."
     },
@@ -59,12 +59,12 @@ const card: Card = {
             },
             effect: {
                 en: "Reveal all of your Pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way.",
-                fr: "Révélez tous vos Pokémon en jeu et dans votre main qui ont l'attaque Puppy Pile, et cette attaque inflige 20 dégâts pour chaque Pokémon que vous avez révélé de cette manière.",
-                es: "Revela todos tus Pokémon en juego y en tu mano que tengan el ataque Puppy Pile, y este ataque hace 20 daños por cada Pokémon que revelaste de esta manera.",
-                it: "Rivela tutti i tuoi Pokémon in gioco e nella tua mano che hanno l'attacco Cuccioli Pile, e questo attacco infligge 20 danni per ogni Pokémon che hai rivelato in questo modo.",
-                de: "Zeige alle deine Pokémon im Spiel und auf deiner Hand vor, die über die Attacke „Welpenhaufen“ verfügen. Diese Attacke verursacht 20 Schadenspunkte für jedes Pokémon, das du auf diese Weise aufgedeckt hast.",
-                "pt-br": "Revele todos os seus Pokémon em jogo e na sua mão que tenham o ataque Puppy Pile, e esse ataque causa 20 de dano para cada Pokémon que você revelou dessa forma.",
-                "zh-tw": "展示你場上和手中所有具有小狗堆攻擊的寶可夢，此攻擊對你以這種方式展示的每隻寶可夢造成 20 點傷害。",
+                fr: "Montrez tous vos Pokémon en jeu et dans votre main dotés de l'attaque Chiots à Gogo. Cette attaque inflige 20 dégâts pour chaque Pokémon montré de cette façon.",
+                es: "Enseña todos tus Pokémon en juego y en tu mano que tengan el ataque Camada, y este ataque hace 20 puntos de daño por cada Pokémon que hayas enseñado de esta manera.",
+                it: "Mostra tutti i Pokémon in gioco e nella tua mano che hanno l’attacco Cucciolata. Questo attacco infligge 20 danni per ogni Pokémon rivelato in questo modo.",
+                de: "Zeige deinem Gegner alle deine Pokémon im Spiel und auf deiner Hand mit der Attacke Welpenhaufen. Diese Attacke fügt für jedes auf diese Weise gezeigte Pokémon 20 Schadenspunkte mehr zu.",
+                "pt-br": "Revele todos os seus Pokémon em jogo e na sua mão que tenham o ataque Pilha de Filhotes, e este ataque causa 20 pontos de dano para cada Pokémon que você revelou dessa forma.",
+                "zh-tw": "在給對手看過自己的場上與手牌所有持有「小狗滿地跑」招式的寶可夢後,造成給對手看過的寶可夢的數量×20點傷害。",
                 ja: "自分の場と手札にあるワザ「こいぬまみれ」を持つポケモンをすべて相手に見せ、見せたポケモンの数×20ダメージ。",
                 ko: "자신의 필드와 패에 있는 기술 「강아지투성이」를 가진 포켓몬을 모두 상대에게 보여주고 보여준 포켓몬의 수 × 20데미지를 준다."
             },

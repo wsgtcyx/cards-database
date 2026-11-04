@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/037",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/037",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/037",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/037",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/037",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/037",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/037",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/037",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/037"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/037/d76a4962620676f1",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/037/d76a4962620676f1",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/037/d76a4962620676f1",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/037/d76a4962620676f1",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/037/d76a4962620676f1",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/037/d76a4962620676f1",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/037/d76a4962620676f1",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/037/d76a4962620676f1",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/037/d76a4962620676f1"
     },
     name: {
         en: "Cresselia ex",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "克雷色利亞ex",
     },
     illustrator: "PLANETA Mochizuki",
-    rarity: "None",
+    rarity: "Four Diamond",
     category: "Pokemon",
     hp: 140,
     types: ["Psychic"],
@@ -53,7 +53,7 @@ const card: Card = {
                 'pt-br': "Sempre que você ligar uma Energia {P} da sua Zona de Energia a este Pokémon, cure 20 pontos de dano deste Pokémon.",
                 ja: "自分のエネルギーゾーンからこのポケモンに{P}エネルギーをつけるたび、このポケモンのHPを20回復。",
                 ko: "자신의 에너지존에서 이 포켓몬에게 {P}에너지를 붙일 때마다 이 포켓몬의 HP를 20회복.",
-                "zh-tw": "每當你將能量區中的 {P} 能量附加到該神奇寶貝上時，該神奇寶貝就會治療 20 點傷害。"
+                "zh-tw": "每次從自己的能量區將{P}能量附於這隻寶可夢身上時,將這隻寶可夢恢復20HP。"
             }
         }],
     attacks: [{
@@ -66,7 +66,7 @@ const card: Card = {
                 'pt-br': "Clarão Psíquico",
                 ja: "サイコフラッシュ",
                 ko: "사이코플래시",
-                "zh-tw": "心靈閃光"
+                "zh-tw": "精神閃光"
             },
             damage: 80,
             cost: ["Psychic", "Psychic", "Colorless"],

@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/018",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/018",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/018",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/018",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/018",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/018",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/018",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/018",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/018"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/018/c3e25f0eab208a86",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/018/c3e25f0eab208a86",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/018/c3e25f0eab208a86",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/018/c3e25f0eab208a86",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/018/c3e25f0eab208a86",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/018/c3e25f0eab208a86",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/018/c3e25f0eab208a86",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/018/c3e25f0eab208a86",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/018/c3e25f0eab208a86"
     },
     name: {
         en: "Venusaur",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "妙蛙花",
     },
     illustrator: "Kuroimori",
-    rarity: "None",
+    rarity: "One Star",
     category: "Pokemon",
     types: ["Grass"],
     stage: "Stage2",
@@ -39,7 +39,7 @@ const card: Card = {
                 'pt-br': "Megadreno",
                 ja: "メガドレイン",
                 ko: "메가드레인",
-                "zh-tw": "巨型排水管"
+                "zh-tw": "超級吸取"
             },
             cost: ["Grass", "Grass", "Colorless", "Colorless"],
             damage: 80,
@@ -52,7 +52,7 @@ const card: Card = {
                 'pt-br': "Cure 30 pontos de dano deste Pokémon.",
                 ja: "このポケモンのHPを30回復。",
                 ko: "이 포켓몬의 HP를 30회복.",
-                "zh-tw": "治療該神奇寶貝造成的 30 點傷害。"
+                "zh-tw": "將這隻寶可夢恢復30HP。"
             }
         }],
     hp: 160,
@@ -76,7 +76,7 @@ const card: Card = {
         'pt-br': "Sua planta floresce ao absorver energia solar,\npor isso este Pokémon vive em busca da luz do sol.",
         ja: "太陽エネルギーを 栄養にして 大きな花が 開く。 日なたに 引き寄せられるように 移動する。",
         ko: "태양에너지를 양분으로\n큰 꽃을 피운다. 양지를 향해\n이끌려가듯이 이동한다.",
-        "zh-tw": "它的植物在吸收陽光時就會開花\n能量。它不斷移動以尋找陽光。"
+        "zh-tw": "把太陽的能源當成養分，開出碩大的花朵。總是朝著有陽光的地方移動。"
     },
     weaknesses: [{
             type: "Fire",

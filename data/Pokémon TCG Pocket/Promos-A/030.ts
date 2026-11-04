@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/030",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/030",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/030",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/030",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/030",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/030",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/030",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/030",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/030"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/030/f65a14c7a0d7b010",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/030/f65a14c7a0d7b010",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/030/f65a14c7a0d7b010",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/030/f65a14c7a0d7b010",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/030/f65a14c7a0d7b010",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/030/f65a14c7a0d7b010",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/030/f65a14c7a0d7b010",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/030/f65a14c7a0d7b010",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/030/f65a14c7a0d7b010"
     },
     name: {
         en: "Eevee",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "伊布"
     },
     illustrator: "En Morikura",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     hp: 60,
     types: ["Colorless"],
@@ -38,7 +38,7 @@ const card: Card = {
         'pt-br': "Sua capacidade de evoluir para muitas formas\npermite que se adapte fácil e perfeitamente\na qualquer ambiente.",
         ja: "環境の 変化に すぐさま 合わせられるよう いくつもの 進化の 可能性を 秘めている。",
         ko: "환경 변화에 곧바로 적응할 수 있도록\n여러 형태로 진화할 수 있는\n가능성을 가지고 있다.",
-        "zh-tw": "它能夠進化成多種形式，使其能夠\n順利、完美地適應任何環境。"
+        "zh-tw": "為了能瞬即適應環境的變化，這種寶可夢蘊含著許多種進化的可能性。"
     },
     stage: "Basic",
     attacks: [{
@@ -51,7 +51,7 @@ const card: Card = {
                 'pt-br': "Rosnadura",
                 ja: "なきごえ",
                 ko: "울음소리",
-                "zh-tw": "咆哮"
+                "zh-tw": "叫聲"
             },
             cost: ["Colorless"],
             effect: {
@@ -63,7 +63,7 @@ const card: Card = {
                 'pt-br': "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor causarão −20 pontos de dano.",
                 ja: "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-20する。",
                 ko: "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지를 -20한다.",
-                "zh-tw": "在對手的下一個回合中，防御神奇寶貝使用的攻擊造成−20點傷害。"
+                "zh-tw": "在下個對手的回合,受到這個招式的寶可夢使用招式的傷害-20點。"
             }
         }],
     weaknesses: [{

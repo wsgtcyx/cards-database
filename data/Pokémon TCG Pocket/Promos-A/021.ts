@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/021",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/021",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/021",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/021",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/021",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/021",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/021",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/021",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/021"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/021/a87779418617b29d",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/021/a87779418617b29d",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/021/a87779418617b29d",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/021/a87779418617b29d",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/021/a87779418617b29d",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/021/a87779418617b29d",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/021/a87779418617b29d",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/021/a87779418617b29d",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/021/a87779418617b29d"
     },
     name: {
         en: "Onix",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "大岩蛇",
     },
     illustrator: "Tomokazu Komiya",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     types: ["Fighting"],
     stage: "Basic",
@@ -39,7 +39,7 @@ const card: Card = {
                 'pt-br': "Aperto de Terra",
                 ja: "ランドクラッシュ",
                 ko: "랜드크래시",
-                "zh-tw": "土地擠壓"
+                "zh-tw": "大地粉碎"
             },
             cost: ["Fighting", "Fighting", "Fighting"],
             damage: 70
@@ -54,7 +54,7 @@ const card: Card = {
         'pt-br': "Ao cavar o chão, absorve vários objetos rígidos,\ntornando o seu corpo extremamente sólido.",
         ja: "地中を 掘り進みながら いろんな 硬いものを 取り込み 頑丈な 体をつくる。",
         ko: "땅속을 파고들면서 여러 가지\n단단한 것들을 집어삼켜서\n튼튼한 몸을 만든다.",
-        "zh-tw": "當它挖掘地面時，它吸收了許多\n堅硬的物體。這就是它的身體如此堅固的原因。"
+        "zh-tw": "會一邊在地底挖掘前進，一邊吸收各種堅硬的物體，藉此讓身體變得更加結實。"
     },
     weaknesses: [{
             type: "Grass",

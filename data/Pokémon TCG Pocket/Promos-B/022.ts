@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/022",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/022",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/022",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/022",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/022",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/022",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/022",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/022",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/022"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/022/e6f17ec17ad0b5a7",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/022/e6f17ec17ad0b5a7",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/022/e6f17ec17ad0b5a7",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/022/e6f17ec17ad0b5a7",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/022/e6f17ec17ad0b5a7",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/022/e6f17ec17ad0b5a7",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/022/e6f17ec17ad0b5a7",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/022/e6f17ec17ad0b5a7",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/022/e6f17ec17ad0b5a7"
     },
     name: {
         en: "Hawlucha",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "ルチャブル"
     },
     illustrator: "Teeziro",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     hp: 70,
     types: ["Fighting"],
@@ -34,12 +34,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "Hawlucha live quietly without flocking together. They fight constantly with their natural enemies: noisy groups of Primeape.",
-        fr: "Brutalibré vit tranquillement sans se rassembler. Ils se battent constamment avec leurs ennemis naturels : des groupes bruyants de Colossinge.",
-        es: "Hawlucha viva tranquilamente sin agruparse. Luchan constantemente con sus enemigos naturales: ruidosos grupos de Primeape.",
-        it: "Hawlucha vivono tranquillamente senza accalcarsi insieme. Combattono costantemente con i loro nemici naturali: gruppi rumorosi di Primeape.",
-        de: "Resladero leben ruhig, ohne sich zusammenzudrängen. Sie kämpfen ständig mit ihren natürlichen Feinden: lauten Gruppen von Rasaff.",
-        "pt-br": "Hawlucha vivem silenciosamente, sem se reunirem. Eles lutam constantemente com seus inimigos naturais: grupos barulhentos de Primeape.",
-        "zh-tw": "摔角鷹人 安靜地生活，不聚集。它們不斷地與天敵戰鬥：吵鬧的 火爆猴 群體。",
+        fr: "Ce Pokémon mène une vie paisible et solitaire. Il est en conflit permanent avec de bruyants groupes de Colossinge, ses ennemis jurés.",
+        es: "Vive en solitario, disfrutando de la tranquilidad. Los Primeape, que forman ruidosas manadas, son su peor enemigo y no paran de enfrentarse.",
+        it: "Gli Hawlucha vivono in solitudine e tranquillità. Si scontrano spesso con i Primeape, loro acerrimi nemici, perché formano branchi chiassosi.",
+        de: "Resladero lebt friedlich für sich allein. Unentwegt kämpft es gegen seine natürlichen Feinde: Rasaff, die in Gruppen randalieren.",
+        "pt-br": "Hawlucha vivem sossegadamente longe da muvuca. Lutam constantemente com seus inimigos naturais: os grupos de Primeape barulhentos.",
+        "zh-tw": "不集結成群，過著靜靜的生活。天敵是喜歡集體大鬧的火爆猴，時不時就會起爭執。",
         ja: "群れを 作らず 静かに 暮らす。 集団で 騒ぐ オコリザルは 天敵で いつも 争いになる。",
         ko: "무리를 이루지 않고 조용히 지낸다.\n집단으로 떠드는 성원숭과는\n천적이라 언제나 싸움이 일어난다."
     },
@@ -59,12 +59,12 @@ const card: Card = {
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 30 more damage.",
-                fr: "Lancez une pièce de monnaie. Si c’est face, cette attaque inflige 30 dégâts supplémentaires.",
-                es: "Lanza una moneda. Si sale cara, este ataque hace 30 puntos de daño más.",
+                fr: "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus.",
+                es: "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño más.",
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
-                de: "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
-                "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
-                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
+                de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 30 Schadenspunkte mehr zu.",
+                "pt-br": "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
+                "zh-tw": "擲1次硬幣若為正面,則增加30點傷害。",
                 ja: "コインを1回投げオモテなら、30ダメージ追加。",
                 ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
             },

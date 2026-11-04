@@ -4,14 +4,16 @@ import Set from "../Promos-A";
 const card: Card = {
 	set: Set,
 	image: {
-		en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/112",
-		fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/112",
-		es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/112",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/112",
-		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/112",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/112",
-		ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/112"
-	},
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/112/83bfd7beaf8ab792",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/112/83bfd7beaf8ab792",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/112/83bfd7beaf8ab792",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/112/83bfd7beaf8ab792",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/112/83bfd7beaf8ab792",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/112/83bfd7beaf8ab792",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/112/83bfd7beaf8ab792",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/112/83bfd7beaf8ab792",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/112/83bfd7beaf8ab792"
+    },
 	name: {
 		en: "Raichu ex",
 		fr: "Raichu-ex",
@@ -37,7 +39,7 @@ const card: Card = {
 				es: "Placaje Eléctrico",
 				it: "Locomovolt",
 				de: "Volttackle",
-				"pt-br": "Investida Volt",
+				"pt-br": "Investida Trovão",
 				"zh-tw": "伏特攻擊",
 				ja: "ボルテッカー",
 				ko: "볼트태클"
@@ -51,7 +53,7 @@ const card: Card = {
 				it: "Questo Pokémon infligge anche 30 danni a se stesso.",
 				de: "Dieses Pokémon fügt auch sich selbst 30 Schadenspunkte zu.",
 				"pt-br": "Este Pokémon também causa 30 pontos de dano a si mesmo.",
-				"zh-tw": "這隻寶可夢也會對自己造成30點傷害。",
+				"zh-tw": "這隻寶可夢也受到30點傷害。",
 				ja: "このポケモンにも30ダメージ。",
 				ko: "이 포켓몬에게도 30데미지를 준다."
 			}

@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/069",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/069",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/069",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/069",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/069",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/069",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/069",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/069",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/069"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/069/dfcb5c54a69aae85",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/069/dfcb5c54a69aae85",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/069/dfcb5c54a69aae85",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/069/dfcb5c54a69aae85",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/069/dfcb5c54a69aae85",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/069/dfcb5c54a69aae85",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/069/dfcb5c54a69aae85",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/069/dfcb5c54a69aae85",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/069/dfcb5c54a69aae85"
     },
     name: {
         en: "Floragato",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "ニャローテ"
     },
     illustrator: "nagimiso",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     hp: 90,
     types: ["Grass"],
@@ -45,12 +45,12 @@ const card: Card = {
     stage: "Stage1",
     description: {
         en: "The hardness of Floragato’s fur depends on the Pokémon’s mood. When Floragato is prepared to battle, its fur becomes pointed and needle sharp.",
-        fr: "La dureté de la fourrure de Matourgeon dépend de l'humeur du Pokémon. Lorsque Matourgeon est prêt à se battre, sa fourrure devient pointue et acérée.",
-        es: "La dureza del pelaje de Floragato depende del estado de ánimo del Pokémon. Cuando Floragato está preparado para la batalla, su pelaje se vuelve puntiagudo y afilado como una aguja.",
-        it: "La durezza della pelliccia di Floragato dipende dall'umore del Pokémon. Quando Floragato è pronto a combattere, la sua pelliccia diventa appuntita e affilata.",
-        de: "Die Härte des Fells von Feliospa hängt von der Stimmung des Pokémon ab. Wenn Feliospa zum Kampf bereit ist, wird sein Fell spitz und nadelscharf.",
-        "pt-br": "A dureza do pelo de Floragato depende do humor do Pokémon. Quando Floragato está preparado para a batalha, seu pelo fica pontudo e afiado.",
-        "zh-tw": "蒂蕾喵 毛的硬度取決於寶可夢的心情。當蒂蕾喵準備戰鬥時，它的皮毛會變得尖如針鋒利。",
+        fr: "La rigidité de ses poils dépend de son état d'esprit. Quand il se prépare au combat, ceux-ci se hérissent et sont acérés comme des aiguilles.",
+        es: "La dureza de su pelaje cambia según su estado de ánimo. Cuando se prepara para combatir, se vuelve duro y punzante como agujas.",
+        it: "La durezza della pelliccia cambia in base al suo stato d'animo. Quando si accinge alla lotta, il suo pelo diventa irto di punte acuminate come aghi.",
+        de: "Die Geschmeidigkeit seines Fells ändert sich je nach Laune des Pokémon. Macht es sich für den Kampf bereit, wird das Fell so spitz wie Nadeln.",
+        "pt-br": "A rigidez do pelo de Floragato depende do humor do Pokémon. Quando Floragato está pronto para a batalha, seu pelo fica arrepiado e pontiagudo.",
+        "zh-tw": "體毛的硬度會隨心情而變。進入迎戰狀態時，體毛會變得如針般尖銳。",
         ja: "体毛の 硬さは 気分で 変わる。 臨戦態勢になると 針のように 鋭利に 尖るぞ。",
         ko: "털의 강도는 기분에 따라 변한다.\n전투태세에 들어가면\n바늘처럼 예리하고 뾰족해진다."
     },

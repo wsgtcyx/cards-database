@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/100",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/100",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/100",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/100",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/100",
-        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/100",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/100",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/100",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/100"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/100/2620d71f84e815c1",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/100/2620d71f84e815c1",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/100/2620d71f84e815c1",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/100/2620d71f84e815c1",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/100/2620d71f84e815c1",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/100/2620d71f84e815c1",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/100/2620d71f84e815c1",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/100/2620d71f84e815c1",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/100/2620d71f84e815c1"
     },
     name: {
         en: "Delcatty",

@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/041",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/041",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/041",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/041",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/041",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/041",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/041",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/041",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/041"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/041/104f5f5190270a69",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/041/104f5f5190270a69",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/041/104f5f5190270a69",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/041/104f5f5190270a69",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/041/104f5f5190270a69",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/041/104f5f5190270a69",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/041/104f5f5190270a69",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/041/104f5f5190270a69",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/041/104f5f5190270a69"
     },
     name: {
         en: "Chien-Pao ex",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "パオジアンex"
     },
     illustrator: "aky CG Works",
-    rarity: "None",
+    rarity: "Four Diamond",
     category: "Pokemon",
     hp: 130,
     types: ["Water"],
@@ -63,12 +63,12 @@ const card: Card = {
             },
             effect: {
                 en: "Discard all {W} Energy from this Pokémon. This attack does 130 damage to 1 of your opponent's Pokémon.",
-                fr: "Défaussez toute l'énergie {W} de ce Pokémon. Cette attaque inflige 130 dégâts à 1 des Pokémon de votre adversaire.",
-                es: "Descarta toda la Energía {W} de este Pokémon. Este ataque hace 130 puntos de daño a 1 de los Pokémon de tu rival.",
-                it: "Scarta tutte le Energie {W} da questo Pokémon. Questo attacco infligge 130 danni a 1 dei Pokémon del tuo avversario.",
-                de: "Lege alle {W}-Energien von diesem Pokémon ab. Dieser Angriff fügt 1 Pokémon deines Gegners 130 Schadenspunkte zu.",
+                fr: "Défaussez toutes les Énergies {W} de ce Pokémon. Cette attaque inflige 130 dégâts à l'un des Pokémon de votre adversaire.",
+                es: "Descarta todas las Energías {W} de este Pokémon. Este ataque hace 130 puntos de daño a 1 de los Pokémon de tu rival.",
+                it: "Rimuovi tutte le Energie {W} da questo Pokémon. Questo attacco infligge 130 danni a uno dei Pokémon del tuo avversario.",
+                de: "Lege alle {W}-Energien von diesem Pokémon ab. Diese Attacke fügt 1 Pokémon deines Gegners 130 Schadenspunkte zu.",
                 "pt-br": "Descarte todas as Energias {W} deste Pokémon. Este ataque causa 130 pontos de dano a 1 dos Pokémon do seu oponente.",
-                "zh-tw": "丟棄該寶可夢的所有 {W} 能量。這次攻擊對對手的 1 隻寶可夢造成 130 點傷害。",
+                "zh-tw": "將這隻寶可夢身上的{W}能量全部丟棄,對手的1隻寶可夢受到130點傷害。",
                 ja: "このポケモンから{W}エネルギーをすべてトラッシュし、相手のポケモン1匹に130ダメージ。",
                 ko: "이 포켓몬에서 {W}에너지를 모두 트래쉬하고 상대의 포켓몬 1마리에게 130데미지를 준다."
             }

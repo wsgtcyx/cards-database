@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/008",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/008",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/008",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/008",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/008",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/008",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/008",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/008",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/008"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/008/5a7b7fdd5f57a2df",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/008/5a7b7fdd5f57a2df",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/008/5a7b7fdd5f57a2df",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/008/5a7b7fdd5f57a2df",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/008/5a7b7fdd5f57a2df",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/008/5a7b7fdd5f57a2df",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/008/5a7b7fdd5f57a2df",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/008/5a7b7fdd5f57a2df",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/008/5a7b7fdd5f57a2df"
     },
     name: {
         en: "Psyduck",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "コダック"
     },
     illustrator: "OKACHEKE",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     hp: 60,
     types: ["Water"],
@@ -34,12 +34,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode.",
-        fr: "Si ses maux de tête chroniques culminent, il peut présenter des pouvoirs étranges. Il semble incapable de se souvenir d'un tel épisode.",
-        es: "Si su dolor de cabeza crónico alcanza su punto máximo, puede exhibir poderes extraños. Parece incapaz de recordar tal episodio.",
-        it: "Se il suo mal di testa cronico raggiunge il picco, può mostrare strani poteri. Sembra incapace di ricordare un episodio del genere.",
-        de: "Wenn der chronische Kopfschmerz seinen Höhepunkt erreicht, kann er seltsame Kräfte zeigen. Es scheint nicht in der Lage zu sein, sich an eine solche Episode zu erinnern.",
-        "pt-br": "Se a dor de cabeça crônica atingir o pico, ela poderá exibir poderes estranhos. Parece incapaz de recordar tal episódio.",
-        "zh-tw": "如果它的慢性頭痛達到頂峰，它可能會表現出奇怪的力量。似乎無法回憶起這樣的情節。",
+        fr: "Quand son éternelle migraine devient trop forte, il manifeste d'étranges pouvoirs, mais il ne semble jamais s'en souvenir par la suite.",
+        es: "Cuando su jaqueca crónica empeora, desata unos poderes misteriosos, pero después no parece recordar nada de lo ocurrido.",
+        it: "Se il suo mal di testa cronico si acuisce, può manifestare strani poteri di cui in seguito non ha memoria.",
+        de: "Wenn seine chronischen Kopfschmerzen stärker werden, kann es mysteriöse Kräfte entfalten. Danach erinnert es sich anscheinend nicht daran.",
+        "pt-br": "Exibe poderes estranhos quando sua dor de cabeça crônica piora, mas não consegue lembrar esses episódios.",
+        "zh-tw": "總是會在頭痛欲裂時發揮出神奇的力量，但似乎沒有當下的記憶。",
         ja: "いつもの 頭痛が 激しくなると 不思議な 力を 発揮するが そのときの 記憶は ないらしい。",
         ko: "평상시보다 두통이 심해지면\n이상한 힘을 발산하지만\n그때의 기억은 없는 듯하다."
     },

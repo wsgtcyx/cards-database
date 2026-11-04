@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/002",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/002",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/002",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/002",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/002",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/002",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/002",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/002",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/002"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/002/c0ce49ff4fb1d575",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/002/c0ce49ff4fb1d575",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/002/c0ce49ff4fb1d575",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/002/c0ce49ff4fb1d575",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/002/c0ce49ff4fb1d575",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/002/c0ce49ff4fb1d575",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/002/c0ce49ff4fb1d575",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/002/c0ce49ff4fb1d575",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/002/c0ce49ff4fb1d575"
     },
     name: {
         en: "X Speed",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "速度強化",
     },
     illustrator: "Toyste Beach",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Trainer",
     effect: {
         en: "During this turn, the Retreat Cost of your Active Pokémon is 1 less.",
@@ -36,7 +36,7 @@ const card: Card = {
         'pt-br': "Durante este turno, o custo de Recuo do seu Pokémon Ativo é 1 a menos.",
         ja: "この番、自分のバトルポケモンのにげるためのエネルギーを、1個少なくする。",
         ko: "이 차례에 자신의 배틀 포켓몬의 후퇴에 필요한 에너지를 1개 적게 만든다.",
-        "zh-tw": "這個回合中，你的活躍寶可夢的撤退費用減少 1。"
+        "zh-tw": "在這個回合,自己的戰鬥寶可夢撤退所需的能量減少1個。"
     },
     trainerType: "Item",
     boosters: []

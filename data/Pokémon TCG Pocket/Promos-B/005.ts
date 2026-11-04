@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/005",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/005",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/005",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/005",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/005",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/005",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/005",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/005",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/005"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/005/3221db6e6356fd5b",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/005/3221db6e6356fd5b",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/005/3221db6e6356fd5b",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/005/3221db6e6356fd5b",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/005/3221db6e6356fd5b",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/005/3221db6e6356fd5b",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/005/3221db6e6356fd5b",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/005/3221db6e6356fd5b",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/005/3221db6e6356fd5b"
     },
     name: {
         en: "Pidgey",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "ポッポ"
     },
     illustrator: "Tomokazu Komiya",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     hp: 60,
     types: ["Colorless"],
@@ -38,8 +38,8 @@ const card: Card = {
         es: "Es manso y prefiere evitar los problemas. Sin embargo,\nsi le molestan atacará ferozmente.",
         it: "È docile e preferisce evitare i conflitti. Ma se viene\ndisturbato, contrattacca ferocemente.",
         de: "Reizt man dieses an sich gutmütige Pokémon,\nwehrt es sich wütend.",
-        "pt-br": "É dócil e prefere evitar conflitos. Se perturbado, porém, pode contra-atacar ferozmente.",
-        "zh-tw": "它個性溫順，喜歡避免衝突。然而，如果受到干擾，它可能會猛烈反擊。",
+        "pt-br": "É dócil e prefere evitar conflitos. No entanto, quando é perturbado, pode contra-atacar ferozmente.",
+        "zh-tw": "雖然性情溫和不愛戰鬥，但要是隨意對牠出手的話，就會受到牠強烈的反擊。",
         ja: "戦いを 好まない おとなしい 性格だが 下手に 手を 出すと 強烈に 反撃されるぞ。",
         ko: "싸움을 좋아하지 않는\n얌전한 성격이지만 어설프게 건드리면\n강력한 반격을 당하게 된다."
     },

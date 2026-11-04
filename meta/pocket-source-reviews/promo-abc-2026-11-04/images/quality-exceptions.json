@@ -1,0 +1,39 @@
+{
+  "recordedAt": "2026-11-04T03:40:44.745257+00:00",
+  "source": "Explicit user replies in this implementation conversation",
+  "acceptedNativeLowResolution": [
+    {
+      "set": "P-C",
+      "booster": "vol1",
+      "width": 256,
+      "height": 256,
+      "scope": "API real booster and tcgp representative",
+      "userReply": "那就用低清的吧 继续"
+    },
+    {
+      "set": "P-B",
+      "boosters": [
+        "vol11",
+        "vol12",
+        "vol13"
+      ],
+      "dimensions": [
+        [
+          148,
+          251
+        ],
+        [
+          256,
+          256
+        ],
+        [
+          148,
+          251
+        ]
+      ],
+      "scope": "API real boosters; tcgp uses 717×1360 Vol.1",
+      "userReply": "允许保留这三卷原生低清图（推荐）"
+    }
+  ],
+  "upscalingOrRedrawing": false
+}

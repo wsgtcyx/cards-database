@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/016",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/016",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/016",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/016",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/016",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/016",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/016",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/016",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/016"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/016/bba252dbf7b8b811",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/016/bba252dbf7b8b811",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/016/bba252dbf7b8b811",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/016/bba252dbf7b8b811",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/016/bba252dbf7b8b811",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/016/bba252dbf7b8b811",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/016/bba252dbf7b8b811",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/016/bba252dbf7b8b811",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/016/bba252dbf7b8b811"
     },
     name: {
         en: "Clefairy",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "皮皮"
     },
     illustrator: "Shibuzoh.",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     types: ["Psychic"],
     stage: "Basic",
@@ -39,7 +39,7 @@ const card: Card = {
                 'pt-br': "Tapa",
                 ja: "ビンタ",
                 ko: "뺨치기",
-                "zh-tw": "拍擊"
+                "zh-tw": "巴掌"
             },
             cost: ["Psychic"],
             damage: 20
@@ -54,7 +54,7 @@ const card: Card = {
         'pt-br': "Acredita-se que a felicidade virá para aqueles\nque virem um grupo de Clefairy dançando sob\na lua cheia.",
         ja: "満月の夜 ピッピが 集まって ダンスを 踊るようすを 見ると しあわせに なれると 言われている。",
         ko: "보름달 밤에 삐삐가 모여\n춤을 추는 모습을 보면\n행복해진다고 전해진다.",
-        "zh-tw": "據說幸福會降臨到那些\n看到一群 Clefairy 在燈光下跳舞\n滿月。"
+        "zh-tw": "據說如果在滿月的夜晚看見皮皮們聚在一起跳舞，就能得到幸福。"
     },
     weaknesses: [{
             type: "Metal",

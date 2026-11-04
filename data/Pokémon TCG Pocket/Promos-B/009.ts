@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/009",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/009",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/009",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/009",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/009",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/009",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/009",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/009",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/009"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/009/0dd56ad95090cd87",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/009/0dd56ad95090cd87",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/009/0dd56ad95090cd87",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/009/0dd56ad95090cd87",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/009/0dd56ad95090cd87",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/009/0dd56ad95090cd87",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/009/0dd56ad95090cd87",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/009/0dd56ad95090cd87",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/009/0dd56ad95090cd87"
     },
     name: {
         en: "Mega Absol ex",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "メガアブソルex"
     },
     illustrator: "PLANETA CG Works",
-    rarity: "None",
+    rarity: "Four Diamond",
     category: "Pokemon",
     hp: 170,
     types: ["Darkness"],
@@ -48,12 +48,12 @@ const card: Card = {
             },
             effect: {
                 en: "Your opponent reveals their hand. Choose a Supporter card you find there and discard it.",
-                fr: "Votre adversaire révèle sa main. Choisissez une carte Supporter que vous y trouvez et défaussez-la.",
-                es: "Tu oponente revela su mano. Elige una carta de Partidario que encuentres allí y deséchala.",
-                it: "Il tuo avversario rivela la sua mano. Scegli una carta Aiuto che trovi lì e scartala.",
-                de: "Ihr Gegner deckt seine Hand auf. Wähle eine Unterstützerkarte, die du dort findest, und wirf sie ab.",
-                "pt-br": "Seu oponente revela sua mão. Escolha uma carta de Apoiador que encontrar lá e descarte-a.",
-                "zh-tw": "你的對手亮出了他們的牌。選擇您在那裡找到的一張支持者卡並將其丟棄。",
+                fr: "Votre adversaire dévoile sa main. Choisissez une carte Supporter que vous y trouvez et défaussez‐la.",
+                es: "Tu rival enseña las cartas de su mano. Elige 1 carta de Partidario que encuentres entre ellas y descártala.",
+                it: "Il tuo avversario mostra le carte che ha in mano. Scegli una carta Aiuto presente tra esse e scartala.",
+                de: "Dein Gegner zeigt dir seine Handkarten. Wähle 1 Unterstützerkarte, die du dort findest, und lege sie auf den Ablagestapel deines Gegners.",
+                "pt-br": "Seu oponente revela a mão dele. Escolha 1 carta de Apoiador que encontrar lá e descarte-a.",
+                "zh-tw": "查看對手所有手牌的正面,從其中選擇1張支援者卡,將其丟棄。",
                 ja: "相手の手札のオモテをすべて見て、その中からサポートを1枚選び、トラッシュ。",
                 ko: "상대의 패의 앞면을 모두 보고 그 중에서 서포트를 1장 선택해서 트래쉬한다."
             },

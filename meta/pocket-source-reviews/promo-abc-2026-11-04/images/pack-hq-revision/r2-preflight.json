@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "manifestSha256": "50b748a63309d6192711083029d77d8988e7a672636004cbdbf83d412ed99b71",
+  "passed": true,
+  "objects": 20,
+  "results": [
+    {
+      "key": "univ/tcgp/P-A/boosters/vol3/fad69b5b4f1886cf/artwork_front.webp",
+      "status": 404
+    },
+    {
+      "key": "univ/tcgp/P-A/boosters/vol4/94e9baa377f7dace/artwork_front.webp",
+      "status": 404
+    },
+    {
+      "key": "univ/tcgp/P-A/boosters/vol5/c543ad5d4e6dd673/artwork_front.webp",
+      "status": 404
+    },
+    {
+      "key": "univ/tcgp/P-A/boosters/vol6/de969ed77eadead2/artwork_front.webp",
+      "status": 404
+    },
+    {
+      "key": "univ/tcgp/P-A/boosters/vol7/2ded48351ba4dc77/artwork_front.webp",
+      "status": 404
+    },
+    {
+      "key": "univ/tcgp/P-A/boosters/vol8/49e9157a6d15345e/artwork_front.webp",
+      "status": 404
+    },
+    {
+      "key": "univ/tcgp/P-A/boosters/vol9/d2520c94c0d8e978/artwork_front.webp",
+      "status": 404
+    },
+    {
+      "key": "univ/tcgp/P-A/boosters/vol10/ddfcd64c01166fe8/artwork_front.webp",
+      "status": 404
+    },
+    {
+      "key": "univ/tcgp/P-A/boosters/vol11/1d1c86eea404918b/artwork_front.webp",
+      "status": 404
+    },
+    {
+      "key": "univ/tcgp/P-A/boosters/vol12/30921197f38c43ab/artwork_front.webp",
+      "status": 404
+    },
+    {
+      "key": "univ/tcgp/P-A/boosters/vol13/03e831c50885200a/artwork_front.webp",
+      "status": 404
+    },
+    {
+      "key": "univ/tcgp/P-B/boosters/vol2/06c9783c3416b1e9/artwork_front.webp",
+      "status": 404
+    },
+    {
+      "key": "univ/tcgp/P-B/boosters/vol3/d1ae75e29fbafbc1/artwork_front.webp",
+      "status": 404
+    },
+    {
+      "key": "univ/tcgp/P-B/boosters/vol4/707d89fc65c36ade/artwork_front.webp",
+      "status": 404
+    },
+    {
+      "key": "univ/tcgp/P-B/boosters/vol5/f9524a42f10b8174/artwork_front.webp",
+      "status": 404
+    },
+    {
+      "key": "univ/tcgp/P-B/boosters/vol6/f621bee231e746dc/artwork_front.webp",
+      "status": 404
+    },
+    {
+      "key": "univ/tcgp/P-B/boosters/vol7/8bbcc1724b5882fe/artwork_front.webp",
+      "status": 404
+    },
+    {
+      "key": "univ/tcgp/P-B/boosters/vol8/2903fa13f910bee1/artwork_front.webp",
+      "status": 404
+    },
+    {
+      "key": "univ/tcgp/P-B/boosters/vol9/1745e23d3399dc86/artwork_front.webp",
+      "status": 404
+    },
+    {
+      "key": "univ/tcgp/P-B/boosters/vol10/a8ae88d5930c7d19/artwork_front.webp",
+      "status": 404
+    }
+  ]
+}

@@ -1,0 +1,1237 @@
+{
+  "schemaVersion": 1,
+  "setId": "P-C",
+  "cards": {
+    "P-C-001": {
+      "locales": {
+        "en": {
+          "name": "Pikachu",
+          "description": "When several of these Pokémon gather, their electricity can build and cause lightning storms.",
+          "attacks": [
+            {
+              "name": "Thunder Jolt",
+              "effect": "This Pokémon also does 10 damage to itself."
+            }
+          ]
+        },
+        "fr": {
+          "name": "Pikachu",
+          "description": "Quand plusieurs de ces Pokémon se réunissent, ils provoquent de gigantesques orages.",
+          "attacks": [
+            {
+              "name": "Secousse Tonnerre",
+              "effect": "Ce Pokémon s'inflige aussi 10 dégâts."
+            }
+          ]
+        },
+        "es": {
+          "name": "Pikachu",
+          "description": "Cuando varios de estos Pokémon se juntan, su energía puede causar fuertes tormentas.",
+          "attacks": [
+            {
+              "name": "Sacudida Atronadora",
+              "effect": "Este Pokémon también se hace 10 puntos de daño a sí mismo."
+            }
+          ]
+        },
+        "it": {
+          "name": "Pikachu",
+          "description": "Quando vari Pokémon di questa specie si radunano, la loro energia si accumula e genera fulmini.",
+          "attacks": [
+            {
+              "name": "Scoppiotuono",
+              "effect": "Questo Pokémon infligge anche 10 danni a se stesso."
+            }
+          ]
+        },
+        "de": {
+          "name": "Pikachu",
+          "description": "Wenn sich mehrere dieser Pokémon versammeln, kann ihre geballte Energie Blitzgewitter erzeugen.",
+          "attacks": [
+            {
+              "name": "Donnerrüttler",
+              "effect": "Dieses Pokémon fügt auch sich selbst 10 Schadenspunkte zu."
+            }
+          ]
+        },
+        "pt-br": {
+          "name": "Pikachu",
+          "description": "Quando vários destes Pokémon se juntam, a eletricidade deles pode se acumular e causar tempestades de raios.",
+          "attacks": [
+            {
+              "name": "Choque do Trovão",
+              "effect": "Este Pokémon também causa 10 pontos de dano a si mesmo."
+            }
+          ]
+        },
+        "zh-tw": {
+          "name": "皮卡丘",
+          "description": "據說同一處有好幾隻的時候，牠們就會聚集起強烈的電力，還可能造成閃電落於該處。",
+          "attacks": [
+            {
+              "name": "電流攻擊",
+              "effect": "這隻寶可夢也受到10點傷害。"
+            }
+          ]
+        },
+        "ja": {
+          "name": "ピカチュウ",
+          "description": "何匹かが 集まっていると そこに 猛烈な 電気が 溜まり 稲妻が 落ちることがあるという。",
+          "attacks": [
+            {
+              "name": "でんげき",
+              "effect": "このポケモンにも10ダメージ。"
+            }
+          ]
+        },
+        "ko": {
+          "name": "피카츄",
+          "description": "여러 마리가 모여 있으면 그 자리에 맹렬하게 전기가 모여서 벼락이 떨어질 때가 있다고 한다.",
+          "attacks": [
+            {
+              "name": "전격",
+              "effect": "이 포켓몬에게도 10데미지를 준다."
+            }
+          ]
+        }
+      }
+    },
+    "P-C-002": {
+      "locales": {
+        "en": {
+          "name": "Mega Mewtwo Y ex",
+          "attacks": [
+            {
+              "name": "Psychic Blaster",
+              "effect": "Flip a coin for each {P} Energy attached to this Pokémon. This attack does 60 damage for each heads."
+            }
+          ]
+        },
+        "fr": {
+          "name": "Méga-Mewtwo Y-ex",
+          "attacks": [
+            {
+              "name": "Explosif Psy",
+              "effect": "Lancez une pièce pour chaque Énergie {P} attachée à ce Pokémon. Cette attaque inflige 60 dégâts pour chaque côté face."
+            }
+          ]
+        },
+        "es": {
+          "name": "Mega-Mewtwo Y ex",
+          "attacks": [
+            {
+              "name": "Psicoestruendo",
+              "effect": "Lanza 1 moneda por cada Energía {P} unida a este Pokémon. Este ataque hace 60 puntos de daño por cada cara."
+            }
+          ]
+        },
+        "it": {
+          "name": "Mega Mewtwo Y-ex",
+          "attacks": [
+            {
+              "name": "Detonazione Psichica",
+              "effect": "Lancia una moneta per ogni Energia {P} assegnata a questo Pokémon. Questo attacco infligge 60 danni ogni volta che esce testa."
+            }
+          ]
+        },
+        "de": {
+          "name": "Mega-Mewtu Y-ex",
+          "attacks": [
+            {
+              "name": "Psycho-Blaster",
+              "effect": "Wirf 1 Münze für jede an dieses Pokémon angelegte {P}-Energie. Diese Attacke fügt 60 Schadenspunkte pro Kopf zu."
+            }
+          ]
+        },
+        "pt-br": {
+          "name": "Mega Mewtwo Y ex",
+          "attacks": [
+            {
+              "name": "Disparador Psíquico",
+              "effect": "Jogue uma moeda para cada Energia de {P} ligada a este Pokémon. Este ataque causa 60 pontos de dano para cada cara."
+            }
+          ]
+        },
+        "zh-tw": {
+          "name": "超級超夢Yex",
+          "attacks": [
+            {
+              "name": "超能爆破",
+              "effect": "以這隻寶可夢身上的{P}能量的數量擲硬幣,造成正面出現的次數×60點傷害。"
+            }
+          ]
+        },
+        "ja": {
+          "name": "メガミュウツーYex",
+          "attacks": [
+            {
+              "name": "サイキックブラスター",
+              "effect": "このポケモンの{P}エネルギーの数ぶんコインを投げ、オモテの数×60ダメージ。"
+            }
+          ]
+        },
+        "ko": {
+          "name": "메가뮤츠Y ex",
+          "attacks": [
+            {
+              "name": "사이킥 블래스터",
+              "effect": "이 포켓몬의 {P}에너지의 개수만큼 동전을 던져서 앞면이 나온 수 × 60데미지를 준다."
+            }
+          ]
+        }
+      }
+    },
+    "P-C-003": {
+      "locales": {
+        "en": {
+          "name": "Deoxys",
+          "description": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.",
+          "attacks": [
+            {
+              "name": "Psycho Boost",
+              "effect": "During your next turn, this Pokémon's Psycho Boost does −50 damage."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Deoxys",
+          "description": "Il vient d’un virus extraterrestre arrivé avec une météorite et ayant subi une mutation génétique.",
+          "attacks": [
+            {
+              "name": "Psycho-Boost",
+              "effect": "Pendant votre prochain tour, ce Pokémon inflige − 50 dégâts avec Psycho-Boost."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Deoxys",
+          "description": "Surgió a raíz de la mutación de ADN de un virus alienígena que cayó a la tierra en un meteorito.",
+          "attacks": [
+            {
+              "name": "Psicoataque",
+              "effect": "Durante tu próximo turno, el ataque Psicoataque de este Pokémon hace ‐50 puntos de daño."
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Deoxys",
+          "description": "È il risultato della mutazione genetica di un virus alieno giunto con un meteorite.",
+          "attacks": [
+            {
+              "name": "Psicoslancio",
+              "effect": "Durante il tuo prossimo turno, l’attacco Psicoslancio di questo Pokémon infligge -50 danni."
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Deoxys",
+          "description": "Ein außerirdischer Virus kam mit einem Meteor auf die Erde. Seine DNA mutierte. So entstand Deoxys.",
+          "attacks": [
+            {
+              "name": "Psyschub",
+              "effect": "Während deines nächsten Zuges fügt die Attacke Psyschub von diesem Pokémon − 50 Schadenspunkte zu."
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Deoxys",
+          "description": "Um vírus alienígena que caiu na Terra em um meteoro sofreu uma mutação no DNA e se transformou neste Pokémon.",
+          "attacks": [
+            {
+              "name": "Impulso Psíquico",
+              "effect": "Durante o seu próximo turno, o ataque Impulso Psíquico deste Pokémon causará − 50 pontos de dano."
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "代歐奇希斯",
+          "description": "附著在隕石上的宇宙病毒的DNA發生變異後誕生的寶可夢。",
+          "attacks": [
+            {
+              "name": "精神突進",
+              "effect": "在下個自己的回合,這隻寶可夢「精神突進」的傷害-50點。"
+            }
+          ],
+          "abilities": []
+        },
+        "ja": {
+          "name": "デオキシス",
+          "description": "隕石に 付着していた 宇宙ウイルスの ＤＮＡが 変異して 生まれた ポケモン。",
+          "attacks": [
+            {
+              "name": "サイコブースト",
+              "effect": "次の自分の番、このポケモンの「サイコブースト」のダメージを-50する。"
+            }
+          ],
+          "abilities": []
+        },
+        "ko": {
+          "name": "테오키스",
+          "description": "운석에 붙어 있던\n우주 바이러스의 DNA가\n변이하여 생겨난 포켓몬이다.",
+          "attacks": [
+            {
+              "name": "사이코부스트",
+              "effect": "자신의 다음 차례에 이 포켓몬의 「사이코부스트」의 데미지를 -50한다."
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "P-C-004": {
+      "locales": {
+        "en": {
+          "name": "Inkay",
+          "description": "It protects itself from tough foes by flashing its luminescent spots to discourage them.",
+          "attacks": [
+            {
+              "name": "Perplex",
+              "effect": "Your opponent's Active Pokémon is now Confused."
+            }
+          ]
+        },
+        "fr": {
+          "name": "Sepiatop",
+          "description": "Il se protège des ennemis puissants en faisant clignoter les points lumineux sur son corps, ce qui sape leur volonté de l'attaquer.",
+          "attacks": [
+            {
+              "name": "Affolement",
+              "effect": "Le Pokémon Actif de votre adversaire est maintenant Confus."
+            }
+          ]
+        },
+        "es": {
+          "name": "Inkay",
+          "description": "Los destellos de luz intermitente que emiten sus órganos luminosos aplacan el ánimo del rival, lo que le permite protegerse de enemigos fuertes.",
+          "attacks": [
+            {
+              "name": "Desconcierto",
+              "effect": "El Pokémon Activo de tu rival pasa a estar Confundido."
+            }
+          ]
+        },
+        "it": {
+          "name": "Inkay",
+          "description": "Fa perdere la motivazione agli avversari facendo lampeggiare i motivi che ha sul corpo. In questo modo riesce a difendersi dai nemici più forti.",
+          "attacks": [
+            {
+              "name": "Sconcerto",
+              "effect": "Il Pokémon attivo del tuo avversario viene confuso."
+            }
+          ]
+        },
+        "de": {
+          "name": "Iscalar",
+          "description": "Es schützt sich vor starken Feinden, indem es die Punkte auf seinem Körper blinken lässt und Gegnern so den Kampfeswillen raubt.",
+          "attacks": [
+            {
+              "name": "Perplex",
+              "effect": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt."
+            }
+          ]
+        },
+        "pt-br": {
+          "name": "Inkay",
+          "description": "Pisca suas marcas luminescentes para se proteger dos inimigos e desencorajá-los.",
+          "attacks": [
+            {
+              "name": "Perplexo",
+              "effect": "O Pokémon Ativo do seu oponente agora está Confuso."
+            }
+          ]
+        },
+        "zh-tw": {
+          "name": "好啦魷",
+          "description": "會閃爍發光體讓對手提不起勁，從而保護自己免受強敵襲擊。",
+          "attacks": [
+            {
+              "name": "蠱惑",
+              "effect": "將對手的戰鬥寶可夢混亂。"
+            }
+          ]
+        },
+        "ja": {
+          "name": "マーイーカ",
+          "description": "発光体を 点滅させて 相手の やる気を なくさせることで 強敵から 身を 守っている。",
+          "attacks": [
+            {
+              "name": "まどわす",
+              "effect": "相手のバトルポケモンをこんらんにする。"
+            }
+          ]
+        },
+        "ko": {
+          "name": "오케이징",
+          "description": "발광체를 깜빡여서 상대의 의욕을 상실시키는 방식으로 강적으로부터 몸을 지킨다.",
+          "attacks": [
+            {
+              "name": "혼란시키기",
+              "effect": "상대의 배틀 포켓몬을 혼란으로 만든다."
+            }
+          ]
+        }
+      }
+    },
+    "P-C-005": {
+      "locales": {
+        "en": {
+          "name": "Malamar",
+          "description": "Its hypnotic powers are dangerously strong. Anyone who falls under Malamar's control loses their memories surrounding the event.",
+          "evolveFrom": "Inkay",
+          "attacks": [
+            {
+              "name": "Pester the Dizzy",
+              "effect": "If your opponent's Active Pokémon is Confused, this attack does 90 more damage."
+            }
+          ]
+        },
+        "fr": {
+          "name": "Sepiatroce",
+          "description": "Ses pouvoirs hypnotiques sont sans égal, si bien que ses victimes ne gardent aucun souvenir du moment où elles étaient sous son contrôle.",
+          "evolveFrom": "Sepiatop",
+          "attacks": [
+            {
+              "name": "Accabler les Confus",
+              "effect": "Si le Pokémon Actif de votre adversaire est Confus, cette attaque inflige 90 dégâts de plus."
+            }
+          ]
+        },
+        "es": {
+          "name": "Malamar",
+          "description": "Sus potentes poderes hipnóticos no tienen rival. Aquellos a los que controla no recuerdan en absoluto haber estado sometidos a su voluntad.",
+          "evolveFrom": "Inkay",
+          "attacks": [
+            {
+              "name": "Saña Mareante",
+              "effect": "Si el Pokémon Activo de tu rival está Confundido, este ataque hace 90 puntos de daño más."
+            }
+          ]
+        },
+        "it": {
+          "name": "Malamar",
+          "description": "Ha poteri ipnotici straordinariamente forti, tanto che chi cade in suo controllo ne perde poi ogni ricordo.",
+          "evolveFrom": "Inkay",
+          "attacks": [
+            {
+              "name": "Confusattacco",
+              "effect": "Se il Pokémon attivo del tuo avversario è confuso, questo attacco infligge 90 danni in più."
+            }
+          ]
+        },
+        "de": {
+          "name": "Calamanero",
+          "description": "Seine hypnotischen Kräfte sind unfassbar stark. Hat es sich ein Opfer gefügig gemacht, verliert dieses jegliche Erinnerung an den Vorfall.",
+          "evolveFrom": "Iscalar",
+          "attacks": [
+            {
+              "name": "Piesacken der Taumelnden",
+              "effect": "Wenn das Aktive Pokémon deines Gegners verwirrt ist, fügt diese Attacke 90 Schadenspunkte mehr zu."
+            }
+          ]
+        },
+        "pt-br": {
+          "name": "Malamar",
+          "description": "Seus poderes hipnóticos são fortes e perigosos. Quem ficar sob o controle de Malamar perde toda a memória do ocorrido.",
+          "evolveFrom": "Inkay",
+          "attacks": [
+            {
+              "name": "Cutucar a Confusão",
+              "effect": "Se o Pokémon Ativo do seu oponente estiver Confuso, este ataque causará 90 pontos de dano a mais."
+            }
+          ]
+        },
+        "zh-tw": {
+          "name": "烏賊王",
+          "description": "由於牠的催眠術過於強大，導致被操控的對手會失去在那前後的記憶。",
+          "evolveFrom": "好啦魷",
+          "attacks": [
+            {
+              "name": "暈眩追擊",
+              "effect": "若對手的戰鬥寶可夢混亂，則增加90點傷害。"
+            }
+          ]
+        },
+        "ja": {
+          "name": "カラマネロ",
+          "description": "強力すぎる さいみんじゅつ。 操られていた 相手は 前後の 記憶を 失っている。",
+          "evolveFrom": "マーイーカ",
+          "attacks": [
+            {
+              "name": "めまいのついげき",
+              "effect": "相手のバトルポケモンがこんらんなら、90ダメージ追加。"
+            }
+          ]
+        },
+        "ko": {
+          "name": "칼라마네로",
+          "description": "어마어마하게 강한 최면술을 쓴다. 조종당한 상대는 전후의 기억을 잃어버린다.",
+          "evolveFrom": "오케이징",
+          "attacks": [
+            {
+              "name": "현기증추격",
+              "effect": "상대의 배틀 포켓몬이 혼란이라면 90데미지를 추가한다."
+            }
+          ]
+        }
+      }
+    },
+    "P-C-006": {
+      "locales": {
+        "en": {
+          "name": "Cosmog",
+          "description": "This Pokémon came from another universe. Its gaseous body is so light that even a gentle breeze can blow it away.",
+          "attacks": [
+            {
+              "name": "Dust Gathering",
+              "effect": "Draw a card."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Cosmog",
+          "description": "Il vient d’un autre univers. Son corps gazeux est si léger que la moindre brise peut l’emporter.",
+          "attacks": [
+            {
+              "name": "Ramasse Poussière",
+              "effect": "Piochez une carte."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Cosmog",
+          "description": "Proviene de otro mundo. Su cuerpo gaseoso es tan liviano que hasta la brisa más suave es capaz de arrastrarlo.",
+          "attacks": [
+            {
+              "name": "Concentración de Polvo",
+              "effect": "Roba 1 carta."
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Cosmog",
+          "description": "Proviene da un altro universo. Il suo corpo fatto di gas è talmente leggero che può volar via al minimo soffio di vento.",
+          "attacks": [
+            {
+              "name": "Coglipolvere",
+              "effect": "Pesca una carta."
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Cosmog",
+          "description": "Es stammt aus einem anderen Universum. Sein Körper aus Gas ist so leicht, dass es sogar von einer sanften Brise weggeweht wird.",
+          "attacks": [
+            {
+              "name": "Staubfänger",
+              "effect": "Ziehe 1 Karte."
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Cosmog",
+          "description": "Este Pokémon veio de outro universo. Seu corpo gasoso é tão leve que uma brisa suave pode levá-lo embora.",
+          "attacks": [
+            {
+              "name": "Coleta de Poeira",
+              "effect": "Compre 1 carta."
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "科斯莫古",
+          "description": "來自其他的宇宙。氣體構成的身體十分輕盈，連微風都能把牠吹走。",
+          "attacks": [
+            {
+              "name": "集塵",
+              "effect": "從自己的牌庫抽出1張卡。"
+            }
+          ],
+          "abilities": []
+        },
+        "ja": {
+          "name": "コスモッグ",
+          "description": "別の 宇宙から やって来た。 ガスの 体は とても 軽く そよ風にも 流れてしまうほどだ。",
+          "attacks": [
+            {
+              "name": "ちりあつめ",
+              "effect": "自分の山札を1枚引く。"
+            }
+          ],
+          "abilities": []
+        },
+        "ko": {
+          "name": "코스모그",
+          "description": "다른 우주에서 찾아왔다.\n가스로 된 몸은 매우 가벼워서\n산들바람에도 날아가 버릴 정도다.",
+          "attacks": [
+            {
+              "name": "먼지모으기",
+              "effect": "자신의 덱을 1장 뽑는다."
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "P-C-007": {
+      "locales": {
+        "en": {
+          "name": "Cosmoem",
+          "description": "The absorption of starlight fuels this Pokémon's growth. The shell that encases it is harder than any known material.",
+          "evolveFrom": "Cosmog",
+          "attacks": [
+            {
+              "name": "Ram"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Cosmovum",
+          "description": "La carapace qui le recouvre est plus dure que tout ce qui est connu par l’Homme. Il grandit en absorbant la lumière des étoiles.",
+          "evolveFrom": "Cosmog",
+          "attacks": [
+            {
+              "name": "Collision"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Cosmoem",
+          "description": "Está recubierto de un caparazón de una dureza que escapa al entendimiento humano. Crece al exponerse a la luz de las estrellas.",
+          "evolveFrom": "Cosmog",
+          "attacks": [
+            {
+              "name": "Apisonar"
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Cosmoem",
+          "description": "Il suo esoscheletro è più duro di qualunque cosa che gli esseri umani conoscano. Cresce assorbendo la luce delle stelle.",
+          "evolveFrom": "Cosmog",
+          "attacks": [
+            {
+              "name": "Carica"
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Cosmovum",
+          "description": "Es wird von einer Schale umhüllt, deren Härte Menschen vor ein Rätsel stellt. Es wächst, indem es in Sternenlicht badet.",
+          "evolveFrom": "Cosmog",
+          "attacks": [
+            {
+              "name": "Ramme"
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Cosmoem",
+          "description": "O crescimento deste Pokémon é nutrido pela absorção da luz das estrelas. A carapaça que o envolve é mais dura do que qualquer material conhecido.",
+          "evolveFrom": "Cosmog",
+          "attacks": [
+            {
+              "name": "Aríete"
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "科斯莫姆",
+          "description": "將牠包裹起來的外殼擁有超越人類認知範圍的硬度。透過沐浴星光而成長。",
+          "evolveFrom": "科斯莫古",
+          "attacks": [
+            {
+              "name": "衝撞"
+            }
+          ],
+          "abilities": []
+        },
+        "ja": {
+          "name": "コスモウム",
+          "description": "人知を 超えた 硬さの 殻に 包まれている。 星の 光を 浴びて 成長する。",
+          "evolveFrom": "コスモッグ",
+          "attacks": [
+            {
+              "name": "ぶつかる"
+            }
+          ],
+          "abilities": []
+        },
+        "ko": {
+          "name": "코스모움",
+          "description": "인간의 지식을 뛰어넘는 강도를 가진\n껍질에 둘러싸여 있다.\n별의 빛을 받아서 성장한다.",
+          "evolveFrom": "코스모그",
+          "attacks": [
+            {
+              "name": "부딪치기"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "P-C-008": {
+      "locales": {
+        "en": {
+          "name": "Lunala",
+          "description": "Known as the Beast That Calls the Moon, this Pokémon lives by taking in any and all light and converting it into its own energy.",
+          "evolveFrom": "Cosmoem",
+          "attacks": [
+            {
+              "name": "Wings of the Moone",
+              "effect": "Move all Energy from this Pokémon to your Benched Pokémon in any way you like."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Lunala",
+          "description": "Il a pour surnom « celui qui invite la lune ». Il vit en transformant toutes sortes de lumière en énergie.",
+          "evolveFrom": "Cosmovum",
+          "attacks": [
+            {
+              "name": "Ailes du Halo Lunaire",
+              "effect": "Déplacez toutes les Énergies de ce Pokémon vers vos Pokémon de Banc comme il vous plaît."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Lunala",
+          "description": "Lo llaman la Criatura que Invoca a la Luna. Convierte cualquier forma de luz en energía para sustentarse.",
+          "evolveFrom": "Cosmoem",
+          "attacks": [
+            {
+              "name": "Alas de la Luna",
+              "effect": "Mueve todas las Energías de este Pokémon a tus Pokémon en Banca de la manera que desees."
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Lunala",
+          "description": "Viene chiamato “la creatura che evoca la luna”. Converte qualsiasi tipo di luce in energia per sostentarsi.",
+          "evolveFrom": "Cosmoem",
+          "attacks": [
+            {
+              "name": "Ali Lunari",
+              "effect": "Sposta tutte le Energie da questo Pokémon a quelli nella tua panchina nel modo che preferisci."
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Lunala",
+          "description": "Ihm wurde der Name „Mondbringer“ verliehen. Solange es lebt, wandelt es jedes Licht in Energie um.",
+          "evolveFrom": "Cosmovum",
+          "attacks": [
+            {
+              "name": "Mondscheiben-Flügel",
+              "effect": "Verschiebe alle Energien von diesem Pokémon beliebig auf die Pokémon auf deiner Bank."
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Lunala",
+          "description": "Conhecido como A Criatura que Traz a Lua, este Pokémon converte toda a luz ao seu alcance em sua própria energia para sobreviver.",
+          "evolveFrom": "Cosmoem",
+          "attacks": [
+            {
+              "name": "Asas Lunares",
+              "effect": "Mova todas as Energias deste Pokémon para os seus Pokémon no Banco como desejar."
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "露奈雅拉",
+          "description": "被稱為邀引月亮之獸。透過將一切的光轉化為能量來維持生命。",
+          "evolveFrom": "科斯莫姆",
+          "attacks": [
+            {
+              "name": "月輪之翼",
+              "effect": "將這隻寶可夢身上的能量,全部以任意方式改附於備戰寶可夢身上。"
+            }
+          ],
+          "abilities": []
+        },
+        "ja": {
+          "name": "ルナアーラ",
+          "description": "月を 誘いし 獣 という 名前を もつ。 あらゆる 光を エネルギーに 変えて 生きている。",
+          "evolveFrom": "コスモウム",
+          "attacks": [
+            {
+              "name": "がちりんのつばさ",
+              "effect": "このポケモンからエネルギーをすべて、ベンチポケモンに好きなようにつけ替える。"
+            }
+          ],
+          "abilities": []
+        },
+        "ko": {
+          "name": "루나아라",
+          "description": "달을 현혹하는 짐승이라는\n이름을 가졌다. 모든 빛을\n에너지로 변환해서 살고 있다.",
+          "evolveFrom": "코스모움",
+          "attacks": [
+            {
+              "name": "월륜의날개",
+              "effect": "이 포켓몬에서 에너지를 모두 벤치 포켓몬에게 원하는 대로 바꿔 붙인다."
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "P-C-009": {
+      "locales": {
+        "en": {
+          "name": "Genome Converter Y",
+          "effect": "Move all {P} Energy from 1 of your Benched {P} Pokémon to your Mega Mewtwo Y ex in the Active Spot."
+        },
+        "fr": {
+          "name": "Convertisseur Génomique Y",
+          "effect": "Déplacez toutes les Énergies {P} d'un de vos Pokémon {P} de Banc vers votre Méga-Mewtwo Y-ex sur le Poste Actif."
+        },
+        "es": {
+          "name": "Conversor Genoma Y",
+          "effect": "Mueve todas las Energías {P} de 1 de tus Pokémon {P} en Banca a tu Mega-Mewtwo Y ex en el Puesto Activo."
+        },
+        "it": {
+          "name": "Convertitore Genomico Y",
+          "effect": "Sposta tutte le Energie {P} da uno dei tuoi Pokémon {P} in panchina al tuo Mega Mewtwo Y-ex in posizione attiva."
+        },
+        "de": {
+          "name": "Genom-Konverter Y",
+          "effect": "Verschiebe alle {P}-Energien von 1 {P}-Pokémon auf deiner Bank auf dein Mega-Mewtu Y-ex in der Aktiven Position."
+        },
+        "pt-br": {
+          "name": "Conversor de Genoma Y",
+          "effect": "Mova todas as Energias {P} de 1 dos seus Pokémon {P} no Banco para o seu Mega Mewtwo Y ex no Campo Ativo."
+        },
+        "zh-tw": {
+          "name": "基因轉換器Y",
+          "effect": "將自己的備戰區的1隻{P}寶可夢身上的{P}能量,全部改附於戰鬥場的「超級超夢Yex」身上。"
+        },
+        "ja": {
+          "name": "ゲノムコンバーターY",
+          "effect": "自分のベンチの{P}ポケモン1匹から{P}エネルギーをすべて、バトル場の「メガミュウツーYex」につけ替える。"
+        },
+        "ko": {
+          "name": "게놈 컨버터Y",
+          "effect": "자신의 벤치의 {P}포켓몬 1마리로부터 {P}에너지를 모두 배틀필드의 「메가뮤츠Y ex」에게 바꿔 붙인다."
+        }
+      }
+    },
+    "P-C-010": {
+      "locales": {
+        "en": {
+          "name": "Stantler",
+          "description": "This Pokémon apparently used to live in much harsher environments, and thus it once had stronger psychic powers than it does now.",
+          "attacks": [
+            {
+              "name": "Enhanced Horns",
+              "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage."
+            }
+          ]
+        },
+        "fr": {
+          "name": "Cerfrousse",
+          "description": "Il paraît qu'autrefois, il était doté de plus grands pouvoirs psychiques, car il vivait dans un environnement hostile.",
+          "attacks": [
+            {
+              "name": "Cornes Améliorées",
+              "effect": "Si un Outil Pokémon est attaché à ce Pokémon, cette attaque inflige 50 dégâts supplémentaires."
+            }
+          ]
+        },
+        "es": {
+          "name": "Stantler",
+          "description": "Antaño habitaba en entornos inhóspitos, por lo que sus poderes psíquicos eran supuestamente más potentes aún que en la actualidad.",
+          "attacks": [
+            {
+              "name": "Cuernos Mejorados",
+              "effect": "Si este Pokémon tiene 1 Herramienta Pokémon unida a él, este ataque hace 50 puntos de daño más."
+            }
+          ]
+        },
+        "it": {
+          "name": "Stantler",
+          "description": "Pare che in passato vivesse in ambienti estremamente inospitali, e per questo avesse poteri psichici ancora più potenti di adesso.",
+          "attacks": [
+            {
+              "name": "Supercorna",
+              "effect": "Se questo Pokémon ha un Oggetto Pokémon assegnato, questo attacco infligge 50 danni in più."
+            }
+          ]
+        },
+        "de": {
+          "name": "Damhirplex",
+          "description": "Da dieses Pokémon einst in einer unwirtlichen Umgebung lebte, verfügte es damals offenbar über stärkere Psycho-Kräfte als heutzutage.",
+          "attacks": [
+            {
+              "name": "Spezial-Hörner",
+              "effect": "Wenn an dieses Pokémon 1 Pokémon-Ausrüstung angelegt ist, fügt diese Attacke 50 Schadenspunkte mehr zu."
+            }
+          ]
+        },
+        "pt-br": {
+          "name": "Stantler",
+          "description": "Aparentemente, este Pokémon vivia em ambientes muito mais hostis. Por isso, seus poderes psíquicos já foram muito mais fortes do que hoje.",
+          "attacks": [
+            {
+              "name": "Chifres Acentuados",
+              "effect": "Se este Pokémon tiver uma Ferramenta Pokémon ligada a ele, este ataque causará 50 pontos de dano a mais."
+            }
+          ]
+        },
+        "zh-tw": {
+          "name": "驚角鹿",
+          "description": "過去生活在嚴苛的環境下，因此當時的精神力量似乎比現在還要強。",
+          "attacks": [
+            {
+              "name": "強化角擊",
+              "effect": "若這隻寶可夢身上附有「寶可夢道具」,則增加50點傷害。"
+            }
+          ]
+        },
+        "ja": {
+          "name": "オドシシ",
+          "description": "昔は 過酷な 環境で 暮らしていたため 今よりも サイコパワーが 強かったらしい。",
+          "attacks": [
+            {
+              "name": "きょうかホーン",
+              "effect": "このポケモンに「ポケモンのどうぐ」がついているなら、50ダメージ追加。"
+            }
+          ]
+        },
+        "ko": {
+          "name": "노라키",
+          "description": "옛날에는 가혹한 환경에서 살았기 때문에 오늘날보다도 사이코 파워가 강력했다고 전해진다.",
+          "attacks": [
+            {
+              "name": "강화호른",
+              "effect": "이 포켓몬에게 「포켓몬의 도구」가 붙어 있다면 50데미지를 추가한다."
+            }
+          ]
+        }
+      }
+    },
+    "P-C-011": {
+      "locales": {
+        "en": {
+          "name": "Alcremie",
+          "description": "When it trusts a Trainer, it will treat them to berries it's decorated with cream.",
+          "evolveFrom": "Milcery",
+          "attacks": [
+            {
+              "name": "Sweets Overload",
+              "effect": "This attack does 40 damage for each time your Pokémon used Sweets Relay during this game."
+            }
+          ]
+        },
+        "fr": {
+          "name": "Charmilly",
+          "description": "Il offre aux Dresseurs auxquels il accorde toute sa confiance des Baies décorées avec de la crème.",
+          "evolveFrom": "Crèmy",
+          "attacks": [
+            {
+              "name": "Avalanche Sucrée",
+              "effect": "Cette attaque inflige 40 dégâts pour chaque utilisation de Saupoudrage Sucré par vos Pokémon pendant cette partie."
+            }
+          ]
+        },
+        "es": {
+          "name": "Alcremie",
+          "description": "Obsequia bayas decoradas con nata a aquellos Entrenadores en los que confía.",
+          "evolveFrom": "Milcery",
+          "attacks": [
+            {
+              "name": "Dulzor Extremo",
+              "effect": "Este ataque hace 40 puntos de daño por cada vez que tus Pokémon hayan usado Relevo Dulce durante esta partida."
+            }
+          ]
+        },
+        "it": {
+          "name": "Alcremie",
+          "description": "Agli Allenatori di cui si fida regala bacche decorate con la panna.",
+          "evolveFrom": "Milcery",
+          "attacks": [
+            {
+              "name": "Dolce Sovraccarico",
+              "effect": "Questo attacco infligge 40 danni per ogni volta che i tuoi Pokémon hanno usato Dolce Staffetta durante questa partita."
+            }
+          ]
+        },
+        "de": {
+          "name": "Pokusan",
+          "description": "Es macht einem Trainer, dem es vertraut, mit Beeren samt Sahnedekoration eine Freude.",
+          "evolveFrom": "Hokumil",
+          "attacks": [
+            {
+              "name": "Süßer Überfluss",
+              "effect": "Diese Attacke fügt für jedes Mal, wenn deine Pokémon in diesem Spiel Süße Staffel eingesetzt haben, 40 Schadenspunkte zu."
+            }
+          ]
+        },
+        "pt-br": {
+          "name": "Alcremie",
+          "description": "Quando confia em um Treinador, oferece frutas decoradas com chantili.",
+          "evolveFrom": "Milcery",
+          "attacks": [
+            {
+              "name": "Sobrecarga Açucarada",
+              "effect": "Este ataque causa 40 pontos de dano para cada vez que seus Pokémon usaram Revezamento Doce durante este jogo."
+            }
+          ]
+        },
+        "zh-tw": {
+          "name": "霜奶仙",
+          "description": "牠會把自己用鮮奶油裝飾過的樹果送給自己信任的訓練家。",
+          "evolveFrom": "小仙奶",
+          "attacks": [
+            {
+              "name": "甜點堆堆堆",
+              "effect": "造成這場對戰中自己的寶可夢使用「甜點砸砸砸」的次數×40點傷害。"
+            }
+          ]
+        },
+        "ja": {
+          "name": "マホイップ",
+          "description": "信頼する トレーナーには クリームで デコレーションした 木の実を ふるまって くれるのだ。",
+          "evolveFrom": "マホミル",
+          "attacks": [
+            {
+              "name": "ドカもりスイーツ",
+              "effect": "この対戦中、自分のポケモンが「スイーツリレー」を使った回数×40ダメージ。"
+            }
+          ]
+        },
+        "ko": {
+          "name": "마휘핑",
+          "description": "믿을 수 있는 트레이너에게는 크림으로 데코레이션한 나무열매를 대접한다.",
+          "evolveFrom": "마빌크",
+          "attacks": [
+            {
+              "name": "한가득스위트",
+              "effect": "이 대전 중 자신의 포켓몬이 「스위트릴레이」를 사용한 횟수 × 40데미지를 준다."
+            }
+          ]
+        }
+      }
+    },
+    "P-C-012": {
+      "locales": {
+        "en": {
+          "name": "Delibird",
+          "description": "It always carries its food with it, wherever it goes. If attacked, it throws its food at the opponent.",
+          "attacks": [
+            {
+              "name": "Box of Surprises",
+              "effect": "Flip a coin. If heads, this attack does 70 damage to your opponent's Active Pokémon. If tails, heal 30 damage from your opponent's Active Pokémon."
+            }
+          ]
+        },
+        "fr": {
+          "name": "Cadoizo",
+          "description": "Il a toujours de la nourriture sur lui. Lorsqu'on l'attaque, il la jette sur son agresseur pour se protéger.",
+          "attacks": [
+            {
+              "name": "Boîte à Surprises",
+              "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 70 dégâts au Pokémon Actif de votre adversaire. Si c'est pile, soignez 30 dégâts subis par le Pokémon Actif de votre adversaire."
+            }
+          ]
+        },
+        "es": {
+          "name": "Delibird",
+          "description": "Siempre lleva la comida consigo, vaya donde vaya. Si lo atacan, se la tirará a su adversario.",
+          "attacks": [
+            {
+              "name": "Caja de Sorpresas",
+              "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 70 puntos de daño al Pokémon Activo de tu rival. Si sale cruz, cura 30 puntos de daño al Pokémon Activo de tu rival."
+            }
+          ]
+        },
+        "it": {
+          "name": "Delibird",
+          "description": "Porta sempre del cibo con sé. Quando viene attaccato, getta i viveri contro l'avversario per difendersi.",
+          "attacks": [
+            {
+              "name": "Pacco Sorpresa",
+              "effect": "Lancia una moneta. Se esce testa, questo attacco infligge 70 danni al Pokémon attivo del tuo avversario. Se esce croce, cura il Pokémon attivo del tuo avversario da 30 danni."
+            }
+          ]
+        },
+        "de": {
+          "name": "Botogel",
+          "description": "Es trägt immer Nahrung bei sich. Wird es attackiert, wirft es diese nach dem Angreifer, um sich zu schützen.",
+          "attacks": [
+            {
+              "name": "Box voller Überraschungen",
+              "effect": "Wirf 1 Münze. Bei Kopf fügt diese Attacke dem Aktiven Pokémon deines Gegners 70 Schadenspunkte zu. Heile bei Zahl 30 Schadenspunkte beim Aktiven Pokémon deines Gegners."
+            }
+          ]
+        },
+        "pt-br": {
+          "name": "Delibird",
+          "description": "Está sempre carregando sua comida, não importa para onde vá. Se for atacado, lança a comida no oponente.",
+          "attacks": [
+            {
+              "name": "Caixa de Surpresas",
+              "effect": "Jogue uma moeda. Se sair cara, este ataque causará 70 pontos de dano ao Pokémon Ativo do seu oponente. Se sair coroa, cure 30 pontos de dano do Pokémon Ativo do seu oponente."
+            }
+          ]
+        },
+        "zh-tw": {
+          "name": "信使鳥",
+          "description": "總是在搬運著食物。遇到襲擊時，會丟出身上帶著的食物來保護自己。",
+          "attacks": [
+            {
+              "name": "驚奇箱",
+              "effect": "擲1次硬幣若為正面,則對手的戰鬥寶可夢受到70點傷害。若為反面,則將對手的戰鬥寶可夢恢復30HP。"
+            }
+          ]
+        },
+        "ja": {
+          "name": "デリバード",
+          "description": "いつも エサを 持ち運んでいる。 襲われると 身を 守ろうとして 持っている エサを 投げつける。",
+          "attacks": [
+            {
+              "name": "サプライズボックス",
+              "effect": "コインを1回投げオモテなら、相手のバトルポケモンに70ダメージ。ウラなら、相手のバトルポケモンのHPを30回復。"
+            }
+          ]
+        },
+        "ko": {
+          "name": "딜리버드",
+          "description": "언제나 먹이를 가지고 다닌다. 공격받으면 몸을 지키기 위해 가지고 있는 먹이를 집어던진다.",
+          "attacks": [
+            {
+              "name": "서프라이즈 박스",
+              "effect": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 70데미지를 준다. 뒷면이 나오면 상대 배틀 포켓몬의 HP를 30회복."
+            }
+          ]
+        }
+      }
+    },
+    "P-C-013": {
+      "locales": {
+        "en": {
+          "name": "Mega Dragonite ex",
+          "evolveFrom": "Dragonair",
+          "attacks": [
+            {
+              "name": "Draconic Meteor",
+              "effect": "1 of your opponent's Pokémon is chosen at random. Do 250 damage to it."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Méga-Dracolosse-ex",
+          "evolveFrom": "Draco",
+          "attacks": [
+            {
+              "name": "Météore Draconien",
+              "effect": "Un des Pokémon de votre adversaire est choisi au hasard. Il subit 250 dégâts."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Mega-Dragonite ex",
+          "evolveFrom": "Dragonair",
+          "attacks": [
+            {
+              "name": "Meteoro Dracónico",
+              "effect": "Se elige a un Pokémon aleatorio de tu rival. Hazle 250 puntos de daño."
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Mega Dragonite-ex",
+          "evolveFrom": "Dragonair",
+          "attacks": [
+            {
+              "name": "Meteora del Drago",
+              "effect": "Viene scelto un Pokémon avversario a caso. Quel Pokémon subisce 250 danni."
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Mega-Dragoran-ex",
+          "evolveFrom": "Dragonir",
+          "attacks": [
+            {
+              "name": "Drachenmeteor",
+              "effect": "1 Pokémon des Gegners wird zufällig ausgewählt. Füge diesem Pokémon 250 Schadenspunkte zu."
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Mega Dragonite ex",
+          "evolveFrom": "Dragonair",
+          "attacks": [
+            {
+              "name": "Meteoro Dracônico",
+              "effect": "Um dos Pokémon do seu oponente é escolhido aleatoriamente. Cause 250 pontos de dano a ele."
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "超級快龍ex",
+          "evolveFrom": "哈克龍",
+          "attacks": [
+            {
+              "name": "翔龍流星擊",
+              "effect": "對手的寶可夢會隨機被選擇1次,被選擇的寶可夢受到250點傷害。"
+            }
+          ],
+          "abilities": []
+        },
+        "ja": {
+          "name": "メガカイリューex",
+          "evolveFrom": "ハクリュー",
+          "attacks": [
+            {
+              "name": "ドラゴニックメテオ",
+              "effect": "相手のポケモンがランダムに1回選ばれ、選ばれたポケモンに、250ダメージ。"
+            }
+          ],
+          "abilities": []
+        },
+        "ko": {
+          "name": "메가망나뇽 ex",
+          "evolveFrom": "신뇽",
+          "attacks": [
+            {
+              "name": "드래고닉 메테오",
+              "effect": "상대의 포켓몬이 랜덤으로 1번 선택되어 선택된 포켓몬에게 250데미지를 준다."
+            }
+          ],
+          "abilities": []
+        }
+      }
+    }
+  }
+}

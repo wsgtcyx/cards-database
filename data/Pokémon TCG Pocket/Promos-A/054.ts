@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/054",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/054",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/054",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/054",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/054",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/054",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/054",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/054",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/054"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/054/80c4983a7a79fd01",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/054/80c4983a7a79fd01",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/054/80c4983a7a79fd01",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/054/80c4983a7a79fd01",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/054/80c4983a7a79fd01",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/054/80c4983a7a79fd01",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/054/80c4983a7a79fd01",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/054/80c4983a7a79fd01",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/054/80c4983a7a79fd01"
     },
     name: {
         en: "Pawmot",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "巴布土撥",
     },
     illustrator: "REND",
-    rarity: "None",
+    rarity: "One Star",
     category: "Pokemon",
     hp: 140,
     types: ["Lightning"],
@@ -38,7 +38,7 @@ const card: Card = {
         'pt-br': "Este Pokémon costuma demorar para reagir, mas quando\nentra na batalha, derrota seus oponentes\ncom golpes na velocidade da luz.",
         ja: "普段は おっとりしているが いざ 戦いになると 電光石火の 身のこなしで 敵を 叩きのめす。",
         ko: "평소에는 느긋하지만\n싸움이 시작되면 전광석화와도 같은\n몸놀림으로 적을 때려눕힌다.",
-        "zh-tw": "這種神奇寶貝通常反應遲緩，但一旦\n它進入戰鬥，它將擊倒敵人\n以閃電般的動作。"
+        "zh-tw": "雖然平時動作慢吞吞的，但在逼不得已要面對戰鬥時，會用迅雷不及掩耳的身手擊潰敵人。"
     },
     stage: "Stage2",
     evolveFrom: {
@@ -79,7 +79,7 @@ const card: Card = {
                 'pt-br': "Se este Pokémon estiver no Campo Ativo e for danificado por um ataque dos Pokémon do seu oponente, cause 20 pontos de dano ao Pokémon Atacante.",
                 ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンに20ダメージ。",
                 ko: "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 20데미지를 준다.",
-                "zh-tw": "如果這只寶可夢位於活動區域並因對方寶可夢的攻擊而受到傷害，則對攻擊的寶可夢造成 20 點傷害。"
+                "zh-tw": "這隻寶可夢在戰鬥場受到對手的寶可夢招式的傷害時,使用招式的寶可夢受到20點傷害。"
             }
         }],
     attacks: [{
@@ -92,7 +92,7 @@ const card: Card = {
                 'pt-br': "Murro Elétrico",
                 ja: "ビリリパンチ",
                 ko: "찌리리펀치",
-                "zh-tw": "電動沖床"
+                "zh-tw": "麻麻拳"
             },
             damage: 70,
             cost: ["Lightning", "Lightning"]

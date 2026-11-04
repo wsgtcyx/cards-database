@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/001",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/001",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/001",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/001",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/001",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/001",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/001",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/001",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/001"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/001/5b835e9c4a067eff",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/001/5b835e9c4a067eff",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/001/5b835e9c4a067eff",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/001/5b835e9c4a067eff",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/001/5b835e9c4a067eff",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/001/5b835e9c4a067eff",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/001/5b835e9c4a067eff",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/001/5b835e9c4a067eff",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/001/5b835e9c4a067eff"
     },
     name: {
         en: "Potion",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "傷藥"
     },
     illustrator: "5ban Graphics",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Trainer",
     effect: {
         en: "Heal 20 damage from 1 of your Pokémon.",
@@ -36,7 +36,7 @@ const card: Card = {
         'pt-br': "Cure 20 pontos de dano de 1 dos seus Pokémon.",
         ja: "自分のポケモン1匹のHPを20回復。",
         ko: "자신의 포켓몬 1마리의 HP를 20회복.",
-        "zh-tw": "治療你的 1 只神奇寶貝造成的 20 點傷害。"
+        "zh-tw": "將自己的1隻寶可夢恢復20HP。"
     },
     trainerType: "Item",
     boosters: []

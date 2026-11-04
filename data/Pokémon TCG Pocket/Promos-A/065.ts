@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/065",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/065",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/065",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/065",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/065",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/065",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/065",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/065",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/065"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/065/89d5c9bd1039d322",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/065/89d5c9bd1039d322",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/065/89d5c9bd1039d322",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/065/89d5c9bd1039d322",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/065/89d5c9bd1039d322",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/065/89d5c9bd1039d322",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/065/89d5c9bd1039d322",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/065/89d5c9bd1039d322",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/065/89d5c9bd1039d322"
     },
     name: {
         en: "Rayquaza ex",
@@ -41,7 +41,7 @@ const card: Card = {
                 'pt-br': "Meteoro do Dragão",
                 ja: "りゅうせいぐん",
                 ko: "용성군",
-                "zh-tw": "天龍流星"
+                "zh-tw": "流星群"
             },
             cost: ["Colorless", "Colorless", "Colorless", "Colorless"],
             effect: {
@@ -53,7 +53,7 @@ const card: Card = {
                 'pt-br': "4 vezes, um Pokémon do oponente é escolhido aleatoriamente. Para cada vez que um Pokémon for escolhido, cause 40 pontos de dano a ele.",
                 ja: "相手のポケモンがランダムに4回選ばれ、選ばれたポケモン全員に、選ばれた回数×40ダメージ。",
                 ko: "상대의 포켓몬이 랜덤으로 4번 선택되어 선택된 포켓몬 전원에게 선택된 횟수 × 40데미지를 준다.",
-                "zh-tw": "隨機選擇 1 只對手的神奇寶貝 4 次。每選擇一隻神奇寶貝，就會對其造成 40 點傷害。"
+                "zh-tw": "對手的寶可夢會隨機被選擇4次,被選擇的所有寶可夢受到被選擇的次數×40點傷害。"
             }
         }],
     weaknesses: [{

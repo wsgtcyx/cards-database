@@ -1,0 +1,275 @@
+{
+  "schemaVersion": 1,
+  "decisions": [
+    {
+      "cardId": "P-A-101",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "如果拉帝歐斯在你的替補席上，這次攻擊會造成 20 點額外傷害。",
+      "value": "若自己的備戰區有「拉帝歐斯」,則增加20點傷害。",
+      "candidateIndex": 2,
+      "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/101.ts",
+      "evidence": {
+        "sourceImageSha256": "8f46f7615fa692e62893f1d7b61a75a6c0f9ddb169c716bc033cb39fedebf08d",
+        "sourceImageBytes": 334372,
+        "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags."
+      }
+    },
+    {
+      "cardId": "P-A-106",
+      "locale": "zh-tw",
+      "path": "abilities[0].effect",
+      "expectedCurrent": "如果對手的神奇寶貝被該神奇寶貝的攻擊造成的傷害擊倒，則在對手的下一個回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。",
+      "value": "若對手的寶可夢因這隻寶可夢招式的傷害而昏厥了,則在下個對手的回合,這隻寶可夢不會受到招式的傷害與效果的影響。",
+      "candidateIndex": 15,
+      "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/106.ts",
+      "evidence": {
+        "sourceImageSha256": "8bf7bf3539ca30aa0493ba7ad74d2457dff33060f979f8eeb79230f4a82ab878",
+        "sourceImageBytes": 317304,
+        "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags."
+      }
+    },
+    {
+      "cardId": "P-A-117",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "這次攻擊對對手後備隊的 1 只寶可夢造成 30 點傷害。",
+      "value": "對手的1隻備戰寶可夢受到30點傷害。",
+      "candidateIndex": 48,
+      "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/117.ts",
+      "evidence": {
+        "sourceImageSha256": "025bccb477ac06d94039bb24e369e6899f17501df848cd53b242d4cae07e4b4c",
+        "sourceImageBytes": 300319,
+        "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags."
+      }
+    },
+    {
+      "cardId": "P-A-004",
+      "locale": "fr",
+      "path": "effect",
+      "expectedCurrent": "Regardez la première carte du dessus de votre deck.",
+      "value": "Regardez les 3 premières cartes du dessus de votre deck.",
+      "candidateIndex": 52,
+      "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/004.ts",
+      "evidence": {
+        "sourceImageSha256": "567b9ca714ce70d6a67b62cca355b29c6b773121b55d0d3b49d5e124b85ed05d",
+        "sourceImageBytes": 186187,
+        "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags."
+      }
+    },
+    {
+      "cardId": "P-A-004",
+      "locale": "es",
+      "path": "effect",
+      "expectedCurrent": "Mira la primera carta de tu baraja.",
+      "value": "Mira las 3 primeras cartas de tu baraja.",
+      "candidateIndex": 53,
+      "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/004.ts",
+      "evidence": {
+        "sourceImageSha256": "c834250565e1a991cc216799cef5ee7613c93500b7f8f482e8193f40c228f055",
+        "sourceImageBytes": 183464,
+        "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags."
+      }
+    },
+    {
+      "cardId": "P-A-004",
+      "locale": "pt-br",
+      "path": "effect",
+      "expectedCurrent": "Olhe a 1 carta de cima do seu baralho.",
+      "value": "Olhe as 3 cartas de cima do seu baralho.",
+      "candidateIndex": 54,
+      "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/004.ts",
+      "evidence": {
+        "sourceImageSha256": "35c39f850fbdb2f3afef43c44304c10da70f7007d73a3437a0aa1d55661c57e8",
+        "sourceImageBytes": 182380,
+        "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags."
+      }
+    },
+    {
+      "cardId": "P-A-004",
+      "locale": "zh-tw",
+      "path": "effect",
+      "expectedCurrent": "查看你牌組頂的 3 張牌。",
+      "value": "查看自己的牌庫上方3張卡,回復原樣。",
+      "candidateIndex": 55,
+      "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/004.ts",
+      "evidence": {
+        "sourceImageSha256": "b8a544d51e8c1f5d6dac176493ea14aac45bdb0107c103f1a8216bb4f1e2ba2a",
+        "sourceImageBytes": 181114,
+        "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags."
+      }
+    },
+    {
+      "cardId": "P-A-006",
+      "locale": "zh-tw",
+      "path": "effect",
+      "expectedCurrent": "你的對手將手牌洗入牌庫並抓 3 張牌。",
+      "value": "將對手的手牌全部放回牌庫。對手從牌庫抽出3張卡。",
+      "candidateIndex": 57,
+      "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/006.ts",
+      "evidence": {
+        "sourceImageSha256": "183b9442f014fac85920f98b4d3ea9daf631449b9aae692af37806068f0bf2f3",
+        "sourceImageBytes": 182089,
+        "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags."
+      }
+    },
+    {
+      "cardId": "P-A-007",
+      "locale": "zh-tw",
+      "path": "effect",
+      "expectedCurrent": "抽 2 張牌。",
+      "value": "從自己的牌庫抽出2張卡。",
+      "candidateIndex": 58,
+      "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/007.ts",
+      "evidence": {
+        "sourceImageSha256": "f56397060aa2e97292c5e147919e2a10a1bef7a98752adae1ef7ce83758a87cc",
+        "sourceImageBytes": 175096,
+        "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags."
+      }
+    },
+    {
+      "cardId": "P-A-010",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "丟棄該神奇寶貝的 2 個 {P} 能量。",
+      "value": "將這隻寶可夢身上的2個{P}能量丟棄。",
+      "candidateIndex": 63,
+      "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/010.ts",
+      "evidence": {
+        "sourceImageSha256": "1de6688f4c54958ea5691feb7f06fe9915eee8bdd4ac2803d7a0dd591e3ad34e",
+        "sourceImageBytes": 319261,
+        "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags."
+      }
+    },
+    {
+      "cardId": "P-A-029",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "如果這只神奇寶貝附加了至少 2 個額外的 {W} 能量，則此攻擊造成的傷害增加 60 點。",
+      "value": "若額外附有2個{W}能量,則增加60點傷害。",
+      "candidateIndex": 75,
+      "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/029.ts",
+      "evidence": {
+        "sourceImageSha256": "8210ef10dbcef7b9c6db145edf52551ea520445e92399e7179b3c2e46858fdb3",
+        "sourceImageBytes": 358259,
+        "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags."
+      }
+    },
+    {
+      "cardId": "P-A-034",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "治療該神奇寶貝造成的 20 點傷害。",
+      "value": "將這隻寶可夢恢復20HP。",
+      "candidateIndex": 79,
+      "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/034.ts",
+      "evidence": {
+        "sourceImageSha256": "be5fdeb2a7eb4330b56a48462216c48452747ce9a3940586385c96fdf5a9c8e2",
+        "sourceImageBytes": 336921,
+        "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags."
+      }
+    },
+    {
+      "cardId": "P-A-052",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "從你的卡組中隨機將 1 只 {G} 神奇寶貝加入你的手牌。",
+      "value": "從自己的牌庫隨機將1張{G}寶可夢卡加入手牌。",
+      "candidateIndex": 97,
+      "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/052.ts",
+      "evidence": {
+        "sourceImageSha256": "6a52ce1ced96ea55895ad9423ee118f36b78ac2f2feacff5c3978594c76dafda",
+        "sourceImageBytes": 240311,
+        "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags."
+      }
+    },
+    {
+      "cardId": "P-A-065",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "隨機選擇 1 只對手的神奇寶貝 4 次。每選擇一隻神奇寶貝，就會對其造成 40 點傷害。",
+      "value": "對手的寶可夢會隨機被選擇4次,被選擇的所有寶可夢受到被選擇的次數×40點傷害。",
+      "candidateIndex": 106,
+      "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/065.ts",
+      "evidence": {
+        "sourceImageSha256": "8ce0d8e8ddb6399329b9e6041e4294beb7bdf902c1621b0388440e78fc3a4508",
+        "sourceImageBytes": 338722,
+        "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags."
+      }
+    },
+    {
+      "cardId": "P-A-074",
+      "locale": "zh-tw",
+      "path": "abilities[0].effect",
+      "expectedCurrent": "在你的第一回合結束時，從你的能量區取出一個{L}能量並將其附加到這只神奇寶貝身上。",
+      "value": "在自己的最初回合結束時,從自己的能量區抽出1個{L}能量,附於這隻寶可夢身上。",
+      "candidateIndex": 115,
+      "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/074.ts",
+      "evidence": {
+        "sourceImageSha256": "b46f2d5ee18c7ef9f49b1077ffbdad2a4cc9029c65220958a7945f601754c82b",
+        "sourceImageBytes": 318933,
+        "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags."
+      }
+    },
+    {
+      "cardId": "P-B-006",
+      "locale": "es",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Lanza 3 monedas. Por cada cara, descarta una Energía aleatoria del Pokémon Activo de tu rival. Si todos son cruz, este ataque no hace nada.",
+      "value": "Lanza 3 monedas. Por cada cara, descarta 1 Energía aleatoria del Pokémon Activo de tu rival. Si en todas sale cruz, este ataque no hace nada.",
+      "candidateIndex": 193,
+      "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/006.ts",
+      "evidence": {
+        "sourceImageSha256": "768712771b1849dbae5ef01d948cce24b10d694afecbf98bf4ce7c18dbfd3356",
+        "sourceImageBytes": 356330,
+        "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags."
+      }
+    },
+    {
+      "cardId": "P-B-067",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "從你的牌組中隨機將 1 只基礎寶可夢放到你的備戰區上。",
+      "value": "從自己的牌庫隨機抽出1張基礎寶可夢,放置於備戰區。",
+      "candidateIndex": 365,
+      "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/067.ts",
+      "evidence": {
+        "sourceImageSha256": "4e429369618ed8763f48ff5b1d9b99014818e6934fad5167e7f12ac04bd51a46",
+        "sourceImageBytes": 320996,
+        "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags."
+      }
+    },
+    {
+      "cardId": "P-B-070",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "從你的能量區的{G}、{R}、{W}、{L}、{P}、{F}、{D}和{M}能量隨機抽取一個能量，並將其附加到你的1隻後備寶可夢。",
+      "value": "從自己的能量區的{G}、{R}、{W}、{L}、{P}、{F}、{D}、{M}能量之中隨機抽出1個能量,附於備戰寶可夢身上。",
+      "candidateIndex": 374,
+      "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/070.ts",
+      "evidence": {
+        "sourceImageSha256": "54a4d9e792d1b8f45e57aac082722ede9e8ea0d2b1e1ce516b47862aa64c7e3f",
+        "sourceImageBytes": 301299,
+        "review": "Individually read corrected canonical native card image. A004/006/007 source index remap confirmed; B006 Spanish independent RaenonX image confirms cruz; strip nonprinting formatting control tags."
+      }
+    }
+  ]
+}

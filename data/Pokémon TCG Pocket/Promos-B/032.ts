@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/032",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/032",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/032",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/032",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/032",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/032",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/032",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/032",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/032"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/032/87b42c26a0987c15",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/032/87b42c26a0987c15",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/032/87b42c26a0987c15",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/032/87b42c26a0987c15",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/032/87b42c26a0987c15",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/032/87b42c26a0987c15",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/032/87b42c26a0987c15",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/032/87b42c26a0987c15",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/032/87b42c26a0987c15"
     },
     name: {
         en: "Alolan Vulpix",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "アローラロコン"
     },
     illustrator: "nagimiso",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     hp: 60,
     types: ["Water"],
@@ -34,12 +34,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "In hot weather, this Pokémon makes ice shards with its six tails and sprays them around to cool itself off.",
-        fr: "Par temps chaud, ce Pokémon fabrique des éclats de glace avec ses six queues et les pulvérise pour se rafraîchir.",
-        es: "Cuando hace calor, este Pokémon fabrica fragmentos de hielo con sus seis colas y los rocía para refrescarse.",
-        it: "Quando fa caldo, questo Pokémon crea frammenti di ghiaccio con le sue sei code e li spruzza intorno per rinfrescarsi.",
-        de: "Bei heißem Wetter bildet dieses Pokémon mit seinen sechs Schwänzen Eissplitter und versprüht diese, um sich abzukühlen.",
-        "pt-br": "Em clima quente, este Pokémon faz pedaços de gelo com suas seis caudas e os espalha para se refrescar.",
-        "zh-tw": "在炎熱的天氣裡，這隻寶可夢會用六條尾巴製造冰碎片並將其噴灑到周圍以給自己降溫。",
+        fr: "Quand il fait chaud, il crée des fragments de glace avec ses six queues et les disperse autour de lui pour se rafraîchir.",
+        es: "Cuando hace calor, crea rocas de hielo con sus seis colas y las disemina por los alrededores para enfriar su cuerpo.",
+        it: "Quando fa caldo, abbassa la temperatura corporea sparpagliando tutto attorno a sé pezzi di ghiaccio che crea dalle sue sei code.",
+        de: "Bei heißem Wetter erzeugt es mit seinen sechs Schweifen Kiesel aus Eis. Diese verteilt es in der Nähe, um seinen Körper abzukühlen.",
+        "pt-br": "Quando o clima está quente, este Pokémon cria cacos de gelo com suas seis caudas e os espalha para se refrescar.",
+        "zh-tw": "天氣熱的時候會用6根尾巴製造冰礫再撒向周圍，藉此讓身體冷卻下來。",
         ja: "暑いときには 6本の 尻尾で 氷の礫を 作り あたりに ばらまいて 体を 冷やす。",
         ko: "더울 때는 6개의 꼬리로\n얼음 뭉치를 만든 뒤\n주변에 뿌려서 몸을 식힌다."
     },

@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/066",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/066",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/066",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/066",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/066",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/066",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/066",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/066",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/066"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/066/c5fa93b4a6235338",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/066/c5fa93b4a6235338",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/066/c5fa93b4a6235338",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/066/c5fa93b4a6235338",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/066/c5fa93b4a6235338",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/066/c5fa93b4a6235338",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/066/c5fa93b4a6235338",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/066/c5fa93b4a6235338",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/066/c5fa93b4a6235338"
     },
     name: {
         en: "Mimikyu",
@@ -38,7 +38,7 @@ const card: Card = {
         'pt-br': "Este Pokémon vive em lugares escuros livres da luz do sol.\nQuando aparece diante de humanos, esconde-se sob\num pano parecido com Pikachu.",
         ja: "陽の 当たらない 暗がりに 棲む。 人前に 出るときは ピカチュウに 似せた 布で 全身を 隠す。",
         ko: "볕이 들지 않는 어두운 곳에 산다.\n사람들 앞에 나타날 때는\n피카츄를 본뜬 천으로 온몸을 가린다.",
-        "zh-tw": "這只神奇寶貝生活在未受污染的黑暗地方\n陽光。當它出現在人類面前時，它卻隱藏起來\n自己被包裹在一塊類似皮卡丘的布下。"
+        "zh-tw": "棲息在陽光照射不到的陰暗處。在人們面前現身時會用看似皮卡丘的布來隱藏全身。"
     },
     stage: "Basic",
     attacks: [{
@@ -51,7 +51,7 @@ const card: Card = {
                 'pt-br': "Batida Sombria",
                 ja: "シャドーヒット",
                 ko: "섀도히트",
-                "zh-tw": "暗影打擊"
+                "zh-tw": "暗影擊"
             },
             damage: 60,
             cost: ["Psychic", "Colorless"],
@@ -64,7 +64,7 @@ const card: Card = {
                 'pt-br': "Este ataque também causa 20 pontos de dano a 1 dos seus Pokémon.",
                 ja: "自分のポケモン1匹にも20ダメージ。",
                 ko: "자신의 포켓몬 1마리에게도 20데미지를 준다.",
-                "zh-tw": "這次攻擊還會對你的 1 只神奇寶貝造成 20 點傷害。"
+                "zh-tw": "自己的1隻寶可夢也受到20點傷害。"
             }
         }],
     weaknesses: [{

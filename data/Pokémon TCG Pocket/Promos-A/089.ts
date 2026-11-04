@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/089",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/089",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/089",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/089",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/089",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/089",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/089",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/089",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/089"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/089/e334af208eef8b02",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/089/e334af208eef8b02",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/089/e334af208eef8b02",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/089/e334af208eef8b02",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/089/e334af208eef8b02",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/089/e334af208eef8b02",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/089/e334af208eef8b02",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/089/e334af208eef8b02",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/089/e334af208eef8b02"
     },
     name: {
         en: "Audino",
@@ -32,11 +32,11 @@ const card: Card = {
     description: {
         en: "This Pokémon has a kind heart. By touching with its feelers,\nAudino can gauge other creatures' feelings and physical conditions.",
         es: "Un Pokémon gentil que es capaz de comprender\nlos sentimientos y averiguar el estado de salud\nde todo aquel que toque con sus antenas.",
-        "fr": "Ce Pokémon a un bon cœur. En touchant avec ses palpeurs,\nAudino peut évaluer les sentiments et les conditions physiques des autres créatures.",
-        "it": "Questo Pokémon ha un cuore gentile. Toccando con le sue antenne,\nAudino può valutare i sentimenti e le condizioni fisiche delle altre creature.",
-        "de": "Dieses Pokémon hat ein freundliches Herz. Durch das Berühren mit seinen Fühlern,\nAudino kann die Gefühle und den körperlichen Zustand anderer Lebewesen einschätzen.",
-        "pt-br": "Este Pokémon tem um coração bondoso. Ao tocar com seus sensores,\nAudino pode avaliar os sentimentos e condições físicas de outras criaturas.",
-        "zh-tw": "這只神奇寶貝有一顆善良的心。通過用觸角觸碰，\n奧迪諾可以測量其他生物的感受和身體狀況。",
+        "fr": "Ce Pokémon gentil est capable de deviner les émotions et l'état de santé des autres rien qu'en les touchant avec ses antennes.",
+        "it": "Questo Pokémon dal cuore tenero è in grado di percepire le condizioni fisiche e mentali di chi tocca con le antenne.",
+        "de": "Berührt dieses herzensgute Pokémon jemanden mit seinen Fühlern, kann es dessen körperliche Verfassung und Gemütszustand ertasten.",
+        "pt-br": "Este Pokémon tem um bom coração. Audino pode avaliar os sentimentos e as condições físicas de outras criaturas ao tocá-las com suas antenas.",
+        "zh-tw": "心地善良的寶可夢。透過用觸角觸碰，就能了解對方的情緒和身體狀況。",
         ja: "心優しい ポケモン。 触角を 押し当て 相手の 気持ちや 体調を 理解する。",
         ko: "마음 착한 포켓몬이다.\n더듬이를 갖다 대어 상대의\n마음과 몸 상태를 파악한다."
     },
@@ -45,11 +45,11 @@ const card: Card = {
             name: {
                 en: "Drain Slap",
                 es: "Absorbebofetón",
-                "fr": "Claque de vidange",
-                "it": "Drenare lo schiaffo",
-                "de": "Drain Slap",
-                "pt-br": "Tapa de drenagem",
-                "zh-tw": "排水管拍打",
+                "fr": "Baffe Sangsue",
+                "it": "Sberlassorbimento",
+                "de": "Watschensauger",
+                "pt-br": "Bofetada Drenagem",
+                "zh-tw": "吸取巴掌",
                 ja: "ドレインビンタ",
                 ko: "드레인 뺨치기"
             },
@@ -62,7 +62,7 @@ const card: Card = {
                 "it": "Cura questo Pokémon da 10 danni.",
                 "de": "Heile 10 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 10 pontos de dano deste Pokémon.",
-                "zh-tw": "治療該神奇寶貝造成的 10 點傷害。",
+                "zh-tw": "將這隻寶可夢恢復10HP。",
                 ja: "このポケモンのHPを10回復。",
                 ko: "이 포켓몬의 HP를 10회복."
             }

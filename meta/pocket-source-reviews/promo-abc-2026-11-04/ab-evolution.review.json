@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "decisions": [
+    {
+      "cardId": "P-B-040",
+      "path": "evolveFrom",
+      "locale": "en",
+      "expectedCurrent": "Wooper",
+      "value": "Paldean Wooper",
+      "review": "Nine native card faces and stable game evolution pokemon ID confirm Paldean Wooper; preserve regional form.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/040.ts",
+      "evidence": {
+        "sourceImageSha256": "f93c8240ab2babae01b38c38bb9b0117c4b460c6ffdc3c8f1d217f3da3be46dd",
+        "sourceImageBytes": 286578,
+        "review": "Nine native card faces and stable game evolution pokemon ID confirm Paldean Wooper; preserve regional form."
+      }
+    },
+    {
+      "cardId": "P-B-040",
+      "path": "evolveFrom",
+      "locale": "fr",
+      "expectedCurrent": "Axoloto",
+      "value": "Axoloto de Paldea",
+      "review": "Nine native card faces and stable game evolution pokemon ID confirm Paldean Wooper; preserve regional form.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/040.ts",
+      "evidence": {
+        "sourceImageSha256": "a55bfb3f9feaae63dcc1034098a10f6f6194442c3ce080e2ecd5077c9f9846a5",
+        "sourceImageBytes": 288919,
+        "review": "Nine native card faces and stable game evolution pokemon ID confirm Paldean Wooper; preserve regional form."
+      }
+    },
+    {
+      "cardId": "P-B-040",
+      "path": "evolveFrom",
+      "locale": "es",
+      "expectedCurrent": "Wooper",
+      "value": "Wooper de Paldea",
+      "review": "Nine native card faces and stable game evolution pokemon ID confirm Paldean Wooper; preserve regional form.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/040.ts",
+      "evidence": {
+        "sourceImageSha256": "a005f61af7514ff4862db35d50b5e279d381d37a4570df0fb966402ecc403a37",
+        "sourceImageBytes": 286245,
+        "review": "Nine native card faces and stable game evolution pokemon ID confirm Paldean Wooper; preserve regional form."
+      }
+    },
+    {
+      "cardId": "P-B-040",
+      "path": "evolveFrom",
+      "locale": "it",
+      "expectedCurrent": "Wooper",
+      "value": "Wooper di Paldea",
+      "review": "Nine native card faces and stable game evolution pokemon ID confirm Paldean Wooper; preserve regional form.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/040.ts",
+      "evidence": {
+        "sourceImageSha256": "eff4ee0165e9dfa7a620fe2bcb83e79e7d8c613ecd620322448f9fea1df04edf",
+        "sourceImageBytes": 285616,
+        "review": "Nine native card faces and stable game evolution pokemon ID confirm Paldean Wooper; preserve regional form."
+      }
+    },
+    {
+      "cardId": "P-B-040",
+      "path": "evolveFrom",
+      "locale": "de",
+      "expectedCurrent": "Felino",
+      "value": "Paldea-Felino",
+      "review": "Nine native card faces and stable game evolution pokemon ID confirm Paldean Wooper; preserve regional form.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/040.ts",
+      "evidence": {
+        "sourceImageSha256": "3d7a3ee946fdcea6f325c2f3425d11289a84dcd81538c4fef31b2b158eb94d60",
+        "sourceImageBytes": 287905,
+        "review": "Nine native card faces and stable game evolution pokemon ID confirm Paldean Wooper; preserve regional form."
+      }
+    },
+    {
+      "cardId": "P-B-040",
+      "path": "evolveFrom",
+      "locale": "pt-br",
+      "expectedCurrent": "Wooper",
+      "value": "Wooper de Paldea",
+      "review": "Nine native card faces and stable game evolution pokemon ID confirm Paldean Wooper; preserve regional form.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/040.ts",
+      "evidence": {
+        "sourceImageSha256": "e1f72f394a22f2e096454cb40972cc568a883a96a384a090f54f1187a3007e65",
+        "sourceImageBytes": 287330,
+        "review": "Nine native card faces and stable game evolution pokemon ID confirm Paldean Wooper; preserve regional form."
+      }
+    },
+    {
+      "cardId": "P-B-040",
+      "path": "evolveFrom",
+      "locale": "zh-tw",
+      "expectedCurrent": "烏波",
+      "value": "帕底亞烏波",
+      "review": "Nine native card faces and stable game evolution pokemon ID confirm Paldean Wooper; preserve regional form.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/040.ts",
+      "evidence": {
+        "sourceImageSha256": "c3061579ad6ead4da7e990171405e06c6b529abeed7d6a0ad6e2631d0d7b777a",
+        "sourceImageBytes": 283434,
+        "review": "Nine native card faces and stable game evolution pokemon ID confirm Paldean Wooper; preserve regional form."
+      }
+    }
+  ]
+}

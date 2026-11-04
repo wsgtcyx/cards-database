@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/024",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/024",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/024",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/024",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/024",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/024",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/024",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/024",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/024"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/024/0bf48da1def2376b",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/024/0bf48da1def2376b",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/024/0bf48da1def2376b",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/024/0bf48da1def2376b",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/024/0bf48da1def2376b",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/024/0bf48da1def2376b",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/024/0bf48da1def2376b",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/024/0bf48da1def2376b",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/024/0bf48da1def2376b"
     },
     name: {
         en: "Mega Latios ex",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "メガラティオスex"
     },
     illustrator: "PLANETA CG Works",
-    rarity: "None",
+    rarity: "Four Diamond",
     category: "Pokemon",
     hp: 180,
     types: ["Dragon"],
@@ -48,12 +48,12 @@ const card: Card = {
             },
             effect: {
                 en: "Discard all Energy from this Pokémon.",
-                fr: "Défaussez toute l'énergie de ce Pokémon.",
-                es: "Descarta toda la Energía de este Pokémon.",
-                it: "Scarta tutte le Energie da questo Pokémon.",
-                de: "Lege die gesamte Energie dieses Pokémon ab.",
+                fr: "Défaussez toutes les Énergies de ce Pokémon.",
+                es: "Descarta todas las Energías de este Pokémon.",
+                it: "Rimuovi tutte le Energie assegnate a questo Pokémon.",
+                de: "Lege alle Energien von diesem Pokémon ab.",
                 "pt-br": "Descarte todas as Energias deste Pokémon.",
-                "zh-tw": "丟棄該寶可夢的所有能量。",
+                "zh-tw": "將這隻寶可夢身上的能量全部丟棄。",
                 ja: "このポケモンからエネルギーをすべてトラッシュ。",
                 ko: "이 포켓몬에서 에너지를 모두 트래쉬한다."
             },

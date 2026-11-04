@@ -2,16 +2,17 @@ import { Card } from "../../../interfaces";
 import Set from "../Promos-A";
 const card: Card = {
     set: Set,
+    boosters: ["vol11"],
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/098",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/098",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/098",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/098",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/098",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/098",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/098",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/098",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/098"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/098/031124b940706e93",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/098/031124b940706e93",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/098/031124b940706e93",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/098/031124b940706e93",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/098/031124b940706e93",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/098/031124b940706e93",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/098/031124b940706e93",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/098/031124b940706e93",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/098/031124b940706e93"
     },
     name: {
         en: "Blissey ex",
@@ -45,12 +46,12 @@ const card: Card = {
     attacks: [{
             name: {
                 en: "Happy Punch",
-                "fr": "Joyeux coup de poing",
-                "es": "Golpe feliz",
-                "it": "Buon pugno",
-                "de": "Fröhlicher Schlag",
-                "pt-br": "Soco feliz",
-                "zh-tw": "快樂沖床",
+                "fr": "Coup d'Joie",
+                "es": "Puño Feliz",
+                "it": "Pugnolieto",
+                "de": "Freudenschlag",
+                "pt-br": "Soco Feliz",
+                "zh-tw": "幸福拳",
                 ja: "しあわせパンチ",
                 ko: "행복펀치"
             },
@@ -58,12 +59,12 @@ const card: Card = {
             cost: ["Colorless", "Colorless", "Colorless", "Colorless"],
             effect: {
                 en: "Flip a coin. If heads, heal 60 damage from this Pokémon.",
-                "fr": "Lancez une pièce de monnaie. Si c'est face, soignez 60 dégâts de ce Pokémon.",
-                "es": "Lanza una moneda. Si sale cara, cura 60 puntos de daño a este Pokémon.",
+                "fr": "Lancez une pièce. Si c'est face, soignez 60 dégâts de ce Pokémon.",
+                "es": "Lanza 1 moneda. Si sale cara, cura 60 puntos de daño a este Pokémon.",
                 "it": "Lancia una moneta. Se esce testa, cura questo Pokémon da 60 danni.",
-                "de": "Wirf eine Münze. Heile bei „Kopf“ 60 Schadenspunkte bei diesem Pokémon.",
-                "pt-br": "Jogue uma moeda. Se der cara, cure 60 de dano deste Pokémon.",
-                "zh-tw": "拋一枚硬幣。如果正面，則治療該神奇寶貝 60 點傷害。",
+                "de": "Wirf 1 Münze. Heile bei Kopf 60 Schadenspunkte bei diesem Pokémon.",
+                "pt-br": "Jogue uma moeda. Se sair cara, cure 60 pontos de dano deste Pokémon.",
+                "zh-tw": "擲1次硬幣若為正面,則將這隻寶可夢恢復60HP。",
                 ja: "コインを1回投げオモテなら、このポケモンのHPを60回復。",
                 ko: "동전을 1번 던져서 앞면이 나오면 이 포켓몬의 HP를 60회복."
             }

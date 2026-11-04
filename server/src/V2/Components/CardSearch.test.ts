@@ -5,6 +5,16 @@ import express from 'express'
 import jsonEndpoints from '../endpoints/jsonEndpoints'
 
 describe('card relations', () => {
+	test('explicit non-pack Promo rewards never inherit the set’s single booster', () => {
+		for (const lang of ['en', 'fr', 'es', 'it', 'de', 'pt-br', 'zh-tw', 'ja', 'ko'] as const) {
+			const cards = searchCatalogCards(lang, { set: 'P-C', pageSize: '100' }).items
+			for (const id of ['P-C-001', 'P-C-010', 'P-C-011', 'P-C-012', 'P-C-013']) {
+				expect(cards.find(card => card.id === id)?.boosters).toEqual([])
+			}
+			const booster = searchCatalogCards(lang, { booster: 'boo_P-C-vol1', pageSize: '100' })
+			expect(booster.items.map(card => card.id).sort()).toEqual(Array.from({ length: 8 }, (_, i) => `P-C-${String(i + 2).padStart(3, '0')}`))
+		}
+	})
 	test('rejects non-string search inputs without losing localized validation messages', () => {
 		const fields = ['q', 'name', 'ability', 'attack', 'set', 'booster', 'category', 'type', 'rarity', 'stage', 'trainerType', 'suffix', 'retreat', 'weakness', 'attackCostType', 'hasAbility', 'hpMin', 'hpMax', 'damageMin', 'damageMax', 'illustrator', 'page', 'pageSize']
 		for (const field of fields) {
@@ -115,13 +125,13 @@ describe('card relations', () => {
 	})
 	test('Korean labels, filters, relations and every validation path stay localized', () => {
 		const ko = getCatalogSearchOptions('ko'), en = getCatalogSearchOptions('en')
-		expect(ko.total).toBe(4561)
-		expect(ko.sets).toHaveLength(26)
-		expect(ko.boosters).toHaveLength(58)
+		expect(ko.total).toBe(4577)
+		expect(ko.sets).toHaveLength(27)
+		expect(ko.boosters).toHaveLength(59)
 		expect(ko.boosters.map(item => item.value).sort()).toEqual(en.boosters.map(item => item.value).sort())
-		const empty = ko.boosters.find(item => item.count === 0)!
-		expect(empty).toBeDefined()
-		expect(searchCatalogCards('ko', { booster: empty.value }).pagination.total).toBe(0)
+		const otherSetBooster = ko.boosters.find(item => !item.value.startsWith('boo_P-C-'))!
+		expect(otherSetBooster).toBeDefined()
+		expect(searchCatalogCards('ko', { set: 'P-C', booster: otherSetBooster.value }).pagination.total).toBe(0)
 		for (const field of ['categories', 'types', 'rarities', 'stages', 'trainerTypes', 'weaknesses', 'attackCostTypes'] as const) {
 			expect(ko[field].map(item => item.value).sort()).toEqual(en[field].map(item => item.value).sort())
 			expect(ko[field].every(item => item.label !== item.value)).toBe(true)

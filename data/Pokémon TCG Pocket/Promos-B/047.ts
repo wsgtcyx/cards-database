@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/047",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/047",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/047",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/047",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/047",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/047",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/047",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/047",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/047"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/047/c1ff612a49a0c41f",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/047/c1ff612a49a0c41f",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/047/c1ff612a49a0c41f",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/047/c1ff612a49a0c41f",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/047/c1ff612a49a0c41f",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/047/c1ff612a49a0c41f",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/047/c1ff612a49a0c41f",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/047/c1ff612a49a0c41f",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/047/c1ff612a49a0c41f"
     },
     name: {
         en: "Gastly",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "ゴース"
     },
     illustrator: "kodama",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     hp: 60,
     types: ["Darkness"],
@@ -34,12 +34,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "Its body is made of gas. Despite lacking substance, it can envelop an opponent of any size and cause suffocation.",
-        fr: "Son corps est composé de gaz. Il peut ainsi\nenvelopper un adversaire et le faire suffoquer.",
+        fr: "Son corps est composé de gaz. Il peut ainsi envelopper un adversaire de n'importe quelle taille et le faire suffoquer.",
         es: "Su etéreo cuerpo está hecho de gas. Puede envolver\na un oponente de cualquier tamaño hasta ahogarlo.",
-        it: "Il suo corpo sottile è fatto di gas. Avvolge nemici\ndi ogni dimensione, soffocandoli.",
-        de: "Es hat einen gasförmigen Körper. Es kann jeden\nGegner mit Giftgas einnebeln und dadurch ersticken.",
-        "pt-br": "Seu corpo é feito de gás. Apesar de não ter substância, pode envolver um oponente de qualquer tamanho e causar asfixia.",
-        "zh-tw": "它的身體是由氣體構成的。儘管缺乏實質內容，但它可以包圍任何體型的對手並導致窒息。",
+        it: "Il suo corpo impalpabile è fatto di gas. Avvolge nemici di ogni dimensione, soffocandoli.",
+        de: "Mit seinem gasförmigen Körper kann es Gegner jeder Größe einhüllen und ersticken.",
+        "pt-br": "Seu corpo é feito de gás. Apesar da falta de consistência, pode envolver um oponente de qualquer tamanho e causar sufocamento.",
+        "zh-tw": "不管對手的體型多大，由氣體構成的輕薄身體都能裹住對手並結束其性命。",
         ja: "ガスでできた 薄い 体は どんな 大きさの 相手も 包みこみ 息の根を 止める。",
         ko: "가스로 만들어진 몸은\n어떠한 크기의 상대라도\n둘러싸서 숨을 못 쉬게 한다."
     },

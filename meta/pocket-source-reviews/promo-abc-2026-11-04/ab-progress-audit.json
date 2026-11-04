@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 3,
+  "status": "metadata-review-complete",
+  "passed": true,
+  "scope": [
+    "P-A",
+    "P-B"
+  ],
+  "counts": {
+    "cards": 220,
+    "promoA": 117,
+    "promoB": 103,
+    "newCards": 3,
+    "localizedImagesIdentityReviewed": 1980,
+    "flavorCards": 179,
+    "localizedFlavorFieldsReviewed": 1611,
+    "localizedNames": 1980,
+    "localizedAttackNameAndEffectFields": 3312,
+    "localizedAbilityNameAndEffectFields": 414,
+    "localizedEvolutionFields": 531,
+    "localizedTrainerEffectFields": 72,
+    "preexistingNonImageLeafFieldChanges": 1636
+  },
+  "completed": {
+    "packMembership": "220 game master records, preserving all actual volumes and non-pack acquisition sources",
+    "rarity": "220 mapped to game rarity; 138 prior None values corrected against independent PokeOS rarity",
+    "mechanics": "HP, types, stage, weakness, retreat, costs and base damage compared with game data; effects independently reviewed against native images",
+    "namesAndEvolution": "Seven game dictionaries plus native image identity; de/it native header review; P-B-040 Paldean Wooper corrected in seven locales",
+    "rules": "Seven-language pinned game text templates with all four ambiguous bindings resolved by native images; de/it1402 nonflavor fields and English181 effects reviewed; native numeric overrides for B085/B086",
+    "flavor": "All179 cards in all9 locales individually reviewed; final coverage has source image hashes and exact approved values",
+    "illustrator": "Game master comparison; A108 native Asako Ito retained over incorrect upstream Kagemaru Himeno"
+  },
+  "unresolved": [],
+  "limitations": [
+    "This report validates A/B metadata and local native image identity only. It does not certify R2 upload, API compilation, deployments, pack-art quality or downstream production behavior.",
+    "B101/B102 sources are event shop/activity/wonder pick and B103 activity; no dates are inferred from internal event identifiers."
+  ],
+  "evidence": {
+    "flavorCoverage": "ab-flavor-final-coverage.json",
+    "fieldChanges": "ab-final-field-changes.json",
+    "membership": "ab-membership-review.json",
+    "rarity": "ab-rarity-illustrator.review.json",
+    "nativeRules": [
+      "ab-native-exact.decisions.json",
+      "ab-four-rule-conflicts.review.json",
+      "ab-effect-numbers.review.json",
+      "ab-deit-rules-coverage.json",
+      "ab-english-effects-coverage.json",
+      "ab-remaining-rules.review.json"
+    ]
+  }
+}

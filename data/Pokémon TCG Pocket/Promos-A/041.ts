@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/041",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/041",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/041",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/041",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/041",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/041",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/041",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/041",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/041"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/041/54933f505f3033a4",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/041/54933f505f3033a4",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/041/54933f505f3033a4",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/041/54933f505f3033a4",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/041/54933f505f3033a4",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/041/54933f505f3033a4",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/041/54933f505f3033a4",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/041/54933f505f3033a4",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/041/54933f505f3033a4"
     },
     name: {
         en: "Togepi",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "波克比",
     },
     illustrator: "Naoyo Kimura",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     hp: 50,
     types: ["Psychic"],
@@ -38,7 +38,7 @@ const card: Card = {
         'pt-br': "Sua casca parece ser cheia de alegria e dizem que\ncompartilha a boa sorte quando é tratado com carinho.",
         ja: "殻の中に 幸せが たくさん つまっているらしく 優しくされると 幸運を 分け与える という。",
         ko: "껍질 안에 행복이 가득 차 있어서\n상냥하게 대해준 사람에게\n행운을 나누어 준다고 한다.",
-        "zh-tw": "貝殼裡似乎充滿了喜悅。據說\n如果受到善待，它會分享好運。"
+        "zh-tw": "殼內好像塞滿了許多幸福，據說只要溫柔地對待牠，牠就會把幸運分給對方。"
     },
     stage: "Basic",
     attacks: [{
@@ -51,7 +51,7 @@ const card: Card = {
                 'pt-br': "Pancada",
                 ja: "はたく",
                 ko: "막치기",
-                "zh-tw": "磅"
+                "zh-tw": "拍擊"
             },
             damage: 20,
             cost: ["Psychic"]

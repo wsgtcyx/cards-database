@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "setId": "P-C",
+  "passed": true,
+  "counts": {
+    "cards": 13,
+    "realPackMembers": 8,
+    "rewardOnly": 5,
+    "officialCount": 0
+  },
+  "records": [
+    {
+      "cardId": "P-C-011",
+      "gameId": "PK_90_007340_01",
+      "packMembership": [],
+      "passed": true
+    },
+    {
+      "cardId": "P-C-010",
+      "gameId": "PK_90_010030_00",
+      "packMembership": [],
+      "passed": true
+    },
+    {
+      "cardId": "P-C-012",
+      "gameId": "PK_90_013980_00",
+      "packMembership": [],
+      "passed": true
+    },
+    {
+      "cardId": "P-C-001",
+      "gameId": "PK_90_014150_00",
+      "packMembership": [],
+      "passed": true
+    },
+    {
+      "cardId": "P-C-003",
+      "gameId": "PK_90_022390_00",
+      "packMembership": [
+        "vol1"
+      ],
+      "passed": true
+    },
+    {
+      "cardId": "P-C-006",
+      "gameId": "PK_90_022410_00",
+      "packMembership": [
+        "vol1"
+      ],
+      "passed": true
+    },
+    {
+      "cardId": "P-C-007",
+      "gameId": "PK_90_022420_00",
+      "packMembership": [
+        "vol1"
+      ],
+      "passed": true
+    },
+    {
+      "cardId": "P-C-008",
+      "gameId": "PK_90_022430_00",
+      "packMembership": [
+        "vol1"
+      ],
+      "passed": true
+    },
+    {
+      "cardId": "P-C-013",
+      "gameId": "PK_90_022770_00",
+      "packMembership": [],
+      "passed": true
+    },
+    {
+      "cardId": "P-C-002",
+      "gameId": "PK_90_022970_00",
+      "packMembership": [
+        "vol1"
+      ],
+      "passed": true
+    },
+    {
+      "cardId": "P-C-004",
+      "gameId": "PK_90_022980_00",
+      "packMembership": [
+        "vol1"
+      ],
+      "passed": true
+    },
+    {
+      "cardId": "P-C-005",
+      "gameId": "PK_90_022990_00",
+      "packMembership": [
+        "vol1"
+      ],
+      "passed": true
+    },
+    {
+      "cardId": "P-C-009",
+      "gameId": "TR_90_001790_00",
+      "packMembership": [
+        "vol1"
+      ],
+      "passed": true
+    }
+  ],
+  "donorBindings": [
+    {
+      "cardId": "P-C-001",
+      "donorCardId": "B2-049",
+      "masterPlayExact": true
+    },
+    {
+      "cardId": "P-C-010",
+      "donorCardId": "A4-147",
+      "masterPlayExact": true
+    },
+    {
+      "cardId": "P-C-011",
+      "donorCardId": "A3b-037",
+      "masterPlayExact": true
+    },
+    {
+      "cardId": "P-C-012",
+      "donorCardId": "B2-032",
+      "masterPlayExact": true
+    }
+  ]
+}

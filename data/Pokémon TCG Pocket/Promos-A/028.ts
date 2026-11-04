@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/028",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/028",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/028",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/028",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/028",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/028",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/028",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/028",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/028"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/028/8608cd4804261451",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/028/8608cd4804261451",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/028/8608cd4804261451",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/028/8608cd4804261451",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/028/8608cd4804261451",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/028/8608cd4804261451",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/028/8608cd4804261451",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/028/8608cd4804261451",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/028/8608cd4804261451"
     },
     name: {
         en: "Volcarona",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "火神蛾",
     },
     illustrator: "Shin Nagasawa",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     hp: 120,
     types: ["Fire"],
@@ -49,7 +49,7 @@ const card: Card = {
         'pt-br': "Seu corpo em chamas faz com que seja impopular em partes quentes\ndo mundo. Mas, em lugares frios, Volcarona é reverenciado como\numa personificação do sol.",
         ja: "暑い 土地では 燃える 体は 嫌がられるが 寒い 土地では 太陽の化身 と 崇められる。",
         ko: "더운 곳에서는 타오르는 몸 때문에\n미움을 받지만, 추운 곳에서는\n태양의 화신이라며 받들어진다.",
-        "zh-tw": "其燃燒的身體使其在炎熱的天氣中不受歡迎\n世界部分地區，但在寒冷地區，沃爾卡羅納 (Volcarona) 是\n被尊為太陽的化身。"
+        "zh-tw": "燃燒的身體在炎熱之地備受嫌棄，但在寒冷之地卻被信奉為太陽的化身。"
     },
     stage: "Stage1",
     attacks: [{
@@ -62,7 +62,7 @@ const card: Card = {
                 'pt-br': "Cinza Vulcânica",
                 ja: "かさいりゅう",
                 ko: "화쇄류",
-                "zh-tw": "火山灰"
+                "zh-tw": "火碎流"
             },
             cost: ["Fire", "Fire", "Colorless"],
             effect: {
@@ -74,7 +74,7 @@ const card: Card = {
                 'pt-br': "Descarte 2 Energias de {R} deste Pokémon. Este ataque causa 80 pontos de dano a 1 dos Pokémon do seu oponente.",
                 ja: "このポケモンから{R}エネルギーを2個トラッシュし、相手のポケモン1匹に80ダメージ。",
                 ko: "이 포켓몬에서 {R}에너지를 2개 트래쉬하고 상대의 포켓몬 1마리에게 80데미지를 준다.",
-                "zh-tw": "丟棄該神奇寶貝的 2 個 {R} 能量。這次攻擊對對手的 1 只神奇寶貝造成 80 點傷害。"
+                "zh-tw": "將這隻寶可夢身上的2個{R}能量丟棄,對手的1隻寶可夢受到80點傷害。"
             }
         }],
     weaknesses: [{

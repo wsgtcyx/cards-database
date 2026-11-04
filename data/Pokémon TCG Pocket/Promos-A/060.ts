@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/060",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/060",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/060",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/060",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/060",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/060",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/060",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/060",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/060"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/060/d8a1ad93adf5178a",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/060/d8a1ad93adf5178a",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/060/d8a1ad93adf5178a",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/060/d8a1ad93adf5178a",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/060/d8a1ad93adf5178a",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/060/d8a1ad93adf5178a",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/060/d8a1ad93adf5178a",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/060/d8a1ad93adf5178a",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/060/d8a1ad93adf5178a"
     },
     name: {
         en: "Exeggcute",
@@ -38,7 +38,7 @@ const card: Card = {
         ja: "タマゴのように 見えるが 立派な ポケモン。 テレパシーで 仲間と 交信している らしいぞ。",
         ko: "알처럼 보이지만 엄연한\n포켓몬이다. 텔레파시로\n동료와 교신하는 듯하다.",
         'pt-br': "Apesar de parecer só um monte de ovos, é um Pokémon\nde verdade. Exeggcute se comunica com outros de sua\nespécie por meio de telepatia.",
-        "zh-tw": "雖然看起來只是一堆雞蛋，\n這是一隻真正的神奇寶貝。 Exeggcute 溝通\n顯然，是通過心靈感應與其他同類進行交流。"
+        "zh-tw": "雖然看起來很像是蛋，但卻是如假包換的寶可夢。似乎會用心靈感應來與夥伴們交流喔。"
     },
     stage: "Basic",
     attacks: [{
@@ -51,7 +51,7 @@ const card: Card = {
                 ja: "ちょっとせいちょう",
                 ko: "조금성장",
                 'pt-br': "Estirão",
-                "zh-tw": "成長突飛猛進"
+                "zh-tw": "微生長"
             },
             cost: ["Colorless"],
             effect: {
@@ -63,7 +63,7 @@ const card: Card = {
                 ja: "自分のエネルギーゾーンから{G}エネルギーを1個出し、このポケモンにつける。",
                 ko: "자신의 에너지존에서 {G}에너지를 1개 내보내 이 포켓몬에게 붙인다.",
                 'pt-br': "Pegue 1 Energia {G} da sua Zona de Energia e ligue-a a este Pokémon.",
-                "zh-tw": "從你的能量區取出一個{G}能量並將其附加到這只神奇寶貝身上。"
+                "zh-tw": "從自己的能量區抽出1個{G}能量,附於這隻寶可夢身上。"
             }
         }],
     weaknesses: [{

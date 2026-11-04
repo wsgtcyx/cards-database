@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/058",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/058",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/058",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/058",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/058",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/058",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/058",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/058",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/058"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/058/5aede12830cf3f15",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/058/5aede12830cf3f15",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/058/5aede12830cf3f15",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/058/5aede12830cf3f15",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/058/5aede12830cf3f15",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/058/5aede12830cf3f15",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/058/5aede12830cf3f15",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/058/5aede12830cf3f15",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/058/5aede12830cf3f15"
     },
     name: {
         en: "Pachirisu",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "帕奇利茲",
     },
     illustrator: "OOYAMA",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     hp: 70,
     types: ["Lightning"],
@@ -38,7 +38,7 @@ const card: Card = {
         'pt-br': "É um dos tipos de Pokémon com bolsas elétricas\nnas bochechas. Ele dispara cargas de sua cauda.",
         ja: "ほっぺに 電気袋を 持つ ポケモンの 仲間。 尻尾から 溜まった 電気を 放出する。",
         ko: "볼에 전기 주머니를 가진 포켓몬의 일종.\n꼬리에 모인 전기를 방출한다.",
-        "zh-tw": "它是帶有電力的神奇寶貝之一\n頰袋。它從尾巴發射電荷。"
+        "zh-tw": "雙頰上有電囊的寶可夢的一員。儲存的電力會從尾巴釋放出去。"
     },
     stage: "Basic",
     attacks: [{
@@ -51,7 +51,7 @@ const card: Card = {
                 'pt-br': "Plasma",
                 ja: "プラズマ",
                 ko: "플라스마",
-                "zh-tw": "電漿"
+                "zh-tw": "等離子"
             },
             cost: ["Lightning"],
             damage: 10,
@@ -61,10 +61,10 @@ const card: Card = {
                 es: "Une 1 Energía {L} de tu área de Energía a 1 de tus Pokémon {L} en Banca.",
                 it: "Prendi un'Energia {L} dalla tua Zona Energia e assegnala a uno dei tuoi Pokémon {L} in panchina.",
                 de: "Lege 1 {L}-Energie aus deinem Energiebereich an 1 {L}-Pokémon auf deiner Bank an.",
-                'pt-br': "Pegue 1 Energia {L} da sua Zona de Energia e a 1 dos seus Pokémon {L} no Banco.",
+                'pt-br': "Pegue 1 Energia {L} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon {L} no Banco.",
                 ja: "自分のエネルギーゾーンから{L}エネルギーを1個出し、ベンチの{L}ポケモンにつける。",
                 ko: "자신의 에너지존에서 {L}에너지를 1개 내보내 벤치의 {L} 포켓몬에게 붙인다.",
-                "zh-tw": "從你的能量區取出一個 {L} 能量並將其附加到你後備的 1 個 {L} 神奇寶貝上。"
+                "zh-tw": "從自己的能量區抽出1個{L}能量,附於備戰區的{L}寶可夢身上。"
             }
         }],
     weaknesses: [{

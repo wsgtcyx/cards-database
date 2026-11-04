@@ -1,0 +1,756 @@
+{
+  "schemaVersion": 1,
+  "setId": "P-C",
+  "changes": [
+    {
+      "field": "P-C-001.description.en",
+      "previous": "When several of these Pokémon gather, their\nelectricity can build and cause lightning storms.",
+      "chosen": "When several of these Pokémon gather, their electricity can build and cause lightning storms.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-001.description.fr",
+      "previous": "Lorsque plusieurs de ces Pokémon se rassemblent, leur\nl'électricité peut s'accumuler et provoquer des orages.",
+      "chosen": "Quand plusieurs de ces Pokémon se réunissent, ils provoquent de gigantesques orages.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-001.description.es",
+      "previous": "Cuando varios de estos Pokémon se reúnen, sus\nLa electricidad puede acumularse y provocar tormentas eléctricas.",
+      "chosen": "Cuando varios de estos Pokémon se juntan, su energía puede causar fuertes tormentas.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-001.description.it",
+      "previous": "Quando molti di questi Pokémon si riuniscono, il loro\nl'elettricità può accumularsi e causare temporali.",
+      "chosen": "Quando vari Pokémon di questa specie si radunano, la loro energia si accumula e genera fulmini.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-001.description.de",
+      "previous": "Wenn sich mehrere dieser Pokémon versammeln, werden ihre\nElektrizität kann sich aufbauen und Gewitter auslösen.",
+      "chosen": "Wenn sich mehrere dieser Pokémon versammeln, kann ihre geballte Energie Blitzgewitter erzeugen.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-001.description.pt-br",
+      "previous": "Quando vários desses Pokémon se reúnem, seus\na eletricidade pode aumentar e causar tempestades com raios.",
+      "chosen": "Quando vários destes Pokémon se juntam, a eletricidade deles pode se acumular e causar tempestades de raios.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-001.description.zh-tw",
+      "previous": "當這些神奇寶貝聚集在一起時，他們的\n電力會積聚並引發雷暴。",
+      "chosen": "據說同一處有好幾隻的時候，牠們就會聚集起強烈的電力，還可能造成閃電落於該處。",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-001.description.ko",
+      "previous": "여러 마리가 모여 있으면\n그 자리에 맹렬하게 전기가 모여서\n벼락이 떨어질 때가 있다고 한다.",
+      "chosen": "여러 마리가 모여 있으면 그 자리에 맹렬하게 전기가 모여서 벼락이 떨어질 때가 있다고 한다.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-001.attacks",
+      "previous": [
+        {
+          "name": {
+            "en": "Thunder Jolt",
+            "fr": "Secousse Tonnerre",
+            "es": "Sacudida Atronadora",
+            "it": "Scossa di tuono",
+            "de": "Donnerstoß",
+            "pt-br": "Choque do Trovão",
+            "zh-tw": "電流攻擊",
+            "ja": "でんげき",
+            "ko": "전격"
+          },
+          "cost": [
+            "Lightning"
+          ],
+          "damage": 30,
+          "effect": {
+            "en": "This Pokémon also does 10 damage to itself.",
+            "fr": "Ce Pokémon s'inflige aussi 10 dégâts.",
+            "es": "Este Pokémon también se hace 10 puntos de daño a sí mismo.",
+            "it": "Questo Pokémon infligge anche 10 danni a se stesso.",
+            "de": "Dieses Pokémon fügt sich selbst außerdem 10 Schadenspunkte zu.",
+            "pt-br": "Este Pokémon também causa 10 pontos de dano a si mesmo.",
+            "zh-tw": "這隻寶可夢也受到10點傷害。",
+            "ja": "このポケモンにも10ダメージ。",
+            "ko": "이 포켓몬에게도 10데미지를 준다."
+          }
+        }
+      ],
+      "chosen": [
+        {
+          "name": {
+            "en": "Thunder Jolt",
+            "fr": "Secousse Tonnerre",
+            "es": "Sacudida Atronadora",
+            "it": "Scoppiotuono",
+            "de": "Donnerrüttler",
+            "pt-br": "Choque do Trovão",
+            "zh-tw": "電流攻擊",
+            "ja": "でんげき",
+            "ko": "전격"
+          },
+          "cost": [
+            "Lightning"
+          ],
+          "damage": 30,
+          "effect": {
+            "en": "This Pokémon also does 10 damage to itself.",
+            "fr": "Ce Pokémon s'inflige aussi 10 dégâts.",
+            "es": "Este Pokémon también se hace 10 puntos de daño a sí mismo.",
+            "it": "Questo Pokémon infligge anche 10 danni a se stesso.",
+            "de": "Dieses Pokémon fügt auch sich selbst 10 Schadenspunkte zu.",
+            "pt-br": "Este Pokémon também causa 10 pontos de dano a si mesmo.",
+            "zh-tw": "這隻寶可夢也受到10點傷害。",
+            "ja": "このポケモンにも10ダメージ。",
+            "ko": "이 포켓몬에게도 10데미지를 준다."
+          }
+        }
+      ],
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-002.attacks",
+      "previous": [
+        {
+          "name": {
+            "en": "Psychic Blaster",
+            "fr": "Explosif Psy",
+            "es": "Psicoestruendo",
+            "pt-br": "Disparador Psíquico",
+            "zh-tw": "超能爆破",
+            "ja": "サイキックブラスター",
+            "ko": "사이킥 블래스터"
+          },
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "damage": "60x",
+          "effect": {
+            "en": "Flip a coin for each {P} Energy attached to this Pokémon. This attack does 60 damage for each heads.",
+            "fr": "Lancez une pièce pour chaque Énergie {P} attachée à ce Pokémon. Cette attaque inflige 60 dégâts pour chaque côté face.",
+            "es": "Lanza 1 moneda por cada Energía {P} unida a este Pokémon. Este ataque hace 60 puntos de daño por cada cara.",
+            "pt-br": "Jogue uma moeda para cada Energia de {P} ligada a este Pokémon. Este ataque causa 60 pontos de dano para cada cara.",
+            "zh-tw": "以這隻寶可夢身上的{P}能量的數量擲硬幣,造成正面出現的次數×60點傷害。",
+            "ja": "このポケモンの{P}エネルギーの数ぶんコインを投げ、オモテの数×60ダメージ。",
+            "ko": "이 포켓몬의 {P}에너지의 개수만큼 동전을 던져서 앞면이 나온 수 × 60데미지를 준다."
+          }
+        }
+      ],
+      "chosen": [
+        {
+          "name": {
+            "en": "Psychic Blaster",
+            "fr": "Explosif Psy",
+            "es": "Psicoestruendo",
+            "pt-br": "Disparador Psíquico",
+            "zh-tw": "超能爆破",
+            "ja": "サイキックブラスター",
+            "ko": "사이킥 블래스터",
+            "de": "Psycho-Blaster",
+            "it": "Detonazione Psichica"
+          },
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "damage": "60x",
+          "effect": {
+            "en": "Flip a coin for each {P} Energy attached to this Pokémon. This attack does 60 damage for each heads.",
+            "fr": "Lancez une pièce pour chaque Énergie {P} attachée à ce Pokémon. Cette attaque inflige 60 dégâts pour chaque côté face.",
+            "es": "Lanza 1 moneda por cada Energía {P} unida a este Pokémon. Este ataque hace 60 puntos de daño por cada cara.",
+            "pt-br": "Jogue uma moeda para cada Energia de {P} ligada a este Pokémon. Este ataque causa 60 pontos de dano para cada cara.",
+            "zh-tw": "以這隻寶可夢身上的{P}能量的數量擲硬幣,造成正面出現的次數×60點傷害。",
+            "ja": "このポケモンの{P}エネルギーの数ぶんコインを投げ、オモテの数×60ダメージ。",
+            "ko": "이 포켓몬의 {P}에너지의 개수만큼 동전을 던져서 앞면이 나온 수 × 60데미지를 준다.",
+            "de": "Wirf 1 Münze für jede an dieses Pokémon angelegte {P}-Energie. Diese Attacke fügt 60 Schadenspunkte pro Kopf zu.",
+            "it": "Lancia una moneta per ogni Energia {P} assegnata a questo Pokémon. Questo attacco infligge 60 danni ogni volta che esce testa."
+          }
+        }
+      ],
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-003.attacks",
+      "previous": [
+        {
+          "name": {
+            "en": "Psycho Boost",
+            "fr": "Psycho-Boost",
+            "es": "Psicoataque",
+            "it": "Psicoslancio",
+            "de": "Psychschub",
+            "pt-br": "Impulso Psíquico",
+            "zh-tw": "精神突進",
+            "ja": "サイコブースト",
+            "ko": "사이코부스트"
+          },
+          "cost": [
+            "Colorless",
+            "Psychic",
+            "Psychic"
+          ],
+          "damage": 100,
+          "effect": {
+            "en": "During your next turn, this Pokémon's Psycho Boost does −50 damage.",
+            "fr": "Pendant votre prochain tour, ce Pokémon inflige − 50 dégâts avec Psycho-Boost.",
+            "es": "Durante tu próximo turno, el ataque Psicoataque de este Pokémon hace ‐50 puntos de daño.",
+            "it": "Durante il tuo prossimo turno, l’attacco Psicoslancio di questo Pokémon infligge -50 danni.",
+            "de": "Während deines nächsten Zuges fügt die Attacke Psychschub von diesem Pokémon − 50 Schadenspunkte zu.",
+            "pt-br": "Durante o seu próximo turno, o ataque Impulso Psíquico deste Pokémon causará − 50 pontos de dano.",
+            "zh-tw": "在下個自己的回合,這隻寶可夢「精神突進」的傷害-50點。",
+            "ja": "次の自分の番、このポケモンの「サイコブースト」のダメージを-50する。",
+            "ko": "자신의 다음 차례에 이 포켓몬의 「사이코부스트」의 데미지를 -50한다."
+          }
+        }
+      ],
+      "chosen": [
+        {
+          "name": {
+            "en": "Psycho Boost",
+            "fr": "Psycho-Boost",
+            "es": "Psicoataque",
+            "it": "Psicoslancio",
+            "de": "Psyschub",
+            "pt-br": "Impulso Psíquico",
+            "zh-tw": "精神突進",
+            "ja": "サイコブースト",
+            "ko": "사이코부스트"
+          },
+          "cost": [
+            "Colorless",
+            "Psychic",
+            "Psychic"
+          ],
+          "damage": 100,
+          "effect": {
+            "en": "During your next turn, this Pokémon's Psycho Boost does −50 damage.",
+            "fr": "Pendant votre prochain tour, ce Pokémon inflige − 50 dégâts avec Psycho-Boost.",
+            "es": "Durante tu próximo turno, el ataque Psicoataque de este Pokémon hace ‐50 puntos de daño.",
+            "it": "Durante il tuo prossimo turno, l’attacco Psicoslancio di questo Pokémon infligge -50 danni.",
+            "de": "Während deines nächsten Zuges fügt die Attacke Psyschub von diesem Pokémon − 50 Schadenspunkte zu.",
+            "pt-br": "Durante o seu próximo turno, o ataque Impulso Psíquico deste Pokémon causará − 50 pontos de dano.",
+            "zh-tw": "在下個自己的回合,這隻寶可夢「精神突進」的傷害-50點。",
+            "ja": "次の自分の番、このポケモンの「サイコブースト」のダメージを-50する。",
+            "ko": "자신의 다음 차례에 이 포켓몬의 「사이코부스트」의 데미지를 -50한다."
+          }
+        }
+      ],
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-004.attacks",
+      "previous": [
+        {
+          "name": {
+            "en": "Perplex",
+            "fr": "Affolement",
+            "es": "Desconcierto",
+            "pt-br": "Perplexo",
+            "zh-tw": "蠱惑",
+            "ja": "まどわす",
+            "ko": "혼란시키기"
+          },
+          "cost": [
+            "Psychic"
+          ],
+          "effect": {
+            "en": "Your opponent's Active Pokémon is now Confused.",
+            "fr": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+            "es": "El Pokémon Activo de tu rival pasa a estar Confundido.",
+            "ja": "相手のバトルポケモンをこんらんにする。",
+            "ko": "상대의 배틀 포켓몬을 혼란으로 만든다."
+          }
+        }
+      ],
+      "chosen": [
+        {
+          "name": {
+            "en": "Perplex",
+            "fr": "Affolement",
+            "es": "Desconcierto",
+            "pt-br": "Perplexo",
+            "zh-tw": "蠱惑",
+            "ja": "まどわす",
+            "ko": "혼란시키기",
+            "de": "Perplex",
+            "it": "Sconcerto"
+          },
+          "cost": [
+            "Psychic"
+          ],
+          "effect": {
+            "en": "Your opponent's Active Pokémon is now Confused.",
+            "fr": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+            "es": "El Pokémon Activo de tu rival pasa a estar Confundido.",
+            "ja": "相手のバトルポケモンをこんらんにする。",
+            "ko": "상대의 배틀 포켓몬을 혼란으로 만든다.",
+            "de": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt.",
+            "it": "Il Pokémon attivo del tuo avversario viene confuso.",
+            "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
+            "zh-tw": "將對手的戰鬥寶可夢混亂。"
+          }
+        }
+      ],
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-004.description",
+      "previous": null,
+      "chosen": {
+        "en": "It protects itself from tough foes by flashing its luminescent spots to discourage them.",
+        "fr": "Il se protège des ennemis puissants en faisant clignoter les points lumineux sur son corps, ce qui sape leur volonté de l'attaquer.",
+        "es": "Los destellos de luz intermitente que emiten sus órganos luminosos aplacan el ánimo del rival, lo que le permite protegerse de enemigos fuertes.",
+        "it": "Fa perdere la motivazione agli avversari facendo lampeggiare i motivi che ha sul corpo. In questo modo riesce a difendersi dai nemici più forti.",
+        "de": "Es schützt sich vor starken Feinden, indem es die Punkte auf seinem Körper blinken lässt und Gegnern so den Kampfeswillen raubt.",
+        "pt-br": "Pisca suas marcas luminescentes para se proteger dos inimigos e desencorajá-los.",
+        "zh-tw": "會閃爍發光體讓對手提不起勁，從而保護自己免受強敵襲擊。",
+        "ja": "発光体を 点滅させて 相手の やる気を なくさせることで 強敵から 身を 守っている。",
+        "ko": "발광체를 깜빡여서 상대의 의욕을 상실시키는 방식으로 강적으로부터 몸을 지킨다."
+      },
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-005.attacks",
+      "previous": [
+        {
+          "name": {
+            "en": "Pester the Dizzy",
+            "fr": "Accabler les Confus",
+            "es": "Saña Mareante",
+            "pt-br": "Cutucar a Confusão",
+            "zh-tw": "暈眩追擊",
+            "ja": "めまいのついげき",
+            "ko": "현기증추격"
+          },
+          "cost": [
+            "Psychic"
+          ],
+          "damage": "10+",
+          "effect": {
+            "en": "If your opponent's Active Pokémon is Confused, this attack does 90 more damage.",
+            "fr": "Si le Pokémon Actif de votre adversaire est Confus, cette attaque inflige 90 dégâts de plus.",
+            "es": "Si el Pokémon Activo de tu rival está Confundido, este ataque hace 90 puntos de daño más.",
+            "ja": "相手のバトルポケモンがこんらんなら、90ダメージ追加。",
+            "ko": "상대의 배틀 포켓몬이 혼란이라면 90데미지를 추가한다."
+          }
+        }
+      ],
+      "chosen": [
+        {
+          "name": {
+            "en": "Pester the Dizzy",
+            "fr": "Accabler les Confus",
+            "es": "Saña Mareante",
+            "pt-br": "Cutucar a Confusão",
+            "zh-tw": "暈眩追擊",
+            "ja": "めまいのついげき",
+            "ko": "현기증추격",
+            "de": "Piesacken der Taumelnden",
+            "it": "Confusattacco"
+          },
+          "cost": [
+            "Psychic"
+          ],
+          "damage": "10+",
+          "effect": {
+            "en": "If your opponent's Active Pokémon is Confused, this attack does 90 more damage.",
+            "fr": "Si le Pokémon Actif de votre adversaire est Confus, cette attaque inflige 90 dégâts de plus.",
+            "es": "Si el Pokémon Activo de tu rival está Confundido, este ataque hace 90 puntos de daño más.",
+            "ja": "相手のバトルポケモンがこんらんなら、90ダメージ追加。",
+            "ko": "상대의 배틀 포켓몬이 혼란이라면 90데미지를 추가한다.",
+            "de": "Wenn das Aktive Pokémon deines Gegners verwirrt ist, fügt diese Attacke 90 Schadenspunkte mehr zu.",
+            "it": "Se il Pokémon attivo del tuo avversario è confuso, questo attacco infligge 90 danni in più.",
+            "pt-br": "Se o Pokémon Ativo do seu oponente estiver Confuso, este ataque causará 90 pontos de dano a mais.",
+            "zh-tw": "若對手的戰鬥寶可夢混亂，則增加90點傷害。"
+          }
+        }
+      ],
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-005.description",
+      "previous": null,
+      "chosen": {
+        "en": "Its hypnotic powers are dangerously strong. Anyone who falls under Malamar's control loses their memories surrounding the event.",
+        "fr": "Ses pouvoirs hypnotiques sont sans égal, si bien que ses victimes ne gardent aucun souvenir du moment où elles étaient sous son contrôle.",
+        "es": "Sus potentes poderes hipnóticos no tienen rival. Aquellos a los que controla no recuerdan en absoluto haber estado sometidos a su voluntad.",
+        "it": "Ha poteri ipnotici straordinariamente forti, tanto che chi cade in suo controllo ne perde poi ogni ricordo.",
+        "de": "Seine hypnotischen Kräfte sind unfassbar stark. Hat es sich ein Opfer gefügig gemacht, verliert dieses jegliche Erinnerung an den Vorfall.",
+        "pt-br": "Seus poderes hipnóticos são fortes e perigosos. Quem ficar sob o controle de Malamar perde toda a memória do ocorrido.",
+        "zh-tw": "由於牠的催眠術過於強大，導致被操控的對手會失去在那前後的記憶。",
+        "ja": "強力すぎる さいみんじゅつ。 操られていた 相手は 前後の 記憶を 失っている。",
+        "ko": "어마어마하게 강한 최면술을 쓴다. 조종당한 상대는 전후의 기억을 잃어버린다."
+      },
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-007.description.zh-tw",
+      "previous": "將核心包裹起來的外殼擁有超越人類認知範圍的硬度。透過沐浴星光而成長。",
+      "chosen": "將牠包裹起來的外殼擁有超越人類認知範圍的硬度。透過沐浴星光而成長。",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-008.description.zh-tw",
+      "previous": "被稱為招引月亮之獸。將照耀一切的光轉化為能量來維持生命。",
+      "chosen": "被稱為邀引月亮之獸。透過將一切的光轉化為能量來維持生命。",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-009.effect.de",
+      "previous": null,
+      "chosen": "Verschiebe alle {P}-Energien von 1 {P}-Pokémon auf deiner Bank auf dein Mega-Mewtu Y-ex in der Aktiven Position.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-009.effect.it",
+      "previous": null,
+      "chosen": "Sposta tutte le Energie {P} da uno dei tuoi Pokémon {P} in panchina al tuo Mega Mewtwo Y-ex in posizione attiva.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-010.description.en",
+      "previous": "This Pokémon apparently used to live in much\nharsher environments, and thus it once had\nstronger psychic powers than it does now.",
+      "chosen": "This Pokémon apparently used to live in much harsher environments, and thus it once had stronger psychic powers than it does now.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-010.description.fr",
+      "previous": "Ce Pokémon vivait apparemment dans de nombreux\ndes environnements plus difficiles, et donc il avait autrefois\ndes pouvoirs psychiques plus forts qu'aujourd'hui.",
+      "chosen": "Il paraît qu'autrefois, il était doté de plus grands pouvoirs psychiques, car il vivait dans un environnement hostile.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-010.description.es",
+      "previous": "Al parecer, este Pokémon solía vivir en muchas\nentornos más duros y, por lo tanto, alguna vez tuvo\npoderes psíquicos más fuertes que los que tiene ahora.",
+      "chosen": "Antaño habitaba en entornos inhóspitos, por lo que sus poderes psíquicos eran supuestamente más potentes aún que en la actualidad.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-010.description.it",
+      "previous": "Sembra che questo Pokémon vivesse in molte zone\nambienti più difficili, come accadeva una volta\npoteri psichici più forti di quelli attuali.",
+      "chosen": "Pare che in passato vivesse in ambienti estremamente inospitali, e per questo avesse poteri psichici ancora più potenti di adesso.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-010.description.de",
+      "previous": "Dieses Pokémon lebte offenbar früher in vielen Gegenden\nraueren Umgebungen, und so war es auch einmal\nstärkere psychische Kräfte als jetzt.",
+      "chosen": "Da dieses Pokémon einst in einer unwirtlichen Umgebung lebte, verfügte es damals offenbar über stärkere Psycho-Kräfte als heutzutage.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-010.description.pt-br",
+      "previous": "Este Pokémon aparentemente vivia em muito\nambientes mais severos e, portanto, já teve\npoderes psíquicos mais fortes do que agora.",
+      "chosen": "Aparentemente, este Pokémon vivia em ambientes muito mais hostis. Por isso, seus poderes psíquicos já foram muito mais fortes do que hoje.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-010.description.zh-tw",
+      "previous": "這只神奇寶貝顯然曾經生活在很多地方\n環境更加惡劣，因此它曾經有過\n比現在更強的精神力量。",
+      "chosen": "過去生活在嚴苛的環境下，因此當時的精神力量似乎比現在還要強。",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-010.description.ko",
+      "previous": "옛날에는 가혹한 환경에서 살았기 때문에\n오늘날보다도 사이코 파워가\n강력했다고 전해진다.",
+      "chosen": "옛날에는 가혹한 환경에서 살았기 때문에 오늘날보다도 사이코 파워가 강력했다고 전해진다.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-010.attacks",
+      "previous": [
+        {
+          "name": {
+            "en": "Enhanced Horns",
+            "fr": "Cornes Améliorées",
+            "es": "Cuernos Mejorados",
+            "it": "Corni migliorati",
+            "de": "Verbesserte Hörner",
+            "pt-br": "Chifres Acentuados",
+            "zh-tw": "強化角擊",
+            "ja": "きょうかホーン",
+            "ko": "강화호른"
+          },
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": "20+",
+          "effect": {
+            "en": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage.",
+            "fr": "Si un Outil Pokémon est attaché à ce Pokémon, cette attaque inflige 50 dégâts supplémentaires.",
+            "es": "Si este Pokémon tiene 1 Herramienta Pokémon unida a él, este ataque hace 50 puntos de daño más.",
+            "it": "Se questo Pokémon ha un Oggetto Pokémon assegnato, questo attacco infligge 50 danni in più.",
+            "de": "Wenn an dieses Pokémon ein Pokémon-Werkzeug angelegt ist, fügt dieser Angriff 50 weitere Schadenspunkte zu.",
+            "pt-br": "Se este Pokémon tiver uma Ferramenta Pokémon ligada a ele, este ataque causará 50 pontos de dano a mais.",
+            "zh-tw": "若這隻寶可夢身上附有「寶可夢道具」,則增加50點傷害。",
+            "ja": "このポケモンに「ポケモンのどうぐ」がついているなら、50ダメージ追加。",
+            "ko": "이 포켓몬에게 「포켓몬의 도구」가 붙어 있다면 50데미지를 추가한다."
+          }
+        }
+      ],
+      "chosen": [
+        {
+          "name": {
+            "en": "Enhanced Horns",
+            "fr": "Cornes Améliorées",
+            "es": "Cuernos Mejorados",
+            "it": "Supercorna",
+            "de": "Spezial-Hörner",
+            "pt-br": "Chifres Acentuados",
+            "zh-tw": "強化角擊",
+            "ja": "きょうかホーン",
+            "ko": "강화호른"
+          },
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": "20+",
+          "effect": {
+            "en": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage.",
+            "fr": "Si un Outil Pokémon est attaché à ce Pokémon, cette attaque inflige 50 dégâts supplémentaires.",
+            "es": "Si este Pokémon tiene 1 Herramienta Pokémon unida a él, este ataque hace 50 puntos de daño más.",
+            "it": "Se questo Pokémon ha un Oggetto Pokémon assegnato, questo attacco infligge 50 danni in più.",
+            "de": "Wenn an dieses Pokémon 1 Pokémon-Ausrüstung angelegt ist, fügt diese Attacke 50 Schadenspunkte mehr zu.",
+            "pt-br": "Se este Pokémon tiver uma Ferramenta Pokémon ligada a ele, este ataque causará 50 pontos de dano a mais.",
+            "zh-tw": "若這隻寶可夢身上附有「寶可夢道具」,則增加50點傷害。",
+            "ja": "このポケモンに「ポケモンのどうぐ」がついているなら、50ダメージ追加。",
+            "ko": "이 포켓몬에게 「포켓몬의 도구」가 붙어 있다면 50데미지를 추가한다."
+          }
+        }
+      ],
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-011.description.en",
+      "previous": "When it trusts a Trainer, it will treat them\nto berries it's decorated with cream.",
+      "chosen": "When it trusts a Trainer, it will treat them to berries it's decorated with cream.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-011.description.fr",
+      "previous": "Quand il fait confiance à un Dresseur, il le traite\naux baies, il est décoré de crème.",
+      "chosen": "Il offre aux Dresseurs auxquels il accorde toute sa confiance des Baies décorées avec de la crème.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-011.description.es",
+      "previous": "Cuando confía en un Entrenador, lo tratará\na las bayas se le adorna con crema.",
+      "chosen": "Obsequia bayas decoradas con nata a aquellos Entrenadores en los que confía.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-011.description.it",
+      "previous": "Quando si fida di un Allenatore, lo tratterà\nai frutti di bosco si decora con panna.",
+      "chosen": "Agli Allenatori di cui si fida regala bacche decorate con la panna.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-011.description.de",
+      "previous": "Wenn es einem Trainer vertraut, wird es ihn behandeln\nZu den Beeren wird es mit Sahne dekoriert.",
+      "chosen": "Es macht einem Trainer, dem es vertraut, mit Beeren samt Sahnedekoration eine Freude.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-011.description.pt-br",
+      "previous": "Quando confia em um Treinador, ele irá tratá-lo\npara frutas vermelhas é decorado com creme.",
+      "chosen": "Quando confia em um Treinador, oferece frutas decoradas com chantili.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-011.description.zh-tw",
+      "previous": "當它信任訓練師時，它會對待他們\n漿果則用奶油裝飾。",
+      "chosen": "牠會把自己用鮮奶油裝飾過的樹果送給自己信任的訓練家。",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-011.description.ko",
+      "previous": "믿을 수 있는 트레이너에게는\n크림으로 데코레이션한\n나무열매를 대접한다.",
+      "chosen": "믿을 수 있는 트레이너에게는 크림으로 데코레이션한 나무열매를 대접한다.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-011.attacks",
+      "previous": [
+        {
+          "name": {
+            "en": "Sweets Overload",
+            "fr": "Avalanche Sucrée",
+            "es": "Dulzor Extremo",
+            "it": "Sovraccarico di dolci",
+            "de": "Süßigkeiten-Überladung",
+            "pt-br": "Sobrecarga Açucarada",
+            "zh-tw": "甜點堆堆堆",
+            "ja": "ドカもりスイーツ",
+            "ko": "한가득스위트"
+          },
+          "cost": [
+            "Colorless"
+          ],
+          "damage": "40x",
+          "effect": {
+            "en": "This attack does 40 damage for each time your Pokémon used Sweets Relay during this game.",
+            "fr": "Cette attaque inflige 40 dégâts pour chaque utilisation de Saupoudrage Sucré par vos Pokémon pendant cette partie.",
+            "es": "Este ataque hace 40 puntos de daño por cada vez que tus Pokémon hayan usado Relevo Dulce durante esta partida.",
+            "it": "Questo attacco infligge 40 danni per ogni volta che i tuoi Pokémon hanno utilizzato Sweets Relay durante questo gioco.",
+            "de": "Dieser Angriff fügt 40 Schadenspunkte für jedes Mal zu, wenn Ihr Pokémon in diesem Spiel „Sweet Relay“ verwendet hat.",
+            "pt-br": "Este ataque causa 40 pontos de dano para cada vez que seus Pokémon usaram Revezamento Doce durante este jogo.",
+            "zh-tw": "造成這場對戰中自己的寶可夢使用「甜點砸砸砸」的次數×40點傷害。",
+            "ja": "この対戦中、自分のポケモンが「スイーツリレー」を使った回数×40ダメージ。",
+            "ko": "이 대전 중 자신의 포켓몬이 「스위트릴레이」를 사용한 횟수 × 40데미지를 준다."
+          }
+        }
+      ],
+      "chosen": [
+        {
+          "name": {
+            "en": "Sweets Overload",
+            "fr": "Avalanche Sucrée",
+            "es": "Dulzor Extremo",
+            "it": "Dolce Sovraccarico",
+            "de": "Süßer Überfluss",
+            "pt-br": "Sobrecarga Açucarada",
+            "zh-tw": "甜點堆堆堆",
+            "ja": "ドカもりスイーツ",
+            "ko": "한가득스위트"
+          },
+          "cost": [
+            "Colorless"
+          ],
+          "damage": "40x",
+          "effect": {
+            "en": "This attack does 40 damage for each time your Pokémon used Sweets Relay during this game.",
+            "fr": "Cette attaque inflige 40 dégâts pour chaque utilisation de Saupoudrage Sucré par vos Pokémon pendant cette partie.",
+            "es": "Este ataque hace 40 puntos de daño por cada vez que tus Pokémon hayan usado Relevo Dulce durante esta partida.",
+            "it": "Questo attacco infligge 40 danni per ogni volta che i tuoi Pokémon hanno usato Dolce Staffetta durante questa partita.",
+            "de": "Diese Attacke fügt für jedes Mal, wenn deine Pokémon in diesem Spiel Süße Staffel eingesetzt haben, 40 Schadenspunkte zu.",
+            "pt-br": "Este ataque causa 40 pontos de dano para cada vez que seus Pokémon usaram Revezamento Doce durante este jogo.",
+            "zh-tw": "造成這場對戰中自己的寶可夢使用「甜點砸砸砸」的次數×40點傷害。",
+            "ja": "この対戦中、自分のポケモンが「スイーツリレー」を使った回数×40ダメージ。",
+            "ko": "이 대전 중 자신의 포켓몬이 「스위트릴레이」를 사용한 횟수 × 40데미지를 준다."
+          }
+        }
+      ],
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-012.description.en",
+      "previous": "It always carries its food with it, wherever it goes.\nIf attacked, it throws its food at the opponent.",
+      "chosen": "It always carries its food with it, wherever it goes. If attacked, it throws its food at the opponent.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-012.description.fr",
+      "previous": "Il emporte toujours sa nourriture avec lui, partout où il va.\nS'il est attaqué, il jette sa nourriture sur l'adversaire.",
+      "chosen": "Il a toujours de la nourriture sur lui. Lorsqu'on l'attaque, il la jette sur son agresseur pour se protéger.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-012.description.es",
+      "previous": "Siempre lleva consigo su comida, dondequiera que vaya.\nSi es atacado, arroja su comida al oponente.",
+      "chosen": "Siempre lleva la comida consigo, vaya donde vaya. Si lo atacan, se la tirará a su adversario.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-012.description.it",
+      "previous": "Porta sempre con sé il cibo, ovunque vada.\nSe attaccato lancia il suo cibo all'avversario.",
+      "chosen": "Porta sempre del cibo con sé. Quando viene attaccato, getta i viveri contro l'avversario per difendersi.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-012.description.de",
+      "previous": "Es trägt seine Nahrung immer bei sich, wohin es auch geht.\nWenn es angegriffen wird, wirft es seine Nahrung auf den Gegner.",
+      "chosen": "Es trägt immer Nahrung bei sich. Wird es attackiert, wirft es diese nach dem Angreifer, um sich zu schützen.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-012.description.pt-br",
+      "previous": "Ele sempre carrega consigo sua comida, onde quer que vá.\nSe for atacado, ele joga sua comida no oponente.",
+      "chosen": "Está sempre carregando sua comida, não importa para onde vá. Se for atacado, lança a comida no oponente.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-012.description.zh-tw",
+      "previous": "無論它走到哪裡，它總是帶著食物。\n如果受到攻擊，它會將食物扔向對手。",
+      "chosen": "總是在搬運著食物。遇到襲擊時，會丟出身上帶著的食物來保護自己。",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-012.description.ko",
+      "previous": "언제나 먹이를 가지고 다닌다.\n공격받으면 몸을 지키기 위해\n가지고 있는 먹이를 집어던진다.",
+      "chosen": "언제나 먹이를 가지고 다닌다. 공격받으면 몸을 지키기 위해 가지고 있는 먹이를 집어던진다.",
+      "reason": "Native image review (see P-C.native-review.json)"
+    },
+    {
+      "field": "P-C-012.attacks",
+      "previous": [
+        {
+          "name": {
+            "en": "Box of Surprises",
+            "fr": "Boîte à Surprises",
+            "es": "Caja de Sorpresas",
+            "it": "Scatola delle sorprese",
+            "de": "Box voller Überraschungen",
+            "pt-br": "Caixa de Surpresas",
+            "zh-tw": "驚奇箱",
+            "ja": "サプライズボックス",
+            "ko": "서프라이즈 박스"
+          },
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "effect": {
+            "en": "Flip a coin. If heads, this attack does 70 damage to your opponent's Active Pokémon. If tails, heal 30 damage from your opponent's Active Pokémon.",
+            "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 70 dégâts au Pokémon Actif de votre adversaire. Si c'est pile, soignez 30 dégâts subis par le Pokémon Actif de votre adversaire.",
+            "es": "Lanza 1 moneda. Si sale cara, este ataque hace 70 puntos de daño al Pokémon Activo de tu rival. Si sale cruz, cura 30 puntos de daño al Pokémon Activo de tu rival.",
+            "it": "Lancia una moneta. Se esce testa, questo attacco infligge 70 danni al Pokémon attivo del tuo avversario. Se esce croce, cura il Pokémon attivo del tuo avversario da 30 danni.",
+            "de": "Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff dem Aktiven Pokémon deines Gegners 70 Schadenspunkte zu. Bei „Zahl“ heile 30 Schadenspunkte beim Aktiven Pokémon deines Gegners.",
+            "pt-br": "Jogue uma moeda. Se sair cara, este ataque causará 70 pontos de dano ao Pokémon Ativo do seu oponente. Se sair coroa, cure 30 pontos de dano do Pokémon Ativo do seu oponente.",
+            "zh-tw": "擲1次硬幣若為正面,則對手的戰鬥寶可夢受到70點傷害。若為反面,則將對手的戰鬥寶可夢恢復30HP。",
+            "ja": "コインを1回投げオモテなら、相手のバトルポケモンに70ダメージ。ウラなら、相手のバトルポケモンのHPを30回復。",
+            "ko": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 70데미지를 준다. 뒷면이 나오면 상대 배틀 포켓몬의 HP를 30회복."
+          }
+        }
+      ],
+      "chosen": [
+        {
+          "name": {
+            "en": "Box of Surprises",
+            "fr": "Boîte à Surprises",
+            "es": "Caja de Sorpresas",
+            "it": "Pacco Sorpresa",
+            "de": "Box voller Überraschungen",
+            "pt-br": "Caixa de Surpresas",
+            "zh-tw": "驚奇箱",
+            "ja": "サプライズボックス",
+            "ko": "서프라이즈 박스"
+          },
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "effect": {
+            "en": "Flip a coin. If heads, this attack does 70 damage to your opponent's Active Pokémon. If tails, heal 30 damage from your opponent's Active Pokémon.",
+            "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 70 dégâts au Pokémon Actif de votre adversaire. Si c'est pile, soignez 30 dégâts subis par le Pokémon Actif de votre adversaire.",
+            "es": "Lanza 1 moneda. Si sale cara, este ataque hace 70 puntos de daño al Pokémon Activo de tu rival. Si sale cruz, cura 30 puntos de daño al Pokémon Activo de tu rival.",
+            "it": "Lancia una moneta. Se esce testa, questo attacco infligge 70 danni al Pokémon attivo del tuo avversario. Se esce croce, cura il Pokémon attivo del tuo avversario da 30 danni.",
+            "de": "Wirf 1 Münze. Bei Kopf fügt diese Attacke dem Aktiven Pokémon deines Gegners 70 Schadenspunkte zu. Heile bei Zahl 30 Schadenspunkte beim Aktiven Pokémon deines Gegners.",
+            "pt-br": "Jogue uma moeda. Se sair cara, este ataque causará 70 pontos de dano ao Pokémon Ativo do seu oponente. Se sair coroa, cure 30 pontos de dano do Pokémon Ativo do seu oponente.",
+            "zh-tw": "擲1次硬幣若為正面,則對手的戰鬥寶可夢受到70點傷害。若為反面,則將對手的戰鬥寶可夢恢復30HP。",
+            "ja": "コインを1回投げオモテなら、相手のバトルポケモンに70ダメージ。ウラなら、相手のバトルポケモンのHPを30回復。",
+            "ko": "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 70데미지를 준다. 뒷면이 나오면 상대 배틀 포켓몬의 HP를 30회복."
+          }
+        }
+      ],
+      "reason": "Native image review (see P-C.native-review.json)"
+    }
+  ]
+}

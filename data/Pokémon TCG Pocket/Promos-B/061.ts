@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/061",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/061",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/061",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/061",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/061",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/061",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/061",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/061",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/061"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/061/d4e7c556ca355cdb",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/061/d4e7c556ca355cdb",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/061/d4e7c556ca355cdb",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/061/d4e7c556ca355cdb",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/061/d4e7c556ca355cdb",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/061/d4e7c556ca355cdb",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/061/d4e7c556ca355cdb",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/061/d4e7c556ca355cdb",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/061/d4e7c556ca355cdb"
     },
     name: {
         en: "Treecko",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "キモリ"
     },
     illustrator: "Sekio",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     hp: 60,
     types: ["Grass"],
@@ -34,12 +34,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "Treecko can quickly scale even vertical surfaces. It senses humidity with its tail to predict the next day’s weather.",
-        fr: "Arcko peut rapidement redimensionner même les surfaces verticales. Il détecte l’humidité avec sa queue pour prédire la météo du lendemain.",
-        es: "Treecko puede escalar rápidamente incluso superficies verticales. Detecta la humedad con su cola para predecir el tiempo del día siguiente.",
-        it: "Treecko può ridimensionare rapidamente anche le superfici verticali. Rileva l’umidità con la coda per prevedere il tempo del giorno successivo.",
-        de: "Geckarbor kann selbst vertikale Flächen schnell skalieren. Mit seinem Schwanz spürt es die Luftfeuchtigkeit auf, um das Wetter für den nächsten Tag vorherzusagen.",
-        "pt-br": "Treecko pode dimensionar rapidamente até mesmo superfícies verticais. Ele detecta a umidade com a cauda para prever o tempo do dia seguinte.",
-        "zh-tw": "木守宮 甚至可以快速縮放垂直表面。它用尾巴感知濕度來預測第二天的天氣。",
+        fr: "Il grimpe sur les murs avec une grande agilité. Sa queue lui permet de mesurer l'humidité et de prédire ainsi le temps qu'il fera le lendemain.",
+        es: "Escala con rapidez incluso superficies verticales. Percibe la humedad ambiental con la cola y así prevé el tiempo que hará al día siguiente.",
+        it: "Riesce a scalare rapidamente anche pareti verticali. Rileva l'umidità attraverso la coda per prevedere il tempo dell'indomani.",
+        de: "Es kann selbst Wände blitzschnell emporklettern. Mit seinem Schwanz misst es die Luftfeuchtigkeit, um das Wetter des nächsten Tages vorherzusagen.",
+        "pt-br": "Treecko consegue escalar superfícies verticais com facilidade. Usa a cauda para sentir a umidade do ar e prever o clima do dia seguinte.",
+        "zh-tw": "在垂直的牆壁上也能輕快地攀爬。會用尾巴感知空氣的濕度，以此來判斷明天的天氣。",
         ja: "垂直の 壁も すいすい 登る。 尻尾で 空気の 湿度を 感じ 明日の 天気を 当てる。",
         ko: "수직으로 된 벽도 쭉쭉 타고 올라간다.\n꼬리로 공기 중의 습도를\n감지해서 내일 날씨를 맞힌다."
     },

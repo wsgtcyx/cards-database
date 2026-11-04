@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/097",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/097",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/097",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/097",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/097",
-        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/097",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/097",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/097",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/097"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/097/b3994f2d2a94fd47",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/097/b3994f2d2a94fd47",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/097/b3994f2d2a94fd47",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/097/b3994f2d2a94fd47",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/097/b3994f2d2a94fd47",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/097/b3994f2d2a94fd47",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/097/b3994f2d2a94fd47",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/097/b3994f2d2a94fd47",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/097/b3994f2d2a94fd47"
     },
     name: {
         en: "Gible",
@@ -44,7 +44,7 @@ const card: Card = {
         de: "Dieses Pokémon lebt in Höhlen, die Erdwärme ausgesetzt sind. Wenn Feinde sich nähern, springt es heraus und beißt mit seinem großen Maul zu.",
         "pt-br": "Faz ninhos em buracos horizontais que são aquecidos pelo calor geotérmico. Inimigos que se aproximam demais serão atacados e mordidos.",
         "zh-tw": "生活在被地熱加溫的洞窟裡。如果有敵人靠近，就會從洞裡撲出來大口咬住。",
-        ja: "地熱で 温められた 横穴で 暮らす。 敵が 近づくと 穴から 飛び出して 大口で かみつく。",
+        ja: "地熱で 温められた 横穴で 暮らす。 敵が 近づくと 穴を 飛び出して 大口で 噛みつく。",
         ko: "지열로 데워진 구멍에서 지낸다.\n적이 가까이 오면 구멍에서 뛰쳐나와\n커다란 입으로 물어 버린다."
     },
     attacks: [

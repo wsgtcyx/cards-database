@@ -1,0 +1,353 @@
+[
+  {
+    "set": "P-B",
+    "number": 101,
+    "locale": "en",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/en/101.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/101_en.png",
+    "sha256": "291acfe0ccd3d771a1f295c0430a66cda67e63300e9032659e2d4366397a8dd4",
+    "bytes": 285607,
+    "size": [
+      367,
+      512
+    ]
+  },
+  {
+    "set": "P-B",
+    "number": 101,
+    "locale": "fr",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/fr/101.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/101_fr.png",
+    "sha256": "1328202e39be813181f54c0bef4df8a8d9ce3b674c68ae59bca07d1fe9ed20db",
+    "bytes": 286967,
+    "size": [
+      367,
+      512
+    ]
+  },
+  {
+    "set": "P-B",
+    "number": 101,
+    "locale": "es",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/es/101.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/101_es.png",
+    "sha256": "241991b9665f3e35e1b9385ca44aff03348d6dc57b8557a615dd0f2a044fe1af",
+    "bytes": 286107,
+    "size": [
+      367,
+      512
+    ]
+  },
+  {
+    "set": "P-B",
+    "number": 101,
+    "locale": "it",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/101.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/101_it.png",
+    "sha256": "6323aa37857d5123bb1b3641434971459b89dfd94a200c38bf0dee85a63c00e4",
+    "bytes": 286066,
+    "size": [
+      367,
+      512
+    ]
+  },
+  {
+    "set": "P-B",
+    "number": 101,
+    "locale": "de",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/de/101.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/101_de.png",
+    "sha256": "58380ba556fe00fc538f006760379d629ae41c8ae754f2649b0fd7dad9d6d3b7",
+    "bytes": 287196,
+    "size": [
+      367,
+      512
+    ]
+  },
+  {
+    "set": "P-B",
+    "number": 101,
+    "locale": "pt-br",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/pt-br/101.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/101_ptbr.png",
+    "sha256": "94cf44de289c5226d436423e909b67a2dab8f292cd58b178c4da7fd9b8c3cb46",
+    "bytes": 287515,
+    "size": [
+      367,
+      512
+    ]
+  },
+  {
+    "set": "P-B",
+    "number": 101,
+    "locale": "zh-tw",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/zh-tw/101.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/101_zh.png",
+    "sha256": "672b988b26864b53687c2a92b474be0278e5e3f201ee08249e18a059e16436dd",
+    "bytes": 285230,
+    "size": [
+      367,
+      512
+    ]
+  },
+  {
+    "set": "P-B",
+    "number": 101,
+    "locale": "ja",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/ja/101.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/101_ja.png",
+    "sha256": "2256088783765e541b8ac077e855a5e8cab2586e2673d1db59392c2d08d1a125",
+    "bytes": 286339,
+    "size": [
+      367,
+      512
+    ]
+  },
+  {
+    "set": "P-B",
+    "number": 101,
+    "locale": "ko",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/ko/101.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/101_ko.png",
+    "sha256": "21b80c15a2d73c1ee09c6f6ffc3c61be35ab3cd2dcdbdf916f7aea8c6bd895b7",
+    "bytes": 284079,
+    "size": [
+      367,
+      512
+    ]
+  },
+  {
+    "set": "P-B",
+    "number": 102,
+    "locale": "en",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/en/102.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/102_en.png",
+    "sha256": "8fce66d3e1be9d0c06384f1ef48f5ffe6d2ff9b5ba6edf1eb63d28c6dba65b6c",
+    "bytes": 289194,
+    "size": [
+      367,
+      512
+    ]
+  },
+  {
+    "set": "P-B",
+    "number": 102,
+    "locale": "fr",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/fr/102.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/102_fr.png",
+    "sha256": "cd231801ffa1249cea21c611e86b3af660b1038195d645f9001b34d470041aab",
+    "bytes": 290394,
+    "size": [
+      367,
+      512
+    ]
+  },
+  {
+    "set": "P-B",
+    "number": 102,
+    "locale": "es",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/es/102.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/102_es.png",
+    "sha256": "255f777ddb9c25712ec56529039b7fb88b4e93b8a0c0a944d56ce20f1fbcb983",
+    "bytes": 290509,
+    "size": [
+      367,
+      512
+    ]
+  },
+  {
+    "set": "P-B",
+    "number": 102,
+    "locale": "it",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/102.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/102_it.png",
+    "sha256": "c18873f666d691f745e8857b57e98f63d53d1b57ea7d15c864fad4c153c1b896",
+    "bytes": 288247,
+    "size": [
+      367,
+      512
+    ]
+  },
+  {
+    "set": "P-B",
+    "number": 102,
+    "locale": "de",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/de/102.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/102_de.png",
+    "sha256": "d8714882e0633cd92fe7bbe44775f125dbafdc4835f310a676aec113aed84558",
+    "bytes": 290948,
+    "size": [
+      367,
+      512
+    ]
+  },
+  {
+    "set": "P-B",
+    "number": 102,
+    "locale": "pt-br",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/pt-br/102.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/102_ptbr.png",
+    "sha256": "59d41a0b747a7bad027251636c34b6eca9d02e4fceb2471f0cd6cb19f01ff49d",
+    "bytes": 290103,
+    "size": [
+      367,
+      512
+    ]
+  },
+  {
+    "set": "P-B",
+    "number": 102,
+    "locale": "zh-tw",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/zh-tw/102.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/102_zh.png",
+    "sha256": "9b574b70b0a28683a30b209b98b34ea7af569d62b712366f2b8674ad99ccf01a",
+    "bytes": 287137,
+    "size": [
+      367,
+      512
+    ]
+  },
+  {
+    "set": "P-B",
+    "number": 102,
+    "locale": "ja",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/ja/102.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/102_ja.png",
+    "sha256": "c9192ddcaf2822d4cf7f289733decd55bc7c2d9c0db9ea6261fa2d6f46c22cf6",
+    "bytes": 289577,
+    "size": [
+      367,
+      512
+    ]
+  },
+  {
+    "set": "P-B",
+    "number": 102,
+    "locale": "ko",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/ko/102.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/102_ko.png",
+    "sha256": "251ecef852dfb86304d2847d03156479ea1ef976ffa89d7595b95b23d1ba00fe",
+    "bytes": 287810,
+    "size": [
+      367,
+      512
+    ]
+  },
+  {
+    "set": "P-B",
+    "number": 103,
+    "locale": "en",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/en/103.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/103_en.png",
+    "sha256": "a96bef29c1b12dfa109efbf70bab61275f6e8d3db1f813b51ef9bde9c73128bb",
+    "bytes": 274225,
+    "size": [
+      367,
+      512
+    ]
+  },
+  {
+    "set": "P-B",
+    "number": 103,
+    "locale": "fr",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/fr/103.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/103_fr.png",
+    "sha256": "e544673bc010f2133fcddae877f39ab89064ef1815c3c1144fa380854f0630f9",
+    "bytes": 274836,
+    "size": [
+      367,
+      512
+    ]
+  },
+  {
+    "set": "P-B",
+    "number": 103,
+    "locale": "es",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/es/103.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/103_es.png",
+    "sha256": "a1ac97434f1718be591c67f420a8d626dab1a589d95c9bacf38bdb50b3ec6214",
+    "bytes": 275468,
+    "size": [
+      367,
+      512
+    ]
+  },
+  {
+    "set": "P-B",
+    "number": 103,
+    "locale": "it",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/it/103.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/103_it.png",
+    "sha256": "717d202ca8116c89dddeb2027093bf4091d77aa6e3f6140fb9d77c6ab45e8ec8",
+    "bytes": 275844,
+    "size": [
+      367,
+      512
+    ]
+  },
+  {
+    "set": "P-B",
+    "number": 103,
+    "locale": "de",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/de/103.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/103_de.png",
+    "sha256": "4c804778776fd07ac6d24fc866f6ebe18faf6f06659fe7c7ad25aed12d55dfee",
+    "bytes": 274923,
+    "size": [
+      367,
+      512
+    ]
+  },
+  {
+    "set": "P-B",
+    "number": 103,
+    "locale": "pt-br",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/pt-br/103.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/103_ptbr.png",
+    "sha256": "7b82312041f2d11910906b1a0eceaf9c3fd2665ecb387120f75716d1f8e87ab3",
+    "bytes": 275213,
+    "size": [
+      367,
+      512
+    ]
+  },
+  {
+    "set": "P-B",
+    "number": 103,
+    "locale": "zh-tw",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/zh-tw/103.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/103_zh.png",
+    "sha256": "30e3a6b07f5c5c30af3bf0fdccb7c66f28c9168a4f4aae1bc985209150f4bbcc",
+    "bytes": 272718,
+    "size": [
+      367,
+      512
+    ]
+  },
+  {
+    "set": "P-B",
+    "number": 103,
+    "locale": "ja",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/ja/103.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/103_ja.png",
+    "sha256": "b0447f4ce55f64ee638f064bbaebc5dfa93662b89eda1c3beaffab097d8f2d2b",
+    "bytes": 275753,
+    "size": [
+      367,
+      512
+    ]
+  },
+  {
+    "set": "P-B",
+    "number": 103,
+    "locale": "ko",
+    "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/ko/103.png",
+    "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/103_ko.png",
+    "sha256": "2bcbecc166af047f8429c31c6c28ec5cd0b382c5e92c682ff40441b96ef5f9db",
+    "bytes": 271829,
+    "size": [
+      367,
+      512
+    ]
+  }
+]

@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/032",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/032",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/032",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/032",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/032",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/032",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/032",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/032",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/032"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/032/c5376d37b793050f",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/032/c5376d37b793050f",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/032/c5376d37b793050f",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/032/c5376d37b793050f",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/032/c5376d37b793050f",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/032/c5376d37b793050f",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/032/c5376d37b793050f",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/032/c5376d37b793050f",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/032/c5376d37b793050f"
     },
     name: {
         en: "Charmander",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "小火龍"
     },
     illustrator: "Naoyo Kimura",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     hp: 60,
     types: ["Fire"],
@@ -38,7 +38,7 @@ const card: Card = {
         ja: "熱いものを 好む 性格。 雨に濡れると しっぽの 先から 煙が 出るという。",
         ko: "뜨거운 것을 좋아하는 성격이다.\n비에 젖으면 꼬리 끝에서\n연기가 난다고 한다.",
         'pt-br': "Prefere coisas quentes. Quando chove, dizem\nque solta vapor pela ponta de sua cauda.",
-        "zh-tw": "它對熱的東西有偏愛。下雨的時候，\n據說蒸汽從它的尾尖噴出。"
+        "zh-tw": "天生喜歡熱熱的東西。據說當牠被雨淋濕的時候，尾巴的末端會冒出煙來。"
     },
     stage: "Basic",
     attacks: [{
@@ -51,7 +51,7 @@ const card: Card = {
                 ja: "ひのこ",
                 ko: "불꽃세례",
                 'pt-br': "Brasa",
-                "zh-tw": "餘燼"
+                "zh-tw": "火花"
             },
             damage: 30,
             cost: ["Fire"],
@@ -64,7 +64,7 @@ const card: Card = {
                 ja: "このポケモンから{R}エネルギーを1個トラッシュ。",
                 ko: "이 포켓몬에서 {R}에너지를 1개 트래쉬한다.",
                 'pt-br': "Descarte 1 Energia {R} deste Pokémon.",
-                "zh-tw": "丟棄該神奇寶貝的 {R} 能量。"
+                "zh-tw": "將這隻寶可夢身上的1個{R}能量丟棄。"
             }
         }],
     weaknesses: [{

@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/031",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/031",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/031",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/031",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/031",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/031",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/031",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/031",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/031"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/031/4065554bce45a571",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/031/4065554bce45a571",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/031/4065554bce45a571",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/031/4065554bce45a571",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/031/4065554bce45a571",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/031/4065554bce45a571",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/031/4065554bce45a571",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/031/4065554bce45a571",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/031/4065554bce45a571"
     },
     name: {
         en: "Cinccino",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "奇諾栗鼠",
     },
     illustrator: "MAHOU",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     hp: 90,
     types: ["Colorless"],
@@ -49,7 +49,7 @@ const card: Card = {
         'pt-br': "Seu corpo secreta um óleo que este Pokémon\nespalha sobre seu ninho para protegê-lo de poeira.\nCinccino não suporta nem um grãozinho de sujeira.",
         ja: "塵ひとつ 許せない 潔癖。 体から 染み出る 油を 巣に 塗りつけ コーティングする。",
         ko: "먼지 한 톨도 용납하지 않는 결벽증.\n몸에서 나오는 기름을\n둥지에 발라서 코팅한다.",
-        "zh-tw": "它的身體會分泌這種神奇寶貝傳播的油\n在它的巢上作為塗層，以保護它免受灰塵侵害。\n辛奇諾連一丁點都不能容忍。"
+        "zh-tw": "潔癖使得牠連一絲灰塵都無法容忍，會把自己身上滲出的油塗在巢上保持清潔。"
     },
     stage: "Stage1",
     attacks: [{
@@ -62,7 +62,7 @@ const card: Card = {
                 'pt-br': "Fazer a \"Ola\"",
                 ja: "ともだちのわ",
                 ko: "친구사이",
-                "zh-tw": "做波浪"
+                "zh-tw": "朋友之環"
             },
             damage: "30×",
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -75,7 +75,7 @@ const card: Card = {
                 'pt-br': "Este ataque causa 30 pontos de dano para cada um dos seus Pokémon no Banco.",
                 ja: "自分のベンチポケモンの数×30ダメージ。",
                 ko: "자신의 벤치 포켓몬의 수 × 30데미지를 준다.",
-                "zh-tw": "這次攻擊對你的每隻後備神奇寶貝造成 30 點傷害。"
+                "zh-tw": "造成自己的備戰寶可夢的數量×30點傷害。"
             }
         }],
     weaknesses: [{

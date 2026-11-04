@@ -4,14 +4,16 @@ import Set from "../Promos-A";
 const card: Card = {
 	set: Set,
 	image: {
-		en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/109",
-		fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/109",
-		es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/109",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/109",
-		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/109",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/109",
-		ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/109"
-	},
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/109/389cbac7c29d6d7c",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/109/389cbac7c29d6d7c",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/109/389cbac7c29d6d7c",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/109/389cbac7c29d6d7c",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/109/389cbac7c29d6d7c",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/109/389cbac7c29d6d7c",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/109/389cbac7c29d6d7c",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/109/389cbac7c29d6d7c",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/109/389cbac7c29d6d7c"
+    },
 	name: {
 		en: "Eevee ex",
 		fr: "Évoli-ex",
@@ -37,8 +39,8 @@ const card: Card = {
 				en: "Veevee 'volve",
 				fr: "Veevee 'volve",
 				es: "Veevee 'volve",
-				it: "Veevee si evolve",
-				de: "Veevee 'volve",
+				it: "Evoluzione Eevee",
+				de: "Volivoli-Entwicklung",
 				"pt-br": "Veevee 'volve",
 				"zh-tw": "威威沃爾沃",
 				ja: "ブイブイしんか",
@@ -46,12 +48,12 @@ const card: Card = {
 			},
 			effect: {
 				en: "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)",
-				fr: "Ce Pokémon peut évoluer vers n'importe quel Pokémon évoluant à partir d'Évoli si vous le jouez depuis votre main sur ce Pokémon. (Ce Pokémon ne peut pas évoluer pendant votre premier tour ou le tour où vous le jouez.)",
-				es: "Este Pokémon puede evolucionar a cualquier Pokémon que evolucione de Eevee si lo juegas desde tu mano contra este Pokémon. (Este Pokémon no puede evolucionar durante tu primer turno ni durante el turno en el que lo juegas).",
-				it: "Questo Pokémon può evolversi in qualsiasi Pokémon che si evolve da Eevee se lo giochi dalla tua mano su questo Pokémon. (Questo Pokémon non può evolversi durante il tuo primo turno o nel turno in cui lo giochi.)",
-				de: "Dieses Pokémon kann sich zu jedem Pokémon entwickeln, das sich aus Evoli entwickelt, wenn du es von deiner Hand auf dieses Pokémon spielst. (Dieses Pokémon kann sich weder in deinem ersten Zug noch in dem Zug, in dem du es ausspielst, weiterentwickeln.)",
-				"pt-br": "Este Pokémon pode evoluir para qualquer Pokémon que evolua de Eevee se você jogá-lo da sua mão neste Pokémon. (Este Pokémon não pode evoluir durante o seu primeiro turno ou no turno em que você o joga.)",
-				"zh-tw": "如果你從手上將伊布玩到這只神奇寶貝上，這只神奇寶貝可以進化成任何從伊布進化而來的神奇寶貝。 （該神奇寶貝在你的第一個回合或你玩它的回合中無法進化。）",
+				fr: "Ce Pokémon peut évoluer en n'importe quel Pokémon qui évolue de Évoli si vous le jouez de votre main sur ce Pokémon. (Ce Pokémon ne peut pas évoluer pendant votre premier tour ou pendant le tour où vous le jouez.)",
+				es: "Este Pokémon puede evolucionar a cualquier Pokémon que evolucione de Eevee si pones en juego ese Pokémon sobre este Pokémon desde tu mano. (Este Pokémon no puede evolucionar durante tu primer turno ni durante el turno en que lo pongas en juego).",
+				it: "Questo Pokémon può evolversi in qualsiasi Pokémon che si evolve da Eevee, se giochi quel Pokémon dalla tua mano mettendolo sopra questo Pokémon. Questo Pokémon non può evolversi durante il tuo primo turno o il turno in cui lo giochi.",
+				de: "Dieses Pokémon kann sich zu einem beliebigen Pokémon entwickeln, das sich aus Evoli entwickelt, wenn du es aus deiner Hand auf dieses Pokémon spielst. Dieses Pokémon kann sich während deines ersten Zuges oder während des Zuges, in dem du es spielst, nicht entwickeln.",
+				"pt-br": "Este Pokémon pode evoluir para qualquer Pokémon que evolua de Eevee se você jogá-lo da sua mão sobre este Pokémon. (Este Pokémon não poderá evoluir durante o seu primeiro turno ou durante o turno em que for colocado em jogo.)",
+				"zh-tw": "可從手牌使出從「伊布」進化而來的卡,放置於這隻寶可夢身上完成進化。(在自己的最初回合或者剛使出的回合無法進化。)",
 				ja: "このポケモンは、「イーブイ」から進化するカードを手札から出して、このポケモンにのせて進化できる。(最初の自分の番や、出したばかりの番には進化できない。)",
 				ko: "이 포켓몬은 「이브이」에서 진화하는 카드를 패에서 꺼내서 이 포켓몬에게 올려서 진화할 수 있다. (자신의 첫 번째 차례나 필드에 처음 나왔을 때에는 진화시킬 수 없다.)"
 			}
@@ -61,12 +63,12 @@ const card: Card = {
 		{
 			name: {
 				en: "Bite",
-				fr: "Mordre",
-				es: "Morder",
+				fr: "Morsure",
+				es: "Mordisco",
 				it: "Morso",
-				de: "Beißen",
-				"pt-br": "Morder",
-				"zh-tw": "咬",
+				de: "Biss",
+				"pt-br": "Mordida",
+				"zh-tw": "咬住",
 				ja: "かみつく",
 				ko: "물기"
 			},

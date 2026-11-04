@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/037",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/037",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/037",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/037",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/037",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/037",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/037",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/037",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/037"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/037/0474808b283b311c",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/037/0474808b283b311c",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/037/0474808b283b311c",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/037/0474808b283b311c",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/037/0474808b283b311c",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/037/0474808b283b311c",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/037/0474808b283b311c",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/037/0474808b283b311c",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/037/0474808b283b311c"
     },
     name: {
         en: "Frigibax",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "セビエ"
     },
     illustrator: "Akira Komayama",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     hp: 60,
     types: ["Water"],
@@ -34,12 +34,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "This Pokémon lives in forests and craggy areas. Using the power of its dorsal fin, it cools the inside of its nest like a refrigerator.",
-        fr: "Ce Pokémon vit dans les forêts et les zones escarpées. Grâce à la puissance de sa nageoire dorsale, il refroidit l’intérieur de son nid comme un réfrigérateur.",
-        es: "Este Pokémon vive en bosques y zonas escarpadas. Utilizando el poder de su aleta dorsal, enfría el interior de su nido como si fuera un frigorífico.",
-        it: "Questo Pokémon vive nelle foreste e nelle zone scoscese. Usando la potenza della sua pinna dorsale, raffredda l'interno del suo nido come un frigorifero.",
-        de: "Dieses Pokémon lebt in Wäldern und felsigen Gebieten. Mit der Kraft seiner Rückenflosse kühlt es das Innere seines Nestes wie ein Kühlschrank.",
-        "pt-br": "Este Pokémon vive em florestas e áreas escarpadas. Usando o poder de sua barbatana dorsal, ele resfria o interior do ninho como uma geladeira.",
-        "zh-tw": "這種寶可夢生活在森林和崎嶇的地區。它利用背鰭的力量，像冰箱一樣冷卻巢穴內部。",
+        fr: "Il vit dans les zones rocheuses et les forêts. Sa crête dorsale lui permet de refroidir l'intérieur de son nid à la manière d'un congélateur.",
+        es: "Vive en bosques y entornos pedregosos. Se vale del poder de su placa dorsal para refrigerar su madriguera como si fuera un frigorífico.",
+        it: "Vive nelle foreste e in aree rocciose. Usa la cresta dorsale per raffreddare l'interno della tana quasi come fosse un frigorifero.",
+        de: "Es lebt in Wäldern und Felsgebieten. Mit der Kraft seiner Rückenflosse kühlt es sein Nest wie eine Gefriertruhe herunter.",
+        "pt-br": "Este Pokémon vive em florestas e áreas escarpadas. Usando o poder de sua barbatana dorsal, resfria seu ninho da mesma forma que um refrigerador.",
+        "zh-tw": "棲息在岩石地帶或森林裡。會用背鰭的力量將巢穴裡的溫度降到如冷凍庫般寒冷。",
         ja: "岩場や 森林に 生息する。 背びれの 力で 巣穴の中を 冷凍庫のように 冷やしている。",
         ko: "암석 지대나 삼림에 서식한다.\n등지느러미의 힘으로 굴 안을\n냉장고처럼 차갑게 만든다."
     },
@@ -64,7 +64,7 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, questo Pokémon subisce -20 danni dagli attacchi.",
                 de: "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken - 20 Schadenspunkte zugefügt.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon receberá -20 pontos de dano de ataques.",
-                "zh-tw": "在對手的下一個回合中，這只寶可夢受到的攻擊傷害為-20。",
+                "zh-tw": "在下個對手的回合,這隻寶可夢受到招式的傷害-20點。",
                 ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。",
                 ko: "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 -20한다."
             }

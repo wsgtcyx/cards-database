@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/055",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/055",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/055",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/055",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/055",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/055",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/055",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/055",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/055"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/055/992bc5e70b716edb",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/055/992bc5e70b716edb",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/055/992bc5e70b716edb",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/055/992bc5e70b716edb",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/055/992bc5e70b716edb",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/055/992bc5e70b716edb",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/055/992bc5e70b716edb",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/055/992bc5e70b716edb",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/055/992bc5e70b716edb"
     },
     name: {
         en: "Machamp",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "怪力",
     },
     illustrator: "Masakazu Fukuda",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     hp: 150,
     types: ["Fighting"],
@@ -38,7 +38,7 @@ const card: Card = {
         'pt-br': "Ele balança velozmente seus quatro braços para\natingir seus oponentes com socos e pancadas\nincessantes de todos os ângulos.",
         ja: "４本の腕を すばやく 動かし あらゆる 角度から 休むことなく パンチや チョップを 叩きこむ。",
         ko: "4개의 팔을 재빠르게 움직여서\n모든 각도에서 쉬지 않고\n펀치와 당수를 날린다.",
-        "zh-tw": "它迅速擺動四隻手臂來搖晃\n不斷拳打腳踢的對手\n從各個角度。"
+        "zh-tw": "能夠迅速活動4隻手臂，從各種角度毫不停歇地使出拳擊或手刀。"
     },
     stage: "Stage2",
     evolveFrom: {
@@ -62,7 +62,7 @@ const card: Card = {
                 'pt-br': "Compressão Poderosa",
                 ja: "パワープレス",
                 ko: "파워프레스",
-                "zh-tw": "動力出版社"
+                "zh-tw": "力量壓制"
             },
             cost: ["Fighting", "Fighting"],
             damage: "70+",
@@ -72,10 +72,10 @@ const card: Card = {
                 es: "Si este Pokémon tiene por lo menos 2 Energías {F} adicionales unidas a él, este ataque hace 50 puntos de daño más.",
                 it: "Se questo Pokémon ha almeno 2 Energie {F} extra assegnate, questo attacco infligge 50 danni in più.",
                 de: "Wenn an dieses Pokémon mindestens 2 extra {F}-Energien angelegt sind, fügt diese Attacke 50 Schadenspunkte mehr zu.",
-                'pt-br': "Se este Pokémon tiver pelo menos 2 Energia {F} extra ligada a ele, este ataque causará 50 pontos de dano a mais.",
+                'pt-br': "Se este Pokémon tiver pelo menos 2 Energias {F} extras ligadas a ele, este ataque causará 50 pontos de dano a mais.",
                 ja: "追加で{F}エネルギーが2個ついているなら、50ダメージ追加。",
                 ko: "{F}에너지 2개가 추가로 붙어 있다면 50데미지를 추가한다.",
-                "zh-tw": "如果這只神奇寶貝附加了至少 2 個額外的 {F} 能量，則此攻擊造成的傷害增加 50 點。"
+                "zh-tw": "若額外附有2個{F}能量,則增加50點傷害。"
             }
         }],
     weaknesses: [{

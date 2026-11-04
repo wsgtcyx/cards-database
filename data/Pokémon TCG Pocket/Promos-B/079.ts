@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/079",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/079",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/079",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/079",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/079",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/079",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/079",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/079",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/079"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/079/d1015afb0280eda6",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/079/d1015afb0280eda6",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/079/d1015afb0280eda6",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/079/d1015afb0280eda6",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/079/d1015afb0280eda6",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/079/d1015afb0280eda6",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/079/d1015afb0280eda6",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/079/d1015afb0280eda6",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/079/d1015afb0280eda6"
     },
     name: {
         en: "Celebi", fr: "Celebi", es: "Celebi", it: "Celebi", de: "Celebi",
@@ -28,7 +28,7 @@ const card: Card = {
     abilities: [{
         type: "Ability",
         name: {
-            en: "Time Recall", fr: "Rappel Temporel", es: "Retroceso en el Tiempo", it: "Richiamo temporale", de: "Zeitrückruf",
+            en: "Time Recall", fr: "Rappel Temporel", es: "Retroceso en el Tiempo", it: "Viaggiotempo", de: "Zeitraffer",
             "pt-br": "Retorno no Tempo", "zh-tw": "時光回溯",
             ja: "タイムリコール",
             ko: "타임리콜"
@@ -37,8 +37,8 @@ const card: Card = {
             en: "Each of your evolved Pokémon can use any attack from its previous Evolutions. (You still need the necessary Energy to use each attack.)",
             fr: "Chacun de vos Pokémon évolués peut utiliser les attaques de ses précédentes Évolutions. (Vous avez toujours besoin de l'Énergie nécessaire pour utiliser chaque attaque.)",
             es: "Cada uno de tus Pokémon evolucionados puede usar cualquier ataque de sus Evoluciones anteriores. (Sigues necesitando la Energía necesaria para usar cada ataque).",
-            it: "Ciascuno dei tuoi Pokémon evoluti può usare qualsiasi attacco delle sue Evoluzioni precedenti. (Hai comunque bisogno dell'Energia necessaria per usare ogni attacco.)",
-            de: "Jedes deiner entwickelten Pokémon kann jede Attacke seiner vorherigen Entwicklungsstufen einsetzen. (Du benötigst weiterhin die notwendige Energie, um die jeweilige Attacke einzusetzen.)",
+            it: "Ciascuno dei tuoi Pokémon evoluti può usare gli attacchi dei suoi stadi evolutivi precedenti. Devi comunque avere l’Energia necessaria per usare quegli attacchi.",
+            de: "Jedes deiner entwickelten Pokémon kann die Attacken seiner vorangegangenen Entwicklungen einsetzen. (Du benötigst jedoch die jeweils für die Attacke notwendige Energie.)",
             "pt-br": "Cada um dos seus Pokémon evoluídos pode usar qualquer ataque de suas Evoluções anteriores. (Você ainda precisa da Energia necessária para usar cada ataque.)",
             "zh-tw": "只要這隻寶可夢在場上，自己的所有進化寶可夢，可使用進化前持有的所有招式。[需要有足夠使用招式的能量。]",
             ja: "このポケモンがいるかぎり、自分の進化しているポケモン全員は、進化前に持っていたワザをすべて使える。[ワザを使うためのエネルギーは必要。]",

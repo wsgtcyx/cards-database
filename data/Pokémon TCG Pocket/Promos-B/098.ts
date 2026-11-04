@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/098",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/098",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/098",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/098",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/098",
-        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/098",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/098",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/098",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/098"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/098/7469e63dd0b99794",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/098/7469e63dd0b99794",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/098/7469e63dd0b99794",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/098/7469e63dd0b99794",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/098/7469e63dd0b99794",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/098/7469e63dd0b99794",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/098/7469e63dd0b99794",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/098/7469e63dd0b99794",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/098/7469e63dd0b99794"
     },
     name: {
         en: "Gabite",
@@ -49,13 +49,13 @@ const card: Card = {
     stage: "Stage1",
     description: {
         en: "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.",
-        fr: "Toujours à la recherche d'objets brillants, il arpente les grottes pour amasser son butin.",
-        es: "Le gustan las cosas brillantes. Busca tesoros en cuevas y se lleva el botin a su nido.",
+        fr: "Toujours à la recherche d’objets brillants, il arpente les grottes pour amasser son butin.",
+        es: "Le gustan las cosas brillantes. Busca tesoros en cuevas y se lleva el botín a su nido.",
         it: "Adora gli oggetti luccicanti. Va a caccia di tesori nelle grotte e li trasporta nel suo nido.",
         de: "Es liebt funkelnde Dinge und sucht in Höhlen nach Schätzen, die es dann in seinem Nest hortet.",
         "pt-br": "Adora objetos cintilantes. Ele procura tesouros nas cavernas e armazena os saques em seu ninho.",
         "zh-tw": "最喜歡閃閃發光的東西，所以會把在洞窟裡找到的寶物積存到自己的巢穴裡。",
-        ja: "光り輝く ものが 大好きで 洞窟の 中で 見つけた 宝を 自分の巣に ためこむ。",
+        ja: "光り輝く ものが 大好きで 洞窟の 中で 見つけた 宝を 自分の 巣に 溜めこむ。",
         ko: "반짝반짝 빛나는 것을\n아주 좋아하기에 동굴 안에서 발견한\n보물을 자신의 둥지에 모아 둔다."
     },
     attacks: [

@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/003",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/003",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/003",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/003",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/003",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/003",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/003",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/003",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/003"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/003/e50b105f98b77f90",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/003/e50b105f98b77f90",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/003/e50b105f98b77f90",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/003/e50b105f98b77f90",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/003/e50b105f98b77f90",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/003/e50b105f98b77f90",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/003/e50b105f98b77f90",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/003/e50b105f98b77f90",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/003/e50b105f98b77f90"
     },
     name: {
         en: "Hand Scope",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "窺手鏡"
     },
     illustrator: "Toyste Beach",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Trainer",
     effect: {
         en: "Your opponent reveals their hand.",
@@ -36,7 +36,7 @@ const card: Card = {
         'pt-br': "Seu oponente revela a mão dele.",
         ja: "相手の手札のオモテをすべて見る。",
         ko: "상대의 패의 앞면을 모두 본다.",
-        "zh-tw": "你的對手亮出了他們的牌。"
+        "zh-tw": "查看對手所有手牌的正面。"
     },
     trainerType: "Item",
     boosters: []

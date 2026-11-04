@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/045",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/045",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/045",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/045",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/045",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/045",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/045",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/045",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/045"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/045/93afc496e31860cd",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/045/93afc496e31860cd",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/045/93afc496e31860cd",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/045/93afc496e31860cd",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/045/93afc496e31860cd",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/045/93afc496e31860cd",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/045/93afc496e31860cd",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/045/93afc496e31860cd",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/045/93afc496e31860cd"
     },
     name: {
         en: "Nosepass",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "朝北鼻",
     },
     illustrator: "Tomokazu Komiya",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     hp: 60,
     types: ["Fighting"],
@@ -38,7 +38,7 @@ const card: Card = {
         'pt-br': "Este Pokémon move-se 3 centímetros por ano,\nmas quando está em uma enrascada, gira e perfura o solo\nem questão de segundos.",
         ja: "１年に １センチしか 動かないが ピンチに 陥ると 回転し 一瞬で 地中に 潜る。",
         ko: "1년에 1cm밖에 움직이지 않지만\n위기에 처하면 회전하여\n순식간에 땅속으로 파고든다.",
-        "zh-tw": "它每年移動不到一英寸，但是當\n它陷入困境，它會旋轉並鑽入\n瞬間落地。"
+        "zh-tw": "每年只會移動1公分，但在陷入危機時會轉動身體，在一瞬間潛入地底。"
     },
     stage: "Basic",
     attacks: [{
@@ -51,7 +51,7 @@ const card: Card = {
                 'pt-br': "Defesa de Ferro",
                 ja: "てっぺき",
                 ko: "철벽",
-                "zh-tw": "鋼鐵防禦"
+                "zh-tw": "鐵壁"
             },
             cost: ["Colorless", "Colorless"],
             effect: {
@@ -63,7 +63,7 @@ const card: Card = {
                 'pt-br': "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano causado a este Pokémon por ataques.",
                 ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージを受けない。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지를 받지 않는다.",
-                "zh-tw": "拋一枚硬幣。如果正面，則在對手的下一個回合中，阻止攻擊對該神奇寶貝造成的所有傷害。"
+                "zh-tw": "擲1次硬幣若為正面,則在下個對手的回合,這隻寶可夢不會受到招式的傷害。"
             }
         }],
     weaknesses: [{

@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/013",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/013",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/013",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/013",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/013",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/013",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/013",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/013",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/013"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/013/ab0b413091336672",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/013/ab0b413091336672",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/013/ab0b413091336672",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/013/ab0b413091336672",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/013/ab0b413091336672",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/013/ab0b413091336672",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/013/ab0b413091336672",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/013/ab0b413091336672",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/013/ab0b413091336672"
     },
     name: {
         en: "Butterfree",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "巴大蝶",
     },
     illustrator: "miki kudo",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     types: ["Grass"],
     stage: "Stage2",
@@ -51,7 +51,7 @@ const card: Card = {
                 'pt-br': "Uma vez durante o seu turno, você poderá curar 20 pontos de dano de cada um dos seus Pokémon.",
                 ja: "自分の番に1回使える。自分のポケモン全員のHPを20回復。",
                 ko: "자신의 차례에 1번 사용할 수 있다. 자신의 포켓몬 전원의 HP를 20회복.",
-                "zh-tw": "在你的回合中，你可以治療每隻神奇寶貝造成的 20 點傷害。"
+                "zh-tw": "在自己的回合時,可使用1次。將自己的所有寶可夢恢復20HP。"
             }
         }],
     attacks: [{
@@ -64,7 +64,7 @@ const card: Card = {
                 'pt-br': "Lufada de Vento",
                 ja: "かぜおこし",
                 ko: "바람일으키기",
-                "zh-tw": "陣風"
+                "zh-tw": "起風"
             },
             cost: ["Grass", "Colorless", "Colorless"],
             damage: 60
@@ -90,7 +90,7 @@ const card: Card = {
         'pt-br': "Durante as batalhas, bate as asas muito rápido\npara liberar uma poeira altamente tóxica no ar.",
         ja: "こまかく 速く 羽ばたいたら 猛毒の りんぷんが 風に のって 飛んでくるぞ。",
         ko: "매우 빠르게 날갯짓하면\n맹독성의 인분이\n바람을 타고 날아간다.",
-        "zh-tw": "在戰鬥中，它會以極快的速度拍動翅膀\n向空氣中釋放劇毒粉塵。"
+        "zh-tw": "當牠飛快地拍動翅膀，帶有劇毒的鱗粉就會隨著風向這裡飄過來。"
     },
     weaknesses: [{
             type: "Fire",

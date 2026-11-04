@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/062",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/062",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/062",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/062",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/062",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/062",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/062",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/062",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/062"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/062/c9c708dfc7132df6",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/062/c9c708dfc7132df6",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/062/c9c708dfc7132df6",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/062/c9c708dfc7132df6",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/062/c9c708dfc7132df6",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/062/c9c708dfc7132df6",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/062/c9c708dfc7132df6",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/062/c9c708dfc7132df6",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/062/c9c708dfc7132df6"
     },
     name: {
         en: "Farfetch'd",
@@ -38,7 +38,7 @@ const card: Card = {
         'pt-br': "O caule que este Pokémon carrega em suas asas\nserve como uma espada para cortar seus oponentes.\nEm situações difíceis, ele também pode servir como alimento.",
         ja: "羽で もつ 茎を 刀のように 操り 敵を 切り捨てる。 いざと いうときは エサに する。",
         ko: "날개로 쥐고 있는 파 줄기를\n칼처럼 휘둘러 상대를 베어버린다.\n몹시 허기질 때는 먹기도 한다.",
-        "zh-tw": "這只神奇寶貝翅膀上的莖是用來服務的\n作為砍倒對手的利劍。在一個可怕的\n這種情況下，莖也可以當食物。"
+        "zh-tw": "會將翅膀所拿的莖狀植物當成劍一般去劈砍對手。在非常時期會拿它當作食物。"
     },
     stage: "Basic",
     attacks: [{
@@ -51,7 +51,7 @@ const card: Card = {
                 'pt-br': "Golpe Alho Poró",
                 ja: "ネギでたたく",
                 ko: "파로 때리기",
-                "zh-tw": "韭菜拍打"
+                "zh-tw": "蔥擊"
             },
             damage: 40,
             cost: ["Colorless"]

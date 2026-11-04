@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/067",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/067",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/067",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/067",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/067",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/067",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/067",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/067",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/067"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/067/526bbd9a187101ce",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/067/526bbd9a187101ce",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/067/526bbd9a187101ce",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/067/526bbd9a187101ce",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/067/526bbd9a187101ce",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/067/526bbd9a187101ce",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/067/526bbd9a187101ce",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/067/526bbd9a187101ce",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/067/526bbd9a187101ce"
     },
     name: {
         en: "Pawniard",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "コマタナ"
     },
     illustrator: "Tomokazu Komiya",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     hp: 60,
     types: ["Darkness"],
@@ -34,12 +34,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "Any chips in its blades would prove fatal for it. After each battle, it diligently maintains its blades using its favorite sharpening stone.",
-        fr: "Tout éclat dans ses lames lui serait fatal. Après chaque combat, il entretient assidûment ses lames à l'aide de sa pierre à aiguiser préférée.",
-        es: "Cualquier astilla en sus cuchillas le resultaría fatal. Después de cada batalla, mantiene diligentemente sus espadas usando su piedra de afilar favorita.",
-        it: "Qualsiasi scheggiatura nelle sue lame gli sarebbe fatale. Dopo ogni battaglia, mantiene diligentemente le sue lame utilizzando la sua pietra per affilare preferita.",
-        de: "Jeder Splitter in seinen Klingen wäre für ihn tödlich. Nach jedem Kampf pflegt es seine Klingen fleißig mit seinem Lieblings-Schleifstein.",
-        "pt-br": "Quaisquer lascas em suas lâminas seriam fatais para ele. Após cada batalha, ele mantém suas lâminas diligentemente usando sua pedra de amolar favorita.",
-        "zh-tw": "刀片上的任何碎片都會對其造成致命的影響。每次戰鬥結束後，它都會用它最喜歡的磨刀石勤奮地維護刀片。",
+        fr: "Toute brèche sur ses lames lui serait fatale. Après chaque combat, il les entretient scrupuleusement en utilisant sa pierre à aiguiser préférée.",
+        es: "Una mella en sus cuchillas podría resultar mortal. Al término del combate, las cuida con diligencia usando su piedra de afilar preferida.",
+        it: "Avere le lame smussate gli può essere fatale. Alla fine di ogni lotta se ne prende cura scrupolosamente con la sua cote preferita.",
+        de: "Nach jedem Kampf pflegt es seine Klingen sorgfältig mit seinem Lieblingswetzstein. Schartige Klingen könnten seinen Tod bedeuten.",
+        "pt-br": "Qualquer lasca em suas lâminas pode ser fatal para este Pokémon. Depois de cada batalha, Pawniard cuida meticulosamente de suas lâminas com sua pedra de amolar favorita.",
+        "zh-tw": "刀刃的缺損可說是致命傷。每當戰鬥結束後，就會用最愛的磨刀石來精心保養。",
         ja: "刃の 刃こぼれは 命取り。 戦いが 終わると お気に入りの 砥石で 念入りに 手入れする。",
         ko: "칼날의 이가 빠지는 것은 목숨과도 직결된다.\n싸움이 끝나면 마음에 드는 숫돌로\n정성스럽게 손질한다."
     },
@@ -64,7 +64,7 @@ const card: Card = {
                 it: "Prendi un Pokémon Base a caso dal tuo mazzo e mettilo nella tua panchina.",
                 de: "Lege 1 zufälliges Basis-Pokémon aus deinem Deck auf deine Bank.",
                 "pt-br": "Coloque 1 Pokémon Básico aleatório do seu baralho no seu Banco.",
-                "zh-tw": "從你的牌組中隨機將 1 只基礎寶可夢放到你的備戰區上。",
+                "zh-tw": "從自己的牌庫隨機抽出1張基礎寶可夢,放置於備戰區。",
                 ja: "自分の山札からたねポケモンをランダムに1枚、ベンチに出す。",
                 ko: "자신의 덱에서 기본 포켓몬을 랜덤으로 1장 벤치로 내보낸다."
             }

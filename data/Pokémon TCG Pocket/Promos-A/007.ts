@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/007",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/007",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/007",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/007",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/007",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/007",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/007",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/007",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/007"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/007/92f90e05b03ef41e",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/007/92f90e05b03ef41e",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/007/92f90e05b03ef41e",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/007/92f90e05b03ef41e",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/007/92f90e05b03ef41e",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/007/92f90e05b03ef41e",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/007/92f90e05b03ef41e",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/007/92f90e05b03ef41e",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/007/92f90e05b03ef41e"
     },
     name: {
         en: "Professor's Research",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "博士的研究",
     },
     illustrator: "Naoki Saito",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Trainer",
     effect: {
         en: "Draw 2 cards.",
@@ -36,7 +36,7 @@ const card: Card = {
         ja: "自分の山札を2枚引く。",
         ko: "자신의 덱을 2장 뽑는다.",
         'pt-br': "Compre 2 cartas.",
-        "zh-tw": "抽 2 張牌。"
+        "zh-tw": "從自己的牌庫抽出2張卡。"
     },
     trainerType: "Supporter",
     boosters: []

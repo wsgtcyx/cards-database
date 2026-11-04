@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/036",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/036",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/036",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/036",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/036",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/036",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/036",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/036",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/036"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/036/f0b52dc3dc6ece82",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/036/f0b52dc3dc6ece82",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/036/f0b52dc3dc6ece82",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/036/f0b52dc3dc6ece82",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/036/f0b52dc3dc6ece82",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/036/f0b52dc3dc6ece82",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/036/f0b52dc3dc6ece82",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/036/f0b52dc3dc6ece82",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/036/f0b52dc3dc6ece82"
     },
     name: {
         en: "Electivire",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "電擊魔獸",
     },
     illustrator: "Sumiyoshi Kizuki",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     hp: 120,
     types: ["Lightning"],
@@ -49,7 +49,7 @@ const card: Card = {
         ja: "発電量は 心拍数と 比例する。 戦いになると 一気に ボルテージが 上がるのだ。",
         ko: "발전량은 심박 수에 비례한다.\n싸움이 시작되면\n단숨에 전압이 올라간다.",
         'pt-br': "A quantidade de energia elétrica que este Pokémon\nproduz é proporcional à sua pulsação. A voltagem\naumenta drasticamente quando Electivire está batalhando.",
-        "zh-tw": "該寶可夢的電量\n產生的能量與其脈衝速率成正比。\n當 Electiire 處於戰斗狀態時，電壓會跳躍。"
+        "zh-tw": "發電量與心跳數成正比。當牠面臨戰鬥的時候，電壓就會急速飆升。"
     },
     stage: "Stage1",
     attacks: [{
@@ -62,7 +62,7 @@ const card: Card = {
                 ja: "エキサイトボルト",
                 ko: "익사이팅볼트",
                 'pt-br': "Voltagem Empolgante",
-                "zh-tw": "勵磁電壓"
+                "zh-tw": "激動伏特"
             },
             damage: "40+",
             cost: ["Lightning", "Lightning"],
@@ -74,8 +74,8 @@ const card: Card = {
                 de: "Wenn an dieses Pokémon mindestens 2 extra {L}-Energien angelegt sind, fügt diese Attacke 80 Schadenspunkte mehr zu.",
                 ja: "追加で{L}エネルギーが2個ついているなら、80ダメージ追加。",
                 ko: "{L}에너지 2개가 추가로 붙어 있다면 80데미지를 추가한다.",
-                'pt-br': "Se este Pokémon tiver pelo menos 2 Energia {L} extra ligada a ele, este ataque causará 80 pontos de dano a mais.",
-                "zh-tw": "如果這只神奇寶貝附加了至少 2 個額外的 {L} 能量，則此攻擊造成的傷害增加 80 點。"
+                'pt-br': "Se este Pokémon tiver pelo menos 2 Energias {L} extras ligadas a ele, este ataque causará 80 pontos de dano a mais.",
+                "zh-tw": "若額外附有2個{L}能量,則增加80點傷害。"
             }
         }],
     weaknesses: [{

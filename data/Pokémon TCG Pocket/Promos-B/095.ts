@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/095",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/095",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/095",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/095",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/095",
-        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/095",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/095",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/095",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/095"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/095/89332067039ddf5c",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/095/89332067039ddf5c",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/095/89332067039ddf5c",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/095/89332067039ddf5c",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/095/89332067039ddf5c",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/095/89332067039ddf5c",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/095/89332067039ddf5c",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/095/89332067039ddf5c",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/095/89332067039ddf5c"
     },
     name: {
         en: "Darkrai",

@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/085",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/085",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/085",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/085",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/085",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/085",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/085",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/085",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/085"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/085/8f69c52905a0e767",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/085/8f69c52905a0e767",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/085/8f69c52905a0e767",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/085/8f69c52905a0e767",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/085/8f69c52905a0e767",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/085/8f69c52905a0e767",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/085/8f69c52905a0e767",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/085/8f69c52905a0e767",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/085/8f69c52905a0e767"
     },
     name: {
         en: "Vanillite",
@@ -32,11 +32,11 @@ const card: Card = {
     description: {
         en: "Unable to survive in hot areas, it makes itself\ncomfortable by breathing out air cold enough to\ncause snow. It burrows into the snow to sleep.",
         es: "No puede vivir en lugares muy cálidos. Provoca\nnevadas exhalando un vaho gélido y luego se\nacurruca en la nieve acumulada para dormir.",
-        "fr": "Incapable de survivre dans les zones chaudes, il se crée\nconfortable en expirant de l'air suffisamment froid pour\nprovoquer de la neige. Il s'enfouit dans la neige pour dormir.",
-        "it": "Incapace di sopravvivere nelle zone calde, si crea da sola\nconfortevole espirando aria abbastanza fredda da\ncausare la neve. Si nasconde nella neve per dormire.",
-        "de": "Da es in heißen Gegenden nicht überlebensfähig ist, macht es sich selbst\nangenehm, indem Sie Luft ausatmen, die kalt genug ist\nSchnee verursachen. Es vergräbt sich im Schnee, um zu schlafen.",
-        "pt-br": "Incapaz de sobreviver em áreas quentes, torna-se\nconfortável expirando ar frio o suficiente para\ncausar neve. Ele se enterra na neve para dormir.",
-        "zh-tw": "無法在炎熱地區生存，它使自己\n通過呼吸足夠冷的空氣來舒適\n導致下雪。它鑽進雪裡睡覺。",
+        "fr": "Il ne peut pas vivre dans les contrées chaudes. Il souffle un air glacial pour faire tomber la neige, puis s'y plonge pour dormir.",
+        "it": "Non può vivere nei luoghi caldi. Fa nevicare esalando un alito gelido e poi si addormenta immerso nella neve che si è accumulata.",
+        "de": "Gelatini kann nicht an warmen Orten leben. Es erzeugt Schnee, indem es kalte Luft ausatmet, und vergräbt sich dann darin, um zu schlafen.",
+        "pt-br": "Por ser incapaz de sobreviver em regiões quentes, expira ar gelado para fazer nevar e tornar o ambiente ao seu redor mais confortável. Enterra-se na neve para dormir.",
+        "zh-tw": "無法在炎熱的地方生存。會吐出冷氣來降雪，然後窩在積雪裡睡覺。",
         ja: "暑い 土地では 暮らせない。 冷気を 吐いて 雪を 降らせ 積もった 中に 潜って 眠る。",
         ko: "더운 곳에서는 살 수 없다.\n냉기를 뿜어 눈을 내리게 한 뒤\n쌓인 눈 속에 들어가 잠든다."
     },
@@ -45,11 +45,11 @@ const card: Card = {
             name: {
                 en: "Sweets Relay",
                 es: "Relevo Dulce",
-                "fr": "Relais des Bonbons",
-                "it": "Relè dei dolci",
-                "de": "Süßigkeiten-Staffel",
-                "pt-br": "Revezamento de Doces",
-                "zh-tw": "糖果接力賽",
+                "fr": "Saupoudrage Sucré",
+                "it": "Dolce Staffetta",
+                "de": "Süße Staffel",
+                "pt-br": "Revezamento Doce",
+                "zh-tw": "甜點砸砸砸",
                 ja: "スイーツリレー",
                 ko: "스위트릴레이"
             },
@@ -58,11 +58,11 @@ const card: Card = {
             effect: {
                 en: "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage.",
                 es: "Si 1 de tus Pokémon usó Relevo Dulce durante tu último turno, este ataque hace 20 puntos de daño más.",
-                "fr": "Si 1 de vos Pokémon a utilisé Relais Bonbons lors de votre dernier tour, cette attaque inflige 20 dégâts supplémentaires.",
-                "it": "Se 1 dei tuoi Pokémon ha utilizzato Sweets Relay durante il tuo ultimo turno, questo attacco infligge 20 danni in più.",
-                "de": "Wenn eines deiner Pokémon in deinem letzten Zug „Sweet Relay“ verwendet hat, fügt dieser Angriff 20 weitere Schadenspunkte zu.",
-                "pt-br": "Se 1 dos seus Pokémon usou Sweets Relay durante seu último turno, este ataque causará 20 danos a mais.",
-                "zh-tw": "如果你的 1 個神奇寶貝在你的最後回合中使用了糖果接力，則此攻擊造成的傷害增加 20 點。",
+                "fr": "Si un de vos Pokémon a utilisé Saupoudrage Sucré lors de votre dernier tour, cette attaque inflige 20 dégâts supplémentaires.",
+                "it": "Se uno dei tuoi Pokémon ha usato Dolce Staffetta durante il tuo ultimo turno, questo attacco infligge 20 danni in più.",
+                "de": "Wenn 1 deiner Pokémon während deines letzten Zuges Süße Staffel eingesetzt hat, fügt diese Attacke 20 Schadenspunkte mehr zu.",
+                "pt-br": "Se 1 dos seus Pokémon usou Revezamento Doce durante o seu último turno, este ataque causará 20 pontos de dano a mais.",
+                "zh-tw": "在上個自己的回合,若自己的寶可夢使用了「甜點砸砸砸」,則增加20點傷害。",
                 ja: "前の自分の番、自分のポケモンが「スイーツリレー」を使っていたなら、20ダメージ追加。",
                 ko: "자신의 이전 차례에 자신의 포켓몬이 「스위트릴레이」를 사용했다면 20데미지를 추가한다."
             }

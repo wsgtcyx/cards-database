@@ -1,0 +1,1045 @@
+{
+  "schemaVersion": 1,
+  "decisions": [
+    {
+      "cardId": "P-A-074",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Il électrise ses griffes et déchire ses adversaires\nà part avec eux. Même s'ils esquivent son attaque,\nils seront électrocutés par les étincelles volantes.",
+      "value": "Il déchiquette son adversaire avec ses griffes chargées d'électricité. Même si sa cible évite l'attaque, elle reçoit un coup de jus.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "cf86449a79139ecd8ddd99552afd508612f9915e0731de0e9c25d26dbec399e7",
+      "sourceImageBytes": 320934,
+      "file": "data/Pokémon TCG Pocket/Promos-A/074.ts",
+      "evidence": {
+        "sourceImageSha256": "cf86449a79139ecd8ddd99552afd508612f9915e0731de0e9c25d26dbec399e7",
+        "sourceImageBytes": 320934,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-A-078",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Lunala n'a plus de volonté propre. Maintenant sous le\ncontrôle de Necrozma, il expulse continuellement toute son énergie.",
+      "value": "Lunala a perdu toute volonté propre. Désormais sous le contrôle de Necrozma, il se vide de son énergie en continu.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "994d91b6b8b3b69707be6c63f84aff5bcbfd3aaa96005278a2517867a4e813c5",
+      "sourceImageBytes": 306870,
+      "file": "data/Pokémon TCG Pocket/Promos-A/078.ts",
+      "evidence": {
+        "sourceImageSha256": "994d91b6b8b3b69707be6c63f84aff5bcbfd3aaa96005278a2517867a4e813c5",
+        "sourceImageBytes": 306870,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-A-079",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "C'est sa forme alors qu'il dévore la lumière de\nSolgaléo. Il se jette sur les ennemis puis les tranche\navec les griffes sur ses quatre membres et son dos.",
+      "value": "La forme que Necrozma prend lorsqu'il absorbe la lumière de Solgaleo. Il bondit sur ses ennemis et leur assène des coups de griffes.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "35728d8159a6bcb4f17b8937cd59b565e260b4051394c921dfdab5bd12bee85d",
+      "sourceImageBytes": 322482,
+      "file": "data/Pokémon TCG Pocket/Promos-A/079.ts",
+      "evidence": {
+        "sourceImageSha256": "35728d8159a6bcb4f17b8937cd59b565e260b4051394c921dfdab5bd12bee85d",
+        "sourceImageBytes": 322482,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-A-086",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Il concentre les faibles charges électriques émises\npar ses cellules et lance de méchants éclairs.",
+      "value": "Il concentre la faible charge électrique générée par chacune de ses cellules pour projeter de puissants éclairs.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "e59cbbff21c21996ddc7890b274ada8145a7b14c4b1e0fa2ceb551e9efb2286a",
+      "sourceImageBytes": 227113,
+      "file": "data/Pokémon TCG Pocket/Promos-A/086.ts",
+      "evidence": {
+        "sourceImageSha256": "e59cbbff21c21996ddc7890b274ada8145a7b14c4b1e0fa2ceb551e9efb2286a",
+        "sourceImageBytes": 227113,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-A-087",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Quand il fait confiance à un Dresseur, il le traite\naux baies, il est décoré de crème.",
+      "value": "Il offre aux Dresseurs auxquels il accorde toute sa confiance des Baies décorées avec de la crème.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "271a6fbc0e7c7cd68deedbd73f1a545a7db779931d694170c483aa484934e8eb",
+      "sourceImageBytes": 321424,
+      "file": "data/Pokémon TCG Pocket/Promos-A/087.ts",
+      "evidence": {
+        "sourceImageSha256": "271a6fbc0e7c7cd68deedbd73f1a545a7db779931d694170c483aa484934e8eb",
+        "sourceImageBytes": 321424,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-A-088",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "On dit que s'il émet une aura de tout son\ncorps, le temps commencera à changer instantanément.",
+      "value": "On dit que lorsque tout son corps émet une aura, les conditions climatiques se mettent à changer à vue d'œil.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "80f68c15c138ed8017768b15dd748817dd31b224ca95bbf06bb8270a9258e02c",
+      "sourceImageBytes": 274096,
+      "file": "data/Pokémon TCG Pocket/Promos-A/088.ts",
+      "evidence": {
+        "sourceImageSha256": "80f68c15c138ed8017768b15dd748817dd31b224ca95bbf06bb8270a9258e02c",
+        "sourceImageBytes": 274096,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-A-091",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Ce Pokémon s'enfuit avec des tas de baies tombées en les enveloppant\nles dans sa queue, qui fait environ deux fois la longueur de son corps.",
+      "value": "Sa queue, qui est environ deux fois plus longue que son corps, lui permet d'emmagasiner et de transporter les Baies tombées des arbres.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "05dd5f628f8d5a00af88e7c136364afcac5ff1011f6aaa1cd58c50bb42dc19ee",
+      "sourceImageBytes": 287835,
+      "file": "data/Pokémon TCG Pocket/Promos-A/091.ts",
+      "evidence": {
+        "sourceImageSha256": "05dd5f628f8d5a00af88e7c136364afcac5ff1011f6aaa1cd58c50bb42dc19ee",
+        "sourceImageBytes": 287835,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-A-092",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Sa capacité à évoluer vers de nombreuses formes lui permet de\ns'adapter en douceur et parfaitement à n'importe quel environnement.",
+      "value": "Ses multiples évolutions lui permettent de s'adapter à tout type de milieu naturel.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "f55ed60e8d2a53739390b67b8f772d2a1cf41f2f08fb801e52975d0979c06ff5",
+      "sourceImageBytes": 291358,
+      "file": "data/Pokémon TCG Pocket/Promos-A/092.ts",
+      "evidence": {
+        "sourceImageSha256": "f55ed60e8d2a53739390b67b8f772d2a1cf41f2f08fb801e52975d0979c06ff5",
+        "sourceImageBytes": 291358,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-A-096",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Si vous êtes brûlé par les flammes, elles jaillissent de son\nbouche, la douleur ne disparaîtra jamais.",
+      "value": "Les blessures provoquées par son souffle enflammé sont permanentes, et la douleur ne disparaît jamais.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "02470f9a1f2b6dc175312749c161f48c2a75efb3d256b9ccef6c870189c71def",
+      "sourceImageBytes": 306093,
+      "file": "data/Pokémon TCG Pocket/Promos-A/096.ts",
+      "evidence": {
+        "sourceImageSha256": "02470f9a1f2b6dc175312749c161f48c2a75efb3d256b9ccef6c870189c71def",
+        "sourceImageBytes": 306093,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-A-099",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "La fourrure de son corps repousse naturellement l'eau. Cela peut\nreste au sec même lorsqu'il joue dans l'eau.",
+      "value": "Sa fourrure est imperméable, si bien qu'il reste sec même quand il joue dans l'eau.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "38add39f7f2cf1c2d94389d9d1d0e72b41299969c95d3ef19cd94abe8f7be7c9",
+      "sourceImageBytes": 294410,
+      "file": "data/Pokémon TCG Pocket/Promos-A/099.ts",
+      "evidence": {
+        "sourceImageSha256": "38add39f7f2cf1c2d94389d9d1d0e72b41299969c95d3ef19cd94abe8f7be7c9",
+        "sourceImageBytes": 294410,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-A-101",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Il communique par télépathie. Son corps est\nrecouvert de duvet qui réfracte la lumière pour faire\nc'est invisible.",
+      "value": "Il est doué d'empathie. Le duvet qui recouvre son corps réfléchit la lumière et le rend invisible.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "b715804bc2ba222b46aa075ffe06cb23755d07f16b6efea0c18cebf3ffbc7b21",
+      "sourceImageBytes": 336693,
+      "file": "data/Pokémon TCG Pocket/Promos-A/101.ts",
+      "evidence": {
+        "sourceImageSha256": "b715804bc2ba222b46aa075ffe06cb23755d07f16b6efea0c18cebf3ffbc7b21",
+        "sourceImageBytes": 336693,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-A-102",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Il vit dans les jungles tropicales. La grappe de fruits\nautour de son cou est délicieux. Le fruit pousse\ndeux fois par an.",
+      "value": "Tropius vit dans les jungles tropicales. Les fruits sur son cou sont sucrés et succulents. Ils poussent deux fois par an.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "e59bc2879fd6acbbb9db068de7425170599cd42ef53c65ceed5c76257f474a2e",
+      "sourceImageBytes": 291524,
+      "file": "data/Pokémon TCG Pocket/Promos-A/102.ts",
+      "evidence": {
+        "sourceImageSha256": "e59bc2879fd6acbbb9db068de7425170599cd42ef53c65ceed5c76257f474a2e",
+        "sourceImageBytes": 291524,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-A-105",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Il se transforme en forme d'autrui pour surprendre\neux. Apparemment, cela se transforme souvent en\nenfant silencieux.",
+      "value": "Il prend l'apparence des autres afin de les surprendre. On dit qu'il se transforme souvent en petit enfant silencieux.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "e31b5bc5477fdde10955cbc6cf1ba9a59b45d2fe0b5dd1b3e098802a26e6bb37",
+      "sourceImageBytes": 314844,
+      "file": "data/Pokémon TCG Pocket/Promos-A/105.ts",
+      "evidence": {
+        "sourceImageSha256": "e31b5bc5477fdde10955cbc6cf1ba9a59b45d2fe0b5dd1b3e098802a26e6bb37",
+        "sourceImageBytes": 314844,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-A-106",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Les histoires disent que ceux qui ont tenté d'attraper Zoroark étaient\npiégé dans une illusion et puni.",
+      "value": "On dit que ceux qui osent tenter de le capturer restent prisonniers des paysages illusoires qu'il peut créer.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "1b785aef7f0b7589c6d335350e7eec164ca22387b07092c88cf5e1cb4399190f",
+      "sourceImageBytes": 322253,
+      "file": "data/Pokémon TCG Pocket/Promos-A/106.ts",
+      "evidence": {
+        "sourceImageSha256": "1b785aef7f0b7589c6d335350e7eec164ca22387b07092c88cf5e1cb4399190f",
+        "sourceImageBytes": 322253,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-A-108",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Ce Pokémon vit et niche au bord d'une rivière.\nAprès avoir joué dans la boue, il ne pourra plus\ns'installer à moins qu'il ne lave son corps.",
+      "value": "Les Phanpy vivent dans les trous qu'ils creusent, près des rivières. Après avoir joué dans la boue, ils ont besoin de faire leur toilette pour se calmer.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "fe0e33e412b141ef0e061b8e29b2711b05f95c02ca5e8f982538c15bcf311b8c",
+      "sourceImageBytes": 304410,
+      "file": "data/Pokémon TCG Pocket/Promos-A/108.ts",
+      "evidence": {
+        "sourceImageSha256": "fe0e33e412b141ef0e061b8e29b2711b05f95c02ca5e8f982538c15bcf311b8c",
+        "sourceImageBytes": 304410,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-A-113",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Ce Pokémon vit dans des endroits sombres, épargnés par\nla lumière du soleil. Lorsqu'il apparaît devant les humains, il se cache\nlui-même sous un tissu qui ressemble à un Pikachu.",
+      "value": "Il vit dans les lieux sombres, à l'abri du soleil. Lorsqu'il se montre, il dissimule tout son corps sous un déguisement qui rappelle Pikachu.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "cf6feeb4443339970553777487d6a019a5f86fb4fc3e47cc1f14bac4bcb9b874",
+      "sourceImageBytes": 291031,
+      "file": "data/Pokémon TCG Pocket/Promos-A/113.ts",
+      "evidence": {
+        "sourceImageSha256": "cf6feeb4443339970553777487d6a019a5f86fb4fc3e47cc1f14bac4bcb9b874",
+        "sourceImageBytes": 291031,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-002",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Si les feuilles sur sa tête sont taillées régulièrement, ce Pokémon peut prendre une forme fine et charnue.",
+      "value": "Si on taille ses feuilles de temps à autre, cela lui donne une forme parfaitement ronde et harmonieuse.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "10c87bdbc53574ff2d9e3d80c778f41127d62998f2ea761d85b057de10455c7d",
+      "sourceImageBytes": 287321,
+      "file": "data/Pokémon TCG Pocket/Promos-B/002.ts",
+      "evidence": {
+        "sourceImageSha256": "10c87bdbc53574ff2d9e3d80c778f41127d62998f2ea761d85b057de10455c7d",
+        "sourceImageBytes": 287321,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-004",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Sa capacité à voir à travers tout est très utile pour détecter\nles moindres dangers.",
+      "value": "Il est capable de voir à travers tout ce qui existe, ce qui lui est très utile pour détecter le moindre danger.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "bdd3721a2e40214abd18c57597b889881841d887f8fe0b3b3396b3784c79161a",
+      "sourceImageBytes": 244049,
+      "file": "data/Pokémon TCG Pocket/Promos-B/004.ts",
+      "evidence": {
+        "sourceImageSha256": "bdd3721a2e40214abd18c57597b889881841d887f8fe0b3b3396b3784c79161a",
+        "sourceImageBytes": 244049,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-008",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Si ses maux de tête chroniques culminent, il peut présenter des pouvoirs étranges. Il semble incapable de se souvenir d'un tel épisode.",
+      "value": "Quand son éternelle migraine devient trop forte, il manifeste d'étranges pouvoirs, mais il ne semble jamais s'en souvenir par la suite.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "93e80ed0e657003f5f8376aae907b429897c6990f42e30ab967332e69bc03ae1",
+      "sourceImageBytes": 296628,
+      "file": "data/Pokémon TCG Pocket/Promos-B/008.ts",
+      "evidence": {
+        "sourceImageSha256": "93e80ed0e657003f5f8376aae907b429897c6990f42e30ab967332e69bc03ae1",
+        "sourceImageBytes": 296628,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-010",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Ils transportent des personnes et des Pokémon, mais le vent peut les attraper, il ne peut donc pas y avoir de destination fixe.",
+      "value": "Il aime servir de moyen de transport. Le seul inconvénient est qu'il ne va que dans la direction du vent.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "64a97ed6895fe58443653ebbebe712e979f171959f81d16c8f77551bae0d6f27",
+      "sourceImageBytes": 265201,
+      "file": "data/Pokémon TCG Pocket/Promos-B/010.ts",
+      "evidence": {
+        "sourceImageSha256": "64a97ed6895fe58443653ebbebe712e979f171959f81d16c8f77551bae0d6f27",
+        "sourceImageBytes": 265201,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-011",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Son code génétique est irrégulier. Il peut muter s'il est exposé aux radiations des pierres élémentaires.",
+      "value": "Ses gènes atypiques lui permettent de muter s'il est exposé aux radiations d'une pierre.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "ed49cc6cba4829b4a567d50772f2ed5896e702dace10c4253dae396f319d89a3",
+      "sourceImageBytes": 290098,
+      "file": "data/Pokémon TCG Pocket/Promos-B/011.ts",
+      "evidence": {
+        "sourceImageSha256": "ed49cc6cba4829b4a567d50772f2ed5896e702dace10c4253dae396f319d89a3",
+        "sourceImageBytes": 290098,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-012",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Métamorph peut modifier sa structure cellulaire à\nsa guise pour se transformer en n’importe quelle\nforme vivante.",
+      "value": "Métamorph peut modifier sa structure cellulaire à sa guise pour se transformer en n'importe quelle forme de vie.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "ec4404153120ce5311c46e00f8c57bd9f2f4e12ad5bc607088622a4608780d0c",
+      "sourceImageBytes": 313145,
+      "file": "data/Pokémon TCG Pocket/Promos-B/012.ts",
+      "evidence": {
+        "sourceImageSha256": "ec4404153120ce5311c46e00f8c57bd9f2f4e12ad5bc607088622a4608780d0c",
+        "sourceImageBytes": 313145,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-013",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Son aboiement est tout simplement majestueux.\nOn ne peut que ramper à ses pieds après l’avoir\nentendu.",
+      "value": "Son aboiement est tout simplement majestueux. On ne peut que se prosterner à ses pieds après l'avoir entendu.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "71e49001abe39e236f3cc75dcb0ca56c22f6820eaa90dbce006ad9c4f5c99636",
+      "sourceImageBytes": 278423,
+      "file": "data/Pokémon TCG Pocket/Promos-B/013.ts",
+      "evidence": {
+        "sourceImageSha256": "71e49001abe39e236f3cc75dcb0ca56c22f6820eaa90dbce006ad9c4f5c99636",
+        "sourceImageBytes": 278423,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-014",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "La puissance de cette créature a beaucoup régressé\nau fil des siècles.",
+      "value": "Il paraît que ses lointains ancêtres étaient assez puissants, mais les spécimens d'aujourd'hui sont extrêmement faibles.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "cfff999c983a81ec8ccf4cb3693e5d1601be92ea8a07fe742a304cbe40b3c23a",
+      "sourceImageBytes": 305568,
+      "file": "data/Pokémon TCG Pocket/Promos-B/014.ts",
+      "evidence": {
+        "sourceImageSha256": "cfff999c983a81ec8ccf4cb3693e5d1601be92ea8a07fe742a304cbe40b3c23a",
+        "sourceImageBytes": 305568,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-015",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Sa toison s'agrandit continuellement. En été, la toison tombe entièrement, mais elle repousse en une semaine.",
+      "value": "Sa toison pousse constamment. L'été, toute sa laine tombe, mais elle repousse en moins d'une semaine.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "e465dc2a79ca5a8a0f719ad9c88d5f40572dc77ec936b97d92e73c31bbd95889",
+      "sourceImageBytes": 201395,
+      "file": "data/Pokémon TCG Pocket/Promos-B/015.ts",
+      "evidence": {
+        "sourceImageSha256": "e465dc2a79ca5a8a0f719ad9c88d5f40572dc77ec936b97d92e73c31bbd95889",
+        "sourceImageBytes": 201395,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-017",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Il ne se sent à l’aise que dans un\nmilieu propre et repousse la\npoussière avec ses ailes.",
+      "value": "Tylton repousse les saletés avec ses ailes. Il ne se sent à l'aise que lorsque l'endroit dans lequel il se trouve est aussi propre que lui.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "1f515d8f64df4644176974242f2974decb7cc1a0ea8a629e41ab483b48a18a81",
+      "sourceImageBytes": 284927,
+      "file": "data/Pokémon TCG Pocket/Promos-B/017.ts",
+      "evidence": {
+        "sourceImageSha256": "1f515d8f64df4644176974242f2974decb7cc1a0ea8a629e41ab483b48a18a81",
+        "sourceImageBytes": 284927,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-022",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Brutalibré vit tranquillement sans se rassembler. Ils se battent constamment avec leurs ennemis naturels : des groupes bruyants de Colossinge.",
+      "value": "Ce Pokémon mène une vie paisible et solitaire. Il est en conflit permanent avec de bruyants groupes de Colossinge, ses ennemis jurés.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "fca56258e5d51a229d6942738c80693d12ebf46d69aef5ff4604c19aaf5e5791",
+      "sourceImageBytes": 298540,
+      "file": "data/Pokémon TCG Pocket/Promos-B/022.ts",
+      "evidence": {
+        "sourceImageSha256": "fca56258e5d51a229d6942738c80693d12ebf46d69aef5ff4604c19aaf5e5791",
+        "sourceImageBytes": 298540,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-023",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Un Pokémon Insecte des temps anciens modifié par\nla Team Plasma. Le canon dans son dos a été grandement\namélioré.",
+      "value": "Un Pokémon existant depuis 300 millions d'années, et modifié par la Team Plasma. Il a maintenant un canon dans le dos.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "8cc041cc025c30fa42cff756f78079be6496d3977cb7492501df15e626f72225",
+      "sourceImageBytes": 301363,
+      "file": "data/Pokémon TCG Pocket/Promos-B/023.ts",
+      "evidence": {
+        "sourceImageSha256": "8cc041cc025c30fa42cff756f78079be6496d3977cb7492501df15e626f72225",
+        "sourceImageBytes": 301363,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-026",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Lorsqu’il utilise sa grande nageoire caudale, il prend rapidement de la vitesse dans l’eau. Il est solide malgré sa petite taille.",
+      "value": "Dans l'eau, les battements de sa grande nageoire caudale le font accélérer de manière fulgurante. Malgré sa petite taille, il est très costaud.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "a027047763042c69c80f99b5483ce606316b8a02603d5b47034f5325c8d32fd9",
+      "sourceImageBytes": 279249,
+      "file": "data/Pokémon TCG Pocket/Promos-B/026.ts",
+      "evidence": {
+        "sourceImageSha256": "a027047763042c69c80f99b5483ce606316b8a02603d5b47034f5325c8d32fd9",
+        "sourceImageBytes": 279249,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-027",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Ce Pokémon absorbe l'électricité des poteaux téléphoniques. Il court-circuite l’électricité stockée à l’intérieur de son corps pour créer des bruits.",
+      "value": "Il absorbe l'énergie des poteaux électriques et court-circuite celle qui est emmagasinée dans son corps pour produire des sons.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "bb6cb95ecb3b833f5dfbb0536b0a0deb8dbb0a2aed2c58a51a0b62defbabcbda",
+      "sourceImageBytes": 249247,
+      "file": "data/Pokémon TCG Pocket/Promos-B/027.ts",
+      "evidence": {
+        "sourceImageSha256": "bb6cb95ecb3b833f5dfbb0536b0a0deb8dbb0a2aed2c58a51a0b62defbabcbda",
+        "sourceImageBytes": 249247,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-028",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Il est très sensible aux émotions des gens\net des Pokémon. Il se cache au moindre\nsigne d’hostilité.",
+      "value": "Très sensible aux émotions des êtres humains et des Pokémon, il se cache au moindre signe d'hostilité.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "235c10b23e4753bed7ce738a6118b33644372c16262e1f8ca1cfdf361d9cf543",
+      "sourceImageBytes": 297537,
+      "file": "data/Pokémon TCG Pocket/Promos-B/028.ts",
+      "evidence": {
+        "sourceImageSha256": "235c10b23e4753bed7ce738a6118b33644372c16262e1f8ca1cfdf361d9cf543",
+        "sourceImageBytes": 297537,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-031",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "À l'aide d'une balle qu'il a fabriquée avec des flammes, Pyrobut aveugle ses adversaires et les tient à distance.",
+      "value": "Il crée des ballons de flammes et s'en sert pour tenir ses adversaires à distance ou pour les aveugler.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "e83bcb4793b0dce33d245bcff6468efd816b5154bd7d3d935340dcf191611d41",
+      "sourceImageBytes": 288547,
+      "file": "data/Pokémon TCG Pocket/Promos-B/031.ts",
+      "evidence": {
+        "sourceImageSha256": "e83bcb4793b0dce33d245bcff6468efd816b5154bd7d3d935340dcf191611d41",
+        "sourceImageBytes": 288547,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-032",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Par temps chaud, ce Pokémon fabrique des éclats de glace avec ses six queues et les pulvérise pour se rafraîchir.",
+      "value": "Quand il fait chaud, il crée des fragments de glace avec ses six queues et les disperse autour de lui pour se rafraîchir.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "94fbd19002549acdf081d319cd64d10ca40e1949ea03edff1bc5dc42d11acfd7",
+      "sourceImageBytes": 302022,
+      "file": "data/Pokémon TCG Pocket/Promos-B/032.ts",
+      "evidence": {
+        "sourceImageSha256": "94fbd19002549acdf081d319cd64d10ca40e1949ea03edff1bc5dc42d11acfd7",
+        "sourceImageBytes": 302022,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-033",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Ses pattes solides lui permettent de nager facilement, même dans les rivières au débit rapide. Il aime garder les choses en ordre et a tendance à trop réfléchir.",
+      "value": "Ce Pokémon perfectionniste aime la propreté. Ses pattes puissantes lui permettent de nager sans effort, même lorsque le courant est fort.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "7e1abaafc235e34dff9c66d37088ddc50a3b1d6984aa427f011097d05bd0ff66",
+      "sourceImageBytes": 330599,
+      "file": "data/Pokémon TCG Pocket/Promos-B/033.ts",
+      "evidence": {
+        "sourceImageSha256": "7e1abaafc235e34dff9c66d37088ddc50a3b1d6984aa427f011097d05bd0ff66",
+        "sourceImageBytes": 330599,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-034",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Ce Pokémon convertit les nutriments en huile, qu'il stocke dans le fruit sur sa tête. Il peut facilement passer une semaine entière sans manger ni boire.",
+      "value": "Ce Pokémon convertit les nutriments en huile qu'il emmagasine dans le fruit qui surmonte sa tête. Il peut passer une semaine sans boire ni manger.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "38bf85f69236666aa26a1ac02b1a438550354c17f1b2ad74ee3a3005d404973d",
+      "sourceImageBytes": 276372,
+      "file": "data/Pokémon TCG Pocket/Promos-B/034.ts",
+      "evidence": {
+        "sourceImageSha256": "38bf85f69236666aa26a1ac02b1a438550354c17f1b2ad74ee3a3005d404973d",
+        "sourceImageBytes": 276372,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-035",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Sa puissance de feu augmente lorsqu'il combat, atteignant plus de 1 800 degrés Fahrenheit. Il aime les baies riches en graisse.",
+      "value": "Ses puissantes flammes atteignent les 1 000 °C lorsqu'il se bat. Il aime les Baies riches en matières grasses.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "daf53058e5cdf664b84f07dcffa10aa347f4bd38497fe63147d58d51dee74402",
+      "sourceImageBytes": 295688,
+      "file": "data/Pokémon TCG Pocket/Promos-B/035.ts",
+      "evidence": {
+        "sourceImageSha256": "daf53058e5cdf664b84f07dcffa10aa347f4bd38497fe63147d58d51dee74402",
+        "sourceImageBytes": 295688,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-036",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Nigirigon est un Pokémon extrêmement rusé. Il feint la faiblesse pour attirer une proie, puis ordonne à son partenaire d'attaquer.",
+      "value": "Très rusé, il fait mine d'être vulnérable et attire ainsi des proies qui se font ensuite attaquer par son redoutable partenaire.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "be140d0b509754640c2a3dddd477bc7e8ca8c91f246d9a2474355cc10253e06d",
+      "sourceImageBytes": 329649,
+      "file": "data/Pokémon TCG Pocket/Promos-B/036.ts",
+      "evidence": {
+        "sourceImageSha256": "be140d0b509754640c2a3dddd477bc7e8ca8c91f246d9a2474355cc10253e06d",
+        "sourceImageBytes": 329649,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-037",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Ce Pokémon vit dans les forêts et les zones escarpées. Grâce à la puissance de sa nageoire dorsale, il refroidit l’intérieur de son nid comme un réfrigérateur.",
+      "value": "Il vit dans les zones rocheuses et les forêts. Sa crête dorsale lui permet de refroidir l'intérieur de son nid à la manière d'un congélateur.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "2b76e3947306e0f5c26e27a2ae030138c0cee430bd359487126b2e7c3c9e4259",
+      "sourceImageBytes": 281711,
+      "file": "data/Pokémon TCG Pocket/Promos-B/037.ts",
+      "evidence": {
+        "sourceImageSha256": "2b76e3947306e0f5c26e27a2ae030138c0cee430bd359487126b2e7c3c9e4259",
+        "sourceImageBytes": 281711,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-038",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Le marteau pèse 220 livres, mais Forgelina le fait pivoter facilement alors qu'il vole tout ce qu'il veut et ramène son butin chez lui.",
+      "value": "Ce Pokémon s'empare de tout ce qu'il convoite en maniant sans effort son marteau de plus de 100 kg et ramène son butin chez lui.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "2a6c9ef17b9a483aeef297a27628f37cad39fec58343db27ddab962b5557d1aa",
+      "sourceImageBytes": 301925,
+      "file": "data/Pokémon TCG Pocket/Promos-B/038.ts",
+      "evidence": {
+        "sourceImageSha256": "2a6c9ef17b9a483aeef297a27628f37cad39fec58343db27ddab962b5557d1aa",
+        "sourceImageBytes": 301925,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-039",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Les coussinets de ses pattes sont des organes qui déchargent de l'électricité. Pohm tire de l'électricité depuis ses pattes antérieures tout en se tenant de manière instable sur ses pattes postérieures.",
+      "value": "Ses coussinets servent à projeter de l'électricité. Quand il parvient à se tenir sur ses pattes arrière, il envoie des décharges avec ses pattes avant.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "2faf5fa938172b1efd83a3501e41f9acca900fd39777b68e7acba51e7e30bc74",
+      "sourceImageBytes": 261396,
+      "file": "data/Pokémon TCG Pocket/Promos-B/039.ts",
+      "evidence": {
+        "sourceImageSha256": "2faf5fa938172b1efd83a3501e41f9acca900fd39777b68e7acba51e7e30bc74",
+        "sourceImageBytes": 261396,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-040",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Il vit au fond des étangs et des marécages. Il portera Wooper sur son dos et les transportera sur l'eau d'une rive à l'autre.",
+      "value": "Ce Pokémon vit au fond des étangs et des marais. Il porte des Axoloto sur son dos et nage jusqu'à la rive opposée pour les aider à traverser.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "a55bfb3f9feaae63dcc1034098a10f6f6194442c3ce080e2ecd5077c9f9846a5",
+      "sourceImageBytes": 288919,
+      "file": "data/Pokémon TCG Pocket/Promos-B/040.ts",
+      "evidence": {
+        "sourceImageSha256": "a55bfb3f9feaae63dcc1034098a10f6f6194442c3ce080e2ecd5077c9f9846a5",
+        "sourceImageBytes": 288919,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-042",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Ramoloss semble toujours perdu dans ses pensées,\nmais personne ne sait vraiment à quoi il pense.\nIl adore pêcher en utilisant sa queue.",
+      "value": "Ramoloss semble toujours distrait, mais personne ne sait vraiment à quoi il pense. Il adore pêcher à l'aide de sa queue.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "a7bc96d3f143b5f0a75ac9de8e99f2f1a9d0216be91254eb8ba54d1422fa3b82",
+      "sourceImageBytes": 227676,
+      "file": "data/Pokémon TCG Pocket/Promos-B/042.ts",
+      "evidence": {
+        "sourceImageSha256": "a7bc96d3f143b5f0a75ac9de8e99f2f1a9d0216be91254eb8ba54d1422fa3b82",
+        "sourceImageBytes": 227676,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-044",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "La section en acier est le corps réel du Vrombi. Ce Pokémon s'accroche aux rochers et convertit les minéraux qu'ils contiennent en énergie pour alimenter ses activités.",
+      "value": "Son corps correspond à la partie en acier. Il s'accroche à des roches et convertit les minéraux qu'elles contiennent en énergie.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "4bc89391a9057280db4c5b37ab1a3dd4be8222b5c2b7a107b04a296fe7ff5ac9",
+      "sourceImageBytes": 278029,
+      "file": "data/Pokémon TCG Pocket/Promos-B/044.ts",
+      "evidence": {
+        "sourceImageSha256": "4bc89391a9057280db4c5b37ab1a3dd4be8222b5c2b7a107b04a296fe7ff5ac9",
+        "sourceImageBytes": 278029,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-045",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Il submerge les ennemis avec ses précieuses défenses, suffisamment tranchantes pour couper une tour de transmission métallique d'un seul coup.",
+      "value": "Il terrasse ses ennemis grâce à ses crocs, dont il est fier. Ceux-ci sont si tranchants qu'ils peuvent découper un pylône en métal d'un seul coup.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "ef9a9ebf761d4c5dec4d2927f79d36ce10df188f90f65d152642359b10ed4867",
+      "sourceImageBytes": 301204,
+      "file": "data/Pokémon TCG Pocket/Promos-B/045.ts",
+      "evidence": {
+        "sourceImageSha256": "ef9a9ebf761d4c5dec4d2927f79d36ce10df188f90f65d152642359b10ed4867",
+        "sourceImageBytes": 301204,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-047",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Son corps est composé de gaz. Il peut ainsi\nenvelopper un adversaire et le faire suffoquer.",
+      "value": "Son corps est composé de gaz. Il peut ainsi envelopper un adversaire de n'importe quelle taille et le faire suffoquer.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "e467121c7f314b16b1c7ea87cc09bbb3830b14f11ddaa6dde6e3e81ef0f3f820",
+      "sourceImageBytes": 292660,
+      "file": "data/Pokémon TCG Pocket/Promos-B/047.ts",
+      "evidence": {
+        "sourceImageSha256": "e467121c7f314b16b1c7ea87cc09bbb3830b14f11ddaa6dde6e3e81ef0f3f820",
+        "sourceImageBytes": 292660,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-048",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "La fourrure riche et moelleuse qui recouvre son corps est si agréable que quiconque la sent ne peut s'empêcher de la toucher.",
+      "value": "Sa fourrure est si douce et soyeuse que si on la caresse, on ne veut ni ne peut s'arrêter.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "747680d04f07ea5ab94c36e08cf826c5266ff4442b2d10554f3454e7bb88abd9",
+      "sourceImageBytes": 282999,
+      "file": "data/Pokémon TCG Pocket/Promos-B/048.ts",
+      "evidence": {
+        "sourceImageSha256": "747680d04f07ea5ab94c36e08cf826c5266ff4442b2d10554f3454e7bb88abd9",
+        "sourceImageBytes": 282999,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-051",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Née lorsqu'environ 10 % des cellules de Zygarde ont été rassemblées partout, cette forme est habile au combat rapproché.",
+      "value": "La forme que Zygarde prend lorsqu'il rassemble 10 % de ses Cellules éparpillées un peu partout. Il excelle au combat au corps-à-corps.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "adbc90a0d1cae707f3395825bf70475995dbc84516f9b9d0a621a84c50a3003b",
+      "sourceImageBytes": 274017,
+      "file": "data/Pokémon TCG Pocket/Promos-B/051.ts",
+      "evidence": {
+        "sourceImageSha256": "adbc90a0d1cae707f3395825bf70475995dbc84516f9b9d0a621a84c50a3003b",
+        "sourceImageBytes": 274017,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-054",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Son code génétique est irrégulier. Il peut muter s'il est exposé aux radiations des pierres élémentaires.",
+      "value": "Ses gènes atypiques lui permettent de muter s'il est exposé aux radiations d'une pierre.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "5c7acc604f7f2b8a8b179bcab5354ece886ab06bb358bb62ce86383e6ff85e7b",
+      "sourceImageBytes": 260855,
+      "file": "data/Pokémon TCG Pocket/Promos-B/054.ts",
+      "evidence": {
+        "sourceImageSha256": "5c7acc604f7f2b8a8b179bcab5354ece886ab06bb358bb62ce86383e6ff85e7b",
+        "sourceImageBytes": 260855,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-057",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Morphéo prend cette forme lorsqu'il se prélasse en plein soleil. Lorsque vous touchez sa peau éclatante, elle est toute desséchée !",
+      "value": "Morphéo adopte cette apparence lorsqu'il y a du soleil. Son corps rougeoyant est très sec au toucher.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "4e21ef251821a4b1f2f50d28f29ce4c22c02f6d2a49be6fd8363f9184990777f",
+      "sourceImageBytes": 269495,
+      "file": "data/Pokémon TCG Pocket/Promos-B/057.ts",
+      "evidence": {
+        "sourceImageSha256": "4e21ef251821a4b1f2f50d28f29ce4c22c02f6d2a49be6fd8363f9184990777f",
+        "sourceImageBytes": 269495,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-058",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Ce Pokémon est un glouton vorace. Il utilise son excellent odorat pour trouver de la nourriture, puis la fait cuire jusqu'à ce qu'elle soit croustillante avant de la manger.",
+      "value": "Ce Pokémon glouton possède un appétit vorace. Il trouve sa nourriture grâce à son odorat fin et la grille avant de la déguster.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "e8c214572df630def04f3512ea62013fbebdf92e1c955e8fbcc963744423b447",
+      "sourceImageBytes": 272023,
+      "file": "data/Pokémon TCG Pocket/Promos-B/058.ts",
+      "evidence": {
+        "sourceImageSha256": "e8c214572df630def04f3512ea62013fbebdf92e1c955e8fbcc963744423b447",
+        "sourceImageBytes": 272023,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-061",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Arcko peut rapidement redimensionner même les surfaces verticales. Il détecte l’humidité avec sa queue pour prédire la météo du lendemain.",
+      "value": "Il grimpe sur les murs avec une grande agilité. Sa queue lui permet de mesurer l'humidité et de prédire ainsi le temps qu'il fera le lendemain.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "2d8621b246b22d23f0f216cf21a6dcb64f2ebe2ac4ccd27e0a81dddd8812ba6e",
+      "sourceImageBytes": 284947,
+      "file": "data/Pokémon TCG Pocket/Promos-B/061.ts",
+      "evidence": {
+        "sourceImageSha256": "2d8621b246b22d23f0f216cf21a6dcb64f2ebe2ac4ccd27e0a81dddd8812ba6e",
+        "sourceImageBytes": 284947,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-064",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Sa puissance de feu augmente lorsqu'il combat, atteignant plus de 1 800 degrés Fahrenheit. Il aime les baies riches en graisse.",
+      "value": "Ses puissantes flammes atteignent les 1 000 °C lorsqu'il se bat. Il aime les Baies riches en matières grasses.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "eef530cc3e869f45b0e82952833d1de81065d8e37304004e6db856710bb2328b",
+      "sourceImageBytes": 271106,
+      "file": "data/Pokémon TCG Pocket/Promos-B/064.ts",
+      "evidence": {
+        "sourceImageSha256": "eef530cc3e869f45b0e82952833d1de81065d8e37304004e6db856710bb2328b",
+        "sourceImageBytes": 271106,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-065",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Sa composition cellulaire est similaire aux molécules d’eau. En conséquence, on ne peut pas le voir lorsqu’il fond dans l’eau.",
+      "value": "Sa composition moléculaire est proche de celle de l'eau, ce qui lui permet de s'y fondre complètement.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "d30af101ff0a30d1ae674873a116823c48f37ba30670ba72c4ca59227286c134",
+      "sourceImageBytes": 306426,
+      "file": "data/Pokémon TCG Pocket/Promos-B/065.ts",
+      "evidence": {
+        "sourceImageSha256": "d30af101ff0a30d1ae674873a116823c48f37ba30670ba72c4ca59227286c134",
+        "sourceImageBytes": 306426,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-067",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Tout éclat dans ses lames lui serait fatal. Après chaque combat, il entretient assidûment ses lames à l'aide de sa pierre à aiguiser préférée.",
+      "value": "Toute brèche sur ses lames lui serait fatale. Après chaque combat, il les entretient scrupuleusement en utilisant sa pierre à aiguiser préférée.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "4463826681c07f87e91a733b35242cedb83d782b559dac851d1f4c28cb91c0f8",
+      "sourceImageBytes": 322462,
+      "file": "data/Pokémon TCG Pocket/Promos-B/067.ts",
+      "evidence": {
+        "sourceImageSha256": "4463826681c07f87e91a733b35242cedb83d782b559dac851d1f4c28cb91c0f8",
+        "sourceImageBytes": 322462,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-068",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Il chasse les ennemis de son nid en aspirant suffisamment d'air pour remplir ses poumons longs et étroits, puis en libérant l'air dans une explosion intense.",
+      "value": "Il chasse ses adversaires de son nid avec de violentes bourrasques qu'il génère en expirant l'air accumulé dans ses poumons longs et fins.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "13e1be252df93ee00bc74b456ccdee28ffe3e1ebd9d16c259b24f162ae008f6b",
+      "sourceImageBytes": 295705,
+      "file": "data/Pokémon TCG Pocket/Promos-B/068.ts",
+      "evidence": {
+        "sourceImageSha256": "13e1be252df93ee00bc74b456ccdee28ffe3e1ebd9d16c259b24f162ae008f6b",
+        "sourceImageBytes": 295705,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-069",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "La dureté de la fourrure de Matourgeon dépend de l'humeur du Pokémon. Lorsque Matourgeon est prêt à se battre, sa fourrure devient pointue et acérée.",
+      "value": "La rigidité de ses poils dépend de son état d'esprit. Quand il se prépare au combat, ceux-ci se hérissent et sont acérés comme des aiguilles.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "6654f2a14f6fdc44666e0ce1a1796b83f4b7d87868b9211ba1d99af7b36d8bb3",
+      "sourceImageBytes": 284854,
+      "file": "data/Pokémon TCG Pocket/Promos-B/069.ts",
+      "evidence": {
+        "sourceImageSha256": "6654f2a14f6fdc44666e0ce1a1796b83f4b7d87868b9211ba1d99af7b36d8bb3",
+        "sourceImageBytes": 284854,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-071",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Si ses maux de tête chroniques culminent, il peut présenter des pouvoirs étranges. Il semble incapable de se souvenir d'un tel épisode.",
+      "value": "Quand son éternelle migraine devient trop forte, il manifeste d'étranges pouvoirs, mais il ne semble jamais s'en souvenir par la suite.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "6443ac7ef71321e83c991d147d6df468ad2dd291cd8a4b5464254759c37c72e9",
+      "sourceImageBytes": 294431,
+      "file": "data/Pokémon TCG Pocket/Promos-B/071.ts",
+      "evidence": {
+        "sourceImageSha256": "6443ac7ef71321e83c991d147d6df468ad2dd291cd8a4b5464254759c37c72e9",
+        "sourceImageBytes": 294431,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-072",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "C'est le Pokémon le plus minable de tous. Il forme des bancs et vit au fond des rivières regorgeant de végétation.",
+      "value": "Ce Pokémon d'apparence miteuse vit en larges bancs, au fond des rivières qui abondent en plantes aquatiques.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "733c7f6135568f16c58c396a2d37fff379edd2d4ac4b2c7cf8ad3589c9e96b31",
+      "sourceImageBytes": 330994,
+      "file": "data/Pokémon TCG Pocket/Promos-B/072.ts",
+      "evidence": {
+        "sourceImageSha256": "733c7f6135568f16c58c396a2d37fff379edd2d4ac4b2c7cf8ad3589c9e96b31",
+        "sourceImageBytes": 330994,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-073",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Il gèle ses proies en soufflant son souffle à -58 degrés Fahrenheit. On dit qu’il exhibe alors secrètement sa proie.",
+      "value": "On dit que Momartik gèle ses proies grâce à son souffle à -50 °C avant de les exposer dans sa tanière.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "fd0e86bca0a43e80267fdd9ddb24c18a13e2a354f10768985297b93cb535354d",
+      "sourceImageBytes": 313869,
+      "file": "data/Pokémon TCG Pocket/Promos-B/073.ts",
+      "evidence": {
+        "sourceImageSha256": "fd0e86bca0a43e80267fdd9ddb24c18a13e2a354f10768985297b93cb535354d",
+        "sourceImageBytes": 313869,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-074",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Si les poches électriques dans ses joues sont complètement chargées, les deux oreilles se redresseront.",
+      "value": "Ses oreilles se dressent lorsque les poches d'électricité sur ses joues sont chargées.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "96408ed8984ef6fc8ef10f9cebdf985ab3798fa4a8b4099b093dfc8416349052",
+      "sourceImageBytes": 214702,
+      "file": "data/Pokémon TCG Pocket/Promos-B/074.ts",
+      "evidence": {
+        "sourceImageSha256": "96408ed8984ef6fc8ef10f9cebdf985ab3798fa4a8b4099b093dfc8416349052",
+        "sourceImageBytes": 214702,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-075",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "En raison de son attitude détendue et insouciante, il se cogne souvent la tête contre les rochers du lit des rivières et les coques des bateaux lorsqu'il nage.",
+      "value": "C'est un Pokémon très distrait. Quand il nage, il se cogne souvent la tête sur les rochers dans les rivières ou sur les coques de bateaux.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "4175df820e2940bb9270d71a085c0899591690d75fec0437c2c44dafdf25fa66",
+      "sourceImageBytes": 305312,
+      "file": "data/Pokémon TCG Pocket/Promos-B/075.ts",
+      "evidence": {
+        "sourceImageSha256": "4175df820e2940bb9270d71a085c0899591690d75fec0437c2c44dafdf25fa66",
+        "sourceImageBytes": 305312,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-076",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Une âme autrefois disparue, revenue à la vie à Hisui. Il tire son pouvoir du ressentiment, qui s'élève sous forme d'énergie au sommet de sa tête et prend la forme d'ennemis. De cette façon, Zorua évacue la méchanceté persistante.",
+      "value": "Zorua serait une âme disparue, ressuscitée à Hisui. Sa rancœur émane sous forme d'énergie au-dessus de sa tête, puis adopte l'apparence de ses ennemis, et finit par se dissiper.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "7dc2e8cd5da725ca9e79ac2ecc50b5b1b22dad9c4398a52f83ec283e3060ea2d",
+      "sourceImageBytes": 295236,
+      "file": "data/Pokémon TCG Pocket/Promos-B/076.ts",
+      "evidence": {
+        "sourceImageSha256": "7dc2e8cd5da725ca9e79ac2ecc50b5b1b22dad9c4398a52f83ec283e3060ea2d",
+        "sourceImageBytes": 295236,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-077",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "C’est très amical et fidèle aux gens. Il tentera de repousser les ennemis en aboyant et en mordant.",
+      "value": "Ce Pokémon est particulièrement affectueux et loyal. Il aboie et mord pour se débarrasser de ses adversaires.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "83b9fe61dc264044fe28048f8a55da8f269e353dc5eb60f29d602663cb2e0c07",
+      "sourceImageBytes": 297571,
+      "file": "data/Pokémon TCG Pocket/Promos-B/077.ts",
+      "evidence": {
+        "sourceImageSha256": "83b9fe61dc264044fe28048f8a55da8f269e353dc5eb60f29d602663cb2e0c07",
+        "sourceImageBytes": 297571,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-090",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Il utilise les vents marins comme un planeur En hiver, il cache de la nourriture autour de son nid.",
+      "value": "Il utilise les vents marins comme un planeur. En hiver, il cache de la nourriture autour de son nid.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "ed3bf4564cb42437b1808c8ad95fa1e1fbe92aa6045016010d031ce3ea19745d",
+      "sourceImageBytes": 289542,
+      "file": "data/Pokémon TCG Pocket/Promos-B/090.ts",
+      "evidence": {
+        "sourceImageSha256": "ed3bf4564cb42437b1808c8ad95fa1e1fbe92aa6045016010d031ce3ea19745d",
+        "sourceImageBytes": 289542,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    },
+    {
+      "cardId": "P-B-091",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Pour cacher sa queue noire, il vit tranquillement dans l'obscurité. Ce n'est jamais le premier à attaquer.",
+      "value": "Il vit discrètement dans l'obscurité pour cacher sa queue noire. Il n'attaque jamais en premier.",
+      "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained.",
+      "sourceImageSha256": "c66e0cd1351aa26f999a1233d3e41d3d67cdfe5d79b269a658de65adb2ba2238",
+      "sourceImageBytes": 278530,
+      "file": "data/Pokémon TCG Pocket/Promos-B/091.ts",
+      "evidence": {
+        "sourceImageSha256": "c66e0cd1351aa26f999a1233d3e41d3d67cdfe5d79b269a658de65adb2ba2238",
+        "sourceImageBytes": 278530,
+        "review": "French native A/B card footer visually compared for all 179 cards in labeled enlarged crops; ambiguous fullart A079/A087/A101/A106/B033/B076 enlarged and inspected a second time. Native text overrides legacy translations and corpus candidates. Whitespace and typographic apostrophe differences are retained."
+      }
+    }
+  ]
+}

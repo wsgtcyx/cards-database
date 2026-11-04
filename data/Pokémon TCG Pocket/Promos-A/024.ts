@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/024",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/024",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/024",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/024",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/024",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/024",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/024",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/024",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/024"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/024/81538694ba7dbf49",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/024/81538694ba7dbf49",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/024/81538694ba7dbf49",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/024/81538694ba7dbf49",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/024/81538694ba7dbf49",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/024/81538694ba7dbf49",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/024/81538694ba7dbf49",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/024/81538694ba7dbf49",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/024/81538694ba7dbf49"
     },
     name: {
         en: "Magnemite",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "小磁怪"
     },
     illustrator: "Miki Tanaka",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     types: ["Lightning"],
     stage: "Basic",
@@ -39,7 +39,7 @@ const card: Card = {
                 'pt-br': "Bola de Raios",
                 ja: "ピッカリだま",
                 ko: "번쩍구슬",
-                "zh-tw": "閃電球"
+                "zh-tw": "光彈"
             },
             cost: ["Lightning"],
             damage: 20
@@ -54,7 +54,7 @@ const card: Card = {
         'pt-br': "As ondas eletromagnéticas emitidas pelas\nunidades nas laterais de sua cabeça geram\nantigravidade, o que faz com que ele possa flutuar.",
         ja: "左右にある ユニットから だす 電磁波で 重力を さえぎって 空に 浮かぶのだ。",
         ko: "좌우에 있는 유닛에서 나오는\n전자파를 이용해\n중력을 거슬러 하늘에 떠 있다.",
-        "zh-tw": "各裝置發射的電磁波\n在其頭部的兩側驅逐反重力，這\n讓它漂浮。"
+        "zh-tw": "從左右兩邊的組件發出的電磁波能阻礙重力，使牠浮在空中。"
     },
     weaknesses: [{
             type: "Fighting",

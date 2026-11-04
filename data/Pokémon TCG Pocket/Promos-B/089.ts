@@ -3,7 +3,17 @@ import Set from "../Promos-B";
 
 const card: Card = {
     set: Set,
-    image: { en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/089", fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/089", es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/089", it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/089", de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/089", "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/089", "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/089", ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/089", ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/089" },
+    image: {
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/089/5b11c71310f0d478",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/089/5b11c71310f0d478",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/089/5b11c71310f0d478",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/089/5b11c71310f0d478",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/089/5b11c71310f0d478",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/089/5b11c71310f0d478",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/089/5b11c71310f0d478",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/089/5b11c71310f0d478",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/089/5b11c71310f0d478"
+    },
     name: { en: "Team Rocket's Lapras", fr: "Lokhlass de la Team Rocket", es: "Lapras del Team Rocket", it: "Lapras del Team Rocket", de: "Team Rockets Lapras", "pt-br": "Lapras da Equipe Rocket", "zh-tw": "火箭隊的拉普拉斯", ko: "로켓단의 라프라스", ja: "ロケット団のラプラス" },
     illustrator: "matazo",
     rarity: "One Star",

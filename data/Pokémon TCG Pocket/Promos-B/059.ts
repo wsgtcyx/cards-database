@@ -4,15 +4,15 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/059",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/059",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/059",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/059",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/059",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/059",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/059",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/059",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/059"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/059/be4691e1353de95f",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/059/be4691e1353de95f",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/059/be4691e1353de95f",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/059/be4691e1353de95f",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/059/be4691e1353de95f",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/059/be4691e1353de95f",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/059/be4691e1353de95f",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-B/059/be4691e1353de95f",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/059/be4691e1353de95f"
     },
     name: {
         en: "Dwebble",
@@ -26,7 +26,7 @@ const card: Card = {
         ja: "イシズマイ"
     },
     illustrator: "Akira Komayama",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     hp: 70,
     types: ["Fighting"],
@@ -38,7 +38,7 @@ const card: Card = {
         es: "Si no encuentra una piedra que sea idónea como\nmorada, se instala en los orificios de algún\nHippowdon.",
         it: "A volte, quando non riesce a trovare una pietra\nadatta, usa come sua dimora i pori\ndi Hippowdon.",
         de: "Wenn es keinen Stein findet, der sich als Haus\neignet, lässt es sich manchmal in den Öffnungen\nim Körper eines Hippoterus’ nieder.",
-        "pt-br": "Ele primeiro tenta encontrar uma rocha para viver, mas se não houver rochas adequadas para serem encontradas, Dwebble pode se mudar para os portos de um Hippowdon.",
+        "pt-br": "Costuma viver em pedras, mas quando não encontra nenhuma, Dwebble pode se mudar para as cavidades no casco de Hippowdon.",
         "zh-tw": "如果找不到大小合適\n的石頭來當成自己的家，\n牠也會住到河馬獸的洞裡。",
         ja: "家に ちょうどいい 小石が 見つからないと カバルドンの 穴に 棲んでしまうことも。",
         ko: "집으로 삼기 딱 좋은 돌멩이를\n발견하지 못하면 하마돈의\n구멍에 살기도 한다."
@@ -64,7 +64,7 @@ const card: Card = {
                 it: "Questo Pokémon subisce -10 danni dagli attacchi.",
                 de: "Diesem Pokémon werden durch Attacken - 10 Schadenspunkte zugefügt.",
                 "pt-br": "Este Pokémon recebe -10 pontos de dano de ataques.",
-                "zh-tw": "該寶可夢受到的攻擊傷害為 -10。",
+                "zh-tw": "這隻寶可夢受到招式的傷害-10點。",
                 ja: "このポケモンが受けるワザのダメージを-10する。",
                 ko: "이 포켓몬이 받는 기술의 데미지를 -10한다."
             }

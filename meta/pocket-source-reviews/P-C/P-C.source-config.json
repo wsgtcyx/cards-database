@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "setId": "P-C",
+  "setFile": "Promos-C",
+  "total": 13,
+  "officialCount": 0,
+  "releaseDate": "2026-10-29",
+  "sourceId": 602,
+  "nameLocales": [
+    "en",
+    "fr",
+    "es",
+    "it",
+    "de",
+    "pt-br",
+    "zh-tw",
+    "ja",
+    "ko"
+  ],
+  "ruleLocales": [
+    "en",
+    "fr",
+    "es",
+    "it",
+    "de",
+    "pt-br",
+    "zh-tw",
+    "ja",
+    "ko"
+  ],
+  "setNames": {
+    "en": "Promos-C",
+    "fr": "Promo-C",
+    "es": "Promo-C",
+    "it": "Promo-C",
+    "de": "PROMO-C",
+    "pt-br": "Promo-C",
+    "zh-tw": "Promo-C",
+    "ja": "PROMO-C",
+    "ko": "PROMO-C"
+  },
+  "boosters": [
+    {
+      "slug": "vol1",
+      "names": {
+        "en": "Promo Pack C Series Vol. 1",
+        "fr": "Booster promo série C, vol. 1",
+        "es": "Sobre de promoción serie C vol. 1",
+        "it": "Busta promo (serie C, vol. 1)",
+        "de": "Promopack aus Serie C, Vol. 1",
+        "pt-br": "Pacote Promocional da Série C (Vol. 1)",
+        "zh-tw": "特典卡牌包 C系列第1波",
+        "ja": "プロモカードパック Cシリーズ 第1弾",
+        "ko": "프로모 카드 팩 C시리즈 제1탄"
+      }
+    }
+  ],
+  "r2Origin": "https://game.pokemontcgpocket.app"
+}

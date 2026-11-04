@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/019",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/019",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/019",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/019",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/019",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/019",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/019",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/019",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/019"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/019/f7e6fcc6e83c0fad",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/019/f7e6fcc6e83c0fad",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/019/f7e6fcc6e83c0fad",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/019/f7e6fcc6e83c0fad",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/019/f7e6fcc6e83c0fad",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/019/f7e6fcc6e83c0fad",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/019/f7e6fcc6e83c0fad",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/019/f7e6fcc6e83c0fad",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/019/f7e6fcc6e83c0fad"
     },
     name: {
         en: "Greninja",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "甲賀忍蛙",
     },
     illustrator: "Sanosuke Sakuma",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     types: ["Water"],
     stage: "Stage2",
@@ -51,7 +51,7 @@ const card: Card = {
                 'pt-br': "Uma vez durante o seu turno, você poderá causar 20 pontos de dano a 1 dos Pokémon do seu oponente.",
                 ja: "自分の番に1回使える。相手のポケモン1匹に20ダメージ。",
                 ko: "자신의 차례에 1번 사용할 수 있다. 상대의 포켓몬 1마리에게 20데미지를 준다.",
-                "zh-tw": "在你的回合中，你可以對對手的 1 只神奇寶貝造成 20 點傷害。"
+                "zh-tw": "在自己的回合時,可使用1次。對手的1隻寶可夢受到20點傷害。"
             }
         }],
     attacks: [{
@@ -64,7 +64,7 @@ const card: Card = {
                 'pt-br': "Golpe de Névoa",
                 ja: "かすみぎり",
                 ko: "안개베기",
-                "zh-tw": "霧斬"
+                "zh-tw": "霞斬"
             },
             cost: ["Water", "Colorless"],
             damage: 60
@@ -90,7 +90,7 @@ const card: Card = {
         'pt-br': "Cria estrelas ninja de água comprimida.\nAo girá-las e atirá-las em alta velocidade,\nas estrelas podem dividir metais ao meio.",
         ja: "水を 圧縮して 手裏剣を 作り出す。 高速回転させて 飛ばすと 金属も 真っ二つ。",
         ko: "물을 압축시켜 수리검을\n만들어 낸다. 고속으로 회전시키며\n던지면 금속도 두 동강이 난다.",
-        "zh-tw": "它用壓縮水製造出飛濺的星星。\n當它高速旋轉並投擲它們時，\n這些星星可以將金屬分成兩半。"
+        "zh-tw": "將水壓縮，做出手裡劍。高速旋轉射出的手裡劍，就連金屬也能一分為二。"
     },
     weaknesses: [{
             type: "Lightning",

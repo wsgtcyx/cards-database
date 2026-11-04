@@ -1,0 +1,360 @@
+{
+  "schemaVersion": 1,
+  "reviewedAt": "2026-11-04T03:33:16.719560+00:00",
+  "scope": "Existing Promo A/B pack-art native resolution improvements only; no repository/manifest changes or uploads",
+  "priorReviewGap": "Existing representative-pack-art-review.json researched A/B Vol1 and C only; no evidence of comprehensive per-volume A/B high-resolution search was present.",
+  "objects": [
+    {
+      "set": "P-A",
+      "booster": "vol3",
+      "path": "/private/tmp/promo-abc-sources-20261104/pack-hq-audit/A-03.png",
+      "url": "https://archives.bulbagarden.net/media/upload/9/97/Promo_Pack_A_Series_Vol._3.png",
+      "sha256": "b66fcbdba824406843aac07f6f7cb319097059434aea56d235bd2e00d08b5890",
+      "bytes": 397420,
+      "width": 400,
+      "height": 767,
+      "identityReviewed": true,
+      "visibleIdentity": "PROMO-A / Vol. 3",
+      "review": "Direct visual review of complete downloaded pack wrapper; series and volume are both printed and matched. Native downloaded pixel dimensions retained, no local upscale/redraw.",
+      "sourcePage": "https://archives.bulbagarden.net/wiki/File:Promo_Pack_A_Series_Vol._3.png"
+    },
+    {
+      "set": "P-A",
+      "booster": "vol4",
+      "path": "/private/tmp/promo-abc-sources-20261104/pack-hq-audit/A-04.png",
+      "url": "https://archives.bulbagarden.net/media/upload/2/2d/Promo_Pack_A_Series_Vol._4.png",
+      "sha256": "08d4116c7b97cd3659063c544341287d5b06d03c9084e447adbf47e3fbbd0530",
+      "bytes": 119179,
+      "width": 444,
+      "height": 841,
+      "identityReviewed": true,
+      "visibleIdentity": "PROMO-A / Vol. 4",
+      "review": "Direct visual review of complete downloaded pack wrapper; series and volume are both printed and matched. Native downloaded pixel dimensions retained, no local upscale/redraw.",
+      "sourcePage": "https://archives.bulbagarden.net/wiki/File:Promo_Pack_A_Series_Vol._4.png"
+    },
+    {
+      "set": "P-A",
+      "booster": "vol5",
+      "path": "/private/tmp/promo-abc-sources-20261104/pack-hq-audit/A-05.png",
+      "url": "https://archives.bulbagarden.net/media/upload/6/6a/Promo_Pack_A_Series_Vol._5.png",
+      "sha256": "246cee627300f1e8ad3888438145ab0610a9e758ba32c8c06ca606660402532d",
+      "bytes": 384478,
+      "width": 400,
+      "height": 764,
+      "identityReviewed": true,
+      "visibleIdentity": "PROMO-A / Vol. 5",
+      "review": "Direct visual review of complete downloaded pack wrapper; series and volume are both printed and matched. Native downloaded pixel dimensions retained, no local upscale/redraw.",
+      "sourcePage": "https://archives.bulbagarden.net/wiki/File:Promo_Pack_A_Series_Vol._5.png"
+    },
+    {
+      "set": "P-A",
+      "booster": "vol6",
+      "path": "/private/tmp/promo-abc-sources-20261104/pack-hq-audit/A-06.png",
+      "url": "https://archives.bulbagarden.net/media/upload/d/da/Promo_Pack_A_Series_Vol._6.png",
+      "sha256": "410882896141aaf8689351b29bfda6cd984db4b47935c7fe572571e22e3108a1",
+      "bytes": 579140,
+      "width": 368,
+      "height": 694,
+      "identityReviewed": true,
+      "visibleIdentity": "PROMO-A / Vol. 6",
+      "review": "Direct visual review of complete downloaded pack wrapper; series and volume are both printed and matched. Native downloaded pixel dimensions retained, no local upscale/redraw.",
+      "sourcePage": "https://archives.bulbagarden.net/wiki/File:Promo_Pack_A_Series_Vol._6.png"
+    },
+    {
+      "set": "P-A",
+      "booster": "vol7",
+      "path": "/private/tmp/promo-abc-sources-20261104/pack-hq-audit/A-07.png",
+      "url": "https://archives.bulbagarden.net/media/upload/0/09/Promo_Pack_A_Series_Vol._7.png",
+      "sha256": "0e81ef9e8da70a3be46cf2ec8f4654b73a524ad5374479e4e4ada604fddbc94e",
+      "bytes": 522531,
+      "width": 528,
+      "height": 990,
+      "identityReviewed": true,
+      "visibleIdentity": "PROMO-A / Vol. 7",
+      "review": "Direct visual review of complete downloaded pack wrapper; series and volume are both printed and matched. Native downloaded pixel dimensions retained, no local upscale/redraw.",
+      "sourcePage": "https://archives.bulbagarden.net/wiki/File:Promo_Pack_A_Series_Vol._7.png"
+    },
+    {
+      "set": "P-A",
+      "booster": "vol8",
+      "path": "/private/tmp/promo-abc-sources-20261104/pack-hq-audit/A-08.png",
+      "url": "https://archives.bulbagarden.net/media/upload/c/c0/Promo_Pack_A_Series_Vol._8.png",
+      "sha256": "918b42fb00fbbe4e713aec89cb6d81149d004199275be609b431fd6fa1f43b21",
+      "bytes": 585357,
+      "width": 524,
+      "height": 990,
+      "identityReviewed": true,
+      "visibleIdentity": "PROMO-A / Vol. 8",
+      "review": "Direct visual review of complete downloaded pack wrapper; series and volume are both printed and matched. Native downloaded pixel dimensions retained, no local upscale/redraw.",
+      "sourcePage": "https://archives.bulbagarden.net/wiki/File:Promo_Pack_A_Series_Vol._8.png"
+    },
+    {
+      "set": "P-A",
+      "booster": "vol9",
+      "path": "/private/tmp/promo-abc-sources-20261104/pack-hq-audit/A-09.png",
+      "url": "https://archives.bulbagarden.net/media/upload/c/cd/Promo_Pack_A_Series_Vol._9.png",
+      "sha256": "c9a6958a8fb7090e20670a054b22403a66cf16a179f2067b2e0083853e4673c7",
+      "bytes": 471604,
+      "width": 475,
+      "height": 900,
+      "identityReviewed": true,
+      "visibleIdentity": "PROMO-A / Vol. 9",
+      "review": "Direct visual review of complete downloaded pack wrapper; series and volume are both printed and matched. Native downloaded pixel dimensions retained, no local upscale/redraw.",
+      "sourcePage": "https://archives.bulbagarden.net/wiki/File:Promo_Pack_A_Series_Vol._9.png"
+    },
+    {
+      "set": "P-A",
+      "booster": "vol10",
+      "path": "/private/tmp/promo-abc-sources-20261104/pack-hq-audit/A-10.png",
+      "url": "https://archives.bulbagarden.net/media/upload/7/7e/Promo_Pack_A_Series_Vol._10.png",
+      "sha256": "c23c32be229eaa309021bf7367dc62c4c97b13fc1497ae1b484337a9d83e9923",
+      "bytes": 463295,
+      "width": 473,
+      "height": 893,
+      "identityReviewed": true,
+      "visibleIdentity": "PROMO-A / Vol. 10",
+      "review": "Direct visual review of complete downloaded pack wrapper; series and volume are both printed and matched. Native downloaded pixel dimensions retained, no local upscale/redraw.",
+      "sourcePage": "https://archives.bulbagarden.net/wiki/File:Promo_Pack_A_Series_Vol._10.png"
+    },
+    {
+      "set": "P-A",
+      "booster": "vol11",
+      "path": "/private/tmp/promo-abc-sources-20261104/pack-hq-audit/A-11.png",
+      "url": "https://archives.bulbagarden.net/media/upload/0/06/Promo_Pack_A_Series_Vol._11.png",
+      "sha256": "b0cc2c0807697220a2f2f5046f06fbc6542ba1b35a2797d66d4c87c5316c39a4",
+      "bytes": 442922,
+      "width": 478,
+      "height": 906,
+      "identityReviewed": true,
+      "visibleIdentity": "PROMO-A / Vol. 11",
+      "review": "Direct visual review of complete downloaded pack wrapper; series and volume are both printed and matched. Native downloaded pixel dimensions retained, no local upscale/redraw.",
+      "sourcePage": "https://archives.bulbagarden.net/wiki/File:Promo_Pack_A_Series_Vol._11.png"
+    },
+    {
+      "set": "P-A",
+      "booster": "vol12",
+      "path": "/private/tmp/promo-abc-sources-20261104/pack-hq-audit/A-12.png",
+      "url": "https://archives.bulbagarden.net/media/upload/5/56/Promo_Pack_A_Series_Vol._12.png",
+      "sha256": "e29fc810f00bb2cea730da9d594a1f4bf4d43ca4a19633312e7592a434aa240e",
+      "bytes": 476962,
+      "width": 457,
+      "height": 861,
+      "identityReviewed": true,
+      "visibleIdentity": "PROMO-A / Vol. 12",
+      "review": "Direct visual review of complete downloaded pack wrapper; series and volume are both printed and matched. Native downloaded pixel dimensions retained, no local upscale/redraw.",
+      "sourcePage": "https://archives.bulbagarden.net/wiki/File:Promo_Pack_A_Series_Vol._12.png"
+    },
+    {
+      "set": "P-A",
+      "booster": "vol13",
+      "path": "/private/tmp/promo-abc-sources-20261104/pack-hq-audit/A-13.png",
+      "url": "https://archives.bulbagarden.net/media/upload/b/b7/Promo_Pack_A_Series_Vol._13.png",
+      "sha256": "2da71bd08535bca25b1ce9a7621358e36a2399d670c58d2e2e3e933a02659d1c",
+      "bytes": 475948,
+      "width": 463,
+      "height": 886,
+      "identityReviewed": true,
+      "visibleIdentity": "PROMO-A / Vol. 13",
+      "review": "Direct visual review of complete downloaded pack wrapper; series and volume are both printed and matched. Native downloaded pixel dimensions retained, no local upscale/redraw.",
+      "sourcePage": "https://archives.bulbagarden.net/wiki/File:Promo_Pack_A_Series_Vol._13.png"
+    },
+    {
+      "set": "P-B",
+      "booster": "vol2",
+      "path": "/private/tmp/promo-abc-sources-20261104/pack-hq-audit/B-02.png",
+      "url": "https://archives.bulbagarden.net/media/upload/1/18/Promo_Pack_B_Series_Vol._2.png",
+      "sha256": "4390f284f5b98256ae1a7ded40f22577354e8b88ed9c2dc3642d0699b95ae117",
+      "bytes": 1305260,
+      "width": 822,
+      "height": 1574,
+      "identityReviewed": true,
+      "visibleIdentity": "PROMO-B / Vol. 2",
+      "review": "Direct visual review of complete downloaded pack wrapper; series and volume are both printed and matched. Native downloaded pixel dimensions retained, no local upscale/redraw.",
+      "sourcePage": "https://archives.bulbagarden.net/wiki/File:Promo_Pack_B_Series_Vol._2.png"
+    },
+    {
+      "set": "P-B",
+      "booster": "vol3",
+      "path": "/private/tmp/promo-abc-sources-20261104/pack-hq-audit/B-03.png",
+      "url": "https://archives.bulbagarden.net/media/upload/3/3f/Promo_Pack_B_Series_Vol._3.png",
+      "sha256": "884d46aee48a7c3a260315b44baaa44f3260a66678303f0f28b8bbf4aa0925f2",
+      "bytes": 1249769,
+      "width": 844,
+      "height": 1619,
+      "identityReviewed": true,
+      "visibleIdentity": "PROMO-B / Vol. 3",
+      "review": "Direct visual review of complete downloaded pack wrapper; series and volume are both printed and matched. Native downloaded pixel dimensions retained, no local upscale/redraw.",
+      "sourcePage": "https://archives.bulbagarden.net/wiki/File:Promo_Pack_B_Series_Vol._3.png"
+    },
+    {
+      "set": "P-B",
+      "booster": "vol4",
+      "path": "/private/tmp/promo-abc-sources-20261104/pack-hq-audit/B-04.png",
+      "url": "https://archives.bulbagarden.net/media/upload/8/8a/Promo_Pack_B_Series_Vol._4.png",
+      "sha256": "022d57ff81cb2342d93f6c84e31d516583bf91cf95f1ef64e0cedebf4a1d7a7a",
+      "bytes": 415692,
+      "width": 446,
+      "height": 853,
+      "identityReviewed": true,
+      "visibleIdentity": "PROMO-B / Vol. 4",
+      "review": "Direct visual review of complete downloaded pack wrapper; series and volume are both printed and matched. Native downloaded pixel dimensions retained, no local upscale/redraw.",
+      "sourcePage": "https://archives.bulbagarden.net/wiki/File:Promo_Pack_B_Series_Vol._4.png"
+    },
+    {
+      "set": "P-B",
+      "booster": "vol5",
+      "path": "/private/tmp/promo-abc-sources-20261104/pack-hq-audit/B-05.png",
+      "url": "https://archives.bulbagarden.net/media/upload/e/e3/Promo_Pack_B_Series_Vol._5.png",
+      "sha256": "a84a978b6dbf52236a3dcc7ba4b8ea27ab964f2f66c310dc9a4b613292670132",
+      "bytes": 479974,
+      "width": 441,
+      "height": 844,
+      "identityReviewed": true,
+      "visibleIdentity": "PROMO-B / Vol. 5",
+      "review": "Direct visual review of complete downloaded pack wrapper; series and volume are both printed and matched. Native downloaded pixel dimensions retained, no local upscale/redraw.",
+      "sourcePage": "https://archives.bulbagarden.net/wiki/File:Promo_Pack_B_Series_Vol._5.png"
+    },
+    {
+      "set": "P-B",
+      "booster": "vol6",
+      "path": "/private/tmp/promo-abc-sources-20261104/pack-hq-audit/B-06.png",
+      "url": "https://archives.bulbagarden.net/media/upload/c/cd/Promo_Pack_B_Series_Vol._6.png",
+      "sha256": "c2a5db90a79fc9eb49b59022ce9978d836e441b5117042d977764afc7ae40ac4",
+      "bytes": 1141445,
+      "width": 798,
+      "height": 1529,
+      "identityReviewed": true,
+      "visibleIdentity": "PROMO-B / Vol. 6",
+      "review": "Direct visual review of complete downloaded pack wrapper; series and volume are both printed and matched. Native downloaded pixel dimensions retained, no local upscale/redraw.",
+      "sourcePage": "https://archives.bulbagarden.net/wiki/File:Promo_Pack_B_Series_Vol._6.png"
+    },
+    {
+      "set": "P-B",
+      "booster": "vol7",
+      "path": "/private/tmp/promo-abc-sources-20261104/pack-hq-audit/B-07.png",
+      "url": "https://archives.bulbagarden.net/media/upload/e/e8/Promo_Pack_B_Series_Vol._7.png",
+      "sha256": "5a4af32eaddba716546f16029e32bf0f04bb57d0a43962c118560f55d5cbcf5c",
+      "bytes": 896742,
+      "width": 716,
+      "height": 1360,
+      "identityReviewed": true,
+      "visibleIdentity": "PROMO-B / Vol. 7",
+      "review": "Direct visual review of complete downloaded pack wrapper; series and volume are both printed and matched. Native downloaded pixel dimensions retained, no local upscale/redraw.",
+      "sourcePage": "https://archives.bulbagarden.net/wiki/File:Promo_Pack_B_Series_Vol._7.png"
+    },
+    {
+      "set": "P-B",
+      "booster": "vol8",
+      "path": "/private/tmp/promo-abc-sources-20261104/pack-hq-audit/B-08.png",
+      "url": "https://archives.bulbagarden.net/media/upload/f/fb/Promo_Pack_B_Series_Vol._8.png",
+      "sha256": "4075992adbabbae9759cc234226e448bbee5472964a16e233b11b8b78ff297fe",
+      "bytes": 1307405,
+      "width": 822,
+      "height": 1575,
+      "identityReviewed": true,
+      "visibleIdentity": "PROMO-B / Vol. 8",
+      "review": "Direct visual review of complete downloaded pack wrapper; series and volume are both printed and matched. Native downloaded pixel dimensions retained, no local upscale/redraw.",
+      "sourcePage": "https://archives.bulbagarden.net/wiki/File:Promo_Pack_B_Series_Vol._8.png"
+    },
+    {
+      "set": "P-B",
+      "booster": "vol9",
+      "path": "/private/tmp/promo-abc-sources-20261104/pack-hq-audit/B-09.png",
+      "url": "https://archives.bulbagarden.net/media/upload/0/0d/Promo_Pack_B_Series_Vol._9.png",
+      "sha256": "7c0df57850f3c68c5b445ef7d5cd1b2bc4032302e82b731d0681771a0fb798b0",
+      "bytes": 807449,
+      "width": 657,
+      "height": 1238,
+      "identityReviewed": true,
+      "visibleIdentity": "PROMO-B / Vol. 9",
+      "review": "Direct visual review of complete downloaded pack wrapper; series and volume are both printed and matched. Native downloaded pixel dimensions retained, no local upscale/redraw.",
+      "sourcePage": "https://archives.bulbagarden.net/wiki/File:Promo_Pack_B_Series_Vol._9.png"
+    },
+    {
+      "set": "P-B",
+      "booster": "vol10",
+      "path": "/private/tmp/promo-abc-sources-20261104/pack-hq-audit/B-10.png",
+      "url": "https://archives.bulbagarden.net/media/upload/4/4f/Promo_Pack_B_Series_Vol._10.png",
+      "sha256": "ca05aad2eeb19151818223872cfd89ca90eceab700ecd921775036263cc26dcc",
+      "bytes": 831057,
+      "width": 683,
+      "height": 1292,
+      "identityReviewed": true,
+      "visibleIdentity": "PROMO-B / Vol. 10",
+      "review": "Direct visual review of complete downloaded pack wrapper; series and volume are both printed and matched. Native downloaded pixel dimensions retained, no local upscale/redraw.",
+      "sourcePage": "https://archives.bulbagarden.net/wiki/File:Promo_Pack_B_Series_Vol._10.png"
+    }
+  ],
+  "sourcePages": [
+    "https://archives.bulbagarden.net/wiki/Category:Pok%C3%A9mon_TCG_Pocket_packs",
+    "https://archives.bulbagarden.net/wiki/Category:Promo-A",
+    "https://archives.bulbagarden.net/wiki/Category:Promo-B"
+  ],
+  "remaining": [
+    {
+      "set": "P-B",
+      "boosters": [
+        "vol11",
+        "vol12",
+        "vol13"
+      ],
+      "status": "higher-resolution complete wrapper not found in bounded search",
+      "evidence": [
+        {
+          "url": "https://archives.bulbagarden.net/wiki/Category:Promo-B",
+          "finding": "Only B1–10 complete wrapper files listed. B11–13 have logo files, which are not pack wrappers."
+        },
+        {
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Promo-B_(TCG_Pocket)",
+          "finding": "Pack artwork gallery ends at Vol10; later slots are unfilled placeholders."
+        },
+        {
+          "url": "https://tcgpocket.centropkmn.com/en_US/promo-b",
+          "finding": "Vol11 reuses generic pack2.png; Vol13 reuses pack3.png; Vol12 uses pack12.png. These are generic icon candidates and do not prove a numbered HD complete wrapper."
+        },
+        {
+          "url": "https://www.pokemon-zone.com/packs/",
+          "finding": "Lists B11–13 membership pages, but no independent complete numbered pack art link for those volumes."
+        }
+      ],
+      "searches": [
+        "\"Promo Pack B Series Vol. 11\" image",
+        "\"Promo Pack B Series Vol. 12\" image",
+        "\"Promo Pack B Series Vol. 13\" image"
+      ],
+      "existingSizes": {
+        "vol11": [
+          148,
+          251
+        ],
+        "vol12": [
+          256,
+          256
+        ],
+        "vol13": [
+          148,
+          251
+        ]
+      }
+    }
+  ],
+  "retained": [
+    {
+      "set": "P-A",
+      "booster": "vol1",
+      "reason": "Existing wiki source688x1320 exceeds Bulbagarden498x943."
+    },
+    {
+      "set": "P-A",
+      "booster": "vol2",
+      "reason": "Existing320x600 equals Bulbagarden listed320x600. Wiki A2 candidate fetch403, so no confirmed better source in this pass."
+    },
+    {
+      "set": "P-B",
+      "booster": "vol1",
+      "reason": "Existing717x1360 already same Bulbagarden source."
+    }
+  ],
+  "downloads": "Initial Python/curl403 results in download-manifest.json are rejected transport attempts, superseded by successful Chrome page fetch original bytes recorded here.",
+  "copyright": "Third-party archive mirrors official-game artwork; attribution is not a claim of publisher hosting or an open license."
+}

@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/012",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/012",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/012",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/012",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/012",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/012",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/012",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/012",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/012"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/012/9780cb521e3abe93",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/012/9780cb521e3abe93",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/012/9780cb521e3abe93",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/012/9780cb521e3abe93",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/012/9780cb521e3abe93",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/012/9780cb521e3abe93",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/012/9780cb521e3abe93",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/012/9780cb521e3abe93",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/012/9780cb521e3abe93"
     },
     name: {
         en: "Meowth",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "喵喵"
     },
     illustrator: "Shigenori Negishi",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     types: ["Colorless"],
     stage: "Basic",
@@ -39,7 +39,7 @@ const card: Card = {
                 'pt-br': "Dia de Pagamento",
                 ja: "ネコにこばん",
                 ko: "고양이돈받기",
-                "zh-tw": "發薪日"
+                "zh-tw": "聚寶功"
             },
             cost: ["Colorless"],
             damage: 10,
@@ -52,7 +52,7 @@ const card: Card = {
                 'pt-br': "Compre 1 carta.",
                 ja: "自分の山札を1枚引く。",
                 ko: "자신의 덱을 1장 뽑는다.",
-                "zh-tw": "畫一張卡片。"
+                "zh-tw": "從自己的牌庫抽出1張卡。"
             }
         }],
     hp: 60,
@@ -65,7 +65,7 @@ const card: Card = {
         'pt-br': "Tudo o que este Pokémon faz é dormir\ndurante o dia. À noite, patrulha seu\nterritório com seus olhos brilhantes.",
         ja: "昼間は 寝てばかりいる。 夜になると 目が 輝き 縄張りを 歩きまわる。",
         ko: "낮에는 거의 잠만 잔다.\n밤이 되면 눈을 반짝이며\n영역을 돌아다닌다.",
-        "zh-tw": "它所做的就是在白天睡覺。晚上，\n它眼睛發光，在自己的領地巡邏。"
+        "zh-tw": "白天一直都在睡覺。到了晚上眼睛就會發光，在自己的地盤徘徊。"
     },
     weaknesses: [{
             type: "Fighting",

@@ -2,16 +2,17 @@ import { Card } from "../../../interfaces";
 import Set from "../Promos-A";
 const card: Card = {
     set: Set,
+    boosters: [],
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/093",
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/093",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/093",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/093",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/093",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/093",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/093",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/093",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/093"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/093/d0f3edf767520953",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/093/d0f3edf767520953",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/093/d0f3edf767520953",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/093/d0f3edf767520953",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/093/d0f3edf767520953",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/093/d0f3edf767520953",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/093/d0f3edf767520953",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/093/d0f3edf767520953",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/093/d0f3edf767520953"
     },
     name: {
         en: "Cleffa",
@@ -31,12 +32,12 @@ const card: Card = {
     types: ["Psychic"],
     description: {
         en: "According to local rumors, Cleffa are often seen\nin places where shooting stars have fallen.",
-        "fr": "Selon les rumeurs locales, on voit souvent des Cleffa\ndans les endroits où des étoiles filantes sont tombées.",
-        "es": "Según los rumores locales, a menudo se ve a Cleffa\nen lugares donde han caído estrellas fugaces.",
-        "it": "Secondo voci locali, i Cleffa vengono visti spesso\nnei luoghi dove sono cadute le stelle cadenti.",
-        "de": "Lokalen Gerüchten zufolge wird Cleffa oft gesehen\nan Orten, an denen Sternschnuppen gefallen sind.",
-        "pt-br": "De acordo com rumores locais, Cleffa é frequentemente visto\nem lugares onde caíram estrelas cadentes.",
-        "zh-tw": "據當地傳聞，Cleffa 經常出現\n在流星墜落的地方。",
+        "fr": "On dit qu'il apparaît souvent là où se sont écrasées des météorites.",
+        "es": "Los lugareños rumorean que suele encontrarse en lugares donde han caído estrellas fugaces.",
+        "it": "Si dice che sia facile incontrarlo dove sono precipitate delle stelle cadenti.",
+        "de": "Man erzählt sich, dass überall dort besonders häufig Pii anzutreffen seien, wo einst eine Sternschnuppe eingeschlagen sei.",
+        "pt-br": "Segundo rumores locais, Cleffa são frequentemente vistos em locais onde caíram estrelas cadentes.",
+        "zh-tw": "根據當地的傳說，皮寶寶經常出沒的地方就是流星隕落之處。",
         ja: "ピィを よく 見かける 場所は 流れ星が 落ちた 場所と 地元では うわさ されている。",
         ko: "삐가 자주 보이는 장소는\n별똥별이 떨어진 장소라고\n그 고장에서 소문이 돈다."
     },
@@ -44,23 +45,23 @@ const card: Card = {
     attacks: [{
             name: {
                 en: "Twinkly Call",
-                "fr": "Appel scintillant",
-                "es": "Llamada centelleante",
-                "it": "Chiamata scintillante",
-                "de": "Funkelnder Anruf",
-                "pt-br": "Chamada cintilante",
-                "zh-tw": "閃爍的召喚",
+                "fr": "Appel qui Brille",
+                "es": "Llamada Centelleante",
+                "it": "Chiamata Sbrilluccicante",
+                "de": "Funkelruf",
+                "pt-br": "Chamado Brilhante",
+                "zh-tw": "閃閃呼喚",
                 ja: "きらきらコール",
                 ko: "반짝반짝콜"
             },
             effect: {
                 en: "Put a random Pokémon from your deck into your hand.",
-                "fr": "Mettez un Pokémon aléatoire de votre deck dans votre main.",
-                "es": "Pon un Pokémon aleatorio de tu mazo en tu mano.",
-                "it": "Metti nella tua mano un Pokémon casuale dal tuo mazzo.",
-                "de": "Nimm ein zufälliges Pokémon aus deinem Deck auf deine Hand.",
-                "pt-br": "Coloque um Pokémon aleatório do seu baralho na sua mão.",
-                "zh-tw": "從你的牌組中隨機將一隻神奇寶貝放入你的手牌。",
+                "fr": "Ajoutez au hasard un Pokémon de votre deck à votre main.",
+                "es": "Pon 1 Pokémon aleatorio de tu baraja en tu mano.",
+                "it": "Prendi un Pokémon a caso dal tuo mazzo e aggiungilo alle carte che hai in mano.",
+                "de": "Nimm 1 zufälliges Pokémon aus deinem Deck auf deine Hand.",
+                "pt-br": "Coloque 1 Pokémon aleatório do seu baralho na sua mão.",
+                "zh-tw": "從自己的牌庫隨機將1張寶可夢卡加入手牌。",
                 ja: "自分の山札からポケモンをランダムに1枚、手札に加える。",
                 ko: "자신의 덱에서 포켓몬을 랜덤으로 1장 패로 가져온다."
             }

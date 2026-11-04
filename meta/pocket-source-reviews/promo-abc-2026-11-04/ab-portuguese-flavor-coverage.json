@@ -1,0 +1,1792 @@
+[
+  {
+    "cardId": "P-A-009",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Quando está com raiva, descarrega\nimediatamente a energia armazenada\nnas bolsas em suas bochechas.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "1d4d01478566210739ac7b76cb02b4b0b4188d84a40af0b0dc895f3df23278c2",
+    "sourceImageBytes": 313336
+  },
+  {
+    "cardId": "P-A-010",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Foi criado por cientistas através de anos\nde experimentos genéticos terríveis com\nmanipulação de DNA.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "0f2f04119b9932296ce78d5059412535efca52fac8b2e8ac0bf2a4424a49b42f",
+    "sourceImageBytes": 322528
+  },
+  {
+    "cardId": "P-A-011",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Este Pokémon gentil bota ovos bastante nutritivos\ne os compartilha com pessoas ou Pokémon feridos.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "1fcc97193a1d39c3cde8ae1aad8acbe98c8cf329eafb65441e21e7f7b792bbde",
+    "sourceImageBytes": 298129
+  },
+  {
+    "cardId": "P-A-012",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Tudo o que este Pokémon faz é dormir\ndurante o dia. À noite, patrulha seu\nterritório com seus olhos brilhantes.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "7dbc397a56ed1ccae2c460fc4ed3f02bb0c491d80cf4d27730b5ae9db5195911",
+    "sourceImageBytes": 270024
+  },
+  {
+    "cardId": "P-A-013",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Durante as batalhas, bate as asas muito rápido\npara liberar uma poeira altamente tóxica no ar.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "6bba93ba2e19d748bfc5849cb24c28d1286d3fdf337f0de10ca0527030e06c2e",
+    "sourceImageBytes": 270811
+  },
+  {
+    "cardId": "P-A-015",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Quando está com raiva, descarrega\nimediatamente a energia armazenada\nnas bolsas em suas bochechas.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "7f8089ef1802d86e7e64531ae5f33b52bae4ee98e8f97034692b8bbde39b0333",
+    "sourceImageBytes": 227212
+  },
+  {
+    "cardId": "P-A-016",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Acredita-se que a felicidade virá para aqueles\nque virem um grupo de Clefairy dançando sob\na lua cheia.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "f66609f64975c7d1ef8e476f631b521a8e5fd6b2ae58e01f4a0e0eec0345c4a2",
+    "sourceImageBytes": 272265
+  },
+  {
+    "cardId": "P-A-017",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Vive em grupo no topo de árvores.\nSe perde seu grupo de vista, a solidão\ndeixa este Pokémon furioso.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "d77c60dfa8089dcea0d65cf8c5cbc158354480bb72eceb81d27604d164e7fd2c",
+    "sourceImageBytes": 299630
+  },
+  {
+    "cardId": "P-A-018",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Sua planta floresce ao absorver energia solar,\npor isso este Pokémon vive em busca da luz do sol.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "4263154150b475cc862d491724520e005f4c22b575babb46550b7962a3271b77",
+    "sourceImageBytes": 409927
+  },
+  {
+    "cardId": "P-A-019",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Cria estrelas ninja de água comprimida.\nAo girá-las e atirá-las em alta velocidade,\nas estrelas podem dividir metais ao meio.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "7674d0a5410c54bf13878027b4bbee6543fcd73d5869f4bc44223a5984df1007",
+    "sourceImageBytes": 327142
+  },
+  {
+    "cardId": "P-A-020",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Gosta de se esconder no escuro e bater nos\nombros dos outros com sua mão gasosa.\nSeu toque causa arrepios que não acabam mais.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "7a06d958fe1f2d3b70461101ca3af23b41fdfc03f25492ebaa009f7d18e32710",
+    "sourceImageBytes": 246896
+  },
+  {
+    "cardId": "P-A-021",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Ao cavar o chão, absorve vários objetos rígidos,\ntornando o seu corpo extremamente sólido.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "2bab2ea759ba4e9444d2d8e7ade3c09ff3b9f1462dd57a62f16926fe8b19e40f",
+    "sourceImageBytes": 317985
+  },
+  {
+    "cardId": "P-A-022",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Quando seus enormes olhos ficam pesados,\ncanta uma melodia misteriosa e relaxante,\nfazendo com que os inimigos adormeçam.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "0660308cf5e83a25283daff0f6a25a70858029afda8e50b91019c636b65bedaf",
+    "sourceImageBytes": 259436
+  },
+  {
+    "cardId": "P-A-023",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Este Pokémon já nasce com uma semente\nnas costas. Aos poucos, a semente cresce.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "5a292c0eb96c83ff833089375cb2b0c9edbf65ff9c83f4d99e08cbc8c71e1178",
+    "sourceImageBytes": 262104
+  },
+  {
+    "cardId": "P-A-024",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "As ondas eletromagnéticas emitidas pelas\nunidades nas laterais de sua cabeça geram\nantigravidade, o que faz com que ele possa flutuar.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "fa5d5430ef582e6ac27749fcc393d76daaa50871791887d5070944d2bf2369f5",
+    "sourceImageBytes": 205941
+  },
+  {
+    "cardId": "P-A-026",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Quando está com raiva, descarrega\nimediatamente a energia armazenada\nnas bolsas em suas bochechas.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "405982d05b4577d3c47fad1bf445d59fcdcc2e0062a5eff89250d430fad73cea",
+    "sourceImageBytes": 298768
+  },
+  {
+    "cardId": "P-A-027",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Quando exposto à luz solar, seus movimentos tornam-se mais\nrápidos. Ele usa as trepadeiras com mais destreza que suas mãos.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "413ec458ae5cfab250d1328abb043322ddb690443533fe3ae6b5527e4870492d",
+    "sourceImageBytes": 281865
+  },
+  {
+    "cardId": "P-A-028",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Seu corpo em chamas faz com que seja impopular em partes quentes\ndo mundo. Mas, em lugares frios, Volcarona é reverenciado como\numa personificação do sol.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "26dfd7d24e77286540034c0748c266780f29f77f1d99b16c998a884faf1ac6fb",
+    "sourceImageBytes": 283403
+  },
+  {
+    "cardId": "P-A-029",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Esmaga seus inimigos com seu corpo pesado\naté que desmaiem. Quando está em apuros,\nse esconde dentro do seu casco.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "5c94874602a09310fea73b47c3bd45f47106023deaa87efaabeb54ffadded6dc",
+    "sourceImageBytes": 366704
+  },
+  {
+    "cardId": "P-A-030",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Sua capacidade de evoluir para muitas formas\npermite que se adapte fácil e perfeitamente\na qualquer ambiente.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "67db6c426f38f948334693c7fcf581043caa91d961af497c631b6911ff86fb58",
+    "sourceImageBytes": 279777
+  },
+  {
+    "cardId": "P-A-031",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Seu corpo secreta um óleo que este Pokémon\nespalha sobre seu ninho para protegê-lo de poeira.\nCinccino não suporta nem um grãozinho de sujeira.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "5b86cd0c45d160f5502c70f46051072e021c749332b235e6792b66a8c6654c76",
+    "sourceImageBytes": 253641
+  },
+  {
+    "cardId": "P-A-032",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Prefere coisas quentes. Quando chove, dizem\nque solta vapor pela ponta de sua cauda.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "a1313cd1b5bfe6d83d6c50562f7017340e0ddaba1bfe94c3ce33f47e5e02b69d",
+    "sourceImageBytes": 298853
+  },
+  {
+    "cardId": "P-A-033",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Ao retrair o pescoço longo para dentro\ndo seu casco, lança um jato de água\nmuito poderoso.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "e2ef03c392f034b982647090658dc788324d5ea88796d372a6cde3898e0e48d1",
+    "sourceImageBytes": 289115
+  },
+  {
+    "cardId": "P-A-034",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Estes Pokémon não gostam que tomem conta deles.\nÉ muito difícil criar laços com eles,\npois não costumam obedecer aos seus Treinadores.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "73caa357f8fdd84b3a89326f2303018a00a080fedf63fa1fd5259367d2633609",
+    "sourceImageBytes": 340867
+  },
+  {
+    "cardId": "P-A-035",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Usa o corpo todo para fazer fotossíntese ao se expor\nà luz do sol. Seu casco é feito de solo endurecido.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "a5beab4c0f254ae1b0e240f59a6a4d7db186c47a492473ac9cebd8e88eee29e5",
+    "sourceImageBytes": 255372
+  },
+  {
+    "cardId": "P-A-036",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "A quantidade de energia elétrica que este Pokémon\nproduz é proporcional à sua pulsação. A voltagem\naumenta drasticamente quando Electivire está batalhando.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "e1d913aeb130186016d79c186491304a232cdaec51490e7f861cfe6083da2664",
+    "sourceImageBytes": 245319
+  },
+  {
+    "cardId": "P-A-038",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Este Pokémon assusta pessoas no meio da noite.\nAcumula o medo para usar como energia.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "d10322ec87af2928045ea2850324aa6644483bcaa3a5845ebe15a3ee1793e6f7",
+    "sourceImageBytes": 262128
+  },
+  {
+    "cardId": "P-A-039",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "As pessoas forjam espadas com as penas que caíram\nde Skarmory, por isso, a imagem deste Pokémon é\num elemento popular em brasões.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "eba10eb6665031b61ceb35e750abd386bf74cb82b1ccc43ad865a5e3df96c680",
+    "sourceImageBytes": 320340
+  },
+  {
+    "cardId": "P-A-040",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Sua cauda flamejante é alimentada pelos gases\ngerados em seu estômago.\nNem mesmo a chuva consegue apagar o fogo.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "6e2dfb4c5df13d0bf37d9f97170e618eb3a9cf37a66c2a5a83d2c891780976db",
+    "sourceImageBytes": 284924
+  },
+  {
+    "cardId": "P-A-041",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Sua casca parece ser cheia de alegria e dizem que\ncompartilha a boa sorte quando é tratado com carinho.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "b05002ea631f82a8bf1f00a1bea08508e6aabccf951b3a278f5c1c5618c81c32",
+    "sourceImageBytes": 296854
+  },
+  {
+    "cardId": "P-A-043",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Após absorver uma grande quantidade de luz solar,\nCherrim assume esta forma. Enquanto estiver assim, fica\ncheio de energia, e seu vigor permanece até o cair do sol.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "903de96077dd2513a5896d0246fdb3b9ee3e01a814da3358e20a53df87840c55",
+    "sourceImageBytes": 232407
+  },
+  {
+    "cardId": "P-A-044",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Sua cauda descarrega a eletricidade\nno solo, protegendo-o contra choques.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "f85babbb9ae2badd73a7b9c41222608abbc8a703b5dab220ae561bee3cd1aac0",
+    "sourceImageBytes": 280453
+  },
+  {
+    "cardId": "P-A-045",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Este Pokémon move-se 3 centímetros por ano,\nmas quando está em uma enrascada, gira e perfura o solo\nem questão de segundos.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "3074550fbc0242ee1c3afa4363120286cef4c8c5719b7b352807f0ddb28de38d",
+    "sourceImageBytes": 326535
+  },
+  {
+    "cardId": "P-A-046",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Esconde-se em cavernas e quando presas ou inimigos\npassam, sai e os devora. A força do seu ataque às vezes\nquebra seus dentes.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "375104405507e3c224eb49ba51c746d6cd32a7b53c81892b3087c92903bb1460",
+    "sourceImageBytes": 389041
+  },
+  {
+    "cardId": "P-A-047",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Quando um Staravia evolui para Staraptor,\ndeixa o bando para viver sozinho. Têm asas robustas.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "6a47c1b8785f38fe4fc584c59a0b38b9858dc90a9afaf3c0578f15c9522fb188",
+    "sourceImageBytes": 297779
+  },
+  {
+    "cardId": "P-A-048",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Ele nasce com um poder extraordinário\nque o permite se ligar a qualquer tipo de Pokémon.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "7aa881bfeefc406953a7fa1dbcccf322b61f07653f2ab35a4f992bf5d142d0e9",
+    "sourceImageBytes": 300115
+  },
+  {
+    "cardId": "P-A-049",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Não se satisfaz a menos que coma mais de\n400 kg de alimentos todos os dias. Quando\ntermina de comer, dorme imediatamente.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "31678a05670d243769b342ef88d8019029f95aa9dd34ec775b06c2e470d340a9",
+    "sourceImageBytes": 269034
+  },
+  {
+    "cardId": "P-A-051",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Aparentemente, Cyclizar permite que as pessoas o\nmontem desde os tempos antigos. Representações deste\nato foram encontradas em murais com mais de 10.000 anos.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "acc1926a162b03f1b58eacf1953551ed8550718e58b9352dfe600b51a82ef808",
+    "sourceImageBytes": 303015
+  },
+  {
+    "cardId": "P-A-052",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "A composição de seu pelo fofinho é semelhante\nà das plantas. Este Pokémon lava o rosto frequentemente\npara evitar que fique ressecado.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "27bf65ee835f017d5e17f1762e66747b153a35f740e12f04b17cf6d7aaa7e182",
+    "sourceImageBytes": 248428
+  },
+  {
+    "cardId": "P-A-053",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Com sua bolsa de flutuação inflada, pode transportar\npessoas nas costas. Esvazia a bolsa antes de mergulhar.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "86f70e645991c222ac3ccfcbe03442afe0b0c1762e10b7ef9a9440384c0758b1",
+    "sourceImageBytes": 308440
+  },
+  {
+    "cardId": "P-A-054",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Este Pokémon costuma demorar para reagir, mas quando\nentra na batalha, derrota seus oponentes\ncom golpes na velocidade da luz.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "88007a2b289fbce38f27b551ba20897d5dc1af0d52e106f45bdebb4874260ed5",
+    "sourceImageBytes": 320559
+  },
+  {
+    "cardId": "P-A-055",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Ele balança velozmente seus quatro braços para\natingir seus oponentes com socos e pancadas\nincessantes de todos os ângulos.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "daecd160132bc3ce37c648ab271cc40910bc8100369f345f495382499f157f68",
+    "sourceImageBytes": 307952
+  },
+  {
+    "cardId": "P-A-056",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Desloca a própria mandíbula para engolir presas\nmaiores que si mesmo. Depois de uma refeição,\nse enrosca e descansa.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "f1ca5166375d82aee4a5100ef8c06e348ac49b1e975d2a419e04c128efec3d0a",
+    "sourceImageBytes": 297248
+  },
+  {
+    "cardId": "P-A-057",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Com nervos de aço, nada pode perturbá-lo.\nÉ mais ágil e ativo do que parece.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "8af05bf4ec64e58a922acde4c40d5a491839e85b954bed0e215666afa9cfbe88",
+    "sourceImageBytes": 283384
+  },
+  {
+    "cardId": "P-A-058",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "É um dos tipos de Pokémon com bolsas elétricas\nnas bochechas. Ele dispara cargas de sua cauda.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "6976986ee2a2b913a5641c462955f7af07cdd293e5005fb5e87e8b6aa87f76d7",
+    "sourceImageBytes": 231302
+  },
+  {
+    "cardId": "P-A-059",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Eles comunicam-se uns com os outros usando suas auras.\nSão capazes de correr a noite inteira.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "7205dd6c37acaa03cd31780a18c128a3fe8523900c37710b1a6ffc48187b03f8",
+    "sourceImageBytes": 283354
+  },
+  {
+    "cardId": "P-A-060",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Apesar de parecer só um monte de ovos, é um Pokémon\nde verdade. Exeggcute se comunica com outros de sua\nespécie por meio de telepatia.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "4802eb294915196068a3db253fca3b6f717a998b49bfb779589b7d2cfd7d6c3b",
+    "sourceImageBytes": 266547
+  },
+  {
+    "cardId": "P-A-061",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Liberam bolhas flexíveis do peito e das costas.\nAs bolhas reduzem os danos que sofreriam\nao serem atacados.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "8db2b295e32c101a9e9aee19bf52605b44db1197db512aa0e670635c627ca54c",
+    "sourceImageBytes": 300769
+  },
+  {
+    "cardId": "P-A-062",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "O caule que este Pokémon carrega em suas asas\nserve como uma espada para cortar seus oponentes.\nEm situações difíceis, ele também pode servir como alimento.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "befcdd916b5fb8cfd36ef5ae2dd37bc90aedfe7a36b56943f468165b099aaf5d",
+    "sourceImageBytes": 283318
+  },
+  {
+    "cardId": "P-A-063",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Ele vive na camada de ozônio muito acima das nuvens\ne não pode ser visto do solo.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "853f83463ff8b869fa3caf041ff0c1d245c955d5ccdc2581c4114f5c3dbec429",
+    "sourceImageBytes": 301719
+  },
+  {
+    "cardId": "P-A-066",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Este Pokémon vive em lugares escuros livres da luz do sol.\nQuando aparece diante de humanos, esconde-se sob\num pano parecido com Pikachu.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "770c4bd01fd6317c2a472ca39bb5dce3a9acea586113be43cc61f7b0bbcd19f5",
+    "sourceImageBytes": 309350
+  },
+  {
+    "cardId": "P-A-067",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Seu corpo indefeso e gasoso pode ser carregado por\nbrisas leves, mas Cosmog não parece se importar muito.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "2b764dc4454e954dd796b193e451791166a97b44682664a89cc4456b59ea9e56",
+    "sourceImageBytes": 263672
+  },
+  {
+    "cardId": "P-A-068",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Lycanroc ataca suas presas com seus caninos\ne garras afiadas. Obedece lealmente às instruções\nde um Treinador em quem confia.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "10b65b96c369ca20a894733f97ea74dd5db6f26f065bc84167c5106c82621bc7",
+    "sourceImageBytes": 302286
+  },
+  {
+    "cardId": "P-A-069",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "A luz solar escaldante revelou a verdadeira forma\ne os poderes deste Pokémon.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "d884caf0a4629980a82750f525659ae48eb1fe33cc3a6f4e564b081afa8bb353",
+    "sourceImageBytes": 277220
+  },
+  {
+    "cardId": "P-A-070",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Uma divindade vive nas montanhas nevadas que são o lar\ndeste Pokémon. Em tempos antigos, foi venerado como\na encarnação dessa divindade.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "f0c688dfb7d017dfe7e6b570520963cd1c9e018a0b5ca4b93edfe45ebcd0fd3e",
+    "sourceImageBytes": 348018
+  },
+  {
+    "cardId": "P-A-071",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Este Pokémon esmurra árvores e come as frutas que\ncaem, treinando e conseguindo comida ao mesmo tempo.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "d29bb8265abcf42bdacdbe250dcda4ca792491788a9542062899eefb7f76b917",
+    "sourceImageBytes": 278376
+  },
+  {
+    "cardId": "P-A-072",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Há cerca de cem deles vivendo no lixão de Alola.\nEles todos trabalham duro e comem muito lixo.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "046dc4541e405169b2031b5feff3399765eac2bb2cba3c7fbfcd90d9024c4bf5",
+    "sourceImageBytes": 281422
+  },
+  {
+    "cardId": "P-A-073",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Batem os bicos com outros de sua espécie\npara se comunicar. A quantidade e a força das bicadas\ndemonstram como estão se sentindo.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "551b8a479c017d11ef32b0e4ab05bbb854e828808c3f414de657f97f24f2c62c",
+    "sourceImageBytes": 300143
+  },
+  {
+    "cardId": "P-A-074",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Eletrifica suas garras e despedaça seus oponentes. Mesmo que seus oponentes desviem, eles serão eletrocutados pelas centelhas no ar.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "27133a3f266ea6421d04ea2a276ef50594183bc133ef9786bc0cb3facd6c4db4",
+    "sourceImageBytes": 323043
+  },
+  {
+    "cardId": "P-A-075",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "O corpo desta Ultracriatura é fino como papel e afiado como uma espada.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "cc103ef8cc0521cbaba5b02fe45683bb2468078badabfaf8fa04d3c302c32d95",
+    "sourceImageBytes": 268990
+  },
+  {
+    "cardId": "P-A-076",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Aproxima-se sorrateiramente das pessoas e explode subitamente a própria cabeça. Parece que é um tipo de Ultracriatura.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "54670285d36528dad79b323b8695e84b40772191c825bda2df499c896a42dc32",
+    "sourceImageBytes": 287821
+  },
+  {
+    "cardId": "P-A-077",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Embora seja um alienígena e um perigo para este mundo, parece ser um organismo comum no mundo onde vive normalmente.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "0f6e679ca1005b3e6b8359162b92c00b13588d37fbff47630f34fb2def93dbce",
+    "sourceImageBytes": 259976
+  },
+  {
+    "cardId": "P-A-078",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Nesta forma, Lunala não tem mais vontade própria. Necrozma tem o controle absoluto e expele toda a sua energia continuamente.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "be36dbfbb101e5f76a19c4a277cfe10eb37bc2547ca427bbe8e122246073b422",
+    "sourceImageBytes": 299320
+  },
+  {
+    "cardId": "P-A-079",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Esta é sua forma enquanto devora a luz de Solgaleo. Atira-se nos seus oponentes e os corta com suas garras sem dó ou piedade.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "61e11a40efe9645faad0f874b625ed093b3dba9b4dfc108a84eba0d68306cd19",
+    "sourceImageBytes": 326195
+  },
+  {
+    "cardId": "P-A-080",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Surgiram de uma Ultrafenda Espacial. Cada um parece ser composto de várias formas de vida empilhadas uma sobre a outra.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "7dc57df35bfc1cb2933775dcddf13d09344e77ddf521f37c0e7ccc1153f2eb53",
+    "sourceImageBytes": 314819
+  },
+  {
+    "cardId": "P-A-082",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Esta Ultracriatura é admirada o bastante para ser escolhida como parceiro inicial em seu próprio mundo.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "2bb1fd5ae827f3d7981d69a3e5b2bfb6cddca66c312bae798ca499070930badb",
+    "sourceImageBytes": 306473
+  },
+  {
+    "cardId": "P-A-083",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "O seu pelo fofinho é uma delícia de acariciar, mas tocá-lo sem muito cuidado pode resultar em uma retaliação dolorosa.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "b0b1a6fc746f834d2222abafbe76f8946c45387eed8655795df4e5ef2c8a9fee",
+    "sourceImageBytes": 271900
+  },
+  {
+    "cardId": "P-A-085",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Por ser incapaz de sobreviver em regiões quentes, expira ar gelado para fazer nevar e tornar o ambiente ao seu redor mais confortável. Enterra-se na neve para dormir.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "2628d35992ea1f2b99320a40fbf77dc4a3adf30f2bd4feddaae9ed01797b3638",
+    "sourceImageBytes": 277959
+  },
+  {
+    "cardId": "P-A-086",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Ele concentra as cargas elétricas fracas emitidas por suas células e lança raios elétricos enfeitiçados.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "52aaaf4f67ae08a0bec6c1024857461e62a5591b3b7486f909c0b33afe2a3b2f",
+    "sourceImageBytes": 228243
+  },
+  {
+    "cardId": "P-A-087",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Quando confia em um Treinador, oferece frutas decoradas com chantili.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "bb3453b2db7261706cd6730341ebcdfd93ea6a83d6e5956023d8d44cc3a156e8",
+    "sourceImageBytes": 337913
+  },
+  {
+    "cardId": "P-A-088",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Dizem que, se o seu corpo inteiro emitir uma aura, o clima começará a mudar instantaneamente.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "bd445c68d59828f93bbe0cc8e4ec33b98b39bcbc3b7f0a944034c453d122543c",
+    "sourceImageBytes": 278605
+  },
+  {
+    "cardId": "P-A-089",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Este Pokémon tem um bom coração. Audino pode avaliar os sentimentos e as condições físicas de outras criaturas ao tocá-las com suas antenas.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "648fde2c27941c73c6b6e2d4fb22f673d2db6f3d8fc0c647c886659d6cfa47cf",
+    "sourceImageBytes": 254137
+  },
+  {
+    "cardId": "P-A-090",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Com os pelos compridos em suas costas, este Pokémon absorve a eletricidade de outros Pokémon elétricos. Armazena o que absorve em uma bolsa elétrica.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "452aebf22c102fb61f74892d28d9c8035792be3a26b5ba6a6145fde2f60b2f34",
+    "sourceImageBytes": 332622
+  },
+  {
+    "cardId": "P-A-091",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Este Pokémon carrega montes de frutas caídas colocando-as em sua cauda, que tem praticamente o dobro do tamanho do seu corpo.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "f48f6aeda9b69c5e6ab5208114301deb7855a0160d6da58764d88794b5b57d79",
+    "sourceImageBytes": 277819
+  },
+  {
+    "cardId": "P-A-092",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Sua capacidade de evoluir para muitas formas permite que se adapte fácil e perfeitamente a qualquer ambiente.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "04429aad9c39ccf5f8f1bcdd7f9cce53f5ee2eb13406aed381b7f6765c78cff5",
+    "sourceImageBytes": 274736
+  },
+  {
+    "cardId": "P-A-093",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Segundo rumores locais, Cleffa são frequentemente vistos em locais onde caíram estrelas cadentes.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "20c30db997522bcb18593bbeabc961952b5db5044a9f78563d1a6b386af73eac",
+    "sourceImageBytes": 262985
+  },
+  {
+    "cardId": "P-A-094",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Horsea vive em oceanos com correntezas tranquilas. Quando está sob ataque, este Pokémon cospe tinta preta e escapa.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "ecd959e8e862873199eca12f0c22dc347d0ee8bbcccade161f136a1e19cbef88",
+    "sourceImageBytes": 301850
+  },
+  {
+    "cardId": "P-A-095",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Suas antenas, que evoluíram de uma barbatana, possuem cargas positivas e negativas fluindo entre elas.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "0b7a3a5bb57d592f7951bf7dd70a366f23d4e056a5407619ab843b118dfd43c9",
+    "sourceImageBytes": 264308
+  },
+  {
+    "cardId": "P-A-096",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Se você for queimado pelas chamas disparadas de sua boca, a dor nunca passará.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "19bea4741d1aae2b6ef160d6badee4e452c9434e766cf3f98f5a62dfcfbd420d",
+    "sourceImageBytes": 300440
+  },
+  {
+    "cardId": "P-A-097",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Apesar de carregar seu bebê na bolsa em sua barriga, Kangaskhan é veloz. Intimida seus oponentes com golpes rápidos.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "6f87292b7b8ac3e5a1d2b6fea8033f5920cdab7364ad8cd47c6278432b1f356a",
+    "sourceImageBytes": 288617
+  },
+  {
+    "cardId": "P-A-099",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "A sua pelagem repele água naturalmente. Pode brincar na água por horas sem se molhar.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "a85249e60f6954c86174ce94c2a74959fb8d8ec96a096d314f2600c583052301",
+    "sourceImageBytes": 320739
+  },
+  {
+    "cardId": "P-A-100",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "A evolução o tornou ainda mais malandro. Ele se comunica ao riscar sinais nas rochas.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "31090c58fb969eeaf3584d6069842a9d13c6dbfc4986e94d57f5dd19fb67971e",
+    "sourceImageBytes": 298577
+  },
+  {
+    "cardId": "P-A-101",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Comunica-se telepaticamente. Seu corpo é coberto por um pelo fino que refrata luz para fazer Latias ficar invisível.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "b97ff5a7e43ea97bb09641e09a1ac43fc80a4d4cd6d4d0d2f36817d421e91b2b",
+    "sourceImageBytes": 336926
+  },
+  {
+    "cardId": "P-A-102",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Vive em florestas tropicais. O cacho em seu pescoço dá frutas deliciosas duas vezes por ano.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "68050650ded531060e6d67899cb9cf68ef00ecdee8f5b6c04d1426411d69c004",
+    "sourceImageBytes": 290751
+  },
+  {
+    "cardId": "P-A-103",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Para Poliwag, nadar é mais fácil do que andar. A espiral em sua barriga é, na verdade, parte dos órgãos deste Pokémon que pode ser vista através de sua pele.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "b4d93249fab322aede6c50b2c558a74baa791ad48c264b0da95527646d726e81",
+    "sourceImageBytes": 264880
+  },
+  {
+    "cardId": "P-A-104",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Milotic foi a fonte de inspiração de vários artistas. Dizem que é o Pokémon mais bonito de todos.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "0da65872b5144e5bcce9566704ba51e93d019816c2c91db62e2c82037085c192",
+    "sourceImageBytes": 317439
+  },
+  {
+    "cardId": "P-A-105",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Ele muda para as formas de outros para surpreendê-los. Aparentemente, transforma-se com frequência em uma criança quieta.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "d9b1b04138dd1b9d4b50d9c31ce540d02c621fbcb0d85a66581f634e069c8939",
+    "sourceImageBytes": 315735
+  },
+  {
+    "cardId": "P-A-106",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Dizem as lendas que aqueles que tentaram capturar Zoroark foram aprisionados em uma ilusão e punidos.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "4fe951b888c52199ea0a4bff2fddfc5fd328af7a3f9db74eb1d2bc0b46d6c480",
+    "sourceImageBytes": 323730
+  },
+  {
+    "cardId": "P-A-107",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Miltank produzem um tipo de leite altamente nutritivo, que sustenta as vidas de pessoas e de outros Pokémon desde a antiguidade.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "0efab766e3c5ce520b80a2145ae725a048d0825f33b966a8d013ab0f6a6acaef",
+    "sourceImageBytes": 288199
+  },
+  {
+    "cardId": "P-A-108",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Este Pokémon vive e constrói seu ninho nas margens dos rios. Depois de brincar na lama, não sossega até se lavar direito.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "ae6fd2acddf0e8722ec60c3459ccd2ea6fb9041cdf017efac30ed0ed6e82aecc",
+    "sourceImageBytes": 303307
+  },
+  {
+    "cardId": "P-A-111",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Quando está com raiva, descarrega\nimediatamente a energia armazenada\nnas bolsas em suas bochechas.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "9c0d5385412599378288619119a95034dd4d15791b0a0c66ba7ff5baa9d31ad8",
+    "sourceImageBytes": 221285
+  },
+  {
+    "cardId": "P-A-113",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Este Pokémon vive em lugares escuros livres da luz do sol. Quando aparece diante de humanos, esconde-se sob um pano parecido com Pikachu.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "dc7be5073e74815fffc6cbcdf31ca9b01610961db171a29c4c331ad7ac31d162",
+    "sourceImageBytes": 289552
+  },
+  {
+    "cardId": "P-A-114",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Ele balança velozmente seus quatro braços para\natingir seus oponentes com socos e pancadas\nincessantes de todos os ângulos.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "64742ec66b29e9621627f08a68d9514c7e1e85af6fafd5672fb530cfed2e73f4",
+    "sourceImageBytes": 307869
+  },
+  {
+    "cardId": "P-A-115",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Diz-se que criaram Pokémon parecidos com eles mesmos\nde uma montanha de gelo especial, rochas e magma.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "90c8432ed81ea4dc68b44d2efc799c1a7e06e4720e5f6db8a1e7943d96b5d98a",
+    "sourceImageBytes": 280741
+  },
+  {
+    "cardId": "P-A-116",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Pode dissolver toxinas no ar para instantaneamente\ntransformar terras arruinadas em campos\nde flores deslumbrantes.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "42d09397d7cee4e83a33174a09440db2e7da8ddd10cbe4c107573cbaad8468f6",
+    "sourceImageBytes": 296497
+  },
+  {
+    "cardId": "P-A-117",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Absol dispara por campos e montanhas, rápido como o vento. Seu chifre arqueado é altamente sensível aos sinais de desastres naturais.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "cfdac6784bde69ef43472af74fc28f2971c5e2a2579401c1bb73592e44b9b774",
+    "sourceImageBytes": 303354
+  },
+  {
+    "cardId": "P-B-001",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Quando está com raiva, descarrega\nimediatamente a energia armazenada\nnas bolsas em suas bochechas.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "28eabb3d13261e27cfa717eb0700b75c2ced5bbe7e2aecf7a8553ec7c5724398",
+    "sourceImageBytes": 279016
+  },
+  {
+    "cardId": "P-B-002",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Se as folhas em sua cabeça forem podadas regularmente, este Pokémon pode crescer com um elegante formato rechonchudo.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "679aa5e41471559d5f907d7b7feae47950b8a02baed9cdf178e532b7a019d003",
+    "sourceImageBytes": 287928
+  },
+  {
+    "cardId": "P-B-003",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Protege sua pele cobrindo seu corpo com bolhas delicadas. Por trás do seu ar alegre e despreocupado, mantém um olhar atento sobre os arredores.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "e11d30139888fd09a58936da01d01022dcb9956d99b4c1c7a6be02805db1cfd0",
+    "sourceImageBytes": 282701
+  },
+  {
+    "cardId": "P-B-004",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "A habilidade do Luxray de ver através dos objetos é muito útil quando confere se há perigos.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "65308dada6638e46cb424e5eb53b31d6b68bea342ba23144fb96c0ab0cb8b779",
+    "sourceImageBytes": 245206
+  },
+  {
+    "cardId": "P-B-005",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "É dócil e prefere evitar conflitos. No entanto, quando é perturbado, pode contra-atacar ferozmente.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "a621a46f71d0efb0bbef86594c34f7edb4c129c04f830ca90dffae1b7137bd73",
+    "sourceImageBytes": 283140
+  },
+  {
+    "cardId": "P-B-007",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Um fogo queima em seu interior. Por isso, abraçá-lo é tão quente. Lança bolas de fogo de mais de 900 °C.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "023e94e7bab4e36bc5a4e17000047440411e5068125b24523fa57c4df592702e",
+    "sourceImageBytes": 245141
+  },
+  {
+    "cardId": "P-B-008",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Exibe poderes estranhos quando sua dor de cabeça crônica piora, mas não consegue lembrar esses episódios.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "845ab5f2aa81d89305707766356e9da745eea910a702babcf5e8a6479619677d",
+    "sourceImageBytes": 295804
+  },
+  {
+    "cardId": "P-B-010",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Carregam pessoas e Pokémon, mas o vento pode os capturar, então não pode haver um destino fixo.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "3fabf21490a3c730b618bf896af341ef2d77c5342f94878f9b0f07b56a6cc93b",
+    "sourceImageBytes": 263943
+  },
+  {
+    "cardId": "P-B-011",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Seu código genético é irregular. Fica suscetível a mutações caso seja exposto à radiação de pedras elementares.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "cc824e5c2be734f1045965daf2ab1366ca83e2b616893d07fdef8e317f273607",
+    "sourceImageBytes": 293812
+  },
+  {
+    "cardId": "P-B-012",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "É capaz de recombinar sua própria estrutura celular para se transformar em outras formas de vida.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "7faef30ae8c30016504cddd3764e293f5fb355915131e39831929e00302df722",
+    "sourceImageBytes": 312547
+  },
+  {
+    "cardId": "P-B-013",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Seu latido magnífico transmite um quê de majestade. Qualquer um que o ouvir não resiste e curva-se perante a ele.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "6eef2295407ea09d57b4ce3e1e23cb55414116b31b57c62479b4a2a44e7b801e",
+    "sourceImageBytes": 278750
+  },
+  {
+    "cardId": "P-B-014",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "No passado distante, era um pouco mais forte do que os descendentes terrivelmente fracos que existem hoje.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "082771b5e0fa479d93fc816c1e0f84f2da53e6d5e94f826999c10b06ca433236",
+    "sourceImageBytes": 305346
+  },
+  {
+    "cardId": "P-B-015",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Seu pelo cresce sem parar. No verão, perde toda a sua lã, mas ela cresce de volta em uma semana.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "261112a68e2854b4b07c3f5879baf79f39b359c29808e003268e4d2a7b201e25",
+    "sourceImageBytes": 201709
+  },
+  {
+    "cardId": "P-B-016",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Sua faculdade única de vista pode detectar presas pequenas a mais de 45 quilômetros, mesmo no meio de uma tempestade de areia.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "9d2a0f96e177a457727033c9e87a67cd4d61b6982b0c8cfa82cf7602d0edcb56",
+    "sourceImageBytes": 292434
+  },
+  {
+    "cardId": "P-B-017",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Não consegue relaxar quando ele ou o ambiente não estão limpos. Ele esfrega a sujeira com as asas para removê-la.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "9fd66de31936a7c7e3264967770f8d8098b4f5245f8ad327c15641a05468adc7",
+    "sourceImageBytes": 286540
+  },
+  {
+    "cardId": "P-B-018",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Um único Heliolisk tomando banho de sol com\nsuas cristas abertas consegue produzir energia\no suficiente para abastecer uma cidade inteira.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "8a8ec58452b7c9611f8635c899b16c80a8a9be5699ae82155e2fb212febac7bb",
+    "sourceImageBytes": 228097
+  },
+  {
+    "cardId": "P-B-019",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Buneary podem atacar enrolando suas orelhas e desferindo a força criada ao desenrolá-las. Ao treinar, consegue fortalecer ainda mais esse ataque.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "6e14d0c609c5c719484a320c8d0824115b7cec66be6f27aca6aaa593e8f40c88",
+    "sourceImageBytes": 285232
+  },
+  {
+    "cardId": "P-B-020",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Se esse Pokémon ficar agitado durante batalhas, lançará chamas intensas incinerando tudo ao seu redor.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "992b5c1cbec2e4d0a3e1f246af4967cb0b400c7aa5947e9b2471111c820f8b19",
+    "sourceImageBytes": 294692
+  },
+  {
+    "cardId": "P-B-021",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Desloca-se rapidamente pelo solo a 80 km/h torcendo e balançando seu enorme e resistente corpo.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "d706ef6f9cd0f95e8c71f81fef4a628d8aa5efd1964c3b34434ce59af7c85275",
+    "sourceImageBytes": 290844
+  },
+  {
+    "cardId": "P-B-022",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Hawlucha vivem sossegadamente longe da muvuca. Lutam constantemente com seus inimigos naturais: os grupos de Primeape barulhentos.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "4ee1ec566373697af042703c9f6b8b2815a42bfb97462c88d4121294b38b5f5f",
+    "sourceImageBytes": 299614
+  },
+  {
+    "cardId": "P-B-023",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Esse Pokémon existiu há 300 milhões de anos. A Equipe Plasma o alterou e acoplou um canhão em suas costas.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "bf9466acdd1c08a01141df6515a041863da9ea25530f28d893383e8840b031e0",
+    "sourceImageBytes": 300831
+  },
+  {
+    "cardId": "P-B-025",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Diz-se que tem a capacidade de realizar qualquer desejo por apenas uma semana a cada mil anos.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "bf9ed4a62f0157a1aa49926616a7dbfdc052b307640321c5e71f7cf9f8cdb736",
+    "sourceImageBytes": 389584
+  },
+  {
+    "cardId": "P-B-026",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Ao utilizar sua grande barbatana, ganha velocidade rapidamente na água. É forte, apesar de seu pequeno porte.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "bec2bb685f55d15847285726f20f8266fade0907c389b61d2a345aba59e3f4e0",
+    "sourceImageBytes": 278254
+  },
+  {
+    "cardId": "P-B-027",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Este Pokémon absorve eletricidade de postes telefônicos e descarrega a energia armazenada em seu corpo em forma de sons.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "fad84cbbcd34f1903b2b59128d1de3bf1a23ea0fb3347682d05f2c985b612c76",
+    "sourceImageBytes": 249224
+  },
+  {
+    "cardId": "P-B-028",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Está altamente sintonizado com as emoções das pessoas e Pokémon. Esconde-se se pressentir hostilidade.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "f28240693947c6842fef89e98274e24c8cae4ef4a9cb91438c55f062f8b2f8b9",
+    "sourceImageBytes": 298418
+  },
+  {
+    "cardId": "P-B-030",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Tornadus expele energia massiva de sua cauda, causando tempestades severas. Seu poder é grande o bastante para arrastar casas.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "d292ed5688b87592085ba07e9ec945656aee343b1960197492057d184686f5fb",
+    "sourceImageBytes": 294498
+  },
+  {
+    "cardId": "P-B-031",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Com a sua bola de fogo, Cinderace cega os oponentes e os mantém bem longe.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "d8eaa83e1e4ffdc812a809a2b102c63bfc83e18b3e56b2a86af66466c4826bf9",
+    "sourceImageBytes": 289035
+  },
+  {
+    "cardId": "P-B-032",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Quando o clima está quente, este Pokémon cria cacos de gelo com suas seis caudas e os espalha para se refrescar.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "61b6f4e4df5182d709b7e3931f91716a5c827431a5c538d888b73d62bb1af79c",
+    "sourceImageBytes": 302292
+  },
+  {
+    "cardId": "P-B-033",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Suas pernas fortes permitem que nade facilmente até mesmo em rios de correnteza rápida. Gosta de deixar tudo arrumadinho e costuma pensar demais nas coisas.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "e9b58312db6b314c5b2455d8f958385f8491774b82cb60627267e8b674572ac9",
+    "sourceImageBytes": 329971
+  },
+  {
+    "cardId": "P-B-034",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Este Pokémon transforma nutrientes em óleo, que fica armazenado no fruto da sua cabeça. Pode facilmente passar uma semana sem comer ou beber nada.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "22a0bcf3d348c4dcf1daedf75d88a094aecc7bf11ac9bc619edfc2026f05c3e2",
+    "sourceImageBytes": 277475
+  },
+  {
+    "cardId": "P-B-035",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Seu poder de fogo aumenta quando batalha, atingindo mais de 1.000 °C. Gosta de frutas ricas em gordura.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "8e7ae35dee3fe4b0083cd26463622ca59efdf569376e56d05f4c0fec99438c62",
+    "sourceImageBytes": 294983
+  },
+  {
+    "cardId": "P-B-036",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Tatsugiri é um Pokémon extremamente astuto. Demonstra fraqueza para atrair suas presas e, então, coloca seu parceiro para atacar.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "f8634c7f029a77f6e5bf25f6c553236f4f5c5b910e58a5db15f2a17203bbde4f",
+    "sourceImageBytes": 329779
+  },
+  {
+    "cardId": "P-B-037",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Este Pokémon vive em florestas e áreas escarpadas. Usando o poder de sua barbatana dorsal, resfria seu ninho da mesma forma que um refrigerador.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "618ce6c825264649ae34902a44b6a9d9508ba188a810956c856cb1e01c71386e",
+    "sourceImageBytes": 282088
+  },
+  {
+    "cardId": "P-B-038",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "O seu martelo chega a pesar 100 kg. Apesar disso, Tinkaton sai com ele por aí como se não fosse nada, roubando o que lhe convém e levando tudo pra casa.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "420dcc299fea658990a26cf7bc2c415be64961c97010deab38e8a4507910da72",
+    "sourceImageBytes": 303237
+  },
+  {
+    "cardId": "P-B-039",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "As almofadas em suas patas são órgãos que disparam eletricidade. Pawmi lança eletricidade de suas patas dianteiras enquanto tenta se equilibrar em suas patas traseiras.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "adf803bf572e2ee6d74d7df96072d5c9d94d22e1c3f6323d8b69e28a8ea8f147",
+    "sourceImageBytes": 262404
+  },
+  {
+    "cardId": "P-B-040",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Vive no fundo de lagoas e pântanos. Carrega Wooper em suas costas e os transporta pela água de uma margem à outra.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "e1f72f394a22f2e096454cb40972cc568a883a96a384a090f54f1187a3007e65",
+    "sourceImageBytes": 287330
+  },
+  {
+    "cardId": "P-B-042",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Está sempre distraidamente perdido em pensamentos, mas ninguém sabe o que ele está pensando. Tem muita habilidade em pescar com a cauda.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "5f1e43a6b05cc3f4e0b3d41b3eee8ccff57228d461b95cd758cc971587597558",
+    "sourceImageBytes": 228847
+  },
+  {
+    "cardId": "P-B-043",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Armazena eletricidade em seu pelo. Dispara faíscas de seu corpo para todos os lados quando o ar está seco.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "a438e50d14b6c43f4e82267beca0f5064317570c1efe5c6839cf6057a462be9e",
+    "sourceImageBytes": 222708
+  },
+  {
+    "cardId": "P-B-044",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "A parte de aço é o corpo verdadeiro de Varoom. Este Pokémon prende-se às rochas e converte os minerais existentes em energia para abastecer suas atividades.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "8a7809b81f15f4fd56b2864a4e119b26e516512add385f15e30b751c57ebd0b0",
+    "sourceImageBytes": 279921
+  },
+  {
+    "cardId": "P-B-045",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Atordoa seus inimigos com suas presas vultosas, que são afiadas o bastante para partir uma torre de transmissão de metal com apenas um golpe.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "0bb2cfb4a39a4246757b7f4f82f3bc34f5927c409a50135e3924c291a28ea2f0",
+    "sourceImageBytes": 299279
+  },
+  {
+    "cardId": "P-B-046",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Pode aprender e pronunciar palavras humanas. Quando se juntam, todos aprendem as mesmas palavras.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "8d46d3e5113b86a80befacd061a0a8193ab9d4db836a1e3162f07627268b37aa",
+    "sourceImageBytes": 274002
+  },
+  {
+    "cardId": "P-B-047",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Seu corpo é feito de gás. Apesar da falta de consistência, pode envolver um oponente de qualquer tamanho e causar sufocamento.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "c570e51aa4ddde3b9fe4d7b55342d35ff98b062ebefd00e1c5b5d266186fef93",
+    "sourceImageBytes": 293675
+  },
+  {
+    "cardId": "P-B-048",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "A pelagem densa e macia que cobre seu corpo é tão agradável que é impossível não querer tocá-la o tempo todo.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "46973b94a054354f43b4f4c7164ecd851c2e78cae3c55ec199a6acef7b2c07e7",
+    "sourceImageBytes": 283648
+  },
+  {
+    "cardId": "P-B-049",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Quando compartilha a energia infinita que cria, o corpo inteiro do outro ser irradia poder.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "b51fded2af811cb8e75821fc7da8b5a477c6f6523e8babd55028adf948468c44",
+    "sourceImageBytes": 304711
+  },
+  {
+    "cardId": "P-B-050",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Suas melodias são cantadas com um método de vocalização especial que é capaz de controlar os sentimentos daqueles que as ouvem.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "bf6e9f7edfa50b8984ced7befb8f166e31e104dcf8d351eb0c2623cba7b70486",
+    "sourceImageBytes": 273195
+  },
+  {
+    "cardId": "P-B-051",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Esta forma especializada em combates a curta distância nasce quando cerca de 10% das células de Zygarde se reúnem de todas as partes.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "8230a11910121d3c574fadb1aa7ee460a8db3c95af3a851a3b97878ba57840c1",
+    "sourceImageBytes": 274171
+  },
+  {
+    "cardId": "P-B-052",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Dizem que este Pokémon pode assumir uma forma ainda mais poderosa quando batalha contra aqueles que ameaçam a natureza.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "f6d1c2ef9bcdce726cfa190bb5592cceb7713554792ba51f2af00a476bb2df70",
+    "sourceImageBytes": 300841
+  },
+  {
+    "cardId": "P-B-054",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Seu código genético é irregular. Fica suscetível a mutações caso seja exposto à radiação de pedras elementares.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "2de5544550fca31a32f7df91cd39f0a3117b45827fffdcd14b85f36612a32dad",
+    "sourceImageBytes": 264039
+  },
+  {
+    "cardId": "P-B-057",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Castform muda a sua forma ao tomar banho de sol. Quando você toca a sua pele brilhante, ela parece ressecada!",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "8b23150b5c076d745bc4296ae43ab8d9b94b7aec3097eff9ea5a9edf11c03c1d",
+    "sourceImageBytes": 271373
+  },
+  {
+    "cardId": "P-B-058",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Este Pokémon é muito glutão. Usa seu excelente faro para encontrar comida, depois a cozinha até ficar bem torrada antes de comer.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "7923df99d34a2596e0c1fc5e01ca6c02380f20a8ce593cc1d933d0b0c7541513",
+    "sourceImageBytes": 273029
+  },
+  {
+    "cardId": "P-B-059",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Costuma viver em pedras, mas quando não encontra nenhuma, Dwebble pode se mudar para as cavidades no casco de Hippowdon.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "923aa1556f6c0ef64be5869c32d91ff1459f5248ff235c74d82b6acf3720be7e",
+    "sourceImageBytes": 278992
+  },
+  {
+    "cardId": "P-B-060",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Ao se soltarem do corpo de Zarude, seus cipós se tornam nutrientes para o solo, ajudando as plantas da floresta a crescer.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "09caa9b690984faf72a9169d6f7098c0f36dde897906c6b93ae7de2e4f829f77",
+    "sourceImageBytes": 315619
+  },
+  {
+    "cardId": "P-B-061",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Treecko consegue escalar superfícies verticais com facilidade. Usa a cauda para sentir a umidade do ar e prever o clima do dia seguinte.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "ff3df7cd301a30c135da2defc60963b4f7e8ea7c697630d3f55b5338d9c58ec8",
+    "sourceImageBytes": 285467
+  },
+  {
+    "cardId": "P-B-062",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Quando tenta proteger alguém, estende os cotovelos como se eles fossem espadas e luta de forma selvagem.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "565bbb3edb0735ed3b8bdf822810cebeb036fdb051971936657a19eec386c550",
+    "sourceImageBytes": 312063
+  },
+  {
+    "cardId": "P-B-064",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Seu poder de fogo aumenta quando batalha, atingindo mais de 1.000 °C. Gosta de frutas ricas em gordura.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "1dd193685aae1efbec7836987cc6f4bd00321cdf3ed41b117153ca95f39e6507",
+    "sourceImageBytes": 271692
+  },
+  {
+    "cardId": "P-B-065",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "A composição das suas células é semelhante às moléculas da água. Como resultado, ele não pode ser visto quando se derrete na água.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "927773f21cab93d1dcfd54e3890c515768e239a41249d260259741baecce26e6",
+    "sourceImageBytes": 307453
+  },
+  {
+    "cardId": "P-B-067",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Qualquer lasca em suas lâminas pode ser fatal para este Pokémon. Depois de cada batalha, Pawniard cuida meticulosamente de suas lâminas com sua pedra de amolar favorita.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "e6fb41e5226d8b0dd7c081617544de0940632230eeea8ccb891730153aef1c97",
+    "sourceImageBytes": 323209
+  },
+  {
+    "cardId": "P-B-068",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Espanta os inimigos de seu ninho enchendo seus longos pulmões de ar e soprando tudo em um jato intenso.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "9801fa629457f924908921707e36522f30b8d8623229977c09e124583be03deb",
+    "sourceImageBytes": 295037
+  },
+  {
+    "cardId": "P-B-069",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "A rigidez do pelo de Floragato depende do humor do Pokémon. Quando Floragato está pronto para a batalha, seu pelo fica arrepiado e pontiagudo.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "e8ea0e9fd4a491dbc799f38f74fadbdf29a5c243fe1e82acb7e7047c62935145",
+    "sourceImageBytes": 284010
+  },
+  {
+    "cardId": "P-B-070",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Materiais de joias que este Pokémon come flutuam para a superfície do seu corpo e podem formar uma variedade infinita de padrões entre indivíduos diferentes.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "1a82f75eab2db7ee969421924522a204d618e1eb30aa03d33520e37e6a0b9ba6",
+    "sourceImageBytes": 306071
+  },
+  {
+    "cardId": "P-B-071",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Exibe poderes estranhos quando sua dor de cabeça crônica piora, mas não consegue lembrar esses episódios.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "41cca086a46ac78fd69da49ea22d4e8439fdbbc1e09d216539eb732babba2fbe",
+    "sourceImageBytes": 292777
+  },
+  {
+    "cardId": "P-B-072",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "É o Pokémon mais desgastado de todos. Forma cardumes e vive no leito de rios repletos de plantas.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "a7250bf4bc216907025e2d7e9163c8ce30c1204fb94f408068a97ae6c6f60329",
+    "sourceImageBytes": 329825
+  },
+  {
+    "cardId": "P-B-073",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Congela a presa assoprando a uma temperatura de -50 °C. Dizem que mostra secretamente sua presa.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "aa6f75f643a71e4888095a01d6f3d104dc8ff9c1501ed74e93724b4a0180de02",
+    "sourceImageBytes": 313334
+  },
+  {
+    "cardId": "P-B-074",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Se as bolsas elétricas de suas bochechas atingem carga completa, suas duas orelhas levantam.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "348801cb1f7b82492846d4b9d8b9a05bbb0f92170913ab6e615eb7932dbad469",
+    "sourceImageBytes": 215219
+  },
+  {
+    "cardId": "P-B-075",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Com sua postura despreocupada e descontraída, muitas vezes bate sua cabeça em pedras no leito do rio e em cascos de barcos enquanto nada.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "b1616e300fc17558d749563da8495c19d2983ad450da0f9d231934438dd437e7",
+    "sourceImageBytes": 305631
+  },
+  {
+    "cardId": "P-B-076",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Uma alma que partiu deste mundo e voltou à vida em Hisui. Seu poder é oriundo do rancor, que se converte em energia no topo de sua cabeça e toma a forma de seus inimigos. Desta maneira, Zorua se liberta da malícia persistente.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "d6d48ae7f460b8497082406c50a9146e5ad4c617342cffcfc86c45e6280bf5b9",
+    "sourceImageBytes": 295867
+  },
+  {
+    "cardId": "P-B-077",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "É muito amigável e fiel às pessoas. Tentará repelir inimigos com latidos e mordidas.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "1be7aaf518fdc3a120bb8ebf546296683dc4f5773ee537fe69a82fbab6f17a9f",
+    "sourceImageBytes": 297503
+  },
+  {
+    "cardId": "P-B-078",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Esse Pokémon adora frutas doces. Às vezes, ele fica com as bochechas tão cheias de comida que mal consegue voar direito.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "4ac90170c35aff4660e1ed28c6eefa6645f25ac6535e1febc3ced30f6c068969",
+    "sourceImageBytes": 227672
+  },
+  {
+    "cardId": "P-B-081",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Esses Pokémon têm presas afiadas e mandíbulas poderosas. Marinheiros evitam covis de Carvanha a todo custo.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "7ee2bf002ff10d3ba5db019d739778b596a6c7e0c68789b279a422b45c6a5624",
+    "sourceImageBytes": 306792
+  },
+  {
+    "cardId": "P-B-088",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "As foices afiadas em seus antebraços se tornam cada vez mais afiadas ao cortarem objetos duros.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "ff14ba9b72e885e8108e9136b88b940f7a12be32407725c0280d94550486724e",
+    "sourceImageBytes": 296290
+  },
+  {
+    "cardId": "P-B-089",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Muito inteligente e capaz de entender a fala humana, adora nadar no mar com pessoas em suas costas.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "daa8f128c3085ff25b16afb267125c15a8ba31d6ad47a13c8d74aca5a2e92ed1",
+    "sourceImageBytes": 300259
+  },
+  {
+    "cardId": "P-B-090",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Pega carona com os ventos oceânicos como se fosse um planador. No inverno, esconde alimento ao redor do seu ninho.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "b5050590bcf2c943027b3b26c408c32e6949b21990931c8c68d0a9b241a41991",
+    "sourceImageBytes": 289716
+  },
+  {
+    "cardId": "P-B-091",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Para manter sua cauda preta oculta, vive discretamente na escuridão. Ele nunca é o primeiro a atacar.",
+    "decision": "corrected-to-native",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "d4e0a766efac594d53abde86bcb3bf0d9c3ad00f27a468789176a1dd41dd6fb3",
+    "sourceImageBytes": 278432
+  },
+  {
+    "cardId": "P-B-092",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Quando este Pokémon evoluiu, o crânio de sua mãe se fundiu a ele. Ao mesmo tempo, o temperamento de Marowak se tornou cruel.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "39398388542f50faaeea1178b8b6465fff6e20554cde160bdf453aa50b712865",
+    "sourceImageBytes": 295339
+  },
+  {
+    "cardId": "P-B-093",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Galhos servem de lanche para Fennekin. Quando mastiga esses galhos, toma coragem para enfrentar inimigos fortes.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "9958ec96c48e00a46076b01fd52174469d4d805aa05ba7d4186eabbd31d1deb0",
+    "sourceImageBytes": 278343
+  },
+  {
+    "cardId": "P-B-094",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "O modelo dos globos oculares no interior das suas orelhas emite energia psíquica. O modelo é mantido coberto porque esse poder é grande demais.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "7ecaa1fd2bde3cdd4ac3e172fbac144a25fde68006620d3484647e1f5822246b",
+    "sourceImageBytes": 279882
+  },
+  {
+    "cardId": "P-B-095",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Causa um sono profundo e cheio de pesadelos em pessoas e Pokémon para afugentá-los de seu território.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "bc062e0443388d34e85b0df546d6cf19940477543ddd28ea75e83bbeed955d6c",
+    "sourceImageBytes": 365120
+  },
+  {
+    "cardId": "P-B-096",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "O líder, mais conhecido como comandante, usa seus chifres extensíveis para mandar ordens aos outros quando chega a hora de mudar de formação.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "0f42f5b805ccac93389a96ee84646332c56078b6e094350e5cea4c0c579a1c4c",
+    "sourceImageBytes": 311864
+  },
+  {
+    "cardId": "P-B-097",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Faz ninhos em buracos horizontais que são aquecidos pelo calor geotérmico. Inimigos que se aproximam demais serão atacados e mordidos.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "96bdc8ba8f633d3167228af9c5a59fbb57b9f711f7fa488f4a9fa6fa0540dcf1",
+    "sourceImageBytes": 256106
+  },
+  {
+    "cardId": "P-B-098",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Adora objetos cintilantes. Ele procura tesouros nas cavernas e armazena os saques em seu ninho.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "dcb847a8e33fbbac013cca85903a2a3b480cc9a6d2f5e7c687fba1f9ac244a66",
+    "sourceImageBytes": 298340
+  },
+  {
+    "cardId": "P-B-100",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "É muito popular entre Treinadoras por causa do seu pelo sublime. Não faz ninho.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "c77371419437bcb5baa157e50a4b2f48aafb3591e2d45572f76f233ed5767352",
+    "sourceImageBytes": 272330
+  },
+  {
+    "cardId": "P-B-101",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Se Charmander estiver saudável, a chama na ponta da sua cauda queimará vigorosamente e não apagará mesmo que fique um pouco molhada.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "94cf44de289c5226d436423e909b67a2dab8f292cd58b178c4da7fd9b8c3cb46",
+    "sourceImageBytes": 287515
+  },
+  {
+    "cardId": "P-B-102",
+    "locale": "pt-br",
+    "path": "description",
+    "value": "Drampa é um Pokémon gentil e amigável... até se irritar. Quando isso acontece, evoca um vendaval e devasta tudo ao redor.",
+    "decision": "existing-native-confirmed",
+    "review": "All Brazilian Portuguese native A/B footer text compared in labeled three-times original crops; ambiguous fullart footer at A074/086/101/106 and B076 independently enlarged and read.",
+    "sourceImageSha256": "59d41a0b747a7bad027251636c34b6eca9d02e4fceb2471f0cd6cb19f01ff49d",
+    "sourceImageBytes": 290103
+  }
+]

@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/040",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/040",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/040",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/040",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/040",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/040",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/040",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/040",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/040"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/040/8f3fe62aea0e3b43",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/040/8f3fe62aea0e3b43",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/040/8f3fe62aea0e3b43",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/040/8f3fe62aea0e3b43",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/040/8f3fe62aea0e3b43",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/040/8f3fe62aea0e3b43",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/040/8f3fe62aea0e3b43",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/040/8f3fe62aea0e3b43",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/040/8f3fe62aea0e3b43"
     },
     name: {
         en: "Chimchar",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "小火焰猴",
     },
     illustrator: "sui",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     hp: 60,
     types: ["Fire"],
@@ -38,7 +38,7 @@ const card: Card = {
         'pt-br': "Sua cauda flamejante é alimentada pelos gases\ngerados em seu estômago.\nNem mesmo a chuva consegue apagar o fogo.",
         ja: "お尻の 炎は お腹で 作られた ガスが 燃料。 雨に ぬれても 消えない。",
         ko: "엉덩이의 불꽃은 배에서\n만들어진 가스가 연료다.\n비에 젖어도 꺼지지 않는다.",
-        "zh-tw": "它燃燒的後端由腹部產生的氣體提供燃料。\n即使下雨也無法撲滅大火。"
+        "zh-tw": "屁股上的火焰是以肚子裡產生的瓦斯為燃料。即使被雨淋到也不會熄滅。"
     },
     stage: "Basic",
     attacks: [{
@@ -51,7 +51,7 @@ const card: Card = {
                 'pt-br': "Arranhão",
                 ja: "ひっかく",
                 ko: "할퀴기",
-                "zh-tw": "划痕"
+                "zh-tw": "抓"
             },
             damage: 20,
             cost: ["Fire"]

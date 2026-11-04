@@ -4,16 +4,16 @@ import Set from "../Promos-A";
 const card: Card = {
 	set: Set,
 	image: {
-		en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/101",
-		de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/101",
-		es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/101",
-		fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/101",
-		it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/101",
-		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/101",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/101",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/101",
-		ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/101"
-	},
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/101/e739b188e623097c",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/101/e739b188e623097c",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/101/e739b188e623097c",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/101/e739b188e623097c",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/101/e739b188e623097c",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/101/e739b188e623097c",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/101/e739b188e623097c",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/101/e739b188e623097c",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/101/e739b188e623097c"
+    },
 	name: {
 		en: "Latias",
 		fr: "Latias",
@@ -32,12 +32,12 @@ const card: Card = {
 	types: ["Psychic"],
 	description: {
 		en: "It communicates using telepathy. Its body is\ncovered in down that refracts light to make\nit invisible.",
-		fr: "Il communique par télépathie. Son corps est\nrecouvert de duvet qui réfracte la lumière pour faire\nc'est invisible.",
-		es: "Se comunica mediante telepatía. Su cuerpo es\ncubierto de plumón que refracta la luz para hacer\nes invisible.",
-		it: "Comunica usando la telepatia. Il suo corpo lo è\nricoperto di piumino che rifrange la luce per fare\nè invisibile.",
-		de: "Es kommuniziert mittels Telepathie. Sein Körper ist\nMit Daunen bedeckt, die das Licht brechen\nes unsichtbar.",
-		"pt-br": "Ele se comunica por telepatia. Seu corpo é\ncoberto de penugem que refrata a luz para fazer\né invisível.",
-		"zh-tw": "它使用心靈感應進行交流。它的身體是\n覆蓋有折射光線的羽絨\n它是看不見的。",
+		fr: "Il est doué d'empathie. Le duvet qui recouvre son corps réfléchit la lumière et le rend invisible.",
+		es: "Se comunica por telepatía. Su plumaje refleja la luz, lo que le permite hacerse invisible.",
+		it: "Sa comunicare telepaticamente. Le piume sul suo corpo riflettono la luce e lo rendono invisibile.",
+		de: "Es kommuniziert durch Telepathie. Sein Daunenkleid bricht das Licht, sodass es unsichtbar wird.",
+		"pt-br": "Comunica-se telepaticamente. Seu corpo é coberto por um pelo fino que refrata luz para fazer Latias ficar invisível.",
+		"zh-tw": "能透過心靈感應交流情感。用能令光線折射的羽毛包裹身體來隱藏自己的樣子。",
 		ja: "テレパシーで 気持ちを 通わせる。 光を 屈折させる 羽毛で 体を 包み 姿を 消す。",
 		ko: "텔레파시로 마음이 통한다.\n빛을 굴절시키는 깃털로\n몸을 둘러싸 모습을 지운다."
 	},
@@ -46,12 +46,12 @@ const card: Card = {
 		{
 			name: {
 				en: "Crossing Flights",
-				fr: "Vols de traversée",
-				es: "Vuelos de cruce",
-				it: "Voli che attraversano",
-				de: "Kreuzungsflüge",
-				"pt-br": "Cruzando Voos",
-				"zh-tw": "過境航班",
+				fr: "Vols Croisés",
+				es: "Vuelo Cruzado",
+				it: "Volo Incrociato",
+				de: "Überkreuzflug",
+				"pt-br": "Voos Cruzados",
+				"zh-tw": "交錯飛行",
 				ja: "クロスフライト",
 				ko: "크로스 플라이트"
 			},
@@ -60,11 +60,11 @@ const card: Card = {
 			effect: {
 				en: "If Latios is on your Bench, this attack does 20 more damage.",
 				fr: "Si Latios est sur votre Banc, cette attaque inflige 20 dégâts supplémentaires.",
-				es: "Si Latios está en tu Banca, este ataque hace 20 daños más.",
+				es: "Si Latios está en tu Banca, este ataque hace 20 puntos de daño más.",
 				it: "Se Latios è nella tua panchina, questo attacco infligge 20 danni in più.",
-				de: "Wenn Latios auf deiner Bank ist, fügt dieser Angriff 20 Schadenspunkte mehr zu.",
-				"pt-br": "Se Latios estiver no seu banco, este ataque causará 20 de dano a mais.",
-				"zh-tw": "如果拉帝歐斯在你的替補席上，這次攻擊會造成 20 點額外傷害。",
+				de: "Wenn sich Latios auf deiner Bank befindet, fügt diese Attacke 20 Schadenspunkte mehr zu.",
+				"pt-br": "Se Latios estiver no seu Banco, este ataque causará 20 pontos de dano a mais.",
+				"zh-tw": "若自己的備戰區有「拉帝歐斯」,則增加20點傷害。",
 				ja: "自分のベンチに「ラティオス」がいるなら、20ダメージ追加。",
 				ko: "자신의 벤치에 「라티오스」가 있다면 20데미지를 추가한다."
 			}

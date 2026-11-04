@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "decisions": [
+    {
+      "cardId": "P-B-085",
+      "path": "attacks[0].effect",
+      "locale": "en",
+      "expectedCurrent": "Discard the top card of your deck, and if that card is an Item, this attack does 30 more damage.",
+      "value": "Discard the top card of your deck, and if that card is an Item, this attack does 20 more damage.",
+      "review": "Independently inspected nine native card faces. B085 adds 20 damage, B086 reduces Retreat Cost by 2. Old English canonical numeric values were wrong; Korean already correct and preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/085.ts",
+      "evidence": {
+        "sourceImageSha256": "226126577b9612bfd7c8fe1195cdcf84a35cdcabde9208f019971cfb7f1b7ecc",
+        "sourceImageBytes": 220488,
+        "review": "Independently inspected nine native card faces. B085 adds 20 damage, B086 reduces Retreat Cost by 2. Old English canonical numeric values were wrong; Korean already correct and preserved."
+      }
+    },
+    {
+      "cardId": "P-B-085",
+      "path": "attacks[0].effect",
+      "locale": "fr",
+      "expectedCurrent": "Défaussez la carte du dessus de votre deck. Si c'est une carte Objet, cette attaque inflige 30 dégâts supplémentaires.",
+      "value": "Défaussez la carte du dessus de votre deck. Si c'est une carte Objet, cette attaque inflige 20 dégâts supplémentaires.",
+      "review": "Independently inspected nine native card faces. B085 adds 20 damage, B086 reduces Retreat Cost by 2. Old English canonical numeric values were wrong; Korean already correct and preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/085.ts",
+      "evidence": {
+        "sourceImageSha256": "ac73be719e25d8699691c7c617627693c43c5efd8d2364f100091184ea030904",
+        "sourceImageBytes": 224627,
+        "review": "Independently inspected nine native card faces. B085 adds 20 damage, B086 reduces Retreat Cost by 2. Old English canonical numeric values were wrong; Korean already correct and preserved."
+      }
+    },
+    {
+      "cardId": "P-B-085",
+      "path": "attacks[0].effect",
+      "locale": "es",
+      "expectedCurrent": "Descarta la primera carta de tu baraja. Si es una carta de Objeto, este ataque hace 30 puntos de daño más.",
+      "value": "Descarta la primera carta de tu baraja. Si es una carta de Objeto, este ataque hace 20 puntos de daño más.",
+      "review": "Independently inspected nine native card faces. B085 adds 20 damage, B086 reduces Retreat Cost by 2. Old English canonical numeric values were wrong; Korean already correct and preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/085.ts",
+      "evidence": {
+        "sourceImageSha256": "132b970cb991830e0b225103ce4a099af7fdb5b385294988cf22bdc798da0398",
+        "sourceImageBytes": 222478,
+        "review": "Independently inspected nine native card faces. B085 adds 20 damage, B086 reduces Retreat Cost by 2. Old English canonical numeric values were wrong; Korean already correct and preserved."
+      }
+    },
+    {
+      "cardId": "P-B-085",
+      "path": "attacks[0].effect",
+      "locale": "pt-br",
+      "expectedCurrent": "Descarte a carta de cima do seu baralho e, se aquela carta for uma carta de Item, este ataque causará 30 pontos de dano a mais.",
+      "value": "Descarte a carta de cima do seu baralho e, se aquela carta for uma carta de Item, este ataque causará 20 pontos de dano a mais.",
+      "review": "Independently inspected nine native card faces. B085 adds 20 damage, B086 reduces Retreat Cost by 2. Old English canonical numeric values were wrong; Korean already correct and preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/085.ts",
+      "evidence": {
+        "sourceImageSha256": "34d29b1c54168d38c028d084bc33a40cd55a5493a1c11248cb580b3fe4d29351",
+        "sourceImageBytes": 225487,
+        "review": "Independently inspected nine native card faces. B085 adds 20 damage, B086 reduces Retreat Cost by 2. Old English canonical numeric values were wrong; Korean already correct and preserved."
+      }
+    },
+    {
+      "cardId": "P-B-085",
+      "path": "attacks[0].effect",
+      "locale": "zh-tw",
+      "expectedCurrent": "將自己的牌庫上方1張卡丟棄，若那張卡為物品卡，則增加30點傷害。",
+      "value": "將自己的牌庫上方1張卡丟棄，若那張卡為物品卡，則增加20點傷害。",
+      "review": "Independently inspected nine native card faces. B085 adds 20 damage, B086 reduces Retreat Cost by 2. Old English canonical numeric values were wrong; Korean already correct and preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/085.ts",
+      "evidence": {
+        "sourceImageSha256": "5e6a21e00bdf274da460b2614c894b4f1c3792fb31c5caa54cd79fe0e640729f",
+        "sourceImageBytes": 219419,
+        "review": "Independently inspected nine native card faces. B085 adds 20 damage, B086 reduces Retreat Cost by 2. Old English canonical numeric values were wrong; Korean already correct and preserved."
+      }
+    },
+    {
+      "cardId": "P-B-085",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "expectedCurrent": "自分の山札を上から1枚トラッシュし、そのカードがグッズなら、30ダメージ追加。",
+      "value": "自分の山札を上から1枚トラッシュし、そのカードがグッズなら、20ダメージ追加。",
+      "review": "Independently inspected nine native card faces. B085 adds 20 damage, B086 reduces Retreat Cost by 2. Old English canonical numeric values were wrong; Korean already correct and preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/085.ts",
+      "evidence": {
+        "sourceImageSha256": "d0ea652004b088180f0d802d0531133c8d4eba492adedfe7aa2e766a0f74267b",
+        "sourceImageBytes": 221332,
+        "review": "Independently inspected nine native card faces. B085 adds 20 damage, B086 reduces Retreat Cost by 2. Old English canonical numeric values were wrong; Korean already correct and preserved."
+      }
+    },
+    {
+      "cardId": "P-B-086",
+      "path": "abilities[0].effect",
+      "locale": "en",
+      "expectedCurrent": "If you have another Beldum in play, this Pokémon's Retreat Cost is 1 less.",
+      "value": "If you have another Beldum in play, this Pokémon's Retreat Cost is 2 less.",
+      "review": "Independently inspected nine native card faces. B085 adds 20 damage, B086 reduces Retreat Cost by 2. Old English canonical numeric values were wrong; Korean already correct and preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/086.ts",
+      "evidence": {
+        "sourceImageSha256": "d7ce4d038a913673175d84d35654dc63373c2afc6f4fb11f1bbea04b6d7542a0",
+        "sourceImageBytes": 314480,
+        "review": "Independently inspected nine native card faces. B085 adds 20 damage, B086 reduces Retreat Cost by 2. Old English canonical numeric values were wrong; Korean already correct and preserved."
+      }
+    },
+    {
+      "cardId": "P-B-086",
+      "path": "abilities[0].effect",
+      "locale": "fr",
+      "expectedCurrent": "Si vous avez un autre Terhal en jeu, le Coût de Retraite de ce Pokémon est diminué de 1.",
+      "value": "Si vous avez un autre Terhal en jeu, le Coût de Retraite de ce Pokémon est diminué de 2.",
+      "review": "Independently inspected nine native card faces. B085 adds 20 damage, B086 reduces Retreat Cost by 2. Old English canonical numeric values were wrong; Korean already correct and preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/086.ts",
+      "evidence": {
+        "sourceImageSha256": "12f8d100a51528cda002915d5e342a9c4f318a4231bac575106d5c6bd292c3ac",
+        "sourceImageBytes": 315115,
+        "review": "Independently inspected nine native card faces. B085 adds 20 damage, B086 reduces Retreat Cost by 2. Old English canonical numeric values were wrong; Korean already correct and preserved."
+      }
+    },
+    {
+      "cardId": "P-B-086",
+      "path": "abilities[0].effect",
+      "locale": "es",
+      "expectedCurrent": "Si tienes otro Beldum en juego, el Coste de Retirada de este Pokémon es de 1 menos.",
+      "value": "Si tienes otro Beldum en juego, el Coste de Retirada de este Pokémon es de 2 menos.",
+      "review": "Independently inspected nine native card faces. B085 adds 20 damage, B086 reduces Retreat Cost by 2. Old English canonical numeric values were wrong; Korean already correct and preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/086.ts",
+      "evidence": {
+        "sourceImageSha256": "e01330ba6a8a617f2c664b668e2461ff627dcc72beb1f175c7632669fb942499",
+        "sourceImageBytes": 316797,
+        "review": "Independently inspected nine native card faces. B085 adds 20 damage, B086 reduces Retreat Cost by 2. Old English canonical numeric values were wrong; Korean already correct and preserved."
+      }
+    },
+    {
+      "cardId": "P-B-086",
+      "path": "abilities[0].effect",
+      "locale": "pt-br",
+      "expectedCurrent": "Se você tiver outro Beldum em jogo, o Custo de Recuo deste Pokémon será 1 a menos.",
+      "value": "Se você tiver outro Beldum em jogo, o Custo de Recuo deste Pokémon será 2 a menos.",
+      "review": "Independently inspected nine native card faces. B085 adds 20 damage, B086 reduces Retreat Cost by 2. Old English canonical numeric values were wrong; Korean already correct and preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/086.ts",
+      "evidence": {
+        "sourceImageSha256": "02a1053f52e5461c8975fc036736840c87a2a7f54bc289c0af26f162a6a95f1a",
+        "sourceImageBytes": 314572,
+        "review": "Independently inspected nine native card faces. B085 adds 20 damage, B086 reduces Retreat Cost by 2. Old English canonical numeric values were wrong; Korean already correct and preserved."
+      }
+    },
+    {
+      "cardId": "P-B-086",
+      "path": "abilities[0].effect",
+      "locale": "zh-tw",
+      "expectedCurrent": "若自己的場上有其他的「鐵啞鈴」，則這隻寶可夢撤退所需的能量減少1個。",
+      "value": "若自己的場上有其他的「鐵啞鈴」，則這隻寶可夢撤退所需的能量減少2個。",
+      "review": "Independently inspected nine native card faces. B085 adds 20 damage, B086 reduces Retreat Cost by 2. Old English canonical numeric values were wrong; Korean already correct and preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/086.ts",
+      "evidence": {
+        "sourceImageSha256": "4cb939ed79d1494f2e0a86d73fbc39a848c054eb7f32283fd77746bb5e27a7ee",
+        "sourceImageBytes": 314623,
+        "review": "Independently inspected nine native card faces. B085 adds 20 damage, B086 reduces Retreat Cost by 2. Old English canonical numeric values were wrong; Korean already correct and preserved."
+      }
+    },
+    {
+      "cardId": "P-B-086",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "expectedCurrent": "自分の場に別の「ダンバル」がいるなら、このポケモンのにげるためのエネルギーを、1個少なくする。",
+      "value": "自分の場に別の「ダンバル」がいるなら、このポケモンのにげるためのエネルギーを、2個少なくする。",
+      "review": "Independently inspected nine native card faces. B085 adds 20 damage, B086 reduces Retreat Cost by 2. Old English canonical numeric values were wrong; Korean already correct and preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/086.ts",
+      "evidence": {
+        "sourceImageSha256": "c4a367e3f970a8953de5f08417cac8a2fe8a8a68d6438bdde91db4c0c4fe1b2a",
+        "sourceImageBytes": 318745,
+        "review": "Independently inspected nine native card faces. B085 adds 20 damage, B086 reduces Retreat Cost by 2. Old English canonical numeric values were wrong; Korean already correct and preserved."
+      }
+    }
+  ]
+}

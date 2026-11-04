@@ -1,0 +1,646 @@
+{
+  "schemaVersion": 1,
+  "decisions": [
+    {
+      "cardId": "P-A-109",
+      "locale": "fr",
+      "path": "abilities[0].effect",
+      "expectedCurrent": "Ce Pokémon peut évoluer vers n'importe quel Pokémon évoluant à partir d'Évoli si vous le jouez depuis votre main sur ce Pokémon. (Ce Pokémon ne peut pas évoluer pendant votre premier tour ou le tour où vous le jouez.)",
+      "value": "Ce Pokémon peut évoluer en n'importe quel Pokémon qui évolue de Évoli si vous le jouez de votre main sur ce Pokémon. (Ce Pokémon ne peut pas évoluer pendant votre premier tour ou pendant le tour où vous le jouez.)",
+      "rawOCR": "Ce Pokémon peut évoluer en n'importe quel Pokémon qui évolue de Evoli si vous le jouez de votre main sur ce votre premier tour ou pendancle tour ou vous le youez.)",
+      "candidateIndex": 24,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/109.ts",
+      "evidence": {
+        "sourceImageSha256": "014de09b7248658ca87a71b6c0d67a117ade22d76f993abe84a848fa73e7f8d0",
+        "sourceImageBytes": 303490,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-A-109",
+      "locale": "zh-tw",
+      "path": "abilities[0].effect",
+      "expectedCurrent": "如果你從手上將伊布玩到這只神奇寶貝上，這只神奇寶貝可以進化成任何從伊布進化而來的神奇寶貝。 （該神奇寶貝在你的第一個回合或你玩它的回合中無法進化。）",
+      "value": "可從手牌使出從「伊布」進化而來的卡,放置於這隻寶可夢身上完成進化。(在自己的最初回合或者剛使出的回合無法進化。)",
+      "rawOCR": "可從手战使出從『伊布！進化而來的卡？放置於這隻理可感要上 完成進化：“在自己的显初回合或者則使出的回合無法進你。）",
+      "candidateIndex": 27,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/109.ts",
+      "evidence": {
+        "sourceImageSha256": "1ea8ddc7640138f6e73d68a45ba5b66bced012b3b73528479fcfafe0bec7747c",
+        "sourceImageBytes": 292802,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-A-110",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "如果這只神奇寶貝附加了至少 2 個額外的 {R} 能量，則此攻擊造成的傷害增加 60 點。",
+      "value": "若額外附有2個{R}能量,則增加60點傷害。",
+      "rawOCR": "若額外附有2個必能量，則增加60點麥譜。",
+      "candidateIndex": 34,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/110.ts",
+      "evidence": {
+        "sourceImageSha256": "2669af15fc8b7a78a507480511c878c0c64be99836a469cef83239d6b26cf8f2",
+        "sourceImageBytes": 357270,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-A-018",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "治療該神奇寶貝造成的 30 點傷害。",
+      "value": "將這隻寶可夢恢復30HP。",
+      "rawOCR": "將道重賣可装恢復30HP。",
+      "candidateIndex": 68,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/018.ts",
+      "evidence": {
+        "sourceImageSha256": "cfadd1bb48d6daf01696943d20475f058d46ca1cb7f04ca61faddd823bf42656",
+        "sourceImageBytes": 408674,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-A-042",
+      "locale": "zh-tw",
+      "path": "abilities[0].effect",
+      "expectedCurrent": "每當你將能量區中的 {D} 能量附加到這只神奇寶貝上時，就會對對手的活躍神奇寶貝造成 20 點傷害。",
+      "value": "每次從自己的能量區將{D}能量附於這隻寶可夢身上時,對手的戰鬥寶可夢受到20點傷害。",
+      "rawOCR": "每次從自己的能量區將U能量附終這隻寶可夢身上時、封手的戰 鬥賽可夢受到20脂傷击",
+      "candidateIndex": 85,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/042.ts",
+      "evidence": {
+        "sourceImageSha256": "83e70fea18b6000dd09f69d3d51a0a3e07f9b0bc74e95dacf0bfa51201a88592",
+        "sourceImageBytes": 351051,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-A-050",
+      "locale": "zh-tw",
+      "path": "attacks[1].effect",
+      "expectedCurrent": "丟棄該神奇寶貝的 2 個 {P} 能量。",
+      "value": "將這隻寶可夢身上的2個{P}能量丟棄。",
+      "rawOCR": "將造隻寶可麥身上的2個0能量丟来。",
+      "candidateIndex": 94,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/050.ts",
+      "evidence": {
+        "sourceImageSha256": "f9d9d768aae48a227674e79aec49b4a91c7e360c5f83a8beb488a89f6b74d2f9",
+        "sourceImageBytes": 284183,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-A-054",
+      "locale": "zh-tw",
+      "path": "abilities[0].effect",
+      "expectedCurrent": "如果這只寶可夢位於活動區域並因對方寶可夢的攻擊而受到傷害，則對攻擊的寶可夢造成 20 點傷害。",
+      "value": "這隻寶可夢在戰鬥場受到對手的寶可夢招式的傷害時,使用招式的寶可夢受到20點傷害。",
+      "rawOCR": "這隻實可憑在戰門場受到對手的費可麥招式的像害時、使用招式 的（可/沒到20點保出",
+      "candidateIndex": 99,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/054.ts",
+      "evidence": {
+        "sourceImageSha256": "20aef5c49e2a0dde8b9563ff708598eadb9545586725f8524e58a91e3e1de160",
+        "sourceImageBytes": 311531,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-A-056",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "你對手的主動神奇寶貝現在中毒了。",
+      "value": "將對手的戰鬥寶可夢中毒。",
+      "rawOCR": "將對手的戰開寶可婆中崙",
+      "candidateIndex": 102,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/056.ts",
+      "evidence": {
+        "sourceImageSha256": "b093f38c5f273068fe35816b07b982625f3cb22b4ba28522f31faaf5ca204884",
+        "sourceImageBytes": 293963,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-A-064",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "隨機選擇 1 只對手的神奇寶貝 4 次。每選擇一隻神奇寶貝，就會對其造成 40 點傷害。",
+      "value": "對手的寶可夢會隨機被選擇4次,被選擇的所有寶可夢受到被選擇的次數×40點傷害。",
+      "rawOCR": "對手的寶可夢會隨機彼選探4次，被選探的所有實可夢受到被選探 的次数×40點傷害。",
+      "candidateIndex": 105,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/064.ts",
+      "evidence": {
+        "sourceImageSha256": "81d3f4db84bb5e346ab2c929a96ec80a9d07f12128d6e87e113379e8feaf8862",
+        "sourceImageBytes": 338496,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-A-066",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "這次攻擊還會對你的 1 只神奇寶貝造成 20 點傷害。",
+      "value": "自己的1隻寶可夢也受到20點傷害。",
+      "rawOCR": "宜己的1缴實可多也受到20點您害。",
+      "candidateIndex": 107,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/066.ts",
+      "evidence": {
+        "sourceImageSha256": "ce5eaff2041f79eb46127bc795f7373e0f2bc51ee4d93bd779818c2b9788c441",
+        "sourceImageBytes": 303963,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-A-070",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "這次攻擊還會對對手的後備神奇寶貝各造成 20 點傷害。",
+      "value": "對手的所有備戰寶可夢也受到20點傷害。",
+      "rawOCR": "酸手的所有備我童可麥也受到20點您声，",
+      "candidateIndex": 110,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/070.ts",
+      "evidence": {
+        "sourceImageSha256": "18cbaf4f20f54af5d04667f9f947f49372e322144cf1d8cec08b58f6c7b05c90",
+        "sourceImageBytes": 343868,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-A-072",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "你對手的主動神奇寶貝現在中毒了。",
+      "value": "將對手的戰鬥寶可夢中毒。",
+      "rawOCR": "將對手的戰門寶可菱中崙",
+      "candidateIndex": 111,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/072.ts",
+      "evidence": {
+        "sourceImageSha256": "c1648b477bc3dcb0709067cf785eb00651503c060a173db218d96be700f8a6cc",
+        "sourceImageBytes": 279513,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-A-082",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "翻轉 2 個硬幣。這次攻擊對每個頭造成 20 點傷害。",
+      "value": "擲2次硬幣,造成正面出現的次數×20點傷害。",
+      "rawOCR": "秘2次硬幣，造成正面出琪的次数×20點傷害",
+      "candidateIndex": 135,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/082.ts",
+      "evidence": {
+        "sourceImageSha256": "604c1cd243146b7204c4ede63ddb8b146239600a83a4b54df174f6eaddf93ce2",
+        "sourceImageBytes": 305181,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-A-087",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "在此遊戲中，您的神奇寶貝每次使用糖果接力時，此攻擊都會造成 40 點傷害。",
+      "value": "造成這場對戰中自己的寶可夢使用「甜點砸砸砸」的次數×40點傷害。",
+      "rawOCR": "造成這場對彩中自己的的回營使用「甜點砸硬酒！的效教240點 傷出：",
+      "candidateIndex": 147,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/087.ts",
+      "evidence": {
+        "sourceImageSha256": "4adf75a1ce7feb5f1f621c704b37ef2e140d248feb0f89626aec6a0494aed4ff",
+        "sourceImageBytes": 333287,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-A-093",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "從你的牌組中隨機將一隻神奇寶貝放入你的手牌。",
+      "value": "從自己的牌庫隨機將1張寶可夢卡加入手牌。",
+      "rawOCR": "從肖己的牌康随機將1張實可參卡加入手牌。",
+      "candidateIndex": 160,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/093.ts",
+      "evidence": {
+        "sourceImageSha256": "b1265a3ef8b66dfd2bcf927ea7f000fcc3e984204544231308694a2541cfb238",
+        "sourceImageBytes": 260537,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-A-096",
+      "locale": "fr",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "Défaussez une carte aléatoire de la main de votre adversaire.",
+      "value": "Défaussez au hasard une carte de la main de votre adversaire.",
+      "rawOCR": "Défaussez au hasard une carte de la main de votre",
+      "candidateIndex": 167,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/096.ts",
+      "evidence": {
+        "sourceImageSha256": "02470f9a1f2b6dc175312749c161f48c2a75efb3d256b9ccef6c870189c71def",
+        "sourceImageBytes": 306093,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-B-001",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "這次攻擊也會對對手後備的 1 只寶可夢造成 10 點傷害。",
+      "value": "對手的1隻備戰寶可夢也受到10點傷害。",
+      "rawOCR": "的手的1型溢悦賽可夢也受到10點傷害",
+      "candidateIndex": 179,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/001.ts",
+      "evidence": {
+        "sourceImageSha256": "b1bb769c325daa3863e5821848a678354c7ab00a484b26a8bc81499d1411914e",
+        "sourceImageBytes": 273061,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-B-009",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "你的對手亮出了他們的牌。選擇您在那裡找到的一張支持者卡並將其丟棄。",
+      "value": "查看對手所有手牌的正面,從其中選擇1張支援者卡,將其丟棄。",
+      "rawOCR": "查看對手所有手牌的正面，從其中道接1张支援者卡 將具天樂",
+      "candidateIndex": 199,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/009.ts",
+      "evidence": {
+        "sourceImageSha256": "3e2e8935f117750165bee6a2e9744639f444b0f85bd07b2997907f67459a66d5",
+        "sourceImageBytes": 338923,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-B-012",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "選擇你後備寶可夢的 1 個攻擊（除了任何前寶可夢），並將其用作此攻擊。如果該寶可夢沒有使用該攻擊所需的能量，則該攻擊不會執行任何操作。",
+      "value": "選擇1個自己的備戰寶可夢(「寶可夢ex」除外)持有的招式,作為這個招式使用。若所選招式所需的能量沒有附於這隻寶可夢身上,則這個招式失敗。",
+      "rawOCR": "選料1個自己的備说實可梦「實可婆eX，」除外）持有的招式： 作簽這個招式使用，若所選招式所需的能量沒有附於道要實可隊 身上，知道個招式扶敗",
+      "candidateIndex": 208,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/012.ts",
+      "evidence": {
+        "sourceImageSha256": "33e20f3be71697e55cd2ee31c2aedc4b15be778ec854d46e0427052bb38a10ea",
+        "sourceImageBytes": 305530,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-B-013",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "拋一枚硬幣。如果正面，則對手的活躍寶可夢現在被燒毀。",
+      "value": "擲1次硬幣若為正面,則將對手的戰鬥寶可夢灼傷。",
+      "rawOCR": "換1次硬幣若為正面，則將對手的戰門實可夢灼傷。",
+      "candidateIndex": 212,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/013.ts",
+      "evidence": {
+        "sourceImageSha256": "fa42a3d7b709033b7d032f2fe16585ef0c0e4bbb00a1e090b8028dbb34badf1a",
+        "sourceImageBytes": 275957,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-B-025",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "這次攻擊對對手的 1 只寶可夢造成 30 點傷害。",
+      "value": "對手的1隻寶可夢受到30點傷害。",
+      "rawOCR": "對手的1隻實可參受到30點傷查",
+      "candidateIndex": 250,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/025.ts",
+      "evidence": {
+        "sourceImageSha256": "83367776fd9d35e803cd044b7990b69e7de68b67fb6af9fa4d21747a3cb93cfc",
+        "sourceImageBytes": 386364,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-B-033",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該寶可夢造成的所有攻擊傷害及其效果。",
+      "value": "擲1次硬幣若為正面,則在下個對手的回合,這隻寶可夢不會受到招式的傷害與效果的影響。",
+      "rawOCR": "把1次硬幣若為正面，則在下国對手的回合。這隻寶可要不 丶超武的複迷則效果的影雾。",
+      "candidateIndex": 272,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/033.ts",
+      "evidence": {
+        "sourceImageSha256": "56e48d16750d049b92b3fb5c5b469b912d0713deeb9439045467a48241f2478e",
+        "sourceImageBytes": 322742,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-B-040",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "丟棄對手牌組頂牌。",
+      "value": "將對手的牌庫上方1張卡丟棄。",
+      "rawOCR": "將對手的牌匪上方1張卡夫车",
+      "candidateIndex": 289,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/040.ts",
+      "evidence": {
+        "sourceImageSha256": "c3061579ad6ead4da7e990171405e06c6b529abeed7d6a0ad6e2631d0d7b777a",
+        "sourceImageBytes": 283434,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-B-044",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "你對手的戰鬥寶可夢現在中毒了。",
+      "value": "將對手的戰鬥寶可夢中毒。",
+      "rawOCR": "將對手的戰門寶可夢中當。",
+      "candidateIndex": 299,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/044.ts",
+      "evidence": {
+        "sourceImageSha256": "e3ddb767e734766f78120054591b81f7df6631775365ac66f52da82f77c5093a",
+        "sourceImageBytes": 275314,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-B-049",
+      "locale": "fr",
+      "path": "abilities[0].effect",
+      "expectedCurrent": "Une fois pendant votre tour, après avoir lancé des pièces pour une attaque d'un de vos Pokémon {R}, vous pouvez ignorer tous les résultats de ces lancers de pièces et recommencer à lancer ces pièces. Vous ne pouvez pas utiliser plus d’une capacité Victory Star à chaque tour.",
+      "value": "Une seule fois pendant votre tour, après avoir lancé des pièces pour une attaque d'un de vos Pokémon {R}, vous pouvez ignorer le résultat de ces lancers de pièce et lancer ces pièces à nouveau. Vous ne pouvez pas utiliser plus d'un talent Victorieux par tour.",
+      "rawOCR": "Une seule fois pendant votre tour, après avoir lancé des- piêces pour une attaque d'un de vos Pokémen &, vous pouvez ignerer le résulter de cas lancers de prèce et \"lancer ces plèces à nouveau. Vous ne pouvez pas williser plus dun talent Victorieux par tour.",
+      "candidateIndex": 307,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/049.ts",
+      "evidence": {
+        "sourceImageSha256": "ba867f0fd00843bb8b91a49d1343f50d3851f3c3c57f3c68ec7893b2d01e6e69",
+        "sourceImageBytes": 305330,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-B-049",
+      "locale": "zh-tw",
+      "path": "abilities[0].effect",
+      "expectedCurrent": "在你的回合中，當你為你的 1 個 {R} 寶可夢的攻擊翻轉任何硬幣後，你可以忽略這些硬幣翻轉的所有結果並再次開始翻轉這些硬幣。每回合你不能使用超過 1 個勝利之星技能。",
+      "value": "在自己的回合,因自己的{R}寶可夢的招式而擲硬幣時,可使用1次。將擲硬幣的結果全部消除,重新擲硬幣。這個特性在使用了其他的「勝利之星」的回合無法使用。",
+      "rawOCR": "在自己的旦合，因目己的我真可麥的招或而秘硬帶時，可用 1次*將期硬帶的請果全部消除。重新拒硬幣。這週特供在使用了 其他的「勝利之星」的回合無法使用。",
+      "candidateIndex": 310,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/049.ts",
+      "evidence": {
+        "sourceImageSha256": "028d867de076cd5daf48db31e8c2ee83573bbea5a6c9feb7111930c442fcbdd3",
+        "sourceImageBytes": 297604,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-B-055",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "翻轉 2 個硬幣。此攻擊對每個頭造成 100 點傷害。",
+      "value": "擲2次硬幣,造成正面出現的次數×100點傷害。",
+      "rawOCR": "便之次硬格，造成正面些琪的次交×100點優害",
+      "candidateIndex": 329,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/055.ts",
+      "evidence": {
+        "sourceImageSha256": "e97d3e3cce6c08258f48fb7a308b89a530edcb509672300ae2fd3110f90d2334",
+        "sourceImageBytes": 352812,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-B-060",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "如果你的任一隻 {D} 寶可夢在對手的最後回合中因攻擊傷害而被擊倒，則這次攻擊造成的傷害增加 80 點。",
+      "value": "在上個對手的回合,若自己的{D}寶可夢因招式的傷害而昏厥了,則增加80點傷害。",
+      "rawOCR": "在上個對手的回合：若自己的U資可要因招式的傷考而昏厥了 則培加80點條击",
+      "candidateIndex": 346,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/060.ts",
+      "evidence": {
+        "sourceImageSha256": "ba542777da6bc33fe0fea3dc4362ad52b88a2b0135760ae32cfbb1203d3ffe45",
+        "sourceImageBytes": 309939,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-B-067",
+      "locale": "ja",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "自分の山札からたねポケモンをランダムに1枚、ベンチに出す。",
+      "value": "自分の山札からたねポケモンをランダムに1枚、ベンチに出す。",
+      "rawOCR": "自分の山札からたねポケモンをランダムに1枚、ベンチに出 す。",
+      "candidateIndex": 366,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/067.ts"
+    },
+    {
+      "cardId": "P-B-067",
+      "locale": "ko",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "자신의 덱에서 기본 포켓몬을 랜덤으로 1장 벤치로 내보낸다.",
+      "value": "자신의 덱에서 기본 포켓몬을 랜덤으로 1장 벤치로 내보낸다.",
+      "rawOCR": "자신의 덱에서 기본 포켓몬을 랜덤으로 1장 벤치로 내보낸다.",
+      "candidateIndex": 367,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/067.ts"
+    },
+    {
+      "cardId": "P-B-071",
+      "locale": "zh-tw",
+      "path": "attacks[0].effect",
+      "expectedCurrent": "兩隻活躍的寶可夢現在都處於混亂狀態。",
+      "value": "將雙方的戰鬥寶可夢混亂。",
+      "rawOCR": "將雙方的吸片襄可教混亂",
+      "candidateIndex": 378,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/071.ts",
+      "evidence": {
+        "sourceImageSha256": "32aceb8d0ac798956d1fcf3e20f295c41161bbe31d14320952fc4f53a9747915",
+        "sourceImageBytes": 287321,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-A-100",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "L'évolution l'a rendu encore plus sournois.\nIl communique en griffant des signes dans les rochers.",
+      "value": "L’évolution l’a rendu encore plus retors. Il communique en gravant des marques dans les pierres avec ses griffes.",
+      "rawOCR": "coutente rendu encore plus rotote cammun que en gravant des marques dans les pierres avet ses griffes.",
+      "candidateIndex": 401,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/100.ts",
+      "evidence": {
+        "sourceImageSha256": "e8fee8b4cf5c39df19a136e1bd4d1b6fd575e3df70dae19cbcec7d2febb25dae",
+        "sourceImageBytes": 306635,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-A-117",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Rapide comme le vent, Absol court à travers champs et\nmontagnes. Sa corne courbée en forme d'arc est extrêmement\nsensibles aux signes avant-coureurs des catastrophes naturelles.",
+      "value": "Il court par monts et par vaux, rapide comme le vent. Sa corne arquée lui permet de percevoir les signes avant-coureurs des cataclysmes.",
+      "rawOCR": "court par monts et par saux rapide comme le vent Sa come arquée lui permet de percevoir",
+      "candidateIndex": 422,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/117.ts",
+      "evidence": {
+        "sourceImageSha256": "edf7b49174ba8df01fa85ba0899209a3dea20836ff466f4179503397c606f74b",
+        "sourceImageBytes": 303896,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-A-020",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Il adore se tapir dans l'ombre et faire frissonner\nses proies pour l'éternité en leur touchant l'épaule.",
+      "value": "Il adore se tapir dans l’ombre et faire frissonner ses proies pour l’éternité en leur touchant l’épaule.",
+      "rawOCR": "Il adore se tapir dans l'ombre et faire frissonner Ses proies pour comite en leur touchant i coaure",
+      "candidateIndex": 430,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/020.ts",
+      "evidence": {
+        "sourceImageSha256": "194e485b668b9adfe595f2549582337430f644ecc075f16e60098ba167d86012",
+        "sourceImageBytes": 246792,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-A-047",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Quand Étourvol évolue en Étouraptor, il quitte son groupe\npour vivre seul. Ses ailes sont très souples et puissantes.",
+      "value": "Quand Étourvol évolue en Étouraptor, il quitte son groupe pour vivre seul. Ses ailes sont très souples et puissantes.",
+      "rawOCR": "Quand Étourvol évolue en Étouraptor, il quitte son groupe pour vive seul ses siles sont tres soupies eu puissantes",
+      "candidateIndex": 444,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/047.ts",
+      "evidence": {
+        "sourceImageSha256": "44455ab449496292f3d8d8e2345f5b542dcf8a230d8f7d1fff8c3c87f9722cdf",
+        "sourceImageBytes": 316294,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-A-093",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Selon les rumeurs locales, on voit souvent des Cleffa\ndans les endroits où des étoiles filantes sont tombées.",
+      "value": "On dit qu'il apparaît souvent là où se sont écrasées des météorites.",
+      "rawOCR": "Örnit qui lapparait souvens B ait rosent étasec des attessiter.",
+      "candidateIndex": 498,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/093.ts",
+      "evidence": {
+        "sourceImageSha256": "298063903add88ad8fe4e124b20f1d23e318281a3869e3deb2224818d698d36f",
+        "sourceImageBytes": 251535,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-A-093",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Según los rumores locales, a menudo se ve a Cleffa\nen lugares donde han caído estrellas fugaces.",
+      "value": "Los lugareños rumorean que suele encontrarse en lugares donde han caído estrellas fugaces.",
+      "rawOCR": "Los arencor morcan que suele creannac lagaro dente han calde estrelo logaces.",
+      "candidateIndex": 500,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/093.ts",
+      "evidence": {
+        "sourceImageSha256": "93efc8127f70ef0fe0cd9a401eaee4712f681e6753d5117156f75fdd42c500d3",
+        "sourceImageBytes": 251888,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-A-097",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Bien qu'il porte son bébé dans une pochette\nson ventre, Kangaskhan est rapide sur ses pattes. Il\nintimide ses adversaires avec des coups rapides.",
+      "value": "Porter son petit dans sa poche ventrale ne l'empêche pas d'avoir un bon jeu de jambes. Ses coups rapides intimident ses ennemis.",
+      "rawOCR": "* * * Porter son petit dans sa poche ventrale ne Ses coups rapides intimident ses ennemis.",
+      "candidateIndex": 513,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/097.ts",
+      "evidence": {
+        "sourceImageSha256": "3f7bfc8914ad4adf2630da10c764ddfad3806696b687aaf46089e8b723b0de62",
+        "sourceImageBytes": 315858,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-B-062",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Lorsqu'il essaie de protéger quelqu'un, il étend ses coudes comme s'il s'agissait d'épées et se bat sauvagement.",
+      "value": "Toujours prêt à protéger son prochain, il se bat férocement en utilisant ses coudes comme des épées.",
+      "rawOCR": "* Toujours préc à protéger son prochain. se bat ferocement en utilisant ses coudes comme des épées.",
+      "candidateIndex": 531,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/062.ts",
+      "evidence": {
+        "sourceImageSha256": "b7f60c77c7c525d03cfcbfcb0bf4277774ed5b115e7dc09299086a9799fea980",
+        "sourceImageBytes": 311556,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-B-088",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Les faux tranchantes de ses avant-bras deviennent de plus en plus tranchantes en coupant des objets durs.",
+      "value": "À force de trancher des objets solides, ses avant-bras en forme de faux deviennent de plus en plus acérés.",
+      "rawOCR": "À force de trancher des objets solides.",
+      "candidateIndex": 536,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/088.ts",
+      "evidence": {
+        "sourceImageSha256": "f21ce675fa72cab834ac8d5150b81e5d575254f11bc9b9e1a9776b67f8851e57",
+        "sourceImageBytes": 296069,
+        "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved."
+      }
+    },
+    {
+      "cardId": "P-B-097",
+      "locale": "fr",
+      "path": "description",
+      "expectedCurrent": "Il vit dans des cavités chauffées par géothermie, dont il bondit pour mordre tout intrus.",
+      "value": "Il vit dans des cavités chauffées par géothermie, dont il bondit pour mordre tout intrus.",
+      "rawOCR": "Illes. Kanako Eo par géothermie, dont il bondit pour mordre tout intrus.",
+      "candidateIndex": 540,
+      "review": "Reviewed native card/OCR versus pinned candidate. Native French flavor wording overrides different corpus versions; remove nonprinting Ctrl:Bold markup from Japanese/Korean game template. All numeric and energy tokens preserved.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/097.ts"
+    }
+  ]
+}

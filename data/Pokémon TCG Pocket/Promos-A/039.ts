@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/039",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/039",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/039",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/039",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/039",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/039",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/039",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/039",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/039"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/039/95cce9a7975b60fc",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/039/95cce9a7975b60fc",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/039/95cce9a7975b60fc",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/039/95cce9a7975b60fc",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/039/95cce9a7975b60fc",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/039/95cce9a7975b60fc",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/039/95cce9a7975b60fc",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/039/95cce9a7975b60fc",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/039/95cce9a7975b60fc"
     },
     name: {
         en: "Skarmory",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "盔甲鳥",
     },
     illustrator: "Anesaki Dynamic",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     hp: 80,
     types: ["Metal"],
@@ -38,7 +38,7 @@ const card: Card = {
         'pt-br': "As pessoas forjam espadas com as penas que caíram\nde Skarmory, por isso, a imagem deste Pokémon é\num elemento popular em brasões.",
         ja: "抜け落ちた 羽根から 剣が 作られることから 紋章の 図案として 人気が 高い。",
         ko: "빠진 깃털로 검을\n만들 수 있어서 문장\n도안으로 인기가 많다.",
-        "zh-tw": "人們在 Skarmory 的棚屋裡製作劍\n羽毛，所以這個神奇寶貝是一個流行元素\n在紋章設計中。"
+        "zh-tw": "由於牠脫落下來的羽毛能夠製成劍，因此作為家徽的圖案也很有人氣。"
     },
     stage: "Basic",
     attacks: [{
@@ -51,7 +51,7 @@ const card: Card = {
                 'pt-br': "Braços Metálicos",
                 ja: "メタルアームズ",
                 ko: "메탈암즈",
-                "zh-tw": "金屬武器"
+                "zh-tw": "金屬武裝"
             },
             damage: "20+",
             cost: ["Metal"],
@@ -64,7 +64,7 @@ const card: Card = {
                 'pt-br': "Se este Pokémon tiver uma Ferramenta Pokémon ligada a ele, este ataque causará 30 pontos de dano a mais.",
                 ja: "このポケモンに「ポケモンのどうぐ」がついているなら、30ダメージ追加。",
                 ko: "이 포켓몬에게 「포켓몬의 도구」가 붙어 있다면 30데미지를 추가한다.",
-                "zh-tw": "如果該神奇寶貝附加了神奇寶貝工具，則此攻擊造成的傷害增加 30 點。"
+                "zh-tw": "若這隻寶可夢身上附有「寶可夢道具」,則增加30點傷害。"
             }
         }],
     weaknesses: [{

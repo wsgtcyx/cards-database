@@ -1,0 +1,414 @@
+{
+  "schemaVersion": 1,
+  "setId": "P-C",
+  "cards": [
+    {
+      "name": "Pikachu",
+      "illustrator": "Narumi Sato",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "description": "When several of these Pokémon gather, their electricity can build and cause lightning storms.",
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Thunder Jolt",
+          "cost": [
+            "Lightning"
+          ],
+          "damage": 30,
+          "effect": "This Pokémon also does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "boosters": [],
+      "id": "P-C-001"
+    },
+    {
+      "name": "Mega Mewtwo Y ex",
+      "illustrator": "PLANETA Yamashita",
+      "rarity": "Four Diamond",
+      "category": "Pokemon",
+      "boosters": [
+        "vol1"
+      ],
+      "hp": 170,
+      "types": [
+        "Psychic"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "suffix": "EX",
+      "attacks": [
+        {
+          "name": "Psychic Blaster",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "damage": "60x",
+          "effect": "Flip a coin for each {P} Energy attached to this Pokémon. This attack does 60 damage for each heads."
+        }
+      ],
+      "id": "P-C-002"
+    },
+    {
+      "name": "Deoxys",
+      "illustrator": "Saya Tsuruta",
+      "rarity": "Three Diamond",
+      "category": "Pokemon",
+      "boosters": [
+        "vol1"
+      ],
+      "hp": 100,
+      "types": [
+        "Psychic"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Psycho Boost",
+          "cost": [
+            "Colorless",
+            "Psychic",
+            "Psychic"
+          ],
+          "damage": 100,
+          "effect": "During your next turn, this Pokémon's Psycho Boost does −50 damage."
+        }
+      ],
+      "abilities": [],
+      "description": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.",
+      "id": "P-C-003"
+    },
+    {
+      "name": "Inkay",
+      "illustrator": "sui",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "boosters": [
+        "vol1"
+      ],
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Perplex",
+          "cost": [
+            "Psychic"
+          ],
+          "effect": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "description": "It protects itself from tough foes by flashing its luminescent spots to discourage them.",
+      "id": "P-C-004"
+    },
+    {
+      "name": "Malamar",
+      "illustrator": "Tomokazu Komiya",
+      "rarity": "Two Diamond",
+      "category": "Pokemon",
+      "boosters": [
+        "vol1"
+      ],
+      "hp": 90,
+      "types": [
+        "Psychic"
+      ],
+      "stage": "Stage1",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Pester the Dizzy",
+          "cost": [
+            "Psychic"
+          ],
+          "damage": "10+",
+          "effect": "If your opponent's Active Pokémon is Confused, this attack does 90 more damage."
+        }
+      ],
+      "evolveFrom": "Inkay",
+      "description": "Its hypnotic powers are dangerously strong. Anyone who falls under Malamar's control loses their memories surrounding the event.",
+      "id": "P-C-005"
+    },
+    {
+      "name": "Cosmog",
+      "illustrator": "Shin Nagasawa",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "boosters": [
+        "vol1"
+      ],
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Dust Gathering",
+          "cost": [
+            "Colorless"
+          ],
+          "effect": "Draw a card."
+        }
+      ],
+      "abilities": [],
+      "description": "This Pokémon came from another universe. Its gaseous body is so light that even a gentle breeze can blow it away.",
+      "id": "P-C-006"
+    },
+    {
+      "name": "Cosmoem",
+      "illustrator": "OKUBO",
+      "rarity": "Two Diamond",
+      "category": "Pokemon",
+      "boosters": [
+        "vol1"
+      ],
+      "hp": 100,
+      "types": [
+        "Psychic"
+      ],
+      "stage": "Stage1",
+      "retreat": 3,
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "evolveFrom": "Cosmog",
+      "attacks": [
+        {
+          "name": "Ram",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": 30
+        }
+      ],
+      "abilities": [],
+      "description": "The absorption of starlight fuels this Pokémon's growth. The shell that encases it is harder than any known material.",
+      "id": "P-C-007"
+    },
+    {
+      "name": "Lunala",
+      "illustrator": "5ban Graphics",
+      "rarity": "Three Diamond",
+      "category": "Pokemon",
+      "boosters": [
+        "vol1"
+      ],
+      "hp": 150,
+      "types": [
+        "Psychic"
+      ],
+      "stage": "Stage2",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "evolveFrom": "Cosmoem",
+      "attacks": [
+        {
+          "name": "Wings of the Moone",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "damage": 110,
+          "effect": "Move all Energy from this Pokémon to your Benched Pokémon in any way you like."
+        }
+      ],
+      "abilities": [],
+      "description": "Known as the Beast That Calls the Moon, this Pokémon lives by taking in any and all light and converting it into its own energy.",
+      "id": "P-C-008"
+    },
+    {
+      "name": "Genome Converter Y",
+      "illustrator": "Toyste Beach",
+      "rarity": "Two Diamond",
+      "category": "Trainer",
+      "boosters": [
+        "vol1"
+      ],
+      "trainerType": "Item",
+      "effect": "Move all {P} Energy from 1 of your Benched {P} Pokémon to your Mega Mewtwo Y ex in the Active Spot.",
+      "id": "P-C-009"
+    },
+    {
+      "name": "Stantler",
+      "illustrator": "OKACHEKE",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "hp": 80,
+      "types": [
+        "Colorless"
+      ],
+      "description": "This Pokémon apparently used to live in much harsher environments, and thus it once had stronger psychic powers than it does now.",
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Enhanced Horns",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": "20+",
+          "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "boosters": [],
+      "id": "P-C-010"
+    },
+    {
+      "name": "Alcremie",
+      "illustrator": "OKACHEKE",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "hp": 80,
+      "types": [
+        "Psychic"
+      ],
+      "evolveFrom": "Milcery",
+      "description": "When it trusts a Trainer, it will treat them to berries it's decorated with cream.",
+      "stage": "Stage1",
+      "attacks": [
+        {
+          "name": "Sweets Overload",
+          "cost": [
+            "Colorless"
+          ],
+          "damage": "40x",
+          "effect": "This attack does 40 damage for each time your Pokémon used Sweets Relay during this game."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "boosters": [],
+      "id": "P-C-011"
+    },
+    {
+      "name": "Delibird",
+      "illustrator": "OKACHEKE",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "hp": 80,
+      "types": [
+        "Water"
+      ],
+      "description": "It always carries its food with it, wherever it goes. If attacked, it throws its food at the opponent.",
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Box of Surprises",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "effect": "Flip a coin. If heads, this attack does 70 damage to your opponent's Active Pokémon. If tails, heal 30 damage from your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "boosters": [],
+      "id": "P-C-012"
+    },
+    {
+      "name": "Mega Dragonite ex",
+      "illustrator": "PLANETA Mamiya",
+      "rarity": "Four Diamond",
+      "category": "Pokemon",
+      "boosters": [],
+      "hp": 240,
+      "types": [
+        "Dragon"
+      ],
+      "stage": "Stage2",
+      "retreat": 4,
+      "evolveFrom": "Dragonair",
+      "suffix": "EX",
+      "attacks": [
+        {
+          "name": "Draconic Meteor",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Water",
+            "Lightning"
+          ],
+          "effect": "1 of your opponent's Pokémon is chosen at random. Do 250 damage to it."
+        }
+      ],
+      "abilities": [],
+      "id": "P-C-013"
+    }
+  ]
+}

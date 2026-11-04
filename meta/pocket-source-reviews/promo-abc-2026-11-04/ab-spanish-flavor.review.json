@@ -1,0 +1,2266 @@
+{
+  "schemaVersion": 1,
+  "decisions": [
+    {
+      "cardId": "P-A-009",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Cuando se enfada, este Pokémon\ndescarga la energía que almacena en\nel interior de las bolsas de las mejillas.",
+      "value": "Cuando se enfada, este Pokémon\ndescarga la energía que almacena en\nel interior de las bolsas de las mejillas.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/009.ts",
+      "sourceImageSha256": "f1444918539d633a2a330e5e5692436f7ab425b344ab75f8df63dba04bd38d9c",
+      "sourceImageBytes": 313200
+    },
+    {
+      "cardId": "P-A-010",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Fue creado por un científico tras años de\nhorribles experimentos de ingeniería genética.",
+      "value": "Fue creado por un científico tras años de\nhorribles experimentos de ingeniería genética.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/010.ts",
+      "sourceImageSha256": "d6df0385b2903b49c74d83031fbe3afdefd7cfaa4a66c66b5acb7c887e685efd",
+      "sourceImageBytes": 321838
+    },
+    {
+      "cardId": "P-A-011",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Un generoso Pokémon que pone huevos muy\nnutritivos y se los da a personas o Pokémon heridos.",
+      "value": "Un generoso Pokémon que pone huevos muy\nnutritivos y se los da a personas o Pokémon heridos.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/011.ts",
+      "sourceImageSha256": "ffa84c0a3ee8bd365b72a5cf65309921f79f848cd5eff2d6311f027fc6c62331",
+      "sourceImageBytes": 299690
+    },
+    {
+      "cardId": "P-A-012",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Durante el día, se dedica a dormir.\nDe noche, vigila su territorio con un brillo en los ojos.",
+      "value": "Durante el día, se dedica a dormir.\nDe noche, vigila su territorio con un brillo en los ojos.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/012.ts",
+      "sourceImageSha256": "fad8b8f961c621e0b93aff05f78a1cb832dc10f29d11ecc67b62e6de8fb6617c",
+      "sourceImageBytes": 268220
+    },
+    {
+      "cardId": "P-A-013",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Aletea a gran velocidad para lanzar al aire\nsus escamas extremadamente tóxicas.",
+      "value": "Aletea a gran velocidad para lanzar al aire\nsus escamas extremadamente tóxicas.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/013.ts",
+      "sourceImageSha256": "7e07c447586b542aa32540198f66746293a8a9e89c8e169778c7b1c48c970cf4",
+      "sourceImageBytes": 269577
+    },
+    {
+      "cardId": "P-A-015",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Cuando se enfada, este Pokémon\ndescarga la energía que almacena en\nel interior de las bolsas de las mejillas.",
+      "value": "Cuando se enfada, este Pokémon\ndescarga la energía que almacena en\nel interior de las bolsas de las mejillas.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/015.ts",
+      "sourceImageSha256": "6dcbcf9e8e2e41f9b2f2a863a3870c7ef600d5e3b080a2afb2753e5c65201b81",
+      "sourceImageBytes": 227293
+    },
+    {
+      "cardId": "P-A-016",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Se dice que la felicidad llegará\na quien vea un grupo de Clefairy\nbailando a la luz de la luna llena.",
+      "value": "Se dice que la felicidad llegará\na quien vea un grupo de Clefairy\nbailando a la luz de la luna llena.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/016.ts",
+      "sourceImageSha256": "1d1d3eff2cbcef8fb5b19f4266cef9bde02badc35421dc9b937dafde4a8e747d",
+      "sourceImageBytes": 272766
+    },
+    {
+      "cardId": "P-A-017",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Vive en grupos en las copas de\nlos árboles. Si pierde de vista a su\nmanada, se siente solo y se enfada.",
+      "value": "Vive en grupos en las copas de\nlos árboles. Si pierde de vista a su\nmanada, se siente solo y se enfada.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/017.ts",
+      "sourceImageSha256": "f8413b1bf35791dba6e941c2f3be5d8ce43a98d473db49fac5f5acc120116092",
+      "sourceImageBytes": 299591
+    },
+    {
+      "cardId": "P-A-018",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "La planta florece cuando absorbe energía solar,\nlo cual le obliga a buscar siempre la luz del sol.",
+      "value": "La planta florece cuando absorbe energía solar,\nlo cual le obliga a buscar siempre la luz del sol.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/018.ts",
+      "sourceImageSha256": "4e6654b9e504b5bc876a3cd31f1594c224b8497b4a6035e60693f311280db6eb",
+      "sourceImageBytes": 410049
+    },
+    {
+      "cardId": "P-A-019",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Comprime el agua y crea estrellas ninja con\nlas que ataca al enemigo. Cuando las hace girar\na gran velocidad, cortan en dos hasta el metal.",
+      "value": "Comprime el agua y crea estrellas ninja con\nlas que ataca al enemigo. Cuando las hace girar\na gran velocidad, cortan en dos hasta el metal.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/019.ts",
+      "sourceImageSha256": "ca60abab3b8e30703bce23c3334b6b9aea1e9324ead721b7b9273aca9f35c8e2",
+      "sourceImageBytes": 325973
+    },
+    {
+      "cardId": "P-A-020",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Le gusta acechar en la oscuridad y tocarles el\nhombro a sus víctimas con su mano gaseosa.\nEstas se quedan temblando para siempre.",
+      "value": "Le gusta acechar en la oscuridad y tocarles el\nhombro a sus víctimas con su mano gaseosa.\nEstas se quedan temblando para siempre.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/020.ts",
+      "sourceImageSha256": "7b685355a2d9370b2ba746c884761c8a8834041405832631dad266916d61971c",
+      "sourceImageBytes": 247303
+    },
+    {
+      "cardId": "P-A-021",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Al abrirse paso bajo tierra, va absorbiendo todo lo que\nencuentra. Eso hace que su cuerpo sea así de sólido.",
+      "value": "Al abrirse paso bajo tierra, va absorbiendo todo lo que\nencuentra. Eso hace que su cuerpo sea así de sólido.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/021.ts",
+      "sourceImageSha256": "97bc87a03a866c866423e6927d6621ae4531f8950c31b0649302f12597cc4131",
+      "sourceImageBytes": 317989
+    },
+    {
+      "cardId": "P-A-022",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Cuando le tiemblan sus redondos y adorables\nojos, entona una melodía agradable y misteriosa\ncon la que duerme a sus enemigos.",
+      "value": "Cuando le tiemblan sus redondos y adorables\nojos, entona una melodía agradable y misteriosa\ncon la que duerme a sus enemigos.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/022.ts",
+      "sourceImageSha256": "34470e33ae9741a71d70774e12e60de3c131a7e015cdcc29c9d11e486a510de9",
+      "sourceImageBytes": 257565
+    },
+    {
+      "cardId": "P-A-023",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Este Pokémon nace con una semilla en el\nlomo, que brota con el paso del tiempo.",
+      "value": "Este Pokémon nace con una semilla en el\nlomo, que brota con el paso del tiempo.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/023.ts",
+      "sourceImageSha256": "453bd5bad96bd383cea05434b21f417c218722884d99e54d7abeb576e4da7fbe",
+      "sourceImageBytes": 261386
+    },
+    {
+      "cardId": "P-A-024",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Las unidades laterales crean ondas\nelectromagnéticas que contrarrestan\nla gravedad y le permiten flotar.",
+      "value": "Las unidades laterales crean ondas\nelectromagnéticas que contrarrestan\nla gravedad y le permiten flotar.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/024.ts",
+      "sourceImageSha256": "aee21ce572e6ade9de81c91df39eb85380ef42f8b87187107ffb0541bcaa1799",
+      "sourceImageBytes": 205140
+    },
+    {
+      "cardId": "P-A-026",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Cuando se enfada, este Pokémon\ndescarga la energía que almacena en\nel interior de las bolsas de las mejillas.",
+      "value": "Cuando se enfada, este Pokémon\ndescarga la energía que almacena en\nel interior de las bolsas de las mejillas.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/026.ts",
+      "sourceImageSha256": "be3d9f8508f17b59e4b2fc4c9c2a44f866a5bd85e4d1bf93f6de220b666ca2a5",
+      "sourceImageBytes": 298865
+    },
+    {
+      "cardId": "P-A-027",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Cuando recibe los rayos de sol, se mueve\nmucho más rápido que de costumbre.\nUsa mejor sus lianas que sus manos.",
+      "value": "Cuando recibe los rayos de sol, se mueve\nmucho más rápido que de costumbre.\nUsa mejor sus lianas que sus manos.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/027.ts",
+      "sourceImageSha256": "518d146adcdedd6145b05ed4b216e5fe95224e80a2ea69b7e86acc871c988745",
+      "sourceImageBytes": 281979
+    },
+    {
+      "cardId": "P-A-028",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "El calor que irradia le granjea pocas simpatías en\ntierras cálidas. Por el contrario, en las regiones\nmás frías lo veneran como encarnación del sol.",
+      "value": "El calor que irradia le granjea pocas simpatías en\ntierras cálidas. Por el contrario, en las regiones\nmás frías lo veneran como encarnación del sol.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/028.ts",
+      "sourceImageSha256": "9d1aed83b3e5c7087a19a134fea9856cbadfdbf4b1f182cf7a79ca0cc1cf1039",
+      "sourceImageBytes": 282630
+    },
+    {
+      "cardId": "P-A-029",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Para acabar con su enemigo, lo aplasta\ncon el peso de su cuerpo. En momentos\nde apuro, se esconde en el caparazón.",
+      "value": "Para acabar con su enemigo, lo aplasta\ncon el peso de su cuerpo. En momentos\nde apuro, se esconde en el caparazón.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/029.ts",
+      "sourceImageSha256": "f7717d6e7b1d5ef9bd8926e74830dd460dc090cef9a38d24414b10a7d2470dd7",
+      "sourceImageBytes": 366511
+    },
+    {
+      "cardId": "P-A-030",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Es capaz de evolucionar de muchas maneras\npara adaptarse sin problemas a cualquier medio.",
+      "value": "Es capaz de evolucionar de muchas maneras\npara adaptarse sin problemas a cualquier medio.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/030.ts",
+      "sourceImageSha256": "d2f8108cf99372c84ec1192ebe7bbdf0f8efe0c6823f2d40db33eb49ba068902",
+      "sourceImageBytes": 277182
+    },
+    {
+      "cardId": "P-A-031",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Es tan sumamente pulcro que no puede ver\nni una mota de polvo. La grasa que exuda\npor el cuerpo le sirve de película protectora.",
+      "value": "Es tan sumamente pulcro que no puede ver\nni una mota de polvo. La grasa que exuda\npor el cuerpo le sirve de película protectora.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/031.ts",
+      "sourceImageSha256": "564b7d12dd01b13c27f88cfcb92f3ec628db80f77292c0c6172e5c4841f82804",
+      "sourceImageBytes": 252208
+    },
+    {
+      "cardId": "P-A-032",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Prefiere las cosas calientes. Dicen que cuando\nllueve le sale vapor de la punta de la cola.",
+      "value": "Prefiere las cosas calientes. Dicen que cuando\nllueve le sale vapor de la punta de la cola.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/032.ts",
+      "sourceImageSha256": "aed7fc4fc7d477ce09062743c9d977ce2db41c0b27531c6971fc1c31c77176ac",
+      "sourceImageBytes": 299223
+    },
+    {
+      "cardId": "P-A-033",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Cuando retrae su largo cuello en el caparazón,\ndispara agua a una presión increíble.",
+      "value": "Cuando retrae su largo cuello en el caparazón,\ndispara agua a una presión increíble.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/033.ts",
+      "sourceImageSha256": "a303d487ce9826c6c172f3a163ccdcaf54f12cb00637be2f3308017b98299342",
+      "sourceImageBytes": 288439
+    },
+    {
+      "cardId": "P-A-034",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "No le gusta que lo cuiden. Como no aprecia el apoyo\nde su Entrenador, le cuesta coger confianza con él.",
+      "value": "No le gusta que lo cuiden. Como no aprecia el apoyo\nde su Entrenador, le cuesta coger confianza con él.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/034.ts",
+      "sourceImageSha256": "bb56fc4f10bc81edc7cc009108bbc6cf136f4e0f8edfa06f898237739a461b92",
+      "sourceImageBytes": 338839
+    },
+    {
+      "cardId": "P-A-035",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Al bañarlo los rayos de sol, realiza la fotosíntesis con todo\nel cuerpo. Su caparazón está formado por tierra endurecida.",
+      "value": "Al bañarlo los rayos de sol, realiza la fotosíntesis con todo\nel cuerpo. Su caparazón está formado por tierra endurecida.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/035.ts",
+      "sourceImageSha256": "d15c58e7210f935e7399c3bb5168959e6fb39b515181b3630fc04fbab74386af",
+      "sourceImageBytes": 256035
+    },
+    {
+      "cardId": "P-A-036",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "La cantidad de electricidad que genera es\nproporcional a su pulso. Al enzarzarse en\ncombate, su voltaje aumenta drásticamente.",
+      "value": "La cantidad de electricidad que genera es\nproporcional a su pulso. Al enzarzarse en\ncombate, su voltaje aumenta drásticamente.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/036.ts",
+      "sourceImageSha256": "b7466c9f1910c0622714a9bc20981f907d4dfc2959e76c4eb8dd51ef94b1f588",
+      "sourceImageBytes": 243718
+    },
+    {
+      "cardId": "P-A-038",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Sorprende a la gente en mitad de la noche\ny acumula su miedo como energía.",
+      "value": "Sorprende a la gente en mitad de la noche\ny acumula su miedo como energía.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/038.ts",
+      "sourceImageSha256": "068731448f293f0be15e9f487af34bc5b69a076aec7980f57d12c05da8f013ac",
+      "sourceImageBytes": 260920
+    },
+    {
+      "cardId": "P-A-039",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Aparece a menudo en escudos heráldicos, pues se\npueden forjar espadas a partir de las plumas que pierde.",
+      "value": "Aparece a menudo en escudos heráldicos, pues se\npueden forjar espadas a partir de las plumas que pierde.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/039.ts",
+      "sourceImageSha256": "ed44c91cc747a7f0e41a7a923bb62b90142e1ecef340996c99205929b1280201",
+      "sourceImageBytes": 318630
+    },
+    {
+      "cardId": "P-A-040",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "El gas de su panza alimenta el fuego de su\nparte trasera, que ni la lluvia puede extinguir.",
+      "value": "El gas de su panza alimenta el fuego de su\nparte trasera, que ni la lluvia puede extinguir.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/040.ts",
+      "sourceImageSha256": "4692e29765684c97d100f698004848e3cc2818ffc58bc855f0bd162dfd89ea59",
+      "sourceImageBytes": 283786
+    },
+    {
+      "cardId": "P-A-041",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "El cascarón parece estar lleno de alegría.\nDicen que trae buena suerte si se le trata con cariño.",
+      "value": "El cascarón parece estar lleno de alegría.\nDicen que trae buena suerte si se le trata con cariño.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/041.ts",
+      "sourceImageSha256": "e49dc7b51f0af46b260eb11758cc0b4c439478c3478c3b7e200652a1ac96f26a",
+      "sourceImageBytes": 296960
+    },
+    {
+      "cardId": "P-A-043",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Adopta esta forma cuando lo bañan los rayos del sol. Siempre\nestá rebosante de energía y se mantiene activo hasta el ocaso.",
+      "value": "Adopta esta forma cuando lo bañan los rayos del sol. Siempre\nestá rebosante de energía y se mantiene activo hasta el ocaso.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/043.ts",
+      "sourceImageSha256": "6efb2825387ea5219bd4fd38cf8191794afd43485a77962fb175b6ec3d446fea",
+      "sourceImageBytes": 231455
+    },
+    {
+      "cardId": "P-A-044",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Su cola actúa como toma de tierra\ny descarga electricidad al suelo, lo\nque le protege de los calambrazos.",
+      "value": "Su cola actúa como toma de tierra\ny descarga electricidad al suelo, lo\nque le protege de los calambrazos.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/044.ts",
+      "sourceImageSha256": "4a0f1a28046d25f1b809b1c0d67780c284da10dfb6cd6b215c489dc1846c001b",
+      "sourceImageBytes": 308927
+    },
+    {
+      "cardId": "P-A-045",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Solo se desplaza un centímetro al año, pero,\nsi se siente amenazado, gira sobre sí mismo\ny se hunde bajo tierra en un abrir y cerrar de ojos.",
+      "value": "Solo se desplaza un centímetro al año, pero,\nsi se siente amenazado, gira sobre sí mismo\ny se hunde bajo tierra en un abrir y cerrar de ojos.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/045.ts",
+      "sourceImageSha256": "faaf0b919b8f24ddce3a459a39cb78cd450879c580b06bcfc21239945c79fb58",
+      "sourceImageBytes": 330027
+    },
+    {
+      "cardId": "P-A-046",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Permanece oculto en cuevas y, cuando pasa una\npresa, se abalanza sobre ella y la muerde con\ntanta fuerza que hasta se le rompen los dientes.",
+      "value": "Permanece oculto en cuevas y, cuando pasa una\npresa, se abalanza sobre ella y la muerde con\ntanta fuerza que hasta se le rompen los dientes.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/046.ts",
+      "sourceImageSha256": "b084f7d23bb084b7e4ed8ffb40486bfe673bf9deb714419c2292bb112b51e914",
+      "sourceImageBytes": 339549
+    },
+    {
+      "cardId": "P-A-047",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Al evolucionar a Staraptor, deja su bandada y\npasa a vivir en soledad. Sus alas son inmensas.",
+      "value": "Al evolucionar a Staraptor, deja su bandada y\npasa a vivir en soledad. Sus alas son inmensas.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/047.ts",
+      "sourceImageSha256": "13bb183ef1d69c9a7c595c0ab51aae273091f6a0a83b4fdf330d74f30d9bb2d2",
+      "sourceImageBytes": 315463
+    },
+    {
+      "cardId": "P-A-048",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Nace con un maravilloso poder que le permite\nestablecer vínculos con cualquier tipo de Pokémon.",
+      "value": "Nace con un maravilloso poder que le permite\nestablecer vínculos con cualquier tipo de Pokémon.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/048.ts",
+      "sourceImageSha256": "507d9c43a561ed26b5e3934fad6f459361802827094ced4e18dbe67ab7f80bfa",
+      "sourceImageBytes": 299113
+    },
+    {
+      "cardId": "P-A-049",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "No se encuentra satisfecho hasta haber\ningerido 400 kg de comida cada día.\nCuando acaba de comer, se queda dormido.",
+      "value": "No se encuentra satisfecho hasta haber\ningerido 400 kg de comida cada día.\nCuando acaba de comer, se queda dormido.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/049.ts",
+      "sourceImageSha256": "efd61d122ef15775b9dc1c15908176630026b7b86b584c76b47dab3416f93591",
+      "sourceImageBytes": 274505
+    },
+    {
+      "cardId": "P-A-051",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Según parece, ha permitido que los humanos\nmonten en él desde tiempos remotos. Aparece\nen pinturas rupestres de hace diez mil años.",
+      "value": "Según parece, ha permitido que los humanos\nmonten en él desde tiempos remotos. Aparece\nen pinturas rupestres de hace diez mil años.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/051.ts",
+      "sourceImageSha256": "0a6f37808bf61177f45d4ae4bc6ee164cfad5daee66c1f039f1437a31eec2477",
+      "sourceImageBytes": 319640
+    },
+    {
+      "cardId": "P-A-052",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Su sedoso pelaje se asemeja en composición a las plantas.\nSe lava la cara con diligencia para que no se le seque.",
+      "value": "Su sedoso pelaje se asemeja en composición a las plantas.\nSe lava la cara con diligencia para que no se le seque.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/052.ts",
+      "sourceImageSha256": "84c840bcbde3be3e76d630d2557c82d3524448c91f4a418d7243843cb7513e2e",
+      "sourceImageBytes": 221893
+    },
+    {
+      "cardId": "P-A-053",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Con la vejiga natatoria inflada, puede llevar a personas\nsobre su espalda. Antes de bucear, la desinfla.",
+      "value": "Con la vejiga natatoria inflada, puede llevar a personas\nsobre su espalda. Antes de bucear, la desinfla.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/053.ts",
+      "sourceImageSha256": "60e928c95e2b9a51310ecc39eb11750a6b71ca6b6b5a65f39f9d7240f3300b32",
+      "sourceImageBytes": 289699
+    },
+    {
+      "cardId": "P-A-054",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Este Pokémon es normalmente bastante calmado,\npero, una vez en combate, derriba a sus rivales\ncon movimientos de una velocidad vertiginosa.",
+      "value": "Este Pokémon es normalmente bastante calmado,\npero, una vez en combate, derriba a sus rivales\ncon movimientos de una velocidad vertiginosa.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/054.ts",
+      "sourceImageSha256": "4b3bd6a523ff4b68e359b60797a55776371d320b210e27eca4b2e45f5c48985c",
+      "sourceImageBytes": 375959
+    },
+    {
+      "cardId": "P-A-055",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Mueve rápidamente sus cuatro brazos\npara asestar incesantes golpes y\npuñetazos desde todos los ángulos.",
+      "value": "Mueve rápidamente sus cuatro brazos\npara asestar incesantes golpes y\npuñetazos desde todos los ángulos.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/055.ts",
+      "sourceImageSha256": "7371c4b2396c53c02de85e56030f3a6d22b1d5344d179c4928beb0a53ed7537e",
+      "sourceImageBytes": 325337
+    },
+    {
+      "cardId": "P-A-056",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Es capaz de desencajar la mandíbula para\nengullir presas enteras mayores que él mismo,\ntras lo cual se enrosca para descansar.",
+      "value": "Es capaz de desencajar la mandíbula para\nengullir presas enteras mayores que él mismo,\ntras lo cual se enrosca para descansar.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/056.ts",
+      "sourceImageSha256": "75ad6135ffbfd606e42ce58854406a2ee85defec9ed69055f48b67659da68485",
+      "sourceImageBytes": 290255
+    },
+    {
+      "cardId": "P-A-057",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Tiene nervios de acero y nada puede perturbarlo.\nEs más ágil y activo de lo que aparenta.",
+      "value": "Tiene nervios de acero y nada puede perturbarlo.\nEs más ágil y activo de lo que aparenta.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/057.ts",
+      "sourceImageSha256": "442070fdc3af2aff7e675fedef6d1907cb88b55d1d3d2d873079e1c602b26348",
+      "sourceImageBytes": 312048
+    },
+    {
+      "cardId": "P-A-058",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Forma parte del grupo de Pokémon que\nposee bolsas de electricidad en las mejillas.\nDescarga por la cola la electricidad que acumula.",
+      "value": "Forma parte del grupo de Pokémon que\nposee bolsas de electricidad en las mejillas.\nDescarga por la cola la electricidad que acumula.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/058.ts",
+      "sourceImageSha256": "c1305688f0a338a2b7e91d61ad723c72c34d6894663faa979104fcd7c006bdef",
+      "sourceImageBytes": 231236
+    },
+    {
+      "cardId": "P-A-059",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Se comunica con los suyos emitiendo ondas.\nPuede pasarse toda una noche corriendo.",
+      "value": "Se comunica con los suyos emitiendo ondas.\nPuede pasarse toda una noche corriendo.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/059.ts",
+      "sourceImageSha256": "21eb09af89005d48a7a19f7f3740bd5576718e6a8642ccfe17cbda5c3ac211b7",
+      "sourceImageBytes": 302420
+    },
+    {
+      "cardId": "P-A-060",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Pese a su aspecto de mera piña de huevos,\nse trata de un Pokémon. Al parecer, sus\ncabezas se comunican entre sí por telepatía.",
+      "value": "Pese a su aspecto de mera piña de huevos,\nse trata de un Pokémon. Al parecer, sus\ncabezas se comunican entre sí por telepatía.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/060.ts",
+      "sourceImageSha256": "030bf4fcf06fc81398615f752584cfa316ff8c54848e253fddace7c3016a1662",
+      "sourceImageBytes": 288173
+    },
+    {
+      "cardId": "P-A-061",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Secreta burbujas tanto por la espalda como\npor el pecho. Gracias a la elasticidad de estas,\npuede parar ataques y reducir el daño recibido.",
+      "value": "Secreta burbujas tanto por la espalda como\npor el pecho. Gracias a la elasticidad de estas,\npuede parar ataques y reducir el daño recibido.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/061.ts",
+      "sourceImageSha256": "f23cf8b9a57dffc40f550fdac9cfb633514c0214f5838f2e76cd84f57a28e0a4",
+      "sourceImageBytes": 290658
+    },
+    {
+      "cardId": "P-A-062",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Blande el puerro que sujeta con un ala como si\nse tratase de una espada para rebanar a su rival.\nEn caso de necesidad, se lo come para nutrirse.",
+      "value": "Blande el puerro que sujeta con un ala como si\nse tratase de una espada para rebanar a su rival.\nEn caso de necesidad, se lo come para nutrirse.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/062.ts",
+      "sourceImageSha256": "6f1c7d56e8ed0ab18ee9dcce93a73207ed8d5a4c0b18828a3b0dbf1db61830af",
+      "sourceImageBytes": 296802
+    },
+    {
+      "cardId": "P-A-063",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Vive en la capa de ozono sobre las nubes\ny no puede ser visto desde el suelo.",
+      "value": "Vive en la capa de ozono sobre las nubes\ny no puede ser visto desde el suelo.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/063.ts",
+      "sourceImageSha256": "b2a45b99af2532c8c62366755162e7a53925324a40986a5cd3d3b444e9450d5b",
+      "sourceImageBytes": 326603
+    },
+    {
+      "cardId": "P-A-066",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Vive en lugares oscuros donde no llega el sol.\nCuando se deja ver por la gente, oculta todo\nsu cuerpo bajo un saco con aspecto de Pikachu.",
+      "value": "Vive en lugares oscuros donde no llega el sol.\nCuando se deja ver por la gente, oculta todo\nsu cuerpo bajo un saco con aspecto de Pikachu.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/066.ts",
+      "sourceImageSha256": "660a27302e5a5cc8ff79c70af9e67d2d078191b935ce3bbe7d0655400b7c8a3d",
+      "sourceImageBytes": 336820
+    },
+    {
+      "cardId": "P-A-067",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Hasta la brisa más leve es capaz de arrastrar\nsu cuerpo, compuesto de una materia gaseosa\ninestable, pero no parece que eso le moleste.",
+      "value": "Hasta la brisa más leve es capaz de arrastrar\nsu cuerpo, compuesto de una materia gaseosa\ninestable, pero no parece que eso le moleste.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/067.ts",
+      "sourceImageSha256": "c52872d4ac46c6d03ffbd3b0f115446f6ad70a5d0fab3b9843b660f737bd30e6",
+      "sourceImageBytes": 289803
+    },
+    {
+      "cardId": "P-A-068",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Ataca a sus presas con sus afilados colmillos y\ngarras. Solo obedece las órdenes de aquellos\nEntrenadores que logran ganarse su confianza.",
+      "value": "Ataca a sus presas con sus afilados colmillos y\ngarras. Solo obedece las órdenes de aquellos\nEntrenadores que logran ganarse su confianza.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/068.ts",
+      "sourceImageSha256": "39af0f350b1577bef50308d0f81ce1623ae2811205c12429a23a12f8b7d36dfb",
+      "sourceImageBytes": 308666
+    },
+    {
+      "cardId": "P-A-069",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Los intensos rayos solares que bañan su hábitat le han conferido\nun poder y aspecto que muchos consideran su forma original.",
+      "value": "Los intensos rayos solares que bañan su hábitat le han conferido\nun poder y aspecto que muchos consideran su forma original.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/069.ts",
+      "sourceImageSha256": "a2e82f788c72235c7635338403a98f335f3dab3f135c93205ab3e7b63c2d5c2b",
+      "sourceImageBytes": 299971
+    },
+    {
+      "cardId": "P-A-070",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Antaño lo veneraban como la encarnación de una deidad\nque se creía que moraba en las montañas nevadas.",
+      "value": "Antaño lo veneraban como la encarnación de una deidad\nque se creía que moraba en las montañas nevadas.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/070.ts",
+      "sourceImageSha256": "c08d7bad019205063878618b6b0b51f93e1d2de5e499254085b1d8cf90123e72",
+      "sourceImageBytes": 376446
+    },
+    {
+      "cardId": "P-A-071",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Propina puñetazos a los árboles y devora las\nbayas que caen al suelo tras el impacto. Esto le\npermite entrenar y alimentarse al mismo tiempo.",
+      "value": "Propina puñetazos a los árboles y devora las\nbayas que caen al suelo tras el impacto. Esto le\npermite entrenar y alimentarse al mismo tiempo.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/071.ts",
+      "sourceImageSha256": "1d7921570633b4fe91865ee2b88f46c9d6e64a0c103bd5f7518cb0e12e80290b",
+      "sourceImageBytes": 272642
+    },
+    {
+      "cardId": "P-A-072",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "En los vertederos de Alola habitan unos 100\nejemplares que devoran la basura con diligencia.",
+      "value": "En los vertederos de Alola habitan unos 100\nejemplares que devoran la basura con diligencia.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/072.ts",
+      "sourceImageSha256": "41f16e59ed33d44dbe23d257db956fa33492e096a5ec5a0123d962ca399815fe",
+      "sourceImageBytes": 273270
+    },
+    {
+      "cardId": "P-A-073",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Se comunican con sus compañeros chocando los\npicos. El número de veces y la fuerza con la que\nlo hacen transmiten sus distintos sentimientos.",
+      "value": "Se comunican con sus compañeros chocando los\npicos. El número de veces y la fuerza con la que\nlo hacen transmiten sus distintos sentimientos.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/073.ts",
+      "sourceImageSha256": "8a69aeadf4b260c824257a0b6fa8241f95941240c3a18c72dd298b43dee44714",
+      "sourceImageBytes": 293128
+    },
+    {
+      "cardId": "P-A-074",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Hace jirones al oponente con sus garras electrificadas. Aunque\neste esquive los golpes, acaba electrocutado por las descargas.",
+      "value": "Hace jirones al oponente con sus garras electrificadas. Aunque\neste esquive los golpes, acaba electrocutado por las descargas.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/074.ts",
+      "sourceImageSha256": "04d53088b794df5f8ae7e2fc4bc8a45db8f5bdc75ea3e400519626c56c379b00",
+      "sourceImageBytes": 320613
+    },
+    {
+      "cardId": "P-A-075",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "El cuerpo de este Ultraente es fino como el papel\ny tan cortante como una espada recién afilada",
+      "value": "El cuerpo de este Ultraente es fino como el papel y tan cortante como una espada recién afilada.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/075.ts",
+      "evidence": {
+        "sourceImageSha256": "5c2ce0e3551eb78c7f62bcda2d352b0535b244bc2a2554404335d87976f65137",
+        "sourceImageBytes": 278746,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "5c2ce0e3551eb78c7f62bcda2d352b0535b244bc2a2554404335d87976f65137",
+      "sourceImageBytes": 278746
+    },
+    {
+      "cardId": "P-A-076",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Parece ser uno de los temibles Ultraentes. Se acerca a la gente\ncontoneándose y hace explotar su propia cabeza súbitamente",
+      "value": "Parece ser uno de los temibles Ultraentes. Se acerca a la gente contoneándose y hace explotar su propia cabeza súbitamente.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/076.ts",
+      "evidence": {
+        "sourceImageSha256": "5ddba18507453b303ebf63cda5183ba587baca6e8605bd8f81458e16c3d349cf",
+        "sourceImageBytes": 292587,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "5ddba18507453b303ebf63cda5183ba587baca6e8605bd8f81458e16c3d349cf",
+      "sourceImageBytes": 292587
+    },
+    {
+      "cardId": "P-A-077",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Para los seres de este mundo resulta extraño y peligroso, pero\nen el mundo del que procede es una criatura muy común.",
+      "value": "Para los seres de este mundo resulta extraño y peligroso, pero\nen el mundo del que procede es una criatura muy común.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/077.ts",
+      "sourceImageSha256": "9fba8b84fc9f00e5d76e4e7d33b79a905610590009688e46bfb04003a3792e58",
+      "sourceImageBytes": 256367
+    },
+    {
+      "cardId": "P-A-078",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "En esta forma, Lunala no goza de voluntad propia. Necrozma\ntiene control absoluto y absorbe su energía poco a poco.",
+      "value": "En esta forma, Lunala no goza de voluntad propia. Necrozma\ntiene control absoluto y absorbe su energía poco a poco.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/078.ts",
+      "sourceImageSha256": "fbe44c74710a4b0b1a22679a8feaccd8d7ee6ee13c8bfe7a7f4aa5afbbef1d80",
+      "sourceImageBytes": 307503
+    },
+    {
+      "cardId": "P-A-079",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Forma que adopta tras alimentarse de la luz de Solgaleo.\nSe lanza sobre su oponente y lo desgarra sin piedad.",
+      "value": "Forma que adopta tras alimentarse de la luz de Solgaleo.\nSe lanza sobre su oponente y lo desgarra sin piedad.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/079.ts",
+      "sourceImageSha256": "145c0a5b7c28df38efd955ffdc56509edebfc47529a5cc45bbc8b4f5e6059f6b",
+      "sourceImageBytes": 321936
+    },
+    {
+      "cardId": "P-A-080",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Surgió de un Ultraumbral. Parece estar compuesto de varias\n criaturas que se han combinado para formar un solo ser.",
+      "value": "Surgió de un Ultraumbral. Parece estar compuesto de varias\n criaturas que se han combinado para formar un solo ser.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/080.ts",
+      "sourceImageSha256": "4772731d8568c78696b800280750747d141ca06664f26868738f1633034cf9dc",
+      "sourceImageBytes": 300638
+    },
+    {
+      "cardId": "P-A-082",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "En su mundo, este Ultraente se considera tan entrañable\ncomo para ser elegido compañero de viaje.",
+      "value": "En su mundo, este Ultraente se considera tan entrañable\ncomo para ser elegido compañero de viaje.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/082.ts",
+      "sourceImageSha256": "59e25ea9d1ae9f7a6b925aace0f864aeb747fa6dd436f7ededb84d44aae343c2",
+      "sourceImageBytes": 316955
+    },
+    {
+      "cardId": "P-A-083",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Su suave pelaje invita a acariciarlo, pero quien cometa\nsemejante temeridad recibirá un severo escarmiento.",
+      "value": "Su suave pelaje invita a acariciarlo, pero quien cometa\nsemejante temeridad recibirá un severo escarmiento.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/083.ts",
+      "sourceImageSha256": "e93b6e7e71d94586d55e8074604ee37bf2353dc692a7a271d5170bbb498e4444",
+      "sourceImageBytes": 271543
+    },
+    {
+      "cardId": "P-A-085",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "No puede vivir en lugares muy cálidos. Provoca\nnevadas exhalando un vaho gélido y luego se\nacurruca en la nieve acumulada para dormir.",
+      "value": "No puede vivir en lugares muy cálidos. Provoca\nnevadas exhalando un vaho gélido y luego se\nacurruca en la nieve acumulada para dormir.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/085.ts",
+      "sourceImageSha256": "52f9e7a57ff4fc40963421e4a3dd69fa1806af85a7843eaae3b106ee5bccb292",
+      "sourceImageBytes": 242244
+    },
+    {
+      "cardId": "P-A-086",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Concentra la débil actividad eléctrica de\nsus células para lanzar dañinas descargas.",
+      "value": "Concentra la débil actividad eléctrica de\nsus células para lanzar dañinas descargas.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/086.ts",
+      "sourceImageSha256": "fc9144ab131cc099a41e0abb1a5b26fe20ba1792f89c06c99e932d908e459f6e",
+      "sourceImageBytes": 227555
+    },
+    {
+      "cardId": "P-A-087",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Obsequia bayas decoradas con nata a\naquellos Entrenadores en los que confía.",
+      "value": "Obsequia bayas decoradas con nata a\naquellos Entrenadores en los que confía.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/087.ts",
+      "sourceImageSha256": "e61c3e9bd374456ff0c6cb5ebcf1bae60590c52f12cc136ff7a38809fb14e252",
+      "sourceImageBytes": 320884
+    },
+    {
+      "cardId": "P-A-088",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Dicen que, cuando su cuerpo desprende un aura,\nel tiempo empieza a cambiar inmediatamente.",
+      "value": "Dicen que, cuando su cuerpo desprende un aura,\nel tiempo empieza a cambiar inmediatamente.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/088.ts",
+      "sourceImageSha256": "d25b9f57884dc313c9a303fa18736c1e35de467edb3fe4aba32cd386525aa17d",
+      "sourceImageBytes": 274352
+    },
+    {
+      "cardId": "P-A-089",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Un Pokémon gentil que es capaz de comprender\nlos sentimientos y averiguar el estado de salud\nde todo aquel que toque con sus antenas.",
+      "value": "Un Pokémon gentil que es capaz de comprender\nlos sentimientos y averiguar el estado de salud\nde todo aquel que toque con sus antenas.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/089.ts",
+      "sourceImageSha256": "36801739bc9a596636fb5f92a2ed188abac864128921b874e050fc9ef0cddd15",
+      "sourceImageBytes": 245173
+    },
+    {
+      "cardId": "P-A-090",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Utiliza el apéndice de la cabeza para absorber los rayos o los ataques de los Pokémon de tipo Eléctrico para recargar su bolsa.",
+      "value": "Utiliza el apéndice de la cabeza para absorber los rayos o los ataques de los Pokémon de tipo Eléctrico para recargar su bolsa.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/090.ts",
+      "sourceImageSha256": "2bdd2cca865ab3518f112b9484281b395430b62c81bea6ded6b42033e5a6a536",
+      "sourceImageBytes": 324498
+    },
+    {
+      "cardId": "P-A-091",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Su cola es el doble de larga que su cuerpo.\nEnvuelve con ella las bayas que tira de los\nárboles para llevárselas consigo.",
+      "value": "Su cola es el doble de larga que su cuerpo.\nEnvuelve con ella las bayas que tira de los\nárboles para llevárselas consigo.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/091.ts",
+      "sourceImageSha256": "c98b6b9cfe1eeef8ada4853b804c924e47ad6f5e1d298c67d1a22076a90d18e2",
+      "sourceImageBytes": 287386
+    },
+    {
+      "cardId": "P-A-092",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Es capaz de evolucionar de muchas maneras\npara adaptarse sin problemas a cualquier medio.",
+      "value": "Es capaz de evolucionar de muchas maneras\npara adaptarse sin problemas a cualquier medio.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/092.ts",
+      "sourceImageSha256": "238024010237e9797d58588fc5300fd7a60120adc0f07af05da9fc519f6c32e9",
+      "sourceImageBytes": 291742
+    },
+    {
+      "cardId": "P-A-093",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Los lugareños rumorean que suele encontrarse en lugares donde han caído estrellas fugaces.",
+      "value": "Los lugareños rumorean que suele encontrarse en lugares donde han caído estrellas fugaces.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/093.ts",
+      "sourceImageSha256": "93efc8127f70ef0fe0cd9a401eaee4712f681e6753d5117156f75fdd42c500d3",
+      "sourceImageBytes": 251888
+    },
+    {
+      "cardId": "P-A-094",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Habita en mares de aguas tranquilas. Si se siente en peligro, expulsará por la boca una densa tinta negra para poder huir.",
+      "value": "Habita en mares de aguas tranquilas. Si se siente en peligro, expulsará por la boca una densa tinta negra para poder huir.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/094.ts",
+      "sourceImageSha256": "928e4624fe2997b37143dfa4dfcaafdf33dffca53f9aa6d1425a24e19d9d1f4d",
+      "sourceImageBytes": 279143
+    },
+    {
+      "cardId": "P-A-095",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Sus otrora dos aletas han evolucionado a las actuales antenas y ambas tienen carga positiva y negativa.",
+      "value": "Sus otrora dos aletas han evolucionado a las actuales antenas y ambas tienen carga positiva y negativa.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/095.ts",
+      "sourceImageSha256": "e405abd72ccbfef4898967720c844baf3a2a0a51c443880dd7b45f31b2d864cd",
+      "sourceImageBytes": 247116
+    },
+    {
+      "cardId": "P-A-096",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Si te queman las llamas que dispara desde su\nboca, el dolor nunca desaparecerá.",
+      "value": "Si alguien se quema con las llamas que lanza por la boca, el dolor no desaparecerá nunca.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/096.ts",
+      "evidence": {
+        "sourceImageSha256": "b67fa764eb8845a95b414a45c1ee52d2d059fb5995ce64f343d9cbb30bdc0f28",
+        "sourceImageBytes": 304834,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "b67fa764eb8845a95b414a45c1ee52d2d059fb5995ce64f343d9cbb30bdc0f28",
+      "sourceImageBytes": 304834
+    },
+    {
+      "cardId": "P-A-097",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Aunque lleve una cría en el marsupio, su juego de pies no pierde ligereza. Abruma al rival con ráfagas de ágiles puñetazos.",
+      "value": "Aunque lleve una cría en el marsupio, su juego de pies no pierde ligereza. Abruma al rival con ráfagas de ágiles puñetazos.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/097.ts",
+      "sourceImageSha256": "61c1edcfd571dac0807dcf211d3e4d8743c687a310949b4186adb14cf59d6c6e",
+      "sourceImageBytes": 314339
+    },
+    {
+      "cardId": "P-A-099",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "The fur on its body naturally repels water. puede\nstay dry even when it plays in the water.",
+      "value": "Tiene un pelaje que repele el agua, por lo que está seco incluso después de bañarse.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/099.ts",
+      "evidence": {
+        "sourceImageSha256": "76f12d05e941369bac07ebe7cd261f192fbb01d7bdeaba85374ad763ab3b0a65",
+        "sourceImageBytes": 294807,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "76f12d05e941369bac07ebe7cd261f192fbb01d7bdeaba85374ad763ab3b0a65",
+      "sourceImageBytes": 294807
+    },
+    {
+      "cardId": "P-A-100",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "La evolución lo hizo aún más tortuoso.\nSe comunica mediante señales de arañas en las rocas.",
+      "value": "Su carácter se volvió aún más vil con la evolución. Se comunica marcando rocas con sus garras.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/100.ts",
+      "evidence": {
+        "sourceImageSha256": "f2a068d931f014db9377cd34ff7b82cefac15116daacd49ed22e213d9c3ebd6c",
+        "sourceImageBytes": 306339,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "f2a068d931f014db9377cd34ff7b82cefac15116daacd49ed22e213d9c3ebd6c",
+      "sourceImageBytes": 306339
+    },
+    {
+      "cardId": "P-A-101",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Se comunica mediante telepatía. Su cuerpo es\ncubierto de plumón que refracta la luz para hacer\nes invisible.",
+      "value": "Se comunica por telepatía. Su plumaje refleja la luz, lo que le permite hacerse invisible.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/101.ts",
+      "evidence": {
+        "sourceImageSha256": "6e01818a1476a3c4871889ae9bf137da1b86d59b6433c869e219eafed52b61bc",
+        "sourceImageBytes": 335544,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "6e01818a1476a3c4871889ae9bf137da1b86d59b6433c869e219eafed52b61bc",
+      "sourceImageBytes": 335544
+    },
+    {
+      "cardId": "P-A-102",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Vive en selvas tropicales. el racimo de fruta\nalrededor de su cuello es delicioso. la fruta crece\ndos veces al año.",
+      "value": "Habita en las junglas tropicales. Le crece un delicioso racimo de fruta dulce en el cuello dos veces al año.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/102.ts",
+      "evidence": {
+        "sourceImageSha256": "62e1ceb1070ec5ead07cf664ae1742e30cf8a19ab72c31c1a102897cb01f4860",
+        "sourceImageBytes": 290943,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "62e1ceb1070ec5ead07cf664ae1742e30cf8a19ab72c31c1a102897cb01f4860",
+      "sourceImageBytes": 290943
+    },
+    {
+      "cardId": "P-A-103",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Es más ágil en el agua que en la tierra. La espiral de su vientre no es más que parte de sus vísceras que se ven a través de la piel.",
+      "value": "Es más ágil en el agua que en la tierra. La espiral de su vientre no es más que parte de sus vísceras que se ven a través de la piel.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/103.ts",
+      "sourceImageSha256": "d3788906ce449da5600d9de3184caf440f0f7cb3224134d735e5953000d2898d",
+      "sourceImageBytes": 263901
+    },
+    {
+      "cardId": "P-A-104",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Milotic ha servido de inspiración a muchos artistas.\nIncluso se le ha denominado el más\nHermoso Pokémon de todos.",
+      "value": "Se dice que es el Pokémon más bello. Ha sido la fuente de inspiración de un sinnúmero de artistas.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/104.ts",
+      "evidence": {
+        "sourceImageSha256": "f8ffb193db9892b15ac58a6a13c96d28031a40a9eb5dcac1ef4f9182a7ff088e",
+        "sourceImageBytes": 316937,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "f8ffb193db9892b15ac58a6a13c96d28031a40a9eb5dcac1ef4f9182a7ff088e",
+      "sourceImageBytes": 316937
+    },
+    {
+      "cardId": "P-A-105",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Cambia a las formas de otros para sorprender.\nellos. Al parecer, a menudo se transforma en un\nniño silencioso.",
+      "value": "Se transforma en otros para crear desconcierto. A menudo, adopta la forma de un niño parco en palabras.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/105.ts",
+      "evidence": {
+        "sourceImageSha256": "3297b924bd3653d99ec598ca80fc9ea44b0bd2e5cf70405c6902548d97c7aeee",
+        "sourceImageBytes": 315392,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "3297b924bd3653d99ec598ca80fc9ea44b0bd2e5cf70405c6902548d97c7aeee",
+      "sourceImageBytes": 315392
+    },
+    {
+      "cardId": "P-A-106",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Las historias dicen que aquellos que intentaron atrapar a Zoroark fueron\natrapado en una ilusión y castigado.",
+      "value": "Se dice que Zoroark atrapa en un mundo de ilusiones a quien lo intenta capturar y que, de esta manera, lo castiga.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/106.ts",
+      "evidence": {
+        "sourceImageSha256": "f55632295f91933b458d39f3f42c6cc1bb33fe8717d055f9a463f17bf51b021c",
+        "sourceImageBytes": 324047,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "f55632295f91933b458d39f3f42c6cc1bb33fe8717d055f9a463f17bf51b021c",
+      "sourceImageBytes": 324047
+    },
+    {
+      "cardId": "P-A-107",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Debido a la nutritiva leche que produce, ha contribuido al bienestar de humanos y Pokémon desde tiempos inmemoriales.",
+      "value": "Debido a la nutritiva leche que produce, ha contribuido al bienestar de humanos y Pokémon desde tiempos inmemoriales.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/107.ts",
+      "sourceImageSha256": "0156940d616c4d53a1c3a23a9d0b683d762c455b81cacfb8dda0f35cbec9efda",
+      "sourceImageBytes": 288537
+    },
+    {
+      "cardId": "P-A-108",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Este Pokémon vive y anida en la orilla de un río.\nDespués de jugar en el barro, no podrá\ncalmarse a menos que se lave el cuerpo.",
+      "value": "Vive en hoyos que cava en la ribera de los ríos. Tras retozar en el lodo, no se queda tranquilo hasta haberse lavado bien el cuerpo.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/108.ts",
+      "evidence": {
+        "sourceImageSha256": "5dd9deba420931844766b5b36f25d3c6e77d2ebcbb5955a30676b5ed0cf87892",
+        "sourceImageBytes": 303269,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "5dd9deba420931844766b5b36f25d3c6e77d2ebcbb5955a30676b5ed0cf87892",
+      "sourceImageBytes": 303269
+    },
+    {
+      "cardId": "P-A-111",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Cuando se enfada, este Pokémon\ndescarga la energía que almacena en\nel interior de las bolsas de las mejillas.",
+      "value": "Cuando se enfada, este Pokémon\ndescarga la energía que almacena en\nel interior de las bolsas de las mejillas.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/111.ts",
+      "sourceImageSha256": "5586840520b71ff7620f19362a5f539cf19079b93922ef45421c999445534c47",
+      "sourceImageBytes": 220955
+    },
+    {
+      "cardId": "P-A-113",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Este Pokémon vive en lugares oscuros que no han sido tocados por\nluz del sol. Cuando aparece ante los humanos, se esconde.\ndebajo de una tela que se asemeja a un Pikachu.",
+      "value": "Vive en lugares oscuros donde no llega el sol. Cuando se deja ver por la gente, oculta todo su cuerpo bajo un saco con aspecto de Pikachu.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/113.ts",
+      "evidence": {
+        "sourceImageSha256": "2e640f3d2c0a222ae14f09b50db36d59ba4f87fcc4ff39e79164d1cfaa4f4435",
+        "sourceImageBytes": 289390,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "2e640f3d2c0a222ae14f09b50db36d59ba4f87fcc4ff39e79164d1cfaa4f4435",
+      "sourceImageBytes": 289390
+    },
+    {
+      "cardId": "P-A-114",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Mueve rápidamente sus cuatro brazos\npara asestar incesantes golpes y\npuñetazos desde todos los ángulos.",
+      "value": "Mueve rápidamente sus cuatro brazos\npara asestar incesantes golpes y\npuñetazos desde todos los ángulos.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/114.ts",
+      "sourceImageSha256": "2b671a115b32ac6b6eff0f0f37a96c73246397b618a409563c28633c4889c9ad",
+      "sourceImageBytes": 306987
+    },
+    {
+      "cardId": "P-A-115",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Se dice que usó rocas, magma y un hielo especial\nde montaña para crear Pokémon con su aspecto.",
+      "value": "Se dice que usó rocas, magma y un hielo especial\nde montaña para crear Pokémon con su aspecto.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/115.ts",
+      "sourceImageSha256": "792bdea40b369e83049f927ccb2ec050ebeedbe71d7facab83be0a97f4d6ba54",
+      "sourceImageBytes": 281385
+    },
+    {
+      "cardId": "P-A-116",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Puede disolver las toxinas del aire para\ntransformar tierra yerma en campos de flores.",
+      "value": "Puede disolver las toxinas del aire para\ntransformar tierra yerma en campos de flores.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/116.ts",
+      "sourceImageSha256": "77558e413034fe6ee7c7ef4d97d1ceae8de6cf808641b64dcf22374df214c81d",
+      "sourceImageBytes": 294948
+    },
+    {
+      "cardId": "P-A-117",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Corre por montañas y prados a la velocidad del viento. Su cuerno curvado tiene tal sensibilidad que puede predecir catástrofes naturales.",
+      "value": "Corre por montañas y prados a la velocidad del viento. Su cuerno curvado tiene tal sensibilidad que puede predecir catástrofes naturales.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-A/117.ts",
+      "sourceImageSha256": "93dbc9c4c3eef42d04757993c87f86ea302d5b5d75eb18203d316ea6d872f996",
+      "sourceImageBytes": 303274
+    },
+    {
+      "cardId": "P-B-001",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Cuando se enfada, este Pokémon\ndescarga la energía que almacena en\nel interior de las bolsas de las mejillas.",
+      "value": "Cuando se enfada, este Pokémon\ndescarga la energía que almacena en\nel interior de las bolsas de las mejillas.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/001.ts",
+      "sourceImageSha256": "15dae4ca7d28e48afb9e51c80de64f1806d8552afbb4c008558672ac33b39aa2",
+      "sourceImageBytes": 278440
+    },
+    {
+      "cardId": "P-B-002",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Si las hojas de su cabeza se podan con regularidad, este Pokémon puede desarrollar una forma fina y regordeta.",
+      "value": "Adquiere un aspecto esplendoroso cuando se le recortan las hojas de la cabeza con cierta asiduidad.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/002.ts",
+      "evidence": {
+        "sourceImageSha256": "deb2df32faef15c26edfadaeee6d35df813c045d43255487f075ce045784d0e5",
+        "sourceImageBytes": 287226,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "deb2df32faef15c26edfadaeee6d35df813c045d43255487f075ce045784d0e5",
+      "sourceImageBytes": 287226
+    },
+    {
+      "cardId": "P-B-003",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Protege su piel cubriendo el cuerpo con una fina capa de\nburbujas. Aunque parezca despreocupado, no deja de vigilar\ncon astucia lo que le rodea.",
+      "value": "Protege su piel cubriendo el cuerpo con una fina capa de\nburbujas. Aunque parezca despreocupado, no deja de vigilar\ncon astucia lo que le rodea.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/003.ts",
+      "sourceImageSha256": "1382f010c4b613ca25bd12ff03a02a853df4235f778694b32c72d4b51e810b67",
+      "sourceImageBytes": 282202
+    },
+    {
+      "cardId": "P-B-004",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "La potente visión de Luxray resulta extremadamente valiosa\ncuando acecha el peligro.",
+      "value": "Tiene la capacidad de ver a través de todo, algo que resulta extremadamente valioso cuando acecha el peligro.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/004.ts",
+      "evidence": {
+        "sourceImageSha256": "feccd0938de43472835cdcd91363553ebba7e4a34573a34e37c80a671ce2dc0a",
+        "sourceImageBytes": 245579,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "feccd0938de43472835cdcd91363553ebba7e4a34573a34e37c80a671ce2dc0a",
+      "sourceImageBytes": 245579
+    },
+    {
+      "cardId": "P-B-005",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Es manso y prefiere evitar los problemas. Sin embargo,\nsi le molestan atacará ferozmente.",
+      "value": "Es manso y prefiere evitar los problemas. Sin embargo,\nsi le molestan atacará ferozmente.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/005.ts",
+      "sourceImageSha256": "71ed206a7ec4ed6fa471d766a24ad93fc550eaddcd63ff0e1d4a8e32dee91282",
+      "sourceImageBytes": 283263
+    },
+    {
+      "cardId": "P-B-007",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "En su interior arde una llama que mantiene su cuerpo\ncaliente. Tira bolas de fuego a 1000 °C.",
+      "value": "En su interior arde una llama que mantiene su cuerpo\ncaliente. Tira bolas de fuego a 1000 °C.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/007.ts",
+      "sourceImageSha256": "c999060d84cfacb2f8e36597fbecae4d356d9b557a6e62d051e95c54a8ce4cbb",
+      "sourceImageBytes": 245054
+    },
+    {
+      "cardId": "P-B-008",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Si su dolor de cabeza crónico alcanza su punto máximo, puede exhibir poderes extraños. Parece incapaz de recordar tal episodio.",
+      "value": "Cuando su jaqueca crónica empeora, desata unos poderes misteriosos, pero después no parece recordar nada de lo ocurrido.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/008.ts",
+      "evidence": {
+        "sourceImageSha256": "e6160dca71b05588c486d4a53bccff117ba60c3cb44d9b09fdc31e9b3876670f",
+        "sourceImageBytes": 296039,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "e6160dca71b05588c486d4a53bccff117ba60c3cb44d9b09fdc31e9b3876670f",
+      "sourceImageBytes": 296039
+    },
+    {
+      "cardId": "P-B-010",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Llevan personas y Pokémon, pero el viento puede atraparlos, por lo que no puede haber un destino fijo.",
+      "value": "Pueden transportar a gente y Pokémon. Sin embargo, por culpa de las corrientes de aire, no pueden fijar un destino.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/010.ts",
+      "evidence": {
+        "sourceImageSha256": "75100e8c5d9834097f13aea3987cac45da19d00dbfe241e0fc94e53ad767b5c1",
+        "sourceImageBytes": 264336,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "75100e8c5d9834097f13aea3987cac45da19d00dbfe241e0fc94e53ad767b5c1",
+      "sourceImageBytes": 264336
+    },
+    {
+      "cardId": "P-B-011",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Su código genético es irregular. Puede mutar si se expone a la radiación de las piedras elementales.",
+      "value": "De código genético irregular, puede mutar si se le expone a la radiación de piedras evolutivas.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/011.ts",
+      "evidence": {
+        "sourceImageSha256": "cd0bed8114db1b78bd505d9131e6368430e40e6afd30002f7de0190d84df9a03",
+        "sourceImageBytes": 293306,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "cd0bed8114db1b78bd505d9131e6368430e40e6afd30002f7de0190d84df9a03",
+      "sourceImageBytes": 293306
+    },
+    {
+      "cardId": "P-B-012",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Tiene la capacidad de reorganizar su estructura celular\npara convertirse en otras formas de vida.",
+      "value": "Tiene la capacidad de reorganizar su estructura celular\npara convertirse en otras formas de vida.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/012.ts",
+      "sourceImageSha256": "86e68458020221f7fa08d7f84c9f8d0d0489064bf13d4225dd0e5cf2b0a84511",
+      "sourceImageBytes": 311405
+    },
+    {
+      "cardId": "P-B-013",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Su magnífico ladrido transmite majestuosidad. Todo\nel que lo escuche no podrá evitar adularlo.",
+      "value": "Su imponente ladrido rebosa majestuosidad de tal forma que todo el que lo escucha no puede sino postrarse ante él.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/013.ts",
+      "evidence": {
+        "sourceImageSha256": "d107eed0b70013b0d9c045ef713646bb9956d5522c9f155dd18a51f6805e07fd",
+        "sourceImageBytes": 278239,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "d107eed0b70013b0d9c045ef713646bb9956d5522c9f155dd18a51f6805e07fd",
+      "sourceImageBytes": 278239
+    },
+    {
+      "cardId": "P-B-014",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "En un pasado lejano, era más fuerte de lo que hoy\nson sus débiles descendientes.",
+      "value": "En un pasado lejano, era más fuerte de lo que hoy\nson sus débiles descendientes.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/014.ts",
+      "sourceImageSha256": "87f717429bb561540d27aa31248d527b9bb395ad398b00a1d4f8ebbc9ca5b8af",
+      "sourceImageBytes": 304132
+    },
+    {
+      "cardId": "P-B-015",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Su vellón crece continuamente. En verano, el vellón se muda por completo, pero vuelve a crecer en una semana.",
+      "value": "Su lana crece continuamente. En verano la pierde toda, pero le vuelve a crecer en una semana.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/015.ts",
+      "evidence": {
+        "sourceImageSha256": "bbea48074b629bf143164c0b258f7fe6810bba9488a3f94940e66a12229832d5",
+        "sourceImageBytes": 201370,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "bbea48074b629bf143164c0b258f7fe6810bba9488a3f94940e66a12229832d5",
+      "sourceImageBytes": 201370
+    },
+    {
+      "cardId": "P-B-016",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Su vista es tan perspicaz que puede divisar\npresas de pequeño tamaño a 50 km de\ndistancia, incluso en plena tormenta de arena.",
+      "value": "Su vista es tan perspicaz que puede divisar\npresas de pequeño tamaño a 50 km de\ndistancia, incluso en plena tormenta de arena.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/016.ts",
+      "sourceImageSha256": "8ba3c55fe4f3334011664fae7014e030af06bf4d14e3ff3446da0a38aea414e7",
+      "sourceImageBytes": 292147
+    },
+    {
+      "cardId": "P-B-017",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "No puede relajarse si él o sus alrededores no están limpios. Limpia la suciedad con sus alas.",
+      "value": "Si su cuerpo o su entorno no están limpios, no puede relajarse. En cuanto ve algo de mugre, la limpia con las alas.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/017.ts",
+      "evidence": {
+        "sourceImageSha256": "fe75bd056eba8d8b9454d4f0f2f941bc64da64229385ef5b1a76ae465eeed2ca",
+        "sourceImageBytes": 285453,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "fe75bd056eba8d8b9454d4f0f2f941bc64da64229385ef5b1a76ae465eeed2ca",
+      "sourceImageBytes": 285453
+    },
+    {
+      "cardId": "P-B-018",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Al extender su gorguera y exponerse a la luz\nsolar, genera la energía eléctrica suficiente para\ncubrir el consumo de una metrópoli entera.",
+      "value": "Al extender su gorguera y exponerse a la luz\nsolar, genera la energía eléctrica suficiente para\ncubrir el consumo de una metrópoli entera.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/018.ts",
+      "sourceImageSha256": "5b1bd9d0f9a3221ca22b81264d8476879746b018cba79d544f7653775ad8d584",
+      "sourceImageBytes": 227364
+    },
+    {
+      "cardId": "P-B-019",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Ataca estirando con un fuerte impulso las\norejas enrolladas. Cuanto más entrena esta\ntécnica, con más potencia la ejecuta.",
+      "value": "Ataca estirando con un fuerte impulso las\norejas enrolladas. Cuanto más entrena esta\ntécnica, con más potencia la ejecuta.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/019.ts",
+      "sourceImageSha256": "0bf8af13ca193469258e06c7e940ff308da67165b033644a4dd063a854ed255c",
+      "sourceImageBytes": 284948
+    },
+    {
+      "cardId": "P-B-020",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Si se exalta en combate, expulsa intensas\nllamaradas que incineran todo a su alrededor.",
+      "value": "Si se exalta en combate, expulsa intensas\nllamaradas que incineran todo a su alrededor.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/020.ts",
+      "sourceImageSha256": "9d41fb81eadc08cc7a5d8ef60643d62d827ecc3afd3dc5b1fa5a5c5d8819feb5",
+      "sourceImageBytes": 293114
+    },
+    {
+      "cardId": "P-B-021",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Perfora el suelo a una velocidad de 80 km/h\ngirando y retorciendo su robusto y enorme\ncuerpo.",
+      "value": "Perfora el suelo a una velocidad de 80 km/h\ngirando y retorciendo su robusto y enorme\ncuerpo.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/021.ts",
+      "sourceImageSha256": "3134fa10198c0abaedf52fc749442645f42dc87e60e76bc581f2eea1e02a7148",
+      "sourceImageBytes": 290220
+    },
+    {
+      "cardId": "P-B-022",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Hawlucha viva tranquilamente sin agruparse. Luchan constantemente con sus enemigos naturales: ruidosos grupos de Primeape.",
+      "value": "Vive en solitario, disfrutando de la tranquilidad. Los Primeape, que forman ruidosas manadas, son su peor enemigo y no paran de enfrentarse.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/022.ts",
+      "evidence": {
+        "sourceImageSha256": "bf820b39205a3ead66c0167b2cebe60218b3dcc38cd3354df59bad64115970b1",
+        "sourceImageBytes": 299177,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "bf820b39205a3ead66c0167b2cebe60218b3dcc38cd3354df59bad64115970b1",
+      "sourceImageBytes": 299177
+    },
+    {
+      "cardId": "P-B-023",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Pokémon de tipo Bicho de la antigüedad, modificado por\nel Equipo Plasma. El cañón de su lomo ha sido mejorado.",
+      "value": "Un Pokémon de hace 300 millones de años y alterado por el Equipo Plasma, quienes le han equipado con un cañón en el lomo.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/023.ts",
+      "evidence": {
+        "sourceImageSha256": "eb490386f741be827038ba26c1f2529cfdeec30aa8c5d72514597f4f03d321cb",
+        "sourceImageBytes": 300807,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "eb490386f741be827038ba26c1f2529cfdeec30aa8c5d72514597f4f03d321cb",
+      "sourceImageBytes": 300807
+    },
+    {
+      "cardId": "P-B-025",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Se dice que puede otorgar cualquier deseo durante\nuna semana cada 1000 años.",
+      "value": "Se dice que puede otorgar cualquier deseo durante\nuna semana cada 1000 años.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/025.ts",
+      "sourceImageSha256": "eb875b3cc1d69570f83c3220f109661f8046c982c44646d27c3ee126476b618c",
+      "sourceImageBytes": 388690
+    },
+    {
+      "cardId": "P-B-026",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Cuando utiliza su gran aleta caudal, gana velocidad rápidamente en el agua. Es fuerte a pesar de su pequeño tamaño.",
+      "value": "Batir su gran aleta caudal en el agua le permite nadar muy rápido. A pesar de su reducido tamaño, tiene mucha fuerza.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/026.ts",
+      "evidence": {
+        "sourceImageSha256": "5936224bcfcc8ca4ef7af9fa4884b1675c45f4bd35afcc536e4df5ba57556ada",
+        "sourceImageBytes": 278069,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "5936224bcfcc8ca4ef7af9fa4884b1675c45f4bd35afcc536e4df5ba57556ada",
+      "sourceImageBytes": 278069
+    },
+    {
+      "cardId": "P-B-027",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Este Pokémon absorbe electricidad de los postes telefónicos. Corta la electricidad almacenada dentro de su cuerpo para crear ruidos.",
+      "value": "Absorbe electricidad de los postes de teléfono. La almacena y crea cortocircuitos en su cuerpo para producir sonidos.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/027.ts",
+      "evidence": {
+        "sourceImageSha256": "87205ca9c491a3e5602cee4dd7a24f9da5c67133304236dd0a7e606db761b74a",
+        "sourceImageBytes": 247821,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "87205ca9c491a3e5602cee4dd7a24f9da5c67133304236dd0a7e606db761b74a",
+      "sourceImageBytes": 247821
+    },
+    {
+      "cardId": "P-B-028",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Capta muy bien lo que sienten las personas y\nlos Pokémon. Cuando nota cierta hostilidad, se\nesconde.",
+      "value": "Capta muy bien lo que sienten las personas y\nlos Pokémon. Cuando nota cierta hostilidad, se\nesconde.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/028.ts",
+      "sourceImageSha256": "4b09e8ad4fb1ab8e2c92df13765660537c6d22a686a67797d5562a8e9e945465",
+      "sourceImageBytes": 298061
+    },
+    {
+      "cardId": "P-B-030",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "La energía que desprende de su cola genera violentas\ntempestades capaces de echar abajo casas.",
+      "value": "La energía que desprende de su cola genera violentas\ntempestades capaces de echar abajo casas.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/030.ts",
+      "sourceImageSha256": "e57d5879f943b95876ae26ee14ca75a6493c17ee288b76a7c91f14e3e263bdfa",
+      "sourceImageBytes": 292632
+    },
+    {
+      "cardId": "P-B-031",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Usando una bola que hizo con llamas, Cinderace ciega a sus oponentes y los mantiene a raya.",
+      "value": "Maneja los balones de fuego que crea para mantener a raya a sus adversarios o cegarlos.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/031.ts",
+      "evidence": {
+        "sourceImageSha256": "fa2bf70036b4cc9605fabb793999c81f2a3c435574681db9f6fd684ab39514f9",
+        "sourceImageBytes": 288959,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "fa2bf70036b4cc9605fabb793999c81f2a3c435574681db9f6fd684ab39514f9",
+      "sourceImageBytes": 288959
+    },
+    {
+      "cardId": "P-B-032",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Cuando hace calor, este Pokémon fabrica fragmentos de hielo con sus seis colas y los rocía para refrescarse.",
+      "value": "Cuando hace calor, crea rocas de hielo con sus seis colas y las disemina por los alrededores para enfriar su cuerpo.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/032.ts",
+      "evidence": {
+        "sourceImageSha256": "da4a9ed6b29a6e2625d5d62e7564c7ae2df7e1407fb5b907f811dd5a681b778d",
+        "sourceImageBytes": 302208,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "da4a9ed6b29a6e2625d5d62e7564c7ae2df7e1407fb5b907f811dd5a681b778d",
+      "sourceImageBytes": 302208
+    },
+    {
+      "cardId": "P-B-033",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Sus fuertes patas le permiten nadar fácilmente incluso en ríos de corriente rápida. Le gusta mantener las cosas ordenadas y es propenso a pensar demasiado.",
+      "value": "La fuerza de sus patas le permite nadar incluso por las más fuertes corrientes fluviales. Adora la pulcritud y peca de inflexible en su actitud.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "donorSourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/570/src/22_es.png",
+      "donorImageSha256": "6ad5925107c7d8fa0ae5f30c9fdeb5cc9d8360880e4b6ba0e172892965592aeb",
+      "file": "data/Pokémon TCG Pocket/Promos-B/033.ts",
+      "evidence": {
+        "sourceImageSha256": "98172f8c0783a6bf4eca762764ba00af7cea9729df99f91b589fb530b7770118",
+        "sourceImageBytes": 330042,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "98172f8c0783a6bf4eca762764ba00af7cea9729df99f91b589fb530b7770118",
+      "sourceImageBytes": 330042
+    },
+    {
+      "cardId": "P-B-034",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Este Pokémon convierte los nutrientes en aceite, que almacena en la fruta que tiene en la cabeza. Puede pasar fácilmente una semana entera sin comer ni beber.",
+      "value": "Convierte los nutrientes de su dieta en aceite, que almacena en el fruto de la cabeza. Puede pasar una semana sin beber ni comer nada.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/034.ts",
+      "evidence": {
+        "sourceImageSha256": "62c3129ea167858017c5321a77d4214023b18ce66001a48cbfc556f0f96411a1",
+        "sourceImageBytes": 276592,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "62c3129ea167858017c5321a77d4214023b18ce66001a48cbfc556f0f96411a1",
+      "sourceImageBytes": 276592
+    },
+    {
+      "cardId": "P-B-035",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Su potencia de fuego aumenta cuando lucha, alcanzando más de 1.800 grados Fahrenheit. Le gustan las bayas ricas en grasas.",
+      "value": "Sus potentes llamas alcanzan los 1000 °C cuando combate. Siente predilección por las bayas con un alto contenido graso.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/035.ts",
+      "evidence": {
+        "sourceImageSha256": "b6491af575ab9639c39ae1839738b18ca598436022d211519c2d5a806947968a",
+        "sourceImageBytes": 296173,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "b6491af575ab9639c39ae1839738b18ca598436022d211519c2d5a806947968a",
+      "sourceImageBytes": 296173
+    },
+    {
+      "cardId": "P-B-036",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Tatsugiri es un Pokémon extremadamente astuto. Finge debilidad para atraer a su presa y luego ordena a su compañero que ataque.",
+      "value": "Es un Pokémon de gran astucia. Atrae a sus presas fingiendo estar débil para otorgarle a su compañero la oportunidad de atacar.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/036.ts",
+      "evidence": {
+        "sourceImageSha256": "e9b8086b9762d141ef61653c261be36e1439e97d2814830a0e480f1fff9efc9b",
+        "sourceImageBytes": 329649,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "e9b8086b9762d141ef61653c261be36e1439e97d2814830a0e480f1fff9efc9b",
+      "sourceImageBytes": 329649
+    },
+    {
+      "cardId": "P-B-037",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Este Pokémon vive en bosques y zonas escarpadas. Utilizando el poder de su aleta dorsal, enfría el interior de su nido como si fuera un frigorífico.",
+      "value": "Vive en bosques y entornos pedregosos. Se vale del poder de su placa dorsal para refrigerar su madriguera como si fuera un frigorífico.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/037.ts",
+      "evidence": {
+        "sourceImageSha256": "9358f9de5ce448110342bbce7a1ef55f4cb94b3ea91b2b28a6e33806853d899c",
+        "sourceImageBytes": 281801,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "9358f9de5ce448110342bbce7a1ef55f4cb94b3ea91b2b28a6e33806853d899c",
+      "sourceImageBytes": 281801
+    },
+    {
+      "cardId": "P-B-038",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "El martillo pesa más de 220 libras, pero Tinkaton lo mueve fácilmente mientras roba lo que quiere y lleva su botín a casa.",
+      "value": "Blande sin esfuerzo su pesado martillo de más de 100 kg. Cuando quiere algo, lo roba y se lo lleva de vuelta a su guarida.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/038.ts",
+      "evidence": {
+        "sourceImageSha256": "a5c39fe494232a001339de1793f8b3e5f4bf5265a0da25deaffdd49376bbbb3b",
+        "sourceImageBytes": 300721,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "a5c39fe494232a001339de1793f8b3e5f4bf5265a0da25deaffdd49376bbbb3b",
+      "sourceImageBytes": 300721
+    },
+    {
+      "cardId": "P-B-039",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Las almohadillas de sus patas son órganos que descargan electricidad. Pawmi dispara electricidad desde sus patas delanteras mientras se mantiene inestable sobre sus patas traseras.",
+      "value": "Sus almohadillas le permiten liberar electricidad. Cuando logra erguirse sobre las patas traseras, usa las palmas para soltar descargas eléctricas.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/039.ts",
+      "evidence": {
+        "sourceImageSha256": "15b1f39247028d7a08814c0e3943011334bce546b1e0621191bd3f6000c661ad",
+        "sourceImageBytes": 260723,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "15b1f39247028d7a08814c0e3943011334bce546b1e0621191bd3f6000c661ad",
+      "sourceImageBytes": 260723
+    },
+    {
+      "cardId": "P-B-040",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Vive en el fondo de estanques y pantanos. Llevará a Wooper en su espalda y lo transportará a través del agua de una orilla a la otra.",
+      "value": "Vive en el fondo de los estanques y pantanos. Nada con Wooper sobre el lomo para ayudarlos a cruzar de una orilla a otra.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/040.ts",
+      "evidence": {
+        "sourceImageSha256": "a005f61af7514ff4862db35d50b5e279d381d37a4570df0fb966402ecc403a37",
+        "sourceImageBytes": 286245,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "a005f61af7514ff4862db35d50b5e279d381d37a4570df0fb966402ecc403a37",
+      "sourceImageBytes": 286245
+    },
+    {
+      "cardId": "P-B-042",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Está siempre en su mundo, pero nadie sabe en qué\npiensa. Suele pescar con la cola.",
+      "value": "Está siempre en su mundo, pero nadie sabe en qué\npiensa. Suele pescar con la cola.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/042.ts",
+      "sourceImageSha256": "d0b9e0ac75a861c2ba4f6e76083bd6aa94092f2413bb6acc8717e68bc9b4b7fd",
+      "sourceImageBytes": 225979
+    },
+    {
+      "cardId": "P-B-043",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Almacena electricidad estática en su pelaje.\nEn estaciones secas, suelta chispas por todo\nel cuerpo.",
+      "value": "Almacena electricidad estática en su pelaje.\nEn estaciones secas, suelta chispas por todo\nel cuerpo.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/043.ts",
+      "sourceImageSha256": "4ba1a6804b18fa211271780852c981b99919fa1b12f33bfe88a643e0476b4988",
+      "sourceImageBytes": 223194
+    },
+    {
+      "cardId": "P-B-044",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "La sección de acero es la carrocería real de Varoom. Este Pokémon se aferra a las rocas y convierte los minerales que contiene en energía para impulsar sus actividades.",
+      "value": "La parte metálica es su verdadero cuerpo. Se adhiere a rocas para procesar sus minerales y generar energía para moverse.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/044.ts",
+      "evidence": {
+        "sourceImageSha256": "50bb70dffab5fada0fae3a14fc16e1dd96c7607efd9994526ed15b5062dd8abe",
+        "sourceImageBytes": 278084,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "50bb70dffab5fada0fae3a14fc16e1dd96c7607efd9994526ed15b5062dd8abe",
+      "sourceImageBytes": 278084
+    },
+    {
+      "cardId": "P-B-045",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Abruma a los enemigos con sus preciados colmillos, que son lo suficientemente afilados como para atravesar una torre de transmisión de metal de un solo golpe.",
+      "value": "Abruma al enemigo con sus preciados colmillos, tan afilados que pueden cortar de un tajo una torre metálica.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/045.ts",
+      "evidence": {
+        "sourceImageSha256": "79da8e6217c25f2d4b0c0ff8d0791ca2fd7fa00f03f08cac3d0ba67c3b31fd51",
+        "sourceImageBytes": 297613,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "79da8e6217c25f2d4b0c0ff8d0791ca2fd7fa00f03f08cac3d0ba67c3b31fd51",
+      "sourceImageBytes": 297613
+    },
+    {
+      "cardId": "P-B-046",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Puede imitar el lenguaje humano. Si se juntan varios, todos\naprenden las mismas palabras.",
+      "value": "Puede imitar el lenguaje humano. Si se juntan varios, todos\naprenden las mismas palabras.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/046.ts",
+      "sourceImageSha256": "a0607ded2b9e799a6ac9388585d3c7cdecf45af941431a08004cb9c308adae6d",
+      "sourceImageBytes": 272813
+    },
+    {
+      "cardId": "P-B-047",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Su etéreo cuerpo está hecho de gas. Puede envolver\na un oponente de cualquier tamaño hasta ahogarlo.",
+      "value": "Su etéreo cuerpo está hecho de gas. Puede envolver\na un oponente de cualquier tamaño hasta ahogarlo.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/047.ts",
+      "sourceImageSha256": "97f70c82db3d44a0ad4344aba2d715e32c7003567ca87ed54f5347d016460688",
+      "sourceImageBytes": 292716
+    },
+    {
+      "cardId": "P-B-048",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "El pelaje rico y esponjoso que cubre su cuerpo se siente tan bien que cualquiera que lo siente no puede dejar de tocarlo.",
+      "value": "Es como un peluche suave, tan agradable al tacto que, cuando alguien lo toca, no puede dejar de acariciarlo.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/048.ts",
+      "evidence": {
+        "sourceImageSha256": "18e5aefb522b43f04f02d9e9403424635cc253df9e5f5b4c65a5c9caa1e6559f",
+        "sourceImageBytes": 283444,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "18e5aefb522b43f04f02d9e9403424635cc253df9e5f5b4c65a5c9caa1e6559f",
+      "sourceImageBytes": 283444
+    },
+    {
+      "cardId": "P-B-049",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Cuando Victini comparte su energía ilimitada, esa persona o\nPokémon irradia abundante poder.",
+      "value": "Cuando Victini comparte su energía ilimitada, esa persona o\nPokémon irradia abundante poder.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/049.ts",
+      "sourceImageSha256": "ebbc4a638a4dc45e3fc79a21ee2c106464820057fd0f549574fd73c3cb757a5c",
+      "sourceImageBytes": 305783
+    },
+    {
+      "cardId": "P-B-050",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Controla los sentimientos de los que escuchan las melodías\nque emite con su singular vocalización.",
+      "value": "Controla los sentimientos de los que escuchan las melodías\nque emite con su singular vocalización.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/050.ts",
+      "sourceImageSha256": "af99c6249080a11becf0bed24aa08501201a32af496894351243ce60f1dddba5",
+      "sourceImageBytes": 271398
+    },
+    {
+      "cardId": "P-B-051",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Nacida cuando alrededor del 10% de las células de Zygarde se han reunido de todas partes, esta forma es experta en combates a corta distancia.",
+      "value": "Zygarde adopta esta forma al reunir el 10% de sus células. Destaca en el combate a corta distancia.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/051.ts",
+      "evidence": {
+        "sourceImageSha256": "f5223802d41ddc395be5bc7abcfc2fd669dbceaddd09aa172e7cf30d0fa2fbf7",
+        "sourceImageBytes": 273625,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "f5223802d41ddc395be5bc7abcfc2fd669dbceaddd09aa172e7cf30d0fa2fbf7",
+      "sourceImageBytes": 273625
+    },
+    {
+      "cardId": "P-B-052",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Según los rumores, puede adoptar una forma\naún más poderosa cuando se enfrenta a\nquienquiera que amenace el ecosistema.",
+      "value": "Según los rumores, puede adoptar una forma\naún más poderosa cuando se enfrenta a\nquienquiera que amenace el ecosistema.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/052.ts",
+      "sourceImageSha256": "12bf1b7e7457013916d5dff1d3a88d530eaa8af674e9a9ab472fda37f67e68a5",
+      "sourceImageBytes": 300761
+    },
+    {
+      "cardId": "P-B-054",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Su código genético es irregular. Puede mutar si se expone a la radiación de las piedras elementales.",
+      "value": "De código genético irregular, puede mutar si se le expone a la radiación de piedras evolutivas.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/054.ts",
+      "evidence": {
+        "sourceImageSha256": "435d29830c77283011aa8d33d7d66e7e910aa6425181479504dda957546cc94c",
+        "sourceImageBytes": 263580,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "435d29830c77283011aa8d33d7d66e7e910aa6425181479504dda957546cc94c",
+      "sourceImageBytes": 263580
+    },
+    {
+      "cardId": "P-B-057",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Castform cambia a esta forma cuando disfruta de la luz del sol. Cuando tocas su piel resplandeciente, ¡se siente toda seca!",
+      "value": "Castform adopta esta forma cuando hace sol. Su cuerpo ardiente es muy reseco al tacto.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/057.ts",
+      "evidence": {
+        "sourceImageSha256": "8f40cb41eab234a84d2e443cfedb811fcdff43bc7659adb795b7e1bc7eb6b399",
+        "sourceImageBytes": 268635,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "8f40cb41eab234a84d2e443cfedb811fcdff43bc7659adb795b7e1bc7eb6b399",
+      "sourceImageBytes": 268635
+    },
+    {
+      "cardId": "P-B-058",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Este Pokémon es un glotón voraz. Utiliza su excelente sentido del olfato para encontrar comida y luego la cocina hasta que quede crujiente antes de comerla.",
+      "value": "Es un glotón insaciable. Encuentra alimento con su agudo sentido del olfato, para luego tostarlo bien antes de ingerirlo.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/058.ts",
+      "evidence": {
+        "sourceImageSha256": "7e9d71c6f34363dfdab154f9fc3f9a2cf83afed93209b7fceeea2fcd2f6c1e05",
+        "sourceImageBytes": 272476,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "7e9d71c6f34363dfdab154f9fc3f9a2cf83afed93209b7fceeea2fcd2f6c1e05",
+      "sourceImageBytes": 272476
+    },
+    {
+      "cardId": "P-B-059",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Si no encuentra una piedra que sea idónea como\nmorada, se instala en los orificios de algún\nHippowdon.",
+      "value": "Si no encuentra una piedra que sea idónea como\nmorada, se instala en los orificios de algún\nHippowdon.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/059.ts",
+      "sourceImageSha256": "485ed4c1d0fdb90cd723972d4c40bd44578731a380d2165182e6b0eefbf68529",
+      "sourceImageBytes": 278176
+    },
+    {
+      "cardId": "P-B-060",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Las lianas que le brotan del cuerpo nutren y\nfertilizan el mantillo del bosque cuando se le\ndesprenden.",
+      "value": "Las lianas que le brotan del cuerpo nutren y\nfertilizan el mantillo del bosque cuando se le\ndesprenden.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/060.ts",
+      "sourceImageSha256": "11edc6435961eb8c130f43ce98b8fcc70eb3681b8ae54e7e0db80dff5645914e",
+      "sourceImageBytes": 313853
+    },
+    {
+      "cardId": "P-B-061",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Treecko puede escalar rápidamente incluso superficies verticales. Detecta la humedad con su cola para predecir el tiempo del día siguiente.",
+      "value": "Escala con rapidez incluso superficies verticales. Percibe la humedad ambiental con la cola y así prevé el tiempo que hará al día siguiente.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/061.ts",
+      "evidence": {
+        "sourceImageSha256": "fa4534bac6be127098a6454799037d25ace5acc3c26872cfeedf544e72fbc1eb",
+        "sourceImageBytes": 285536,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "fa4534bac6be127098a6454799037d25ace5acc3c26872cfeedf544e72fbc1eb",
+      "sourceImageBytes": 285536
+    },
+    {
+      "cardId": "P-B-062",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Al intentar proteger a alguien extiende los codos como si fueran espadas y lucha salvajemente.",
+      "value": "Cuando quiere proteger a alguien, extiende los codos como si fueran espadas y lucha con fiereza.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/062.ts",
+      "evidence": {
+        "sourceImageSha256": "a991ab303c7ae99ce532e5c75eb619505ddc438f0dbfa0dd155e50eecb5300b7",
+        "sourceImageBytes": 311135,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "a991ab303c7ae99ce532e5c75eb619505ddc438f0dbfa0dd155e50eecb5300b7",
+      "sourceImageBytes": 311135
+    },
+    {
+      "cardId": "P-B-064",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Su potencia de fuego aumenta cuando lucha, alcanzando más de 1.800 grados Fahrenheit. Le gustan las bayas ricas en grasas.",
+      "value": "Sus potentes llamas alcanzan los 1000 °C cuando combate. Siente predilección por las bayas con un alto contenido graso.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/064.ts",
+      "evidence": {
+        "sourceImageSha256": "4ddf97f17d1147d053b1fe8a01ab7c87ae8d23db3102086ba9c5c1a400188e04",
+        "sourceImageBytes": 272381,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "4ddf97f17d1147d053b1fe8a01ab7c87ae8d23db3102086ba9c5c1a400188e04",
+      "sourceImageBytes": 272381
+    },
+    {
+      "cardId": "P-B-065",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Su composición celular es similar a las moléculas de agua. Como resultado, no se puede ver cuando se derrite en agua.",
+      "value": "La composición celular de su cuerpo es tan similar a la estructura molecular del agua que se vuelve invisible al fundirse en ella.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/065.ts",
+      "evidence": {
+        "sourceImageSha256": "34fcf9b99faef92b0b81f87262840309e187e6a1e8d85946993d43130a2f2b6b",
+        "sourceImageBytes": 306482,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "34fcf9b99faef92b0b81f87262840309e187e6a1e8d85946993d43130a2f2b6b",
+      "sourceImageBytes": 306482
+    },
+    {
+      "cardId": "P-B-067",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Cualquier astilla en sus cuchillas le resultaría fatal. Después de cada batalla, mantiene diligentemente sus espadas usando su piedra de afilar favorita.",
+      "value": "Una mella en sus cuchillas podría resultar mortal. Al término del combate, las cuida con diligencia usando su piedra de afilar preferida.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/067.ts",
+      "evidence": {
+        "sourceImageSha256": "c663ffaea2b5401cc890d64aa774d6caef2e555d88cd610db2905f677c2b12b5",
+        "sourceImageBytes": 321914,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "c663ffaea2b5401cc890d64aa774d6caef2e555d88cd610db2905f677c2b12b5",
+      "sourceImageBytes": 321914
+    },
+    {
+      "cardId": "P-B-068",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Expulsa a los enemigos de su nido aspirando suficiente aire para llenar sus largos y estrechos pulmones y luego liberando el aire en una intensa ráfaga.",
+      "value": "Para expulsar a los intrusos de su madriguera, infla sus largos y finos pulmones y luego libera el aire de golpe en una intensa y explosiva ráfaga.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/068.ts",
+      "evidence": {
+        "sourceImageSha256": "ace4abe1c9ddc2d0f2f995a3c8fd67a9df04fa9cbac8ec02a2da9321063c4bbc",
+        "sourceImageBytes": 295541,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "ace4abe1c9ddc2d0f2f995a3c8fd67a9df04fa9cbac8ec02a2da9321063c4bbc",
+      "sourceImageBytes": 295541
+    },
+    {
+      "cardId": "P-B-069",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "La dureza del pelaje de Floragato depende del estado de ánimo del Pokémon. Cuando Floragato está preparado para la batalla, su pelaje se vuelve puntiagudo y afilado como una aguja.",
+      "value": "La dureza de su pelaje cambia según su estado de ánimo. Cuando se prepara para combatir, se vuelve duro y punzante como agujas.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/069.ts",
+      "evidence": {
+        "sourceImageSha256": "aa44453cd8c4e948c3af0f0d5637fd016eab08bc0cb7db9c20fe5bf1009df8f4",
+        "sourceImageBytes": 282617,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "aa44453cd8c4e948c3af0f0d5637fd016eab08bc0cb7db9c20fe5bf1009df8f4",
+      "sourceImageBytes": 282617
+    },
+    {
+      "cardId": "P-B-070",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Algunos de los elementos de las gemas con las\nque se alimenta emergen en su piel creando\npatrones variopintos.",
+      "value": "Algunos de los elementos de las gemas con las\nque se alimenta emergen en su piel creando\npatrones variopintos.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/070.ts",
+      "sourceImageSha256": "b92e2eb4db3b5cf3b4eb6a6fe8e201e2095ae2caaef898df14c41b04e3fb5149",
+      "sourceImageBytes": 304411
+    },
+    {
+      "cardId": "P-B-071",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Si su dolor de cabeza crónico alcanza su punto máximo, puede exhibir poderes extraños. Parece incapaz de recordar tal episodio.",
+      "value": "Cuando su jaqueca crónica empeora, desata unos poderes misteriosos, pero después no parece recordar nada de lo ocurrido.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/071.ts",
+      "evidence": {
+        "sourceImageSha256": "f405dd00b8e1b06577a702d9abb3ed31e94994c45f964e1160281c5b31a931f7",
+        "sourceImageBytes": 293224,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "f405dd00b8e1b06577a702d9abb3ed31e94994c45f964e1160281c5b31a931f7",
+      "sourceImageBytes": 293224
+    },
+    {
+      "cardId": "P-B-072",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Es el Pokémon más cutre de todos. Forma escuelas y vive en el fondo de ríos repletos de vida vegetal.",
+      "value": "Es el Pokémon con aspecto más penoso. Habitan y forman bancos en los lechos de los ríos con abundantes plantas acuáticas.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/072.ts",
+      "evidence": {
+        "sourceImageSha256": "ec315ce458d6e47cc692432fdbf92d88ffc1b587effadf77148b65b99065e78a",
+        "sourceImageBytes": 330706,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "ec315ce458d6e47cc692432fdbf92d88ffc1b587effadf77148b65b99065e78a",
+      "sourceImageBytes": 330706
+    },
+    {
+      "cardId": "P-B-073",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Congela a su presa soplando su aliento a -58 grados Fahrenheit. Se dice que luego muestra en secreto a su presa.",
+      "value": "Congela a sus presas con su aliento gélido a -50 °C. Se dice que luego las dispone como decoración en algún lugar secreto.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/073.ts",
+      "evidence": {
+        "sourceImageSha256": "08452f47a37816b74b05bf5ea5105c8e6f2506e9e92e2dd7ab5a83d20ad6282b",
+        "sourceImageBytes": 312931,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "08452f47a37816b74b05bf5ea5105c8e6f2506e9e92e2dd7ab5a83d20ad6282b",
+      "sourceImageBytes": 312931
+    },
+    {
+      "cardId": "P-B-074",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Si las bolsas eléctricas de sus mejillas se cargan por completo, ambas orejas se levantarán.",
+      "value": "Si las bolsas de sus mejillas se cargan por completo de electricidad, se le ponen las orejas de punta.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/074.ts",
+      "evidence": {
+        "sourceImageSha256": "faeff9f30cca3deadbfab1c9c1b53f2347af876645fff560df3e988b2e21de22",
+        "sourceImageBytes": 214697,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "faeff9f30cca3deadbfab1c9c1b53f2347af876645fff560df3e988b2e21de22",
+      "sourceImageBytes": 214697
+    },
+    {
+      "cardId": "P-B-075",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Debido a su actitud relajada y despreocupada, a menudo se golpea la cabeza contra las rocas del lecho de los ríos y los cascos de los barcos mientras nada.",
+      "value": "Debido a su despreocupada actitud, al nadar suele chocar de cabeza contra las rocas del lecho de los ríos y el casco de los barcos.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/075.ts",
+      "evidence": {
+        "sourceImageSha256": "331690b2fa1fa66e3f3a499fef8362e0c7acc8953453f08b0e4533b33d9277d8",
+        "sourceImageBytes": 304524,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "331690b2fa1fa66e3f3a499fef8362e0c7acc8953453f08b0e4533b33d9277d8",
+      "sourceImageBytes": 304524
+    },
+    {
+      "cardId": "P-B-076",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Un alma que una vez partió, volvió a la vida en Hisui. Obtiene poder del resentimiento, que se eleva como energía sobre su cabeza y adopta la forma de enemigos. De esta manera, Zorua desahoga la malicia persistente.",
+      "value": "Es un alma difunta resucitada en Hisui que transforma su rencor en energía. Esta surge de su cabeza y adopta la forma de su oponente, disipando así su inquina.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/076.ts",
+      "evidence": {
+        "sourceImageSha256": "fa9153f8e08530ef594d8df5f955c82d492e6771ba4084810fdd5783da24da9a",
+        "sourceImageBytes": 294346,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "fa9153f8e08530ef594d8df5f955c82d492e6771ba4084810fdd5783da24da9a",
+      "sourceImageBytes": 294346
+    },
+    {
+      "cardId": "P-B-077",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Es muy amigable y fiel con la gente. Intentará repeler a los enemigos ladrando y mordiendo.",
+      "value": "Un Pokémon afectuoso y leal por naturaleza. Para ahuyentar al enemigo, se pone a ladrar y a dar bocados.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/077.ts",
+      "evidence": {
+        "sourceImageSha256": "2bc23c609a49ea13d8eac813ba2da8bbb34c6a42246387f8d168427f98ecad2c",
+        "sourceImageBytes": 297296,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "2bc23c609a49ea13d8eac813ba2da8bbb34c6a42246387f8d168427f98ecad2c",
+      "sourceImageBytes": 297296
+    },
+    {
+      "cardId": "P-B-078",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Le encantan las bayas dulces. A veces almacena\ntanta comida en los carrillos que no puede volar\nbien.",
+      "value": "Le encantan las bayas dulces. A veces almacena\ntanta comida en los carrillos que no puede volar\nbien.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/078.ts",
+      "sourceImageSha256": "b5b603f79800b4482b0992daea56e4875ea85c4f5c5b79a6c79eea806306ab92",
+      "sourceImageBytes": 226111
+    },
+    {
+      "cardId": "P-B-081",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Los marineros evitan por completo las zonas\ndonde habita este Pokémon de afilados colmillos\ny fuertes mandíbulas.",
+      "value": "Los marineros evitan por completo las zonas\ndonde habita este Pokémon de afilados colmillos\ny fuertes mandíbulas.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/081.ts",
+      "sourceImageSha256": "6341a41b238c59ad4534f85c739098866973105fe7043e0def954b011bace620",
+      "sourceImageBytes": 306412
+    },
+    {
+      "cardId": "P-B-088",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Las afiladas guadañas de sus antebrazos se vuelven cada vez más afiladas al cortar objetos duros.",
+      "value": "Las cortantes guadañas de sus antebrazos se vuelven más afiladas cada vez que cortan objetos duros.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/088.ts",
+      "evidence": {
+        "sourceImageSha256": "9774cea4a002aef065095edda5a427d0bb312d61b8a6739c9b10fe8136f2eea9",
+        "sourceImageBytes": 295374,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "9774cea4a002aef065095edda5a427d0bb312d61b8a6739c9b10fe8136f2eea9",
+      "sourceImageBytes": 295374
+    },
+    {
+      "cardId": "P-B-089",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Dotado de una gran inteligencia y capaz de comprender el lenguaje humano. Le gusta surcar los mares llevando a gente sobre el lomo.",
+      "value": "Dotado de una gran inteligencia y capaz de comprender el lenguaje humano. Le gusta surcar los mares llevando a gente sobre el lomo.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/089.ts",
+      "sourceImageSha256": "5257ca0906de7f2811e4af8c1093a916bb638114c71d99d30a5a73b195d8749c",
+      "sourceImageBytes": 301245
+    },
+    {
+      "cardId": "P-B-090",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Vuela y planea siguiendo la brisa marina. En invierno esconde comida cerca de su nido.",
+      "value": "Vuela y planea siguiendo la brisa marina. En invierno esconde comida cerca de su nido.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/090.ts",
+      "sourceImageSha256": "36989d68847195249ab31065d816123c8efc42810bfba4205efc344aaff785f1",
+      "sourceImageBytes": 289194
+    },
+    {
+      "cardId": "P-B-091",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Para mantener oculta su negra cola, vive en silencio en la oscuridad. Nunca ataca primero.",
+      "value": "Para mantener oculta su negra cola, vive en silencio en la oscuridad. Nunca ataca primero.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/091.ts",
+      "sourceImageSha256": "977befe268166036f3c8786af24e2b68b06b13aadfa8d77f79b92e24de99740f",
+      "sourceImageBytes": 279363
+    },
+    {
+      "cardId": "P-B-092",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Al evolucionar, se ha fusionado con el cráneo de su madre y, además, ha adquirido un carácter agresivo.",
+      "value": "Al evolucionar, se ha fusionado con el cráneo de su madre y, además, ha adquirido un carácter agresivo.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/092.ts",
+      "sourceImageSha256": "2adea6cce01e7c287146f0effe681e4a9500697c5777194a06190500e644eb82",
+      "sourceImageBytes": 293775
+    },
+    {
+      "cardId": "P-B-093",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Las ramitas son como un aperitivo para Fennekin. Al mordisquearlas, se arma de valor para plantar cara a enemigos temibles.",
+      "value": "Las ramitas son como un aperitivo para Fennekin. Al mordisquearlas, se arma de valor para plantar cara a enemigos temibles.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/093.ts",
+      "sourceImageSha256": "c48ad01ceaa80c0f2cf066be8269d663d0a1227693a8debc35f7d741f4d38e6d",
+      "sourceImageBytes": 278497
+    },
+    {
+      "cardId": "P-B-094",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Las marcas en forma de ojos que tiene en las orejas emiten poderes psíquicos, pero su potencia es tan avasalladora que las mantiene tapadas.",
+      "value": "Las marcas en forma de ojos que tiene en las orejas emiten poderes psíquicos, pero su potencia es tan avasalladora que las mantiene tapadas.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/094.ts",
+      "sourceImageSha256": "5c1a779c61b242948b88b8fa09f67327ecc14f66012630cfa1c09b8aeb8b65e2",
+      "sourceImageBytes": 279087
+    },
+    {
+      "cardId": "P-B-095",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Defiende su territorio de personas y Pokémon haciéndoles dormir y provocándoles pesadillas.",
+      "value": "Defiende su territorio de personas y Pokémon haciéndoles dormir y provocándoles pesadillas.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/095.ts",
+      "sourceImageSha256": "d6bc745a811624f8b399404c49d5712d86c37b233ec68d826934cf48ff9145f5",
+      "sourceImageBytes": 362255
+    },
+    {
+      "cardId": "P-B-096",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "El líder utiliza su cuerno, capaz de expandirse y contraerse, para ordenar a los demás que cambien la formación.",
+      "value": "El líder utiliza su cuerno, capaz de expandirse y contraerse, para ordenar a los demás que cambien la formación.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/096.ts",
+      "sourceImageSha256": "5848588f0072ce8ced806163538f8beac9960d9d9eea2c974522e656420bad46",
+      "sourceImageBytes": 309355
+    },
+    {
+      "cardId": "P-B-097",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Vive en agujeros en las cuevas, al amparo del calor geotérmico. Si se acerca un enemigo, le muerde.",
+      "value": "Vive en agujeros en las cuevas, al amparo del calor geotérmico. Si se acerca un enemigo, se abalanza sobre él y lo muerde con su gran boca.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/097.ts",
+      "evidence": {
+        "sourceImageSha256": "26e47ae241f6a2edf3e70a897ea863c287f321f79287fdb389e74a4360d557ab",
+        "sourceImageBytes": 255286,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "26e47ae241f6a2edf3e70a897ea863c287f321f79287fdb389e74a4360d557ab",
+      "sourceImageBytes": 255286
+    },
+    {
+      "cardId": "P-B-098",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Le gustan las cosas brillantes. Busca tesoros en cuevas y se lleva el botin a su nido.",
+      "value": "Le gustan las cosas brillantes. Busca tesoros en cuevas y se lleva el botín a su nido.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/098.ts",
+      "evidence": {
+        "sourceImageSha256": "8ea4018a33d9c9f3e9c79e15d079aef24489d6ca18e1819f6370298d4a761a02",
+        "sourceImageBytes": 297460,
+        "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed."
+      },
+      "sourceImageSha256": "8ea4018a33d9c9f3e9c79e15d079aef24489d6ca18e1819f6370298d4a761a02",
+      "sourceImageBytes": 297460
+    },
+    {
+      "cardId": "P-B-100",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Tiene mucho éxito entre las Entrenadoras por su suave pelaje. No vive en un sitio fijo.",
+      "value": "Tiene mucho éxito entre las Entrenadoras por su suave pelaje. No vive en un sitio fijo.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/100.ts",
+      "sourceImageSha256": "53605946e894918a2a0e67de636bb77a39390942183e1c4e49d800a7c80df189",
+      "sourceImageBytes": 272537
+    },
+    {
+      "cardId": "P-B-101",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Si está sano, la llama de la punta de su cola arderá vigorosamente, aunque se le moje un poco.",
+      "value": "Si está sano, la llama de la punta de su cola arderá vigorosamente, aunque se le moje un poco.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/101.ts",
+      "sourceImageSha256": "241991b9665f3e35e1b9385ca44aff03348d6dc57b8557a615dd0f2a044fe1af",
+      "sourceImageBytes": 286107
+    },
+    {
+      "cardId": "P-B-102",
+      "locale": "es",
+      "path": "description",
+      "expectedCurrent": "Es de naturaleza mansa y amable, pero, si se\nenfurece, puede desatar fuertes vientos capaces\nde llevarse cualquier cosa por delante.",
+      "value": "Es de naturaleza mansa y amable, pero, si se\nenfurece, puede desatar fuertes vientos capaces\nde llevarse cualquier cosa por delante.",
+      "review": "All 179 native Spanish card footers individually read. Legacy machine translations and mixed English replaced with visible native text; temperatures/mass use Spanish card units. A106 second-reader confirmed; B033 matching ordinary print independently confirmed.",
+      "file": "data/Pokémon TCG Pocket/Promos-B/102.ts",
+      "sourceImageSha256": "255f777ddb9c25712ec56529039b7fb88b4e93b8a0c0a944d56ce20f1fbcb983",
+      "sourceImageBytes": 290509
+    }
+  ]
+}

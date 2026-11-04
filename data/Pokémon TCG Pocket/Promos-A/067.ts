@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/067",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/067",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/067",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/067",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/067",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/067",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/067",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/067",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/067"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/067/d7e777bcee0ab71a",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/067/d7e777bcee0ab71a",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/067/d7e777bcee0ab71a",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/067/d7e777bcee0ab71a",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/067/d7e777bcee0ab71a",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/067/d7e777bcee0ab71a",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/067/d7e777bcee0ab71a",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/067/d7e777bcee0ab71a",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/067/d7e777bcee0ab71a"
     },
     name: {
         en: "Cosmog",
@@ -38,7 +38,7 @@ const card: Card = {
         'pt-br': "Seu corpo indefeso e gasoso pode ser carregado por\nbrisas leves, mas Cosmog não parece se importar muito.",
         ja: "頼りない ガス状の 身体は ちょっとの 風にも 流されるが 全然 気にして いない 様子。",
         ko: "의지할 곳 없는 가스 상태의 몸은\n약한 바람에도 휩쓸리지만,\n전혀 신경 쓰지 않는 듯하다.",
-        "zh-tw": "縱然無助，氣體可吹\n微風吹過，它似乎並不在意。"
+        "zh-tw": "不可靠的氣體狀身體只要稍微有點風就會被吹走，但牠看起來一點都不在意。"
     },
     stage: "Basic",
     attacks: [{
@@ -51,7 +51,7 @@ const card: Card = {
                 'pt-br': "Teleporte",
                 ja: "テレポート",
                 ko: "순간이동",
-                "zh-tw": "傳送"
+                "zh-tw": "瞬間移動"
             },
             cost: ["Colorless"],
             effect: {
@@ -63,7 +63,7 @@ const card: Card = {
                 'pt-br': "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
                 ja: "このポケモンをベンチポケモンと入れ替える。",
                 ko: "이 포켓몬을 벤치 포켓몬과 교체한다.",
-                "zh-tw": "將此神奇寶貝與你的 1 個替補神奇寶貝交換。"
+                "zh-tw": "將這隻寶可夢與備戰寶可夢互換。"
             }
         }],
     weaknesses: [{

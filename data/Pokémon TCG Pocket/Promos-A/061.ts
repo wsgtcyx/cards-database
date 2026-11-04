@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/061",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/061",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/061",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/061",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/061",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/061",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/061",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/061",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/061"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/061/5fd3f8c95739d043",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/061/5fd3f8c95739d043",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/061/5fd3f8c95739d043",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/061/5fd3f8c95739d043",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/061/5fd3f8c95739d043",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/061/5fd3f8c95739d043",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/061/5fd3f8c95739d043",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/061/5fd3f8c95739d043",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/061/5fd3f8c95739d043"
     },
     name: {
         en: "Froakie",
@@ -38,7 +38,7 @@ const card: Card = {
         'pt-br': "Liberam bolhas flexíveis do peito e das costas.\nAs bolhas reduzem os danos que sofreriam\nao serem atacados.",
         ja: "胸と 背中から 泡を 出す。 弾力のある 泡で 攻撃を 受け止めて ダメージを 減らす。",
         ko: "가슴과 등에서 거품을 내뿜는다.\n탄력 있는 거품으로 공격을\n막아내고 데미지를 줄인다.",
-        "zh-tw": "它從胸部和背部分泌出靈活的氣泡。\n氣泡減少了原本會造成的損害\n受到攻擊時採取。"
+        "zh-tw": "從胸口和背上做出泡泡。以富有彈力的泡泡抵擋攻擊，減少所受的傷害。"
     },
     stage: "Basic",
     attacks: [{
@@ -51,7 +51,7 @@ const card: Card = {
                 'pt-br': "Baque",
                 ja: "はねまわる",
                 ko: "돌아다니며 뛰기",
-                "zh-tw": "翻牌"
+                "zh-tw": "活蹦亂跳"
             },
             damage: 10,
             cost: ["Colorless"]

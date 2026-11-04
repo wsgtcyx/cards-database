@@ -1,0 +1,85 @@
+{
+  "rows": [
+    {
+      "set": "P-A",
+      "number": 34,
+      "locale": "zh-tw",
+      "path": "/private/tmp/promo-abc-sources-20261104/cards/P-A/zh-tw/034.png",
+      "sha256": "be5fdeb2a7eb4330b56a48462216c48452747ce9a3940586385c96fdf5a9c8e2",
+      "visibleName": "波加曼",
+      "review": "Direct visual review; card identity matched; not a full rule/flavor review"
+    },
+    {
+      "set": "P-A",
+      "number": 34,
+      "locale": "ko",
+      "path": "/private/tmp/promo-abc-sources-20261104/cards/P-A/ko/034.png",
+      "sha256": "78419d59db6b19cf0eb0c5242957ff134637d89f1aa2b5f85a5f426a11daf67d",
+      "visibleName": "팽도리",
+      "review": "Direct visual review; card identity matched; not a full rule/flavor review"
+    },
+    {
+      "set": "P-A",
+      "number": 16,
+      "locale": "ko",
+      "path": "/private/tmp/promo-abc-sources-20261104/cards/P-A/ko/016.png",
+      "sha256": "6b0d212e472acae8d57ea05de86c581a21f206985209aa993d7e3d01b66f7db6",
+      "visibleName": "삐삐",
+      "review": "Direct visual review; card identity matched; not a full rule/flavor review"
+    },
+    {
+      "set": "P-A",
+      "number": 93,
+      "locale": "ko",
+      "path": "/private/tmp/promo-abc-sources-20261104/cards/P-A/ko/093.png",
+      "sha256": "3882fa796b686817d266b36b10a256d33e6e9618f0742ac810a2613e4291205f",
+      "visibleName": "삐",
+      "review": "Direct visual review; card identity matched; not a full rule/flavor review"
+    },
+    {
+      "set": "P-A",
+      "number": 93,
+      "locale": "ja",
+      "path": "/private/tmp/promo-abc-sources-20261104/cards/P-A/ja/093.png",
+      "sha256": "b1197c1bc87358b796cb7ac47c4cdc4c18b6356b2e1b7aab2cf7f6d34578fc9c",
+      "visibleName": "ピィ",
+      "review": "Direct visual review; card identity matched; not a full rule/flavor review"
+    },
+    {
+      "set": "P-A",
+      "number": 93,
+      "locale": "de",
+      "path": "/private/tmp/promo-abc-sources-20261104/cards/P-A/de/093.png",
+      "sha256": "63a1341e8012c94375b9caf17d51253c57c2ddad69152f7d86c1b1694bf9acf8",
+      "visibleName": "Pii",
+      "review": "Direct visual review; card identity matched; not a full rule/flavor review"
+    },
+    {
+      "set": "P-B",
+      "number": 54,
+      "locale": "ja",
+      "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/ja/054.png",
+      "sha256": "dd253463ce6776136384bb64d4f85cb0ea6d32a52056e86210279bd758ba469a",
+      "visibleName": "イーブイ",
+      "review": "Direct visual review; card identity matched; not a full rule/flavor review"
+    },
+    {
+      "set": "P-B",
+      "number": 94,
+      "locale": "ko",
+      "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/ko/094.png",
+      "sha256": "c1976b1734e9fb05288b74628982f1276c38f07403ecc0b27a9301c47976aaa0",
+      "visibleName": "냐오닉스",
+      "review": "Direct visual review; card identity matched; not a full rule/flavor review"
+    },
+    {
+      "set": "P-B",
+      "number": 63,
+      "locale": "zh-tw",
+      "path": "/private/tmp/promo-abc-sources-20261104/cards/P-B/zh-tw/063.png",
+      "sha256": "89602c58767a8cefbca71b3c0fba733427cd71539337c253ce18c8d82c5f1122",
+      "visibleName": "魔幻假面喵ex",
+      "review": "Direct visual review; card identity matched; not a full rule/flavor review"
+    }
+  ]
+}

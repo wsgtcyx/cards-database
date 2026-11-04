@@ -4,16 +4,16 @@ import Set from "../Promos-A";
 const card: Card = {
 	set: Set,
 	image: {
-		en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/108",
-		de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/108",
-		es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/108",
-		fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/108",
-		it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/108",
-		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/108",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/108",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/108",
-		ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/108"
-	},
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/108/53b13d3c85739927",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/108/53b13d3c85739927",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/108/53b13d3c85739927",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/108/53b13d3c85739927",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/108/53b13d3c85739927",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/108/53b13d3c85739927",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/108/53b13d3c85739927",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/108/53b13d3c85739927",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/108/53b13d3c85739927"
+    },
 	name: {
 		en: "Phanpy",
 		fr: "Phanpy",
@@ -32,12 +32,12 @@ const card: Card = {
 	types: ["Fighting"],
 	description: {
 		en: "This Pokémon lives and nests on a riverbank.\nAfter playing in the mud, it won't be able to\nsettle down unless it washes its body.",
-		fr: "Ce Pokémon vit et niche au bord d'une rivière.\nAprès avoir joué dans la boue, il ne pourra plus\ns'installer à moins qu'il ne lave son corps.",
-		es: "Este Pokémon vive y anida en la orilla de un río.\nDespués de jugar en el barro, no podrá\ncalmarse a menos que se lave el cuerpo.",
-		it: "Questo Pokémon vive e nidifica sulla riva di un fiume.\nDopo aver giocato nel fango, non sarà in grado di farlo\nsistemarsi a meno che non si lavi il corpo.",
-		de: "Dieses Pokémon lebt und nistet an einem Flussufer.\nNach dem Spielen im Schlamm wird es nicht mehr möglich sein\nBeruhige dich, es sei denn, es wäscht seinen Körper.",
-		"pt-br": "Este Pokémon vive e nidifica nas margens de um rio.\nDepois de brincar na lama, não conseguirá\nacalme-se a menos que lave seu corpo.",
-		"zh-tw": "這只神奇寶貝在河岸上生活和築巢。\n玩泥巴之後就不行了\n除非它清洗身體，否則就安定下來。",
+		fr: "Les Phanpy vivent dans les trous qu'ils creusent, près des rivières. Après avoir joué dans la boue, ils ont besoin de faire leur toilette pour se calmer.",
+		es: "Vive en hoyos que cava en la ribera de los ríos. Tras retozar en el lodo, no se queda tranquilo hasta haberse lavado bien el cuerpo.",
+		it: "Vive in tane che costruisce in riva ai fiumi. Dopo aver giocato nel fango, non riesce a star tranquillo finché non si è lavato.",
+		de: "Es lebt in Nestern, die es an Flussufern baut. Nach dem Spielen im Schlamm muss es sich erst waschen, um sich wohlzufühlen.",
+		"pt-br": "Este Pokémon vive e constrói seu ninho nas margens dos rios. Depois de brincar na lama, não sossega até se lavar direito.",
+		"zh-tw": "會在河邊做出巢穴棲息。玩完泥巴後如果不把身體洗乾淨，就會渾身不自在。",
 		ja: "川辺に 巣穴を 作り 暮らす。 泥遊びをしたあとは 体を 洗わないと 落ち着かないのだ。",
 		ko: "냇가에 굴을 파고 산다.\n흙장난을 한 뒤에 몸을 씻지 못하면\n안절부절못하기 때문이다."
 	},
@@ -46,24 +46,24 @@ const card: Card = {
 		{
 			name: {
 				en: "Flail",
-				fr: "Fléau",
-				es: "Mayal",
+				fr: "Gigotage",
+				es: "Azote",
 				it: "Flagello",
 				de: "Dreschflegel",
 				"pt-br": "Mangual",
-				"zh-tw": "連枷",
+				"zh-tw": "抓狂",
 				ja: "じたばた",
 				ko: "바둥바둥"
 			},
 			cost: ["Fighting"],
 			effect: {
 				en: "This attack does damage to your opponent's Active Pokémon equal to the damage this Pokémon has on it.",
-				fr: "Cette attaque inflige au Pokémon Actif de votre adversaire des dégâts égaux aux dégâts que ce Pokémon lui inflige.",
-				es: "Este ataque hace un daño al Pokémon Activo de tu rival igual al daño que este Pokémon tiene sobre él.",
-				it: "Questo attacco infligge al Pokémon attivo del tuo avversario un danno pari al danno che questo Pokémon ha su di sé.",
-				de: "Dieser Angriff fügt dem Aktiven Pokémon deines Gegners Schaden in Höhe des Schadens zu, den dieses Pokémon ihm zufügt.",
-				"pt-br": "Este ataque causa dano ao Pokémon Ativo do seu oponente igual ao dano que este Pokémon causa nele.",
-				"zh-tw": "這次攻擊對對手的活躍寶可夢造成的傷害等於該寶可夢對其造成的傷害。",
+				fr: "Cette attaque inflige des dégâts au Pokémon Actif de votre adversaire égaux à ceux que ce Pokémon a déjà subis.",
+				es: "Este ataque hace una cantidad de daño al Pokémon Activo de tu rival igual al daño que ya tenga este Pokémon.",
+				it: "Questo attacco infligge al Pokémon attivo dell’avversario danni pari alla quantità di danni subiti al momento da questo Pokémon.",
+				de: "Diese Attacke fügt dem Aktiven Pokémon deines Gegners Schaden in Höhe des Schadens zu, der diesem Pokémon bereits zugefügt wurde.",
+				"pt-br": "Este ataque causa dano ao Pokémon Ativo do seu oponente equivalente ao dano que este Pokémon tiver nele.",
+				"zh-tw": "對對手的戰鬥寶可夢造成與這隻寶可夢已受到的傷害相同數值的傷害。",
 				ja: "このポケモンが受けているダメージぶん、相手のバトルポケモンにダメージを与える。",
 				ko: "이 포켓몬이 받고 있는 데미지만큼 상대의 배틀 포켓몬에게 데미지를 준다."
 			}

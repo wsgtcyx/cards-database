@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/069",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/069",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/069",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/069",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/069",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/069",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/069",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/069",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/069"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/069/ab6491945a2081da",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/069/ab6491945a2081da",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/069/ab6491945a2081da",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/069/ab6491945a2081da",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/069/ab6491945a2081da",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/069/ab6491945a2081da",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/069/ab6491945a2081da",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/069/ab6491945a2081da",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/069/ab6491945a2081da"
     },
     name: {
         en: "Alolan Exeggutor",
@@ -49,7 +49,7 @@ const card: Card = {
         'pt-br': "A luz solar escaldante revelou a verdadeira forma\ne os poderes deste Pokémon.",
         ja: "ギラギラと 照りつける 太陽の 光を 浴びた 結果 本来の 姿と 能力が 目覚めた。",
         ko: "쨍쨍 내리쬐는 태양 빛을\n받은 결과 본래의\n모습과 능력이 각성되었다.",
-        "zh-tw": "熾熱的陽光照出了最真實的樣子\n該神奇寶貝的形態和力量。"
+        "zh-tw": "在火辣辣的陽光照射下，椰蛋樹的能力覺醒了，長成了原本該有的樣子。"
     },
     stage: "Stage1",
     attacks: [{
@@ -75,7 +75,7 @@ const card: Card = {
                 'pt-br': "Jogue uma moeda. Se sair coroa, este ataque não fará nada.",
                 ja: "コインを1回投げウラなら、このワザは失敗。",
                 ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다.",
-                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。"
+                "zh-tw": "擲1次硬幣若為反面,則這個招式失敗。"
             }
         }],
     weaknesses: [{

@@ -3,15 +3,15 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
-        de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/048",
-        es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/048",
-        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/048",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/048",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/048",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/048",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/048",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/048",
-        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/048"
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/P-A/048/f3fd2ec5c1331dab",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-A/048/f3fd2ec5c1331dab",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/P-A/048/f3fd2ec5c1331dab",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/P-A/048/f3fd2ec5c1331dab",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/P-A/048/f3fd2ec5c1331dab",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-A/048/f3fd2ec5c1331dab",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/048/f3fd2ec5c1331dab",
+        "ja": "https://game.pokemontcgpocket.app/ja/tcgp/P-A/048/f3fd2ec5c1331dab",
+        "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/048/f3fd2ec5c1331dab"
     },
     name: {
         en: "Manaphy",
@@ -25,7 +25,7 @@ const card: Card = {
         "zh-tw": "瑪納霏"
     },
     illustrator: "sui",
-    rarity: "None",
+    rarity: "Three Diamond",
     category: "Pokemon",
     hp: 50,
     types: ["Water"],
@@ -38,7 +38,7 @@ const card: Card = {
         'pt-br': "Ele nasce com um poder extraordinário\nque o permite se ligar a qualquer tipo de Pokémon.",
         ja: "生まれたときから 備わっている 不思議な 力を 使うと どんな ポケモンとも 心が 通い合う。",
         ko: "태어났을 때부터 가지고 있는\n이상한 힘을 쓰면 어떤 포켓몬과도\n마음이 서로 통하게 된다.",
-        "zh-tw": "它與生俱來就有一種奇妙的力量，可以讓它結合在一起\n與任何種類的神奇寶貝。"
+        "zh-tw": "只要使用與生俱來的神奇力量，就能與任何寶可夢心意相通。"
     },
     stage: "Basic",
     attacks: [{
@@ -51,7 +51,7 @@ const card: Card = {
                 'pt-br': "Presente Oceânico",
                 ja: "うみのおくりもの",
                 ko: "바다의소포",
-                "zh-tw": "海洋禮物"
+                "zh-tw": "大海贈禮"
             },
             cost: ["Water"],
             effect: {
@@ -63,7 +63,7 @@ const card: Card = {
                 'pt-br': "Escolha 2 dos seus Pokémon no Banco. Para cada um daqueles Pokémon, pegue 1 Energia {W} da sua Zona de Energia e ligue-a àquele Pokémon.",
                 ja: "自分のベンチポケモンを2匹選び、エネルギーゾーンから{W}エネルギーを出し、1個ずつつける。",
                 ko: "자신의 벤치 포켓몬을 2마리 선택해서 에너지존에서 {W}에너지를 내보내 1개씩 붙인다.",
-                "zh-tw": "選擇 2 個後備神奇寶貝。對於每一個神奇寶貝，從你的能量區獲取一個 {W} 能量並將其附加到該神奇寶貝上。"
+                "zh-tw": "選擇自己的2隻備戰寶可夢,從能量區抽出{W}能量,附給那些寶可夢各1個{W}能量。"
             }
         }],
     weaknesses: [{
