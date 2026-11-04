@@ -1,26 +1,8 @@
-# Promo A/B/C 独立审查记录
+# PROMO A/B/C API 与 R2 独立审查
 
-审查日期：2026-11-04。审查人：source_audit 子 agent。范围为当前两隔离工作树及临时 R2 上传脚本。除本临时报告外未修改仓库或执行上传。
+本文件只保存公开 API 侧结论。下游客户端的实现审查和浏览器记录保存在下游仓库，避免在公开 API 仓库重复披露私有客户端细节。
 
-## 代码审查结论
-
-发现两处版本化图片路径回归，主 agent 已修复，独立复验通过：
-
-- P1：tcgp `lib/getCards.client.ts:77` 原先严格比较无版本路径，导致日语 Promo 抽卡及随机卡片操作抛错。现允许正确卡片原生路径后的 16 位十六进制版本，仍拒绝错误卡号、locale、非法后缀及 query。
-- P2：tcgp `scripts/sync-card-locales.mjs:481` 同样拒绝日语版本化图片，阻断正常同步。现已修复并验证。
-
-其余所审范围未发现新阻塞：API native image 版本路径与身份守卫；关系修复脚本对非进化目标标题差异的容许、对歧义进化目标的拒绝；统一 Promo pack 的 drawCount 从配置到首页抽卡调用；单卡 CardStack、Reveal、Summary、分享布局；旧分卷 308 aliases 的语言/query/hash 保留；availability 的活动开始日、每周任务、未知日期区分；下游索引跨语言身份和图片路径。
-
-已执行验证：
-
-- Bun 1.3.1 `bun test server/compiler/utils/promoImages.test.ts`：2/2 通过。全局旧 Bun 1.0.6 的 rejects 用法报错属运行环境问题，不是提交代码缺陷。
-- `node --test scripts/fix-pocket-card-relations.test.mjs`：3/3 通过。
-- `node --test scripts/card-client-locales.test.mjs scripts/sync-card-locales.test.mjs`：18/18 通过。
-- `node --experimental-strip-types --test scripts/promo-gacha.test.mjs`：7/7 通过。
-- `node --test scripts/card-catalog.test.mjs scripts/deck-builder-filter-index.test.mjs scripts/gacha-share-export.test.mjs`：29/29 通过。
-- 直接核验 8 个下游 card locale × 233 张，共 1864 条记录：id、localId、set、统一 pack、原生图片 URL、每卡跨 locale 共用 version、QR entity、filter index 均符合契约。
-
-范围限制：这是当前工作树代码与本地测试审查，不代替真实浏览器动画、R2 公网图像或最终线上部署回测。
+API 原生语言图片守卫接受正确卡号路径后的16位内容版本，仍拒绝其它语言、卡号和非法后缀。关系修复允许非进化引用的真实印刷标题标点差异，仍拒绝歧义进化目标。对应图片守卫2项、关系检查3项专项测试通过。最终HTTP审计2520请求和18项SDK回归另有记录。
 
 ## R2 上传脚本审查
 
@@ -37,8 +19,6 @@
 
 成功命令收据目前明确不等于公网验证；脚本最终 `publicVerificationPending: true` 是准确的。无论 checkpoint 恢复还是新上传，都必须在发布前进行全量公网内容与缓存头校验。此报告不宣称 R2 已上传或公网验证成功。
 
-## Deck-name catalog 最小修复方案评价
+## 最终资产链复核
 
-只读检查 `scripts/fetch-deck-meta.mjs:127`：当前逐印刷卡逐字符要求 deck-name component 相同，比领域约束更强。实际意大利语 C1-100/162/180/211 为 `Mega-Dragonite-ex`，P-C-013 为 `Mega Dragonite-ex`。英文组名均为 `Mega Dragonite ex`。
-
-赞同按英文名称聚合每个 locale 的已核印刷名称集合，要求 deck-name component 精确匹配集合中至少一个名称。不要去标点宽松匹配，也不要为通过测试修改正确原图名称。英语 component 无任何对应卡、locale 无候选、component 不属于任何本地印刷名均应失败。建议测试覆盖合法双印刷名差异、未见于任何印刷的错误组件、缺失 locale；既有 Gyarados 德语错误用例必须继续失败。该方案尚未在本审查中执行或验证实现。
+追加20张高清包面后，独立只读核对最终清单、两批上传收据及实际HTTP记录：4222 current key、4242累计上传key、20保留旧版本，字节数、SHA-256、批次hash逐项一致。27个真实booster九语URL均命中最终清单。20张高清原图的身份审定和尺寸一致，没有放大。低清例外对应用户明确接受的C Vol.1及B Vol.11–13。
