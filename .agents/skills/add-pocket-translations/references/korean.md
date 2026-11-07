@@ -45,3 +45,7 @@ API/R2 locale 使用 `ko`；RaenonX 使用 `ko`，Centro 游戏导出使用 `ko_
 - 所有已启用语言实际编译。韩语详情、search/options、关系、Set/Booster 和错误响应必须联调；稳定 ID、筛选 value、canonicalName 与协议键保留。计数为 0 的已定义包仍可出现在选项中。
 - 本地与生产编译内容要对齐。`updated` 受 Git 历史/浅克隆影响；同日首次发行的集合可能存在旧排序并列。单独核对这些构建元信息，不能把时间或顺序差异误判为翻译错误，也不能忽略正文、机制或图片地址的差异。
 - 提 PR、合并、R2 写入和部署按当前授权分别执行；skill 本身不授予外部写入权限。
+
+## TCGP 下游边界
+
+用户明确把 `tcgp` 纳入本次范围后，读取[下游契约](../../sync-pocket-set/references/tcgp-downstream.md#5-韩语下游契约)与目标仓库 `doc/agent-guides/korean-localization.md`。API `ko` 与下游 `ko` 一一对应，但 API 支持不授予修改下游的权限；未授权仍不得修改 tcgp。授权范围内同步独立韩语卡表、Set/Pack 专名/描述和原生韩语图片，保留占位符和稳定关联身份，缺译不回退英语。TCGP Post 排除 `ko`（404 且无入口），完整韩语 species guides 是独立要求，不能混为文章豁免，也不因本卡库翻译任务擅自重写攻略。

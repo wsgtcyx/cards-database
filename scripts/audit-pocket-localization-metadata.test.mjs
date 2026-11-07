@@ -10,6 +10,18 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const SCRIPT = path.join(ROOT, 'scripts/audit-pocket-localization-metadata.mjs')
 const TARGET_LOCALES = ['fr', 'es', 'it', 'de', 'pt-br', 'zh-tw']
 
+test('the audited language-neutral PROMO-C logo is not an English card-image fallback', () => {
+ const fixture = createFixture({ complete: true })
+ try {
+  const file = path.join(fixture.root, 'data/Pocket/Fixture Set.ts')
+  const source = fs.readFileSync(file, 'utf8')
+  const url = 'https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo'
+  fs.writeFileSync(file, source.replace('    boosters:', `    logo: { en: "${url}", ko: "${url}" },\n    boosters:`))
+  const report = JSON.parse(run(fixture, ['--locales', 'ko']).stdout)
+  assert.ok(!report.issues.some(issue => issue.path === 'logo'))
+ } finally { fs.rmSync(fixture.root, { recursive: true, force: true }) }
+})
+
 function localizedObject(english, missing = []) {
 	const values = Object.fromEntries([
 		['en', english],
