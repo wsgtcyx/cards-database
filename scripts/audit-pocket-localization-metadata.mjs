@@ -77,7 +77,8 @@ function auditLocalizedObject(state, object, context, fieldPath) {
 		else if (current.trim().length === 0) kind = 'empty'
 		else if (optionalAsset && !/^https:\/\//u.test(current)) kind = 'invalid-asset-url'
 		else if (['ja', 'ko'].includes(locale) && (context.scope === 'card' && fieldPath === 'image' || context.scope === 'set' && fieldPath === 'logo')
-			&& current === english) kind = 'image-fallback'
+			&& current === english && !(context.scope === 'set' && fieldPath === 'logo'
+				&& current === 'https://game.pokemontcgpocket.app/univ/tcgp/P-C/a5433085d5b318dd/logo')) kind = 'image-fallback'
 		else if (['ja', 'ko'].includes(locale) && context.scope === 'card' && fieldPath !== 'image'
 			&& /[A-Za-z]/u.test(english) && current === english) kind = 'english-fallback'
 		else if (['ja', 'ko'].includes(locale) && fieldPath !== 'image'

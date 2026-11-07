@@ -85,7 +85,7 @@ rarity。pilot 必须验证：
 
 用户明确把下游纳入范围时，一次同步必须同时覆盖：
 
-- 目标语言 `locales/card/*.json`（日语为 `ja`）与真实图片语言；
+- 目标语言 `locales/card/*.json`（日语为 `ja`，韩语为 `ko`）与真实图片语言；
 - set/pack 配置、单包 `isSharePack` 或多包归属；
 - `cardRarity.additions.json` 与 runtime loader；
 - 卡片详情 metadata、catalog filter、collection 排序和 gacha 卡池。
@@ -121,3 +121,5 @@ QR provenance 绑定其实际使用的 entity mapping 子集。完整实体表�
 日语新增/修正的来源、审计、原图尺寸和真实联调遵循 [日语契约](../../add-pocket-translations/references/japanese.md)。语言数量从本批次配置和已发布下游配置读取，不把七语/八语旧数字作为上限。
 
 韩语新增/修正遵循 [韩语契约](../../add-pocket-translations/references/korean.md)。韩语和日语新导入必须同时具备名称与完整规则，不能使用名称专属 fallback 路径。API/下游语言分别从实际配置读取；未要求 tcgp 时，所有下游步骤均不适用。
+
+明确授权的 TCGP 韩语交付按[下游韩语契约](tcgp-downstream.md#5-韩语下游契约)核对卡表、文案、图片和实际五张抽包。Post 不生成韩语文件/入口，完整 species guides 的韩语要求不能借此豁免；本流程仍不授权改写攻略或扩展每日 Deck 数据。
